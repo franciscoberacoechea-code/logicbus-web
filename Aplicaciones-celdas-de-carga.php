@@ -84,7 +84,7 @@ table td{
         <div class="row img-fluid" alt="Responsive image">
             <div class="col-3 col-md-3 container img-fluid">
                 <img src="https://www.logicbus.com.mx/imagenes/soluciones-en-la-industria/agricultura/penetrometro-de-frutas-verduras.jpg" width="70%"  alt="soluciones en la industria de Agricultura" title="penetrometro-de-frutas" width="100%"><br><br> 
-               <center><b><a href="https://www.logicbus.com.mx/penetrometro-de-frutas">Penetr&oacute;metro de frutas / verduras</a></b></center>
+               <center><b><a href="penetrometro-de-frutas">Penetr&oacute;metro de frutas / verduras</a></b></center>
             </div>
             <div class="col-3 col-md-3 container img-fluid">
                 <img src="https://www.logicbus.com.mx/imagenes/soluciones-en-la-industria/agricultura/medicion-del-tanque-de-fermentacion-del-oktoberfest.jpg"  alt="soluciones en la industria de Agricultura" title="pesaje-de-dosificacion" width="70%"><br><br> 

@@ -1,21 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <?
  include("libreria/libreria.php");
 ?>
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
 <html>
 <head>
-<title>Logicbus/ Productos/ Ethernet/ Modbus TCP/ ET-7050</title>
- <meta name="keywords" content="Logicbus, M&eacute;xico, Mexico, Guadalajara, Argentina, Chile, Brasil, Automatizaci&oacute;n, Automatizacion, Consultor&iacute;a, Consultoria, Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Distrito Federal, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Estado de Mxico, Estado de Mexico, Michoacn, Michoacan, Morelos, Nayarit, Nuevo Len, Nuevo Leon, Oaxaca, Puebla, Quertaro, Queretaro, Quintana Roo, San Luis Potos, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatn, Yucatan, Zacatecas, Ethernet, Modbus TCP,ET-7050, M&oacute;dulo, modulo, 8 entradas, an&aacute;logas, analoga, digital, daq, ET, ES, IO, proteccion de alto voltaje, 4 salidas, aisladas, SCADA, Modbus, TCP">
+<title>Logicbus/Productos/Ethernet/Modbus TCP/ET-7050</title>
+ <meta name="keywords" content="Logicbus, Mexico, Guadalajara, Argentina, Chile, Brasil, Automatizacion, Consultoria, Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Distrito Federal, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Estado de Mexico, Michoacan, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Quertaro, Queretaro, Quintana Roo, San Luis Potos, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas, Ethernet, Modbus TCP,ET-7050, modulo, 8 entradas, analoga, digital, daq, proteccion de alto voltaje, 4 salidas, aisladas, Modbus, TCP, permite controlar entradas y salidas digitales mediante Ethernet, funci�n web HM, protocolo Modbus/TCP, dispositivo y software SCADA, mediciones y monitoreo industrial">
 <meta name="revisit after" content="14 days">
-<meta name="description" content="ET-7050: M&oacute;dulo con 6 Canales Aislados de Salida Tipo Sink de Colector Abierto y 12 Canales Aislados de Entrada Digital con Contadores de 32 Bits">
+<meta name="description" content="ET-7050: M&oacute;dulo con 6 Canales Aislados de Salida Tipo Sink de Colector Abierto y 12 Canales Aislados de Entrada Digital con Contadores de 32 Bits. El ET-7050, es un m�dulo que permite controlar entradas y salidas digitales mediante Ethernet, este m�dulo incluye un servidor web integrado.">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Page-Enter" content="revealTrans(Duration=0.5,Transition=12)">
 <meta http-equiv="Page-Exit" content="revealTrans(Duration=0.5,Transition=12)">
 <meta name=viewport content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="shortcut icon" href="/favicon.ico">
 <link rel="canonical" href="https://www.logicbus.com.mx/ET-7050" />
+
     <!-- Bootstrap core CSS -->
     <link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link href="libreria/estilos.css" rel="stylesheet" >
@@ -48,14 +51,14 @@ document.getElementById("productos").className = "dropdown active";
  <center>
   <table width="100%"  border="0">
     <tr>
-      <td align="center"><div align="left"><a href="productos">Productos</a>-&gt;<a href="ethernet_daq">Ethernet</a>-&gt;<a href="ethernet_digital">(Modbus TCP) : E/S Digitales y An�logas</a>-&gt;<a href="et-7000_familia">Familia Compacta Distribuida (ET-7000)</a>-&gt;ET-7050</div></td>
+      <td align="center"><div align="left"><a href="productos">Productos</a>-&gt;<a href="ethernet_daq">Ethernet</a>-&gt;<a href="ethernet_digital">(Modbus TCP) : E/S Digitales y An&aacute;logas</a>-&gt;<a href="et-7000_familia">Familia Compacta Distribuida (ET-7000)</a>-&gt;ET-7050</div></td>
     </tr>
     <tr>
-      <td align="center"><h2> <strong>ET-7050</strong><br>
-</h2></td>
+      <td align="center"><h1> <strong>ET-7050</strong><br>
+</h1></td>
     </tr>
 	<tr>
-      <td align="center"><img src="imagenes/02/ET-7044.jpg" alt="ET-7044: M�dulo con 6 Canales Aislados de Salida Tipo Sink de Colector Abierto y 12 Canales Aislados de Entrada Digital con Contadores de 32 Bits" width="144" height="200"> </td>
+      <td align="center"><img src="imagenes/02/ET-7044.jpg" alt="ET-7044: M�dulo con 6 Canales Aislados de Salida Tipo Sink de Colector Abierto y 12 Canales Aislados de Entrada Digital con Contadores de 32 Bits" width="40%"> </td>
     </tr>
 	<tr>
 	  <td align="left"><div align="right"><a href="https://tienda.logicbus.com.mx/search.asp?keyword=ET-7050&search="><img  src="images/shopping_cart.png" alt="Ir a tienda" title="Ir a tienda" border=0 align="right" ></a></div></td>
@@ -70,13 +73,13 @@ document.getElementById("productos").className = "dropdown active";
 	  <td align="left"> <div align="justify">
 	    <strong>Caracter&iacute;sticas:</strong><br>
 	        <br>
- El ET-7050, es un m&oacute;dulo que permite controlar entradas y salidas digitales mediante Ethernet, este m&oacute;dulo incluye un servidor web integrado, el cual permite configurar el dispositivo, monitorear y controlar las entradas y salidas desde un simple navegador web. El control y supervisi&oacute;n remotos son tan sencillos como navegar en Internet. <br>
+ El <b>ET-7050</b>, es un m&oacute;dulo que <b>permite controlar entradas y salidas digitales mediante Ethernet</b>, este m&oacute;dulo incluye un servidor web integrado, el cual permite configurar el dispositivo, monitorear y controlar las entradas y salidas desde un simple navegador web. El control y supervisi&oacute;n remotos son tan sencillos como navegar en Internet. <br>
  <br>
-Con la funci&oacute;n web HMI, no es necesario programar ni tener habilidades en HTML; la creaci&oacute;n de p&aacute;ginas web din&aacute;micas y atractivas para el control y monitoreo de entradas/salidas ser&aacute; divertido para los ingenieros. El ET-7050 ofrece a los usuarios un acceso f&aacute;cil y seguro desde cualquier lugar y a cualquier hora. <br>
+Con <b>la funci&oacute;n web HMI</b>, no es necesario programar ni tener habilidades en HTML; la creaci&oacute;n de p&aacute;ginas web din&aacute;micas y atractivas para el control y monitoreo de entradas/salidas ser&aacute; divertido para los ingenieros. El <b>ET-7050</b> ofrece a los usuarios un acceso f&aacute;cil y seguro desde cualquier lugar y a cualquier hora. <br>
 <br>
-Adem&aacute;s, el ET-7050 soporta tambi&eacute;n el protocolo Modbus/TCP, lo cual hace una perfecta integraci&oacute;n entre este dispositivo y software SCADA. <br>
+Adem&aacute;s, el ET-7050 soporta tambi&eacute;n el <b>protocolo Modbus/TCP</b>, lo cual hace una perfecta integraci&oacute;n entre este <b>dispositivo y software SCADA</b>.<br>
 <br>
-El ET-7050 esta dise&ntilde;ado para mediciones y monitoreo industrial, por lo que es lo bastante robusto para soportar ambientes rudos. <br>
+El ET-7050 esta dise&ntilde;ado para <b>mediciones y monitoreo industrial</b>, por lo que es lo bastante robusto para soportar ambientes rudos. <br>
 <br>
 Incluye doble Watchdog que consiste en:
 <ul>

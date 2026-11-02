@@ -1,0 +1,580 @@
+{
+    "activos": [
+    {
+        "link": "bascula-de-precision-de-miligramos-para-la-industria-farmaceutica",
+        "img": "https://www.logicbus.com.mx/imagenes/36/diagramas/farmaceutica-laboratorio/bascula-precision-miligramos-industria-farmaceutica-portada.jpg",
+        "titulo": "Báscula de Precisión de Miligramos para la Industria Farmacéutica",
+        "descripcion": "En la industria farmacéutica, la dosificación precisa es fundamental. Las básculas de miligramos de alta precisión son herramientas de medición esenciales para garantizar que las empresas farmacéuticas logren consistencia en el proceso de fabricación y cumplan con los rigurosos requisitos de control de calidad."
+    },
+    {
+        "link": "medicion-de-fuerza-de-impacto",
+        "img": "https://www.logicbus.com.mx/imagenes/36/diagramas/desarrollo-de-productos-y-oem/medicion-de-fuerza-de-impacto-portada.jpg",
+        "titulo": "Medición de la Fuerza de Impacto",
+        "descripcion": "La medición de la fuerza de impacto implica capturar las fuerzas dinámicas que se generan durante un evento de colisión. Se utiliza con frecuencia en diversas máquinas y entornos de prueba para garantizar la seguridad y durabilidad del diseño de una aplicación."
+    },
+    {
+        "link": "prueba-caida-de-bola",
+        "img": "https://www.logicbus.com.mx/imagenes/36/diagramas/ensayo-materiales-resistencia/prueba-de-caida-de-bola-portada.jpg",
+        "titulo": "Prueba de Caída de Bola",
+        "descripcion": "La prueba de caída de bola es un procedimiento estandarizado utilizado para evaluar la resistencia al impacto y las características de absorción de energía de varios materiales y productos."
+    },
+    {
+        "link": "penetrometro-de-frutas",
+        "img": "https://www.logicbus.com.mx/imagenes/soluciones-en-la-industria/agricultura/penetrometro-de-frutas-portada.jpg",
+        "titulo": "Penetrómetro de frutas / verdura",
+        "descripcion": "Implementa celdas de carga en la industria de la agricultura. En esta guia rapida encontraras opciones de como implementar una celda de carga de línea OEM LSM250 o LSM300 emparejada con instrumentación que Logicbus tiene disponible para que desarrolles tu proyecto."
+    },
+    {
+        "link":"pesaje-de-dosificacion", 
+        "img": "https://www.logicbus.com.mx/imagenes/soluciones-en-la-industria/agricultura/pesaje-de-dosificacion-portada.jpg",
+        "titulo": "Pesaje de dosificación",
+        "descripcion": "Implementa celdas de carga. En esta guia rapida encontraras opciones de como implementar una celda de carga de Serie LLB  por cada junta de soporte emparejada con Instrumentación, Serie IAA, IHH500 e IPM650 con instrumentación que Logicbus tiene disponible para que desarrolles tu proyecto."
+    },
+    {
+        "link":"medidor-de-flujo-de-masa",
+        "img": "https://www.logicbus.com.mx/imagenes/soluciones-en-la-industria/agricultura/medidor-flujo-de-masa-portada.jpg",
+        "titulo": "Medidor de flujo de masa",
+        "descripcion":"Aplicación medidor flujo de masa en la industria de la agricultura. En esta guía rápida encontraras opciones de como implementar una celda de carga OEM serie LSM emparejada con  instrumentación que Logicbus tiene disponible para que desarrolles tu proyecto."
+    },
+    {
+        "link":"medicion-de-silos",
+        "img": "imagenes/36/diagramas/agricultura/medicion-de-silos-portada.jpg",
+        "titulo": "Medición de silos",
+        "descripcion":"Aplicación medición de silos en la industria de la agricultura. En esta guía rapida encontrarás opciones de como implementar una celda de carga de tipo panqueque de la serie LCF emparejadas con instrumentación que Logicbus tiene disponible para que desarrolles tu proyecto."
+    },
+    {
+        "link":"dispensacion-de-tanque",
+        "img": "imagenes/36/dispensacion-de-tanque.jpg",
+        "titulo": "Dispensación de tanque",
+        "descripcion":"Aplicación dispensación de tanque en la industria de la agricultura. En esta guia rapida encontrarás opciones de como implementar una celda de carga de tipo panqueque de la serie LCF emparejada con instrumentación que Logicbus tiene disponible para que desarrolles tu proyecto."
+    },
+    {
+        "link":"sistema-de-prueba-de-resorte",
+        "img": "imagenes/36/diagramas/agricultura/sistema-de-prueba-de-resorte-portada.jpg",
+        "titulo": "Sistema de prueba de resorte",
+        "descripcion":"Los sistemas de prueba para resortes son ideales para producción en altos volúmenes, control de calidad, inspección y diseño. En esta prueba automatizada de resortes, una celda de carga tipo S es colocada en la columna probadora de resortes para medir la fuerza del resorte con relación a su posición."
+    },
+    {
+        "link":"medicion-del-tanque-de-fermentacion-del-oktoberfest",
+        "img": "imagenes/36/diagramas/agricultura/medicion-del-tanque-de-fermentacion-del-oktoberfest-portada.jpg",
+        "titulo": "Medición del tanque de fermentación del Oktoberfest",
+        "descripcion":"Aplicación Medición del tanque de fermentación del Oktoberfest en la industria de la agricultura. En esta guia rapida encontrarás opciones de como implementar una celda de carga de familia LCF con instrumentación que Logicbus tiene disponible para que desarrolles tu proyecto."
+    },
+    {
+        "link":"prueba-de-fuerza-del-pedal-de-helicoptero",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/prueba-de-fuerza-del-pedal-de-helicoptero-portada.jpg",
+        "titulo": "Prueba de fuerza del pedal de helicóptero",
+        "descripcion":"Los pedales anti-torque controlan tanto la dirección como la desviación de un helicóptero en vuelo. El uso de sensores de fuerza del pedal permiten a los ingenieros auditar la precisión de estos controles."
+    },
+    {
+        "link":"prueba-de-caida-de-tren-de-aterrizaje",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/prueba-de-caida-de-tren-de-aterrizaje-portada.jpg",
+        "titulo": "Prueba de caida de tren de aterrizaje",
+        "descripcion":"Los fabricantes de trenes de aterrizaje utilizan celdas de carga para medir la fuerza de choque y las clasificaciones de fatiga durante los exámenes de control de calidad. La familia LCA de FUTEK ofrece un robusto diseño en miniatura para estas mediciones de alta capacidad."
+    },
+    {
+        "link":"cierre-de-perno",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/cierre-de-perno-portada.jpg",
+        "titulo": "Cierre de perno",
+        "descripcion":"La celda de carga tipo Dona de Futek, es vital al momento de medir el ajuste de carga directamente."
+    },
+    {
+        "link":"sensores-ciclicos-para-helicopteros",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/sensores-ciclicos-para-helicopteros-portada.jpg",
+        "titulo": "Sensores cíclicos para helicópteros",
+        "descripcion":"Los controles de vuelo requieren una auditoría externa antes de su uso en vuelo. la celda de carga de cambio de marchas MAU300 de FUTEK proporciona a los ingenieros de calidad las herramientas adecuadas para monitorear la fuerza aplicada los controles cíclicos de helicóptero (joysticks)."
+    },
+    {
+        "link":"celda-de-carga-criogenica-para-su-uso-en-el-explorador-de-marte",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/celda-de-carga-criogenica-msl-mars-rover-portada.jpg",
+        "titulo": "Celda de carga criogénica para su uso en el explorador de Marte",
+        "descripcion":"La NASA encargó a FUTEK  que desarrollara una celda de carga de rosca criogénica que opere directamente dentro del brazo de perforación de curiosity. Este sensor es responsable de monitorear las fuerzas de la broca cuando perfora el terreno marciano."
+    },
+    {
+        "link":"celdas-de-carga-de-satelite-de-la-nasa",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/celdas-de-carga-de-satelite-de-la-nasa-portada.jpg",
+        "titulo": "Celdas de carga de satelite de la NASA",
+        "descripcion":"Dentro del satélite Suomi NPP de la NASA hay cinco instrumentos meteorológicos. Encargado por Raytheon, FUTEK diseñó; dos celdas de carga criogénicas para el radiómetro de imagen infrarroja visible (VIIRS) a bordo del satélite."
+    },
+    {
+        "link":"mecanismo-de-despliegue-de-orion",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/mecanismo-de-despliegue-de-orion-portada.jpg",
+        "titulo": "Mecanismo de despliegue de orion",
+        "descripcion":"La mecánica de despliegue de paracaídas aeroespaciales requiere celdas de carga de alta precisión durante toda la fase de prueba. La cápsula Orion de la NASA utilizó celdas de carga FUTEK para medir la fuerza de la carga útil aplicada contra el sistema de paracaídas."
+    },
+    {
+        "link":"soporte-de-empuje-del-motor-cohete",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/soporte-de-empuje-del-motor-cohete-portada.jpg",
+        "titulo": "Soporte de empuje del motor cohete",
+        "descripcion":"La caracterización de motores de cohetes sólidos, líquidos e híbridos a menudo se realiza con modelos informáticos y pruebas en tierra."
+    },
+    {
+        "link":"fuerza-de-lanzamiento-de-uav",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/fuerza-de-lanzamiento-de-uav-portada.jpg",
+        "titulo": "Fuerza de lazamiento de UAV",
+        "descripcion":"Los vehículos aéreos no tripulados (UAV) vienen con una variedad de capacidades de lanzamiento, como lanzamiento manual, despegue vertical o despegue en pista."
+    },
+    {
+        "link":"medicion-de-fuerza-de-mordedura",
+        "img": "imagenes/soluciones-en-la-industria/farmaceutica-y-laboratorio/medicion-de-fuerza-de-mordedura-portada.jpg",
+        "titulo": "Medición de fuerza de mordedura",
+        "descripcion":"Los botones de carga en miniatura se han utilizado en estudios de investigación médica de la Universidad de Amsterdam para medir la fuerza de la mordedura de los pacientes con demencia."
+    },
+    {
+        "link":"soporte-de-prueba-de-jeringas",
+        "img": "imagenes/soluciones-en-la-industria/farmaceutica-y-laboratorio/diagrama-soporte-de-prueba-de-jeringas-portada.jpg",
+        "titulo": "Soporte de prueba de jeringas",
+        "descripcion":"El equipo médico requiere pruebas precisas. El uso de la celda de carga con viga en S miniatura LSB200 Jr. de FUTEK proporciona a los inspectores de calidad mediciones de hasta microgramos en aplicaciones delicadas, como este banco de pruebas de jeringas."
+    },
+    {
+        "link":"dispositivo-robotico-de-rehabilitacion-de-piernas",
+        "img": "imagenes/soluciones-en-la-industria/farmaceutica-y-laboratorio/Dispositivo-Robotico-De-Rehabilitacion-De-Piernas-portada.jpg",
+        "titulo": "Dispositivo robótico de rehabilitación de piernas",
+        "descripcion":"La pérdida de la capacidad de caminar es ciertamente devastadora para un individuo. El entrenamiento y la rehabilitación de la marcha no son conceptos modernos, pero a través de tecnologías modernas, los ingenieros e investigadores."
+    },
+    {
+        "link":"calibracion-de-herramientas-laparoscopicas",
+        "img": "imagenes/soluciones-en-la-industria/farmaceutica-y-laboratorio/Calibracion-De-Herramientas-Laparoscopicas-portada.jpg",
+        "titulo": "Calibración de herramientas laparoscópicas",
+        "descripcion":"La cirugía mínimamente invasiva (MIS) y la cirugía de acceso de puerto único (SPAS) han reducido drásticamente el riesgo y el tiempo de recuperación para los pacientes que se someten a extracción de tumores, reparación de arterias y válvulas cardíacas y fertilización in vitro."
+    },
+    {
+        "link":"elevador-medico-de-pacientes",
+        "img": "imagenes/soluciones-en-la-industria/farmaceutica-y-laboratorio/elevador-medico-de-pacientes-portada.jpg",
+        "titulo": "Elevador médico de pacientes",
+        "descripcion":"La mayoría de las instalaciones médicas están equipadas con varios aparatos de elevación de pacientes. Dado que estos elevadores soportan una variedad de cargas útiles, las celdas de carga se utilizan para monitorear las capacidades máximas de peso."
+    },
+    {
+        "link":"celda-de-carga-en-robot-humanoide",
+        "img": "imagenes/soluciones-en-la-industria/Robotica/Celda-de-carga-en-robot-humanoide-portada.jpg",
+        "titulo": "Celda de carga en robot humanoide",
+        "descripcion":"Hay más de 60 celdas de carga tipo S miniatura LSB200 Jr. en funcionamiento que monitorean los movimientos del robot."
+    },
+    {
+        "link":"prueba-de-zapatos-para-nieve",
+        "img": "imagenes/soluciones-en-la-industria/Robotica/prueba-de-zapatos-para-nieve.png",
+        "titulo": "Prueba de zapatos para nieve",
+        "descripcion":"En esta prueba de zapatos para nieve comerciales, se colocan algunas celdas de carga para analizar la fuerza que se imprime con el dedo y el talón al momento de caminar."
+    },
+    {
+        "link":"rehabilitacion-de-guantes-roboticos",
+        "img": "imagenes/soluciones-en-la-industria/Robotica/rehabilitacion-de-guantes-roboticos-portada.jpg",
+        "titulo": "Rehabilitación de guantes robóticos",
+        "descripcion":"La biónica es ahora un hecho científico! Investigadores, médicos e ingenieros están creando formas de ayudar a los pacientes a acelerar la rehabilitación permitiéndoles realizar más tareas por su cuenta."
+    },
+    {
+        "link":"monitoreo-conductual-de-sujetos",
+        "img": "imagenes/soluciones-en-la-industria/academia-e-investigacion/monitoreo-conductual-de-sujetos-portada.jpg",
+        "titulo": "Monitoreo conductual de sujetos",
+        "descripcion":"Los sistemas de alto rendimiento están diseñados para la experimentación científica y, a menudo, se utilizan en el descubrimiento de fármacos.Utilizando robótica, procesamiento de datos, software de control, dispositivos de manejo de líquidos y las celdas de carga S-Beam miniatura LSB200 Jr."
+    },
+    {
+        "link":"sintesis-de-adn",
+        "img": "imagenes/36/sintesis-de-adn-futek.png",
+        "titulo": "Síntesis de ADN",
+        "descripcion":"En la síntesis de ADN, los ingenieros biomédicos pueden utilizar la celda de carga LSB200 de FUTEK por su precisión y rango de sensibilidad."
+    },
+    {
+        "link":"pesaje-de-bolsas-medicas",
+        "img": "imagenes/36/pesaje-de-bolsas-medicas-futek.png",
+        "titulo": "Pesaje de Bolsas Médicas",
+        "descripcion":"En Intravenosas o pesaje de bolsas de solución salina, son necesarias celdas de carga lineales de alta precisión. Para esta aplicación, la celda de carga Tipo S Jr LSB205  de FUTEK, medirá la tensión de la fuerza aplicada por una bolsa intravenosa."
+    },
+    {
+        "link":"bascula-de-presaje-multiple",
+        "img": "imagenes/36/bascula-de-presaje-multiple-futek.png",
+        "titulo": "Báscula de presaje múltiple",
+        "descripcion":"La celda de carga y los sensores de fuerza son usados para automatizar líneas de producción. Con el uso de estos sensores, los ingenieros de producción pueden controlar el proceso de automatización para mejorar la calidad en general."
+    },
+    {
+        "link":"medicion-del-flujo-correcto-de-fluidos",
+        "img": "imagenes/36/medicion-del-flujo-correcto-de-fluidos-futek.png",
+        "titulo": "Medición del flujo correcto de fluidos",
+        "descripcion":"La medición de flujo es muy importante, en la producción alimentos, conexión de catéteres, transfusiones de sangre y compuestos químicos."
+    },
+    {
+        "link":"medicion-de-fuerza-de-compresion-en-pildoras",
+        "img": "imagenes/36/medicion-de-fuerza-de-compresion-en-pildoras-futek.png",
+        "titulo": "Medición de fuerza de compresión en píldoras",
+        "descripcion":"La calidad de una tableta o píldora está directamente relacionada con la fuerza de compresión que se le aplique en su proceso de manufactura. Monitoreando y controlando la compresión que se aplica, la píldora debe tener la mejor calidad posible."
+    },
+    {
+        "link":"pruebas-de-medicion-de-fuerza-en-un-cateter",
+        "img": "imagenes/36/pruebas-de-medicion-de-fuerza-en-un-cateter-futek.png",
+        "titulo": "Pruebas de medición de fuerza en un catéter",
+        "descripcion":"Los dispositivos de prueba para intervención quirúrgica son bastante utilizados para probar el rendimiento de muchas herramientas como catéteres, cables guía, colonoscopías, endoscopías y más."
+    },
+    {
+        "link":"control-de-nivel-en-tanque-dual",
+        "img": "imagenes/36/control-de-nivel-en-tanque-dual.png",
+        "titulo": "Control de nivel en tanque dual",
+        "descripcion":"Implementar celdas de carga e instrumentación puede automatizar múltiples sistemas de tanques dispensadores. Este proceso asegura la precisión de las medidas realizadas por el operador y puede disparar las válvulas para abrir o cerrar."
+    },
+    {
+        "link":"medicion-de-expansion-de-tuberias",
+        "img": "imagenes/36/medicion-expansion-de-tuberias.png",
+        "titulo": "Medición de expansión de tuberías",
+        "descripcion":"Con la utilización de una celda de carga tipo botón, los ingenieros de prueba pueden medir la expansión de una tubería cuando el fluido se mueve dentro de ella."
+    },
+    {
+        "link":"soporte-de-prueba-oem",
+        "img": "imagenes/36/soporte-de-prueba-oem.png",
+        "titulo": "Soporte de prueba OEM",
+        "descripcion":"En aplicaciones delicadas como esta, es vital que se haga de la forma más precisa posible ya que se utilizará en prácticas de cuidado de la salud."
+    },
+    {
+        "link":"soluciones-con-sensores-no-magneticos",
+        "img": "imagenes/36/soluciones-con-sensores-no-magneticos.png",
+        "titulo": "Soluciones con sensores no magnéticos",
+        "descripcion":"Los sensores que operan dentro de campos magnéticos muy fuertes no solo deben tener mediciones inmunes a la alteración de campos magnéticos, sino que también deben no convertirse en proyectiles al reaccionar al magnetismo."
+    },
+    {
+        "link":"investigacion-biomedica",
+        "img": "imagenes/36/investigacion-biomedica.png",
+        "titulo": "Investigación biomédica",
+        "descripcion":"Muchas instalaciones médicas utilizan celdas de carga durante investigaciones delicadas, como pruebas de material biológico, para tener medidas precisas y exactas."
+    },
+    {
+        "link":"palancas-de-sujecion",
+        "img": "imagenes/36/palancas-de-sujecion.png",
+        "titulo": "Palancas de sujeción",
+        "descripcion":"Las celdas de carga tipo dona de Futek, pueden utilizarse para pruebas de resistencia en prensas."
+    },
+    {
+        "link":"control-de-tension-para-fabricacion-de-alambres-y-cables",
+        "img":"imagenes/36/control-de-tension-para-fabricacion-de-alambres-y-cables.png",
+        "titulo":"Control de tensión para fabricación de alambres y cables",
+        "descripcion":"La fabricación de productos como alambres y cables requiere que se mantenga una tensión constante para brindar resultados de calidad repetibles, minimizar el tiempo muerto y aumentar la eficiencia del operador."
+    },
+    {
+        "link":"pruebas-de-carga-lineal",
+        "img":"imagenes/36/pruebas-de-carga-lineal.png",
+        "titulo":"Pruebas de carga lineal",
+        "descripcion":"Muchas industrias utilizan celdas de carga para medir prensas o bases de impacto. La celda de carga LSB200  de FUTEK es ideal para aplicaciones que requieren medidas de impactos de baja capacidad."
+    },
+    {
+        "link":"pruebas-de-fuerza-en-prensa-hidraulica",
+        "img":"imagenes/36/pruebas-de-fuerza-en-prensa-hidraulica.png",
+        "titulo":"Pruebas de fuerza en prensa hidráulica",
+        "descripcion":"La verificación de prensas es necesaria para la automatización de un proceso industrial que requiera fuerza. Con un sistema de celdas de carga comunicadas por USB el operador puede verificar la carga de la plataforma de forma uniforme."
+    },
+    {
+        "link":"medicion-de-precision-a-escala",
+        "img":"imagenes/36/medicion-de-precision-a-escala.png",
+        "titulo":"Medición de precisión a escala",
+        "descripcion":"Las plataformas de precisión a escala requieren de las medidas más precisas de carga. En la celebración de acción de gracias, Futek utilizó cuatro celdas de carga de bajo perfil para pesar el pavo de cena."
+    },
+    {
+        "link":"automatizacion-de-llenado-de-contenedores",
+        "img":"imagenes/36/automatizacion-de-llenado-de-contenedores.png",
+        "titulo":"Automatización de llenado de contenedores",
+        "descripcion":"Las celdas de carga de Futek están diseñadas para formar aplicaciones industriales de llenado de contenedores. Un sensor de fuerza se instala en la línea de automatización para ayudar en el monitoreo de la distribución equitativa entre empaques."
+    },
+    { 
+        "link":"banco-de-pruebas-de-confiabilidad",
+        "img":"imagenes/36/banco-de-pruebas-de-confiabilidad.png",
+        "titulo":"Banco de pruebas de Confiabilidad",
+        "descripcion":"Desde 2001, los productos de Futek se utilizan en pruebas de fatiga."
+    },
+    { 
+        "link":"soporte-de-prueba-de-panel-tactil",
+        "img":"imagenes/36/soporte-de-prueba-de-panel-tactil.png",
+        "titulo":"Soporte de prueba de panel tactil",
+        "descripcion":"Un sistema se define por su eslabón más débil. Incluso en algo tan pequeño como la sensibilidad de un trackpad de computadora puede hacer que no se entregue un desempeño óptimo."
+    },
+    { 
+        "link":"pruebas-de-asientos-para-automovil",
+        "img":"imagenes/36/pruebas-de-asientos-para-automovil.png",
+        "titulo":"Pruebas de asientos para automóvil",
+        "descripcion":"Una celda de carga LCF456 de Futek, se coloca en el robot colaborativo, para cuantificar la información de compresión que se le aplica al asiento y verificar el estado del mismo."
+    },
+    { 
+        "link":"prueba-de-insercion-y-extraccion-de-usb",
+        "img":"imagenes/36/prueba-de-insercion-y-extraccion-de-usb.png",
+        "titulo":"Prueba de inserción y extracción de USB",
+        "descripcion":"Las pruebas de inserción y extracción motorizadas, se utilizan para determinar la durabilidad de una memoria USB."
+    },
+    { 
+        "link":"celdas-de-carga-resistentes-a-vacio",
+        "img":"imagenes/36/celdas-de-carga-resistentes-a-vacio.png",
+        "titulo":"Celdas de carga resistentes a vacío",
+        "descripcion":"Probar y producir productos en vacío o simulando un espacio, requiere de equipo que pueda operar sin contaminar la cámara o interferir con los resultados. Para su utilización en estos ambientes, es necesario que la celda de carga tenga una desgasificación."
+    },
+    { 
+        "link":"llenado-automatico-de-botellas",
+        "img":"imagenes/36/llenado-automatico-de-botellas.jpg",
+        "titulo":"Llenado automático de botellas",
+        "descripcion":"Uno de los mayores retos en la automatización, en la producción de alimentos, bebidas, medicamentos o químicos, es asegurarse de que los empaques o las botellas llevan exactamente los pesos que se esperan para cumplir con los requerimientos de regulación."
+    },
+    { 
+        "link":"deteccion-tactil-robotica",
+        "img":"imagenes/soluciones-en-la-industria/Robotica/deteccion-tactil-robotica-portada.jpg",
+        "titulo":"Sensado táctil de una mano robótica",
+        "descripcion":"Una de las partes que más problemática genera en las industrias alimenticia, farmacéutica y química es asegurarse de que los empaques tienen la cantidad correcta de producto y que puedan obedecer las medidas regulatorias."
+    },
+    { 
+        "link":"grua-con-celda-de-carga",
+        "img":"imagenes/36/grua-con-celda-de-carga-portada.jpg",
+        "titulo":"Grúa con celda de carga",
+        "descripcion":"Cuando una grúa levanta cargas muy pesadas es imperativo que el camión esté completamente estable y para esto, un sensor que ayude a medir y asegurar la estabilidad de la operación es vital."
+    },
+    { 
+        "link":"celda-de-carga-en-grillete-o-perno",
+        "img":"imagenes/36/celda-de-carga-en-grillete-o-perno-portada.jpg",
+        "titulo":"Celda de carga en grillete o perno",
+        "descripcion":"En aplicaciones en las que la carga debe levantarse, la solución más común son grilletes o pernos de carga junto a una celda de carga que pueda medir la fuerza que se imprime en el grillete."
+    },
+    { 
+        "link":"medicion-de-fuerza-en-moldeo-por-inyeccion",
+        "img":"imagenes/36/medicion-de-fuerza-en-moldeo-por-inyeccion-portada.jpg",
+        "titulo":"Medición de fuerza en moldeo por inyección",
+        "descripcion":"En el moldeo por inyección, es común que se requiera medir la fuerza que se ejerce sobre el molde cuando se sujeta con una prensa."
+    },
+    { 
+        "link":"pruebas-de-fuerza-en-materiales",
+        "img":"imagenes/36/pruebas-de-fuerza-en-materiales.png",
+        "titulo":"Pruebas de fuerza en materiales",
+        "descripcion":"La prueba de resistencia en materiales nos ayuda en el desarrollo de nuevos productos y la mejora de los que actualmente existen. Normalmente la prueba de fuerza se realiza sometiendo a estrés a un material y se observa la reacción que tiene a lo largo de la prueba."
+    },
+    { 
+        "link":"pesaje-en-grua-portatil",
+        "img":"imagenes/36/pesaje-en-grua-portatil.png",
+        "titulo":"Pesaje en grúa “portátil”",
+        "descripcion":"Cuando una grúa levanta una carga pesada a una altura elevada, es importante que el camión se encuentre completamente estable. Medir la carga que se levanta es una solución que nos ayuda a mantener la estabilidad."
+    },
+    { 
+        "link":"verificacion-de-prensa-para-forja",
+        "img":"imagenes/36/verificacion-de-prensa-para-forja.png",
+        "titulo":"Verificación de prensa para forja",
+        "descripcion":"Las celdas de carga se utilizan frecuentemente para auditar herramientas y la fuerza requerida para doblado o forjado."
+    },
+    { 
+        "link":"pruebas-de-union-de-cable",
+        "img":"imagenes/36/pruebas-de-union-de-cable.png",
+        "titulo":"Pruebas de unión de cable",
+        "descripcion":"La prueba de tracción de cables o la prueba de unión de cables es una técnica que se utiliza para evaluar la calidad y resistencia de la unión en aplicaciones microelectrónicas. En este sistema automatizado para prueba de unión de cables."
+    },
+    { 
+        "link":"validacion-de-sellado-de-bolsas",
+        "img":"imagenes/36/validacion-de-sellado-de-bolsas.png",
+        "titulo":"Validación de sellado de bolsas",
+        "descripcion":"Para empaques sellados y esterilizados, daños o sellos parcialmente abiertos no siempre son tan aparentes. Para mitigar los malos sellados y verificar su integridad, es importante monitorear la fuerza que imprime el dispositivo de sellado por calor."
+    },
+    { 
+        "link":"medicion-de-fuerza-en-cateter",
+        "img":"imagenes/36/medicion-de-fuerza-en-cateter.png",
+        "titulo":"Medición de fuerza en catéter",
+        "descripcion":"La precisión y sensibilidad son extremadamente críticos para procedimientos intravasculares. En esta aplicación, se coloca la celda LSB200 para medir la fuerza de un robot para procesos intravasculares."
+    },
+    { 
+        "link":"fuerza-de-empuje-en-un-eje",
+        "img":"imagenes/36/fuerza-de-empuje-en-un-eje.png",
+        "titulo":"Fuerza de empuje en un eje",
+        "descripcion":"Para turbinas, taladros y atornilladores diseñados para aplicaciones de durabilidad y aplicaciones críticas, los ejes deben ser asegurados y optimizados con el objetivo de maximizar la vida de los rodamientos."
+    },
+    { 
+        "link":"frenos-por-sistema-cableado",
+        "img":"imagenes/36/frenos-por-sistema-cableado-portada.jpg",
+        "titulo":"Frenos por sistema cableado",
+        "descripcion":"Son una tecnología nueva, que se usa actualmente en la Fórmula 1 para los autos de carreras. El sistema, que es más rápido y preciso que los frenos tradicionales, controla los frenos de un auto de forma electrónica."
+    },
+    { 
+        "link":"medicion-de-fuerza-en-equipo-de-gimnasio",
+        "img":"imagenes/36/medicion-de-fuerza-en-equipo-de-gimnasio-portada.jpg",
+        "titulo":"Medición de fuerza en equipo de gimnasio",
+        "descripcion":"Para crear productos de alto rendimiento para la industria de aptitud física, los ingenieros y diseñadores deben entender cómo el cliente interactúa con ellos. Esto es crucial, ya que las fallas en el equipo pueden ocasionar lesiones, falencias comerciales y problemas legales."
+    },
+    { 
+        "link":"prueba-automatica-de-fuerza-en-pedal",
+        "img":"imagenes/36/prueba-automatica-de-fuerza-en-pedal.png",
+        "titulo":"Prueba automática de fuerza en pedal",
+        "descripcion":"Al utilizar la celda de carga tipo pedal, las empresas automotrices pueden verificar la seguridad y confiabilidad de un mecanismo de freno para automóviles."
+    },
+    { 
+        "link":"medicion-de-tension-para-cable-industrial",
+        "img":"imagenes/36/medicion-de-tension-para-cable-industrial.png",
+        "titulo":"Medición de tensión para cable industrial",
+        "descripcion":"Medir la tensión en los cables es una parte integral para fabricantes de fibras, cables e incluso textiles. Los fabricantes de cable industrial utilizan celdas para monitorear la fuerza de tensión en su cable."
+    },
+    { 
+        "link":"prueba-de-caida-de-paquete",
+        "img":"imagenes/36/prueba-de-caida-de-paquete.png",
+        "titulo":"Prueba de caída de paquete",
+        "descripcion":"Las pruebas de caída se realizan comúnmente para asegurar que los productos empaquetados llegan a su destino de forma segura. Para lograrlo, se diseña un sistema que arroja los paquetes a un plataforma que varía su altura. Las celdas de carga capturan el impacto del paquete."
+    },
+    { 
+        "link":"prueba-de-fatiga-en-prostetico-de-cintura",
+        "img":"imagenes/36/prueba-de-fatiga-en-prostetico-de-cintura.png",
+        "titulo":"Prueba de fatiga en prostético de cintura",
+        "descripcion":"Los prostéticos de cintura, como la mayoría de los prostéticos, no son de una sola talla. Los avances en la tecnología de impresión 3D y sinterizado metálico han permitido el desarrollo de prostéticos de bajo costo, personalizado y de distintos materiales."
+    },
+    { 
+        "link":"tensionador-preciso-para-cable",
+        "img":"imagenes/36/tensionador-preciso-para-cable.png",
+        "titulo":"Tensionador preciso para cable",
+        "descripcion":"Para alcanzar los estándares de alto rendimiento, hoy en día es clave la precisión con la que se lleva a cabo el proceso."
+    },
+    { 
+        "link":"fuerza-de-mordaza-en-soldadura-ultrasonica",
+        "img":"imagenes/36/fuerza-de-mordaza-en-soldadura-ultrasonica.png",
+        "titulo":"Fuerza de mordaza en Soldadura ultrasónica",
+        "descripcion":"La soldadura ultrasónica une dos piezas de material (por ejemplo: plástico) usando vibraciones de alta frecuencia. Esto resulta en un proceso de soldadura más limpio. Es ideal para equipo médico, juguetes, semiconductores y electrónica."
+    },
+    { 
+        "link":"fuerza-de-ensamblaje-en-chips",
+        "img":"imagenes/36/fuerza-de-ensamblaje-en-chips.png",
+        "titulo":"Fuerza de ensamblaje en chips",
+        "descripcion":"Los semiconductores requieren de un trato delicado previo a su empaque. Durante el proceso de unión con soldadura, silicón o pegamento epóxico , debe aplicarse fuerza consistentemente. Si se aplicara fuerza de forma incorrecta podríamos encontrarnos con chips rotos o uniones incompletas."
+    },
+    { 
+        "link":"medicion-de-fuerza-en-robot-de-soldadura-puntual",
+        "img":"imagenes/36/medicion-de-fuerza-en-robot-de-soldadura-puntual.png",
+        "titulo":"Medición de fuerza en robot de soldadura puntual",
+        "descripcion":"Los robots de soldadura puntual pueden acelerar los procesos de manufactura, automatizando la soldadura de ensambles de difícil acceso. El robot debe aplicar la misma fuerza para asegurarse de que las partes soldadas se puedan sostener."
+    },
+    { 
+        "link":"medicion-de-torque-con-celdas-de-carga",
+        "img":"imagenes/36/medicion-de-torque-con-celdas-de-carga.png",
+        "titulo":"Medición de torque con celdas de carga",
+        "descripcion":"Medir el torque generado por un motor o frenos se puede lograr un sensor de torque rotativo en línea con la flecha del motor o montar el motor directamente en un sensor de torque a reacción."
+    },
+    { 
+        "link":"tension-de-las-velas-de-un-navio",
+        "img":"imagenes/36/tension-de-las-velas-de-un-navio.png",
+        "titulo":"Tensión de las velas de un navío",
+        "descripcion":"Las embarcaciones de vela de todos los tamaños como navíos deben ajustarse para maximizar el rendimiento esperado en condiciones marítimas. Esto requiere cables y cuerdas para ajustar las velas a una tensión específica."
+    },
+    { 
+        "link":"medicion-de-carga-en-rodamientos",
+        "img":"imagenes/36/medicion-de-carga-en-rodamientos.jpg",
+        "titulo":"Medición de carga en rodamientos",
+        "descripcion":"Los elementos rotatorios tienen como objetivo mantener en movimiento un sistema reduciendo los impactos o fricciones de la rotación. Son partes cruciales de varias máquinas como turbinas y motores que, si se manejan mal, pueden resultar en tiempos muertos y costos altos de mantenimiento."
+    },
+    {
+        "link":"celda-de-carga-para-escalas-de-tolva",
+        "img": "imagenes/36/diagramas/agricultura/medicion-de-silos-portada.jpg",
+        "titulo": "Celda de carga para escalas de tolva",
+        "descripcion":"Aunque hay muchos métodos y sensores para conocer el nivel de un contenedor, el más importante es el de conocer el peso físico. Al medir el peso de un tanque, tolva o silo, el sistema de control está, básicamente, “contando moléculas”, ya que cada átomo tiene su propio peso."
+    },
+    {
+        "link":"sensores-de-vuelo-cableado",
+        "img": "imagenes/36/sensores-de-vuelo-cableado.jpg",
+        "titulo": "Sensores de vuelo cableado",
+        "descripcion":"Un sistema “Fly by Wire” es un sistema de vuelo automático que procesa el comando que realiza el piloto o la computadora y envía los comandos correspondientes a los actuadores del control de vuelo. Este arreglo automático reemplaza los controles clásicos mecánicos e hidráulicos."
+    },
+    {
+        "link":"simulador-de-fuerza-con-retroalimentacion",
+        "img": "imagenes/36/simulador-de-fuerza-con-retroalimentacion.png",
+        "titulo": "Simulador de fuerza con retroalimentación",
+        "descripcion":"El objetivo de un simulador de vuelo es crear el ambiente más realista posible. Como los simuladores se mueven con actuadores electromecánicos es necesario aumentar la fidelidad que tienen para simular la realidad."
+    },
+    {
+        "link":"medicion-de-carga-en-manejo-de-desperdicios",
+        "img": "imagenes/36/diagramas/agricultura/medicion-de-la-carga-de-gestion-de-residuos-portada.jpg",
+        "titulo": "Medición de carga en manejo de desperdicios",
+        "descripcion":"Los contenedores de desperdicios de tamaño industrial pueden sostener alrededor de 50 toneladas. Para deshacerse de estos desechos, el contenedor debe estar completamente lleno, por lo que requerimos celdas de carga para monitorear el peso."
+    },
+    {
+        "link":"despliegue-de-paracaidas-para-jet",
+        "img": "imagenes/36/despliegue-de-paracaidas-para-jet.png",
+        "titulo": "Despliegue de paracaídas para jet",
+        "descripcion":"Las naves militares deben desplegar rápidamente el paracaídas porque se requiere de una desaceleración rápida para aterrizar."
+    },
+    {
+        "link":"soldadura-por-resistencia",
+        "img": "imagenes/36/soldadura-por-resistencia.png",
+        "titulo": "Soldadura por resistencia",
+        "descripcion":"La soldadura por resistencia es un proceso en el que las piezas de metal se unen por el calor creado por la resistencia eléctrica del material combinado con las fuerzas aplicadas por el electrodo al mantener las piezas juntas."
+    },
+    {
+        "link":"medicion-de-fuerza-para-mordida-de-tiburon",
+        "img": "imagenes/36/medicion-de-fuerza-para-mordida-de-tiburon.png",
+        "titulo": "Medición de fuerza para mordida de tiburón",
+        "descripcion":"Para medir la fuerza de la mordida de un tiburón los ingenieros de Peacock productions diseñaron una plataforma de pruebas. La plataforma consiste en varias celdas tipo dona LTH500 para medir la fuerza aplicada sobre el molde."
+    },
+    {
+        "link":"sensores-automotrices",
+        "img": "imagenes/36/sensores-automotrices.png",
+        "titulo": "Sensores automotrices",
+        "descripcion":"Las nuevas tecnologías y características están trayendo nuevos desafíos al diseño de aplicaciones automotrices. Esto hace que las pruebas rigurosas de durabilidad y fatiga sean aún más cruciales."
+    },
+    {
+        "link":"pruebas-en-tunel-de-viento",
+        "img": "imagenes/36/pruebas-en-tunel-de-viento.png",
+        "titulo": "Pruebas en túnel de viento",
+        "descripcion":"Los túneles de viento se utilizan para pruebas aerodinámicas en objetos sólidos a los que se refieren como modelos. Un modelo se monta en un sensor triaxial estacionario que entrega medidas de presión ejercida sobre el objeto."
+    },
+    {
+        "link":"prueba-de-propela-en-dron",
+        "img": "imagenes/36/prueba-de-propela-en-dron.png",
+        "titulo": "Prueba de propela en dron",
+        "descripcion":"Los drones, tanto para uso profesional como para entretenimiento, cada vez son más solicitados. Los drones de cuatro hélices por definición utilizan 4 propelas para levantar el dispositivo y cambiar de dirección."
+    },
+    {
+        "link":"tribometro-de-disco",
+        "img": "imagenes/36/tribometro-de-disco.png",
+        "titulo": "Tribómetro de disco",
+        "descripcion":"Las almohadillas de freno y los revestimientos resistentes a rayaduras requieren de un estudio y entendimiento de los coeficientes de fricción para calcular su vida útil."
+    },
+    {
+        "link":"cable-guia-para-procesos-quirurgicos",
+        "img": "imagenes/36/cable-guia-para-procesos-quirurgicos.png",
+        "titulo": "Cable guía para procesos quirúrgicos",
+        "descripcion":"En la industria médica, las pruebas de cable guía se realizan para probar la calidad del material, así como su consistencia y nivel de confiabilidad."
+    },
+    {
+        "link":"durabilidad-de-valvula-para-cateter",
+        "img": "imagenes/36/durabilidad-de-valvula-para-cateter.png",
+        "titulo": "Durabilidad de válvula para catéter",
+        "descripcion":"Cuando una de las válvulas de tu corazón falla, necesitarás un reemplazo que pueda soportar el rigor del cuerpo humano. Las válvulas para catéter son requeridas con durabilidad y confiabilidad suficiente, para mantenerse en el paciente de forma indefinida."
+    },
+    {
+        "link":"control-de-fuerza-en-endoscopia",
+        "img": "imagenes/36/control-de-fuerza-en-endoscopia.png",
+        "titulo": "Control de fuerza en endoscopía",
+        "descripcion":"Las endoscopias permiten a los doctores revisar el interior de un paciente para buscar anomalías durante un diagnóstico, laparoscopía o procedimientos de exploración. El movimiento de estos dispositivos se maneja a través de un cable y deben tener muy poca retroalimentación háptica."
+    },
+    {
+        "link":"simulador-de-pie-prostetico",
+        "img": "imagenes/36/simulador-de-pie-prostetico.png",
+        "titulo": "Simulador de pie prostético",
+        "descripcion":"Para apoyar en la rehabilitación de personas que perdieron una extremidad, Futek desarrolló; pruebas para los prostéticos que se utilizan normalmente. En este caso se utiliza una celda LCM200 en línea para monitorear una prótesis que simula el movimiento de un pie."
+    },
+    {
+        "link":"exoesqueleto-para-paraplejicos",
+        "img": "imagenes/36/exoesqueleto-para-paraplejicos.png",
+        "titulo": "Exoesqueleto para parapléjicos",
+        "descripcion":"Las lesiones de la espina dorsal comúnmente dejan al paciente sin la habilidad para poder caminar nuevamente. El Instituto para la cognición de máquinas y humanos se dedica a resolver esto con un exoesqueleto."
+    },
+    {
+        "link":"medicion-de-fuerza-al-cerrar-ventana",
+        "img": "imagenes/36/diagramas/medicion-de-fuerza-al-cerrar-ventana.png",
+        "titulo": "Medición de fuerza al cerrar ventana",
+        "descripcion":"Las ventanas, quemacocos y puertas automáticas han ganado popularidad en los últimos años. Junto a esta popularidad llegó la necesidad de asegurarse de que la fuerza aplicada no sea un peligro para los usuarios."
+    },
+    {
+        "link":"fuerza-de-atornillador",
+        "img": "imagenes/36/diagramas/fuerza-de-atornillador-portada.png",
+        "titulo": "Fuerza de atornillador",
+        "descripcion":"Al utilizar un sensor de torque rotativo y una celda, podemos establecer relación entre la tensión del perno y el torque aplicado."
+    },
+    {
+        "link":"validacion-de-rendimiento-para-sistemas-de-suspension",
+        "img": "imagenes/36/diagramas/validacion-de-rendimiento-para-sistemas-de-suspension.png",
+        "titulo": "Validación de rendimiento para sistemas de suspensión",
+        "descripcion":"En un vehículo de alto rendimiento, la suspensión hace más que sostener el auto, se adapta a las fuerzas aerodinámicas del vehículo, las variadas condiciones del camino, las direcciones del conductor y más."
+    },
+    {
+        "link":"retroalimentacion-de-pantalla-tactil",
+        "img": "imagenes/36/diagramas/retroalimentacion-de-pantalla-tactil.png",
+        "titulo": "Retroalimentación de pantalla táctil",
+        "descripcion":"A medida que los automóviles actualizan sus interfaces, se vuelve más difícil controlar los sistemas del auto sin tener que mirar una pantalla. La falta de retroalimentación, hace que el usuario quiera revisar y confirmar la selección que realizó en la pantalla."
+    },
+    {
+        "link":"sensores-de-prueba-para-choques",
+        "img": "imagenes/36/diagramas/sensores-de-prueba-para-choques.png",
+        "titulo": "Sensores de prueba para choques",
+        "descripcion":"Un maniquí de prueba de choque, comúnmente conocido como maniquí de prueba antropomórfico (ATD), es un dispositivo de prueba automotriz de alta precisión que se utiliza para medir el potencial de lesiones humanas en choques de vehículos simulados."
+    }                                         
+    ]
+}

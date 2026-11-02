@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<?
+include("libreria/libreria.php");
+$actual_link = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
+?>
+
+
+<html lang = "es">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-31533636-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'UA-31533636-1');
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Ads: 1007518778 -->
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1007518778"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'AW-1007518778');
+    </script>
+    <title>Accesorios para sensores de temperatura infrarrojo PM180
+    </title>
+    <meta name="description" content="PM180 - Terminal con pantalla. Configura, muestra y registra datos y alarmas de hasta 6 sensores. Opera como Modbus Mestro/esclavo. Regsitar en Micro SD.">
+
+    <meta name="keywords" content="Logicbus, M&eacute;xico, Mexico, Guadalajara, Argentina, Chile, Brasil, LabView, Automatizaci&oacute;n, Automatizacion, Seguridad,  Consultor&iacute;a, Consultoria, Integraci&oacute;n, Integracion, Proyecto, Radio Frecuencia, Cubos, An&aacute;lisis, Analisis, Datos, Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Distrito Federal, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Estado de M&eacute;xico, Estado de Mexico, Michoac&aacute;n, Michoacan, Morelos, Nayarit, Nuevo Le&oacute;n, Nuevo Leon, Oaxaca, Puebla, Quer&eacute;taro, Queretaro, Quintana Roo, San Luis Potos&iacute;, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucat&aacute;n, Yucatan, Zacatecas, Argentina, Chile, Brasil, Sensores, Transductores, Acondicionadores, Celda de Carga, Sensores de Temperatura, Sensores de Torque, Emncoders, Transductores de temperatura, Transductores de temperatura y humedad, Acondicionador de Temperatura, sensores, temperatura, infrarrojo, sensores de temperatura, tipos de sensores, termopares infrarrojos, infrared, sensores de temperatura infrarrojos, temperatura infrarrojo, alta temperatura, PM180, terminal con pantalla. configura, muestra, registra datos, alarmas, 6 sensores, Modbus, Mestro/esclavo, regsitar en Micro SD, salidas analogas, relevador, Display tactil resistivo, 2.83, 320x240, alimentacion, 10~30VDC">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Page-Enter" content="revealTrans(Duration=0.5,Transition=12)">
+    <meta http-equiv="Page-Exit" content="revealTrans(Duration=0.5,Transition=12)">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta name="language" content="Spanish">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link href="libreria/diagramas.css" rel="stylesheet" >
+    <!--- Estilos Necesarios-->
+    <link rel="stylesheet" type="text/css" href="libreria/estilos.css">
+    <link rel="stylesheet" type="text/css" href="libreria/subcategorias.css">
+    <link rel="stylesheet" type="text/css" href="libreria/menu-categorias.css">
+    <link rel="stylesheet" type="text/css" href="libreria/menu-movil.css">
+    <link rel="stylesheet" type="text/css" href="libreria/marcas.css">
+    <!--------------->
+    <link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="libreria/ie-emulation-modes-warning.js"></script>
+    <script language="javascript">
+
+      function menu_actual() {
+        document.getElementById("productos").className = "dropdown active";
+      }
+      ;
+    </script>
+
+    <style>
+      * a{
+        cursor: pointer;
+      }
+      p{
+        text-align: justify;
+        text-justify: inter-word;
+      }
+      h1{
+        text-align: center;
+      }
+      ul{
+        text-align: justify;
+        text-justify: inter-word;
+      }
+    </style>
+  </head>
+  <body onLoad="menu_actual();">
+    <?
+    arriba();
+    ?>
+
+    <div id="main">
+      <div class="gridContArriba">
+        <div class="griditemContA">
+          <?
+          menucategorias();
+          ?>
+        </div>
+        <div class="griditemContA">
+
+          <!-- RUTA DEL PRODUCTO ENTRE LAS CATEGORIAS -->
+          <div class="ruta_productos">
+            <a href="productos">Productos</a> -&gt; <a href="transductores_sensores">Sensores y Transductores </a> -&gt; <a href="sensores-temperatura">Sensores de temperatura</a> -&gt; <a href="infrarrojos">Infrarrojos</a> -&gt; <a href="acc-infrarrojos">Accesorios</a> -> PM180
+          </div>
+          <!-- NOMBRE DEL PRODUCTO YA SEA NUMERO DE PARTE -->
+          <h1 class="titulo_producto"> Accesorios para sensores de temperatura infrarrojo<br> PM180</h1>
+
+          <!-- LAS IMAGENES DEBEN DE ESTAR EN SU RESPECTIVA CARPETA, EL ANCHO SE AJUSTA EN PORCENTAJE Y SE PONE EL NOMBRE DEL PRODUCTO EN LAS ETIQUETAS ALT Y TITLE -->
+          <div class="row mb-3">
+            <div class="col" align="center">
+              <img src="imagenes/79/PM180.jpg"  alt="PM180 - Terminal con pantalla. Configura, muestra y registra datos y alarmas de hasta 6 sensores" title="PM180 - Terminal con pantalla. Configura, muestra y registra datos y alarmas de hasta 6 sensores" width="40%">
+            </div>
+          </div>
+
+
+          <p class="titulo_producto"><b>Terminal con pantalla. Configura, muestra y registra datos y alarmas de hasta 6 sensores</b></p>
+
+
+          <!-- CARRITO DE COMPRAS A TIENDA MX -->
+          <div align="right" class="mb-4">
+            <a href="https://tienda.logicbus.com.mx/PM180_p_10445.html" title="Ir a Tienda" target="_blank"><img src="images/shopping_cart.png" border=0 alt="Comprar"></a>
+          </div>
+
+          <!-- TODOS LOS PARAFOS PONERLOS DENTRO DE LA ETIQUETA <P> Y ASEGURARSE DE CERRARLA </P> -->
+          <p><strong>Descripci&oacute;n:</strong></p>
+
+          <p>Terminal con pantalla. Configura, muestra y registra datos y alarmas de hasta 6 sensores. Opera como Modbus Mestro/esclavo. Regsitar en Micro SD. Salidas analogas y de relevador. Display táctil resistivo de 2.83” 320x240. Alimentacion 10~30VDC</p>
+        </div>
+      </div>
+    </div>
+    <?
+    abajo();
+    ?>
+  </body>
+</html>

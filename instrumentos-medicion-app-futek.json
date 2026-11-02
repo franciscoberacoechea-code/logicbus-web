@@ -1,0 +1,125 @@
+{
+    "activos": [
+    { 
+        "link":"banco-de-pruebas-para-motor-oem",
+        "img":"imagenes/36/banco-de-pruebas-para-motor-oem.png",
+        "titulo":"Banco de pruebas para motor OEM",
+        "descripcion":"Esta aplicación utiliza el sensor de torque se Futek de la serie TFF para medir el torque a reacción producido por un motor miniatura de corriente directa o un motor de corriente alterna utilizando un amplificador de sensor de torque."
+    },
+    { 
+        "link":"pruebas-de-fatiga-de-bisagras",
+        "img":"imagenes/36/pruebas-de-fatiga-de-bisagras.png",
+        "titulo":"Pruebas de fatiga de Bisagras",
+        "descripcion":"Las bisagras de torque, de posición o de fricción, son todas sinónimo de un tipo de bisagra que permite a dos partes rotar una con respecto a la otra cuando se aplica carga. La bisagra después, regresa a su posición original cuando la carga se remueve debido a un cierta rigidez torsional."
+    },
+    { 
+        "link":"brazo-robotico-automatizado",
+        "img":"imagenes/36/brazo-robotico-automatizado-portada.png",
+        "titulo":"Brazo robótico automatizado",
+        "descripcion":"Los robots industriales que se encargan de las líneas de ensamble son los más eficientes y confiables. Junto al sensor de galga extensiométrica, los operadores pueden utilizar los amplificadores IAA para enviar señales claras y limpias a los controladores lógicos."
+    },
+    { 
+        "link":"presion-diferencial",
+        "img":"imagenes/36/presion-diferencial-portada.png",
+        "titulo":"Presión diferencial",
+        "descripcion":"En algunas aplicaciones industriales, en lugar de un solo transductor de presión recibiendo información de las mediciones del proceso, se utilizan dos en diferentes lugares y se realiza una comparación."
+    },
+    { 
+        "link":"pruebas-de-fuerza-en-tornillo-de-banco",
+        "img":"imagenes/36/pruebas-de-fuerza-en-tornillo-de-banco-portada.jpg",
+        "titulo":"Pruebas de fuerza en tornillo de banco",
+        "descripcion":"Mantener en su lugar una pieza de metal para poder maquinar es una tarea compleja para los operadores de máquinas CNC. El tornillo de banco debe tener el balance exacto de fuerza para prevenir movimientos de la pieza durante el corte."
+    },
+    {
+        "link":"pesaje-de-bolsas-medicas",
+        "img": "imagenes/36/pesaje-de-bolsas-medicas-futek.png",
+        "titulo": "Pesaje de Bolsas Médicas",
+        "descripcion":"En Intravenosas o pesaje de bolsas de solución salina, son necesarias celdas de carga lineales de alta precisión. Para esta aplicación, la celda de carga Tipo S Jr LSB205  de FUTEK, medirá la tensión de la fuerza aplicada por una bolsa intravenosa."
+    },
+    {
+        "link":"fuerza-de-lanzamiento-de-uav",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/fuerza-de-lanzamiento-de-uav-portada.jpg",
+        "titulo": "Fuerza de lazamiento de UAV",
+        "descripcion":"Los vehículos aéreos no tripulados (UAV) vienen con una variedad de capacidades de lanzamiento, como lanzamiento manual, despegue vertical o despegue en pista."
+    },
+    {
+        "link":"control-de-tension-para-fabricacion-de-alambres-y-cables",
+        "img":"imagenes/36/control-de-tension-para-fabricacion-de-alambres-y-cables.png",
+        "titulo":"Control de tensión para fabricación de alambres y cables",
+        "descripcion":"La fabricación de productos como alambres y cables requiere que se mantenga una tensión constante para brindar resultados de calidad repetibles, minimizar el tiempo muerto y aumentar la eficiencia del operador."
+    },
+    { 
+        "link":"fuerza-de-empuje-torque-en-el-proceso-de-taladrado",
+        "img":"imagenes/36/fuerza-de-empuje-torque-en-el-proceso-de-taladrado-portada.jpg",
+        "titulo":"¿Qué es la fuerza de empuje y torque en el proceso de taladrado?",
+        "descripcion":"Taladrar es probablemente una de las operaciones de maquinado más utilizadas e importantes. La habilidad de predecir las fuerzas cortantes es esencial para optimizar el diseño y la manufactura de productos ya que la fuerza de empuje y el torque son indicadores de la resistencia del material."
+    },
+    { 
+        "link":"tensionador-preciso-para-cable",
+        "img":"imagenes/36/tensionador-preciso-para-cable.png",
+        "titulo":"Tensionador preciso para cable",
+        "descripcion":"Para alcanzar los estándares de alto rendimiento, hoy en día es clave la precisión con la que se lleva a cabo el proceso."
+    },
+    {
+        "link":"soporte-de-empuje-del-motor-cohete",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/soporte-de-empuje-del-motor-cohete-portada.jpg",
+        "titulo": "Soporte de empuje del motor cohete",
+        "descripcion":"La caracterización de motores de cohetes sólidos, líquidos e híbridos a menudo se realiza con modelos informáticos y pruebas en tierra."
+    },
+    {
+        "link":"medicion-del-flujo-correcto-de-fluidos",
+        "img": "imagenes/36/medicion-del-flujo-correcto-de-fluidos-futek.png",
+        "titulo": "Medición del flujo correcto de fluidos",
+        "descripcion":"La medición de flujo es muy importante, en la producción alimentos, conexión de catéteres, transfusiones de sangre y compuestos químicos."
+    },
+    {
+        "link":"soldadura-por-resistencia",
+        "img": "imagenes/36/soldadura-por-resistencia.png",
+        "titulo": "Soldadura por resistencia",
+        "descripcion":"La soldadura por resistencia es un proceso en el que las piezas de metal se unen por el calor creado por la resistencia eléctrica del material combinado con las fuerzas aplicadas por el electrodo al mantener las piezas juntas."
+    },
+    {
+        "link":"medicion-de-fuerza-para-mordida-de-tiburon",
+        "img": "imagenes/36/medicion-de-fuerza-para-mordida-de-tiburon.png",
+        "titulo": "Medición de fuerza para mordida de tiburón",
+        "descripcion":"Para medir la fuerza de la mordida de un tiburón los ingenieros de Peacock productions diseñaron una plataforma de pruebas. La plataforma consiste en varias celdas tipo dona LTH500 para medir la fuerza aplicada sobre el molde."
+    },
+    {
+        "link":"medicion-de-torque-a-reometro",
+        "img": "imagenes/36/medicion-de-torque-a-reometro.png",
+        "titulo": "Medición de torque a Reómetro",
+        "descripcion":"Determinar la viscosidad y propiedades de un fluido, como pinturas, aceites y adhesivos, requiere un reómetro. En este caso, un reómetro con un cilindro rotacional se utiliza para medir la disolución de los materiales a distintas velocidades."
+    },
+    {
+        "link":"prueba-de-propela-en-dron",
+        "img": "imagenes/36/prueba-de-propela-en-dron.png",
+        "titulo": "Prueba de propela en dron",
+        "descripcion":"Los drones, tanto para uso profesional como para entretenimiento, cada vez son más solicitados. Los drones de cuatro hélices por definición utilizan 4 propelas para levantar el dispositivo y cambiar de dirección."
+    },
+    {
+        "link":"rehabilitacion-de-guantes-roboticos",
+        "img": "imagenes/soluciones-en-la-industria/Robotica/rehabilitacion-de-guantes-roboticos-portada.jpg",
+        "titulo": "Rehabilitación de guantes robóticos",
+        "descripcion":"La biónica es ahora un hecho científico! Investigadores, médicos e ingenieros están creando formas de ayudar a los pacientes a acelerar la rehabilitación permitiéndoles realizar más tareas por su cuenta."
+    },
+    {
+        "link":"exoesqueleto-para-paraplejicos",
+        "img": "imagenes/36/exoesqueleto-para-paraplejicos.png",
+        "titulo": "Exoesqueleto para parapléjicos",
+        "descripcion":"Las lesiones de la espina dorsal comúnmente dejan al paciente sin la habilidad para poder caminar nuevamente. El Instituto para la cognición de máquinas y humanos se dedica a resolver esto con un exoesqueleto."
+    },
+    {
+        "link":"medicion-de-fuerza-al-cerrar-ventana",
+        "img": "imagenes/36/diagramas/medicion-de-fuerza-al-cerrar-ventana.png",
+        "titulo": "Medición de fuerza al cerrar ventana",
+        "descripcion":"Las ventanas, quemacocos y puertas automáticas han ganado popularidad en los últimos años. Junto a esta popularidad llegó la necesidad de asegurarse de que la fuerza aplicada no sea un peligro para los usuarios."
+    },
+    {
+        "link":"sensores-ciclicos-para-helicopteros",
+        "img": "imagenes/soluciones-en-la-industria/aeroespacial/sensores-ciclicos-para-helicopteros-portada.jpg",
+        "titulo": "Sensores cíclicos para helicópteros",
+        "descripcion":"Los controles de vuelo requieren una auditoría externa antes de su uso en vuelo. la celda de carga de cambio de marchas MAU300 de FUTEK proporciona a los ingenieros de calidad las herramientas adecuadas para monitorear la fuerza aplicada los controles cíclicos de helicóptero (joysticks)."
+    }                
+    ]
+
+}

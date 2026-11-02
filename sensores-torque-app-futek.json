@@ -1,0 +1,161 @@
+{
+    "activos": [
+    {
+        "link": "alimentador-avicola-agricola",
+        "img": "imagenes/36/diagramas/agricultura/alimentador-de-aves-agricola-portada.jpg",
+        "titulo": "Alimentador avícola agrícola",
+        "descripcion": "Los comederos agrícolas para aves de corral son responsables de la distribución equitativa del alimento en todo el gallinero. Los ingenieros agrícolas a menudo implementan sensores de torque rotativos para monitorear los motores que operan cada alimentador."
+    },
+    {
+        "link":"sensor-de-torque-tipo-desarmador-electrico",
+        "img": "imagenes/36/sensor-de-torque-tipo-desarmador-electrico.png",
+        "titulo": "Sensor de torque tipo desarmador eléctrico",
+        "descripcion":"Al utilizar el sensor de torque tipo desarmador TAT200 de Futek, los operadores pueden monitorear el torque durante el proceso de ensamble."
+    },
+    {
+        "link":"msl-mars-rover-criogenico-de-varios-ejes",
+        "img": "https://www.logicbus.com.mx/imagenes/soluciones-en-la-industria/aeroespacial/msl-mars-rover-criogenico-de-varios-ejes-portada.jpg",
+        "titulo": "MSL Mars River criogénico de varios ejes",
+        "descripcion":"FUTEK recibió el encargo de la NASA de desarrollar un sensor multiaxial criogénico para operar dentro del brazo robótico curiosity. Este sensor es responsable de medir la torsión y la fuerza aplicada mientras el brazo funciona."
+    },
+    { 
+        "link":"banco-de-pruebas-para-motor-con-sensor-de-torque",
+        "img":"imagenes/36/banco-de-pruebas-para-motor-sensor-torque.png",
+        "titulo":"Banco de pruebas para motor con sensor de torque",
+        "descripcion":"Los sensores de torque a reacción se utilizan normalmente para auditar herramientas. Esta aplicación utiliza la serie TFF de Futek para verificar el momento que genera el motor."
+    },
+    { 
+        "link":"banco-para-pruebas-de-motores",
+        "img":"imagenes/36/banco-para-pruebas-de-motores.png",
+        "titulo":"Banco para pruebas de motores",
+        "descripcion":"¿Cómo medir el torque de un motor? Un método relativamente simple es medir la corriente de entrada del motor. Para la mayor parte de los motores, el torque es directamente proporcional  a la corriente. Sin embargo, la medición más precisa sería colocar un sensor de torque en la flecha del motor que se quiera medir."
+    },
+    {
+        "link":"medicion-de-una-herramienta-de-ensamble",
+        "img": "imagenes/36/medicion-de-una-herramienta-de-ensamble-portada.png",
+        "titulo": "Medición de una herramienta de ensamble",
+        "descripcion":"¿Medición de torque en un ensamble? ¿Por qué es importante? En algunas líneas de ensamble,el operador requiere monitorear el torque que se aplica a los sujetadores. Esto es aún más importante en las máquinas de ensamble eléctricas y neumáticas."
+    },
+    {
+        "link":"torque-para-ajuste-de-tuercas",
+        "img": "imagenes/36/torque-para-ajuste-de-tuercas-portada.png",
+        "titulo": "Torque para ajuste de tuercas",
+        "descripcion":"Al utilizar un sensor de torque y una celda de carga, podemos establecer una relación entre la tensión con la que el perno se coloca y el torque aplicado."
+    },
+    {
+        "link":"control-del-torque-en-un-servomotor",
+        "img": "imagenes/36/control-del-torque-en-un-servomotor.jpg",
+        "titulo": "Control del torque en un servomotor",
+        "descripcion":"Los sistemas automatizados en muchas industrias dependen de servomotores para monitorear el movimiento lineal y rotacional. Las pérdidas por fricción y los cambios de velocidad hacen necesaria la inclusión de un sistema de lazo cerrado."
+    },
+    { 
+        "link":"medicion-de-torque-con-celdas-de-carga",
+        "img":"imagenes/36/medicion-de-torque-con-celdas-de-carga.png",
+        "titulo":"Medición de torque con celdas de carga",
+        "descripcion":"La medición del torque generado por un motor o frenos se puede lograr un sensor de torque rotativo en línea con la flecha del motor o montar el motor directamente en un sensor de torque a reacción."
+    },
+    { 
+        "link":"pruebas-de-fuerza-en-tornillo-de-banco",
+        "img":"imagenes/36/pruebas-de-fuerza-en-tornillo-de-banco-portada.jpg",
+        "titulo":"Pruebas de fuerza en tornillo de banco",
+        "descripcion":"Mantener en su lugar una pieza de metal para poder maquinar es una tarea compleja para los operadores de máquinas CNC. El tornillo de banco debe tener el balance exacto de fuerza para prevenir movimientos de la pieza durante el corte."
+    },
+    { 
+        "link":"automatizacion-industrial-robotica",
+        "img":"imagenes/36/automatizacion-industrial-robotica.png",
+        "titulo":"Automatización industrial robótica",
+        "descripcion":"Debido a estándares de seguridad, los equipos para practicar atletismo comúnmente utilizan sensores de torque rotativos para pruebas de productos comerciales."
+    },
+    { 
+        "link":"fuerza-de-empuje-torque-en-el-proceso-de-taladrado",
+        "img":"imagenes/36/fuerza-de-empuje-torque-en-el-proceso-de-taladrado-portada.jpg",
+        "titulo":"¿Qué es la fuerza de empuje y torque en el proceso de taladrado?",
+        "descripcion":"Taladrar es probablemente una de las operaciones de maquinado más utilizadas e importantes. La habilidad de predecir las fuerzas cortantes es esencial para optimizar el diseño y la manufactura de productos ya que la fuerza de empuje y el torque son indicadores de la resistencia del material."
+    },
+    { 
+        "link":"carro-con-dinamometro-solar-de-stanford",
+        "img":"imagenes/36/carro-con-dinamometro-solar-de-stanford.png",
+        "titulo":"Carro con dinamómetro solar de Stanford",
+        "descripcion":"El proyecto de carro solar de Stanford, utilizó un sensor de torque rotativo de flecha a flecha para emular lo que el motor pasaría en un recorrido de día mediante un dinamómetro."
+    },
+    { 
+        "link":"verificacion-y-calibracion-de-torque",
+        "img":"imagenes/36/verificacion-de-torque-calibracion-de-sensor.png",
+        "titulo":"Verificación de torque en Herramienta/Calibración de sensor",
+        "descripcion":"En las líneas de ensamble, las llaves de torque permiten que los  fijadores (tornillos, tuercas y pernos) sean ajustados exactamente al torque especificado, haciendo que el producto funcione por muchos años sin daños en los sujetadores ni problemas para retirarlos."
+    },
+    { 
+        "link":"pruebas-de-torque-en-valvulas",
+        "img":"imagenes/36/pruebas-de-torque-en-valvulas.png",
+        "titulo":"Pruebas de torque en válvulas",
+        "descripcion":"Los sensores de torque a reacción se utilizan constantemente para auditar y monitorear herramientas. Esta aplicación utiliza un sensor de la serie TFF para medir el torque de reacción que requiere una válvula o actuador para operar."
+    },
+    { 
+        "link":"banco-de-pruebas-para-motor-oem",
+        "img":"imagenes/36/banco-de-pruebas-para-motor-oem.png",
+        "titulo":"Banco de pruebas para motor OEM",
+        "descripcion":"Esta aplicación utiliza el sensor de torque se Futek de la serie TFF para medir el torque a reacción producido por un motor miniatura de corriente directa o un motor de corriente alterna utilizando un amplificador de sensor de torque."
+    },
+    { 
+        "link":"pruebas-de-fatiga-de-bisagras",
+        "img":"imagenes/36/pruebas-de-fatiga-de-bisagras.png",
+        "titulo":"Pruebas de fatiga de Bisagras",
+        "descripcion":"Las bisagras de torque, de posición o de fricción, son todas sinónimo de un tipo de bisagra que permite a dos partes rotar una con respecto a la otra cuando se aplica carga. La bisagra después, regresa a su posición original cuando la carga se remueve debido a un cierta rigidez torsional."
+    },
+    { 
+        "link":"sensor-de-torque-para-monitorear-juntas-de-robot",
+        "img":"imagenes/36/sensor-de-torque-para-monitorear-juntas-de-robot-portada.png",
+        "titulo":"Sensor de torque para monitorear juntas de robot",
+        "descripcion":"Los brazos robóticos incrementan la productividad automatizando tareas 24x7. Estos brazos se diseñan normalmente para entrenarse y operar como robot colaborativo. Estos brazos se controlan desde sus articulaciones con servo motores."
+    },
+    { 
+        "link":"torque-de-reaccion-en-ruedas-de-satelite",
+        "img":"imagenes/36/torque-de-reaccion-en-ruedas-de-satelite-portada.png",
+        "titulo":"Torque de reacción en ruedas de satélite",
+        "descripcion":"Uno de los medios más eficientes para controlar la altitud de un satélite es utilizar ruedas de reacción. Las ruedas a reacción crean pequeños cambios en el torque para mantener una comunicación de antena mientras un telescopio apunta a una estrella."
+    },
+    {
+        "link":"medicion-de-torque-a-reometro",
+        "img": "imagenes/36/medicion-de-torque-a-reometro.png",
+        "titulo": "Medición de torque a Reómetro",
+        "descripcion":"Determinar la viscosidad y propiedades de un fluido, como pinturas, aceites y adhesivos, requiere un reómetro. En este caso, un reómetro con un cilindro rotacional se utiliza para medir la disolución de los materiales a distintas velocidades."
+    },
+    {
+        "link":"prueba-de-torque-en-cateter",
+        "img": "imagenes/36/prueba-de-torque-en-cateter.png",
+        "titulo": "Prueba de torque en catéter",
+        "descripcion":"Los dispositivos de intervención utilizan el modelo vascular ASTM F2394 para verificar el rendimiento de: catéteres, cables guía, colonoscopías, endoscopías y más. Estos sistemas de prueba requieren equipo de precisión para cumplir con la ISO 25539."
+    },
+    {
+        "link":"auditoria-de-torque-en-taladro-dental",
+        "img": "imagenes/36/auditoria-de-torque-en-taladro-dental.png",
+        "titulo": "Auditoría de torque en taladro dental",
+        "descripcion":"Cuanto se diseñan herramientas eléctricas para trabajar en dentaduras, es crucial tener en cuenta el torque del motor para generar leyes de control adecuadas."
+    },
+    {
+        "link":"prensa-de-tapas-automatica",
+        "img": "imagenes/36/prensa-de-tapas-automatica.png",
+        "titulo": "Prensa de tapas automática",
+        "descripcion":"Cuando se están cerrando tapas, es importante asegurarnos de que se tenga una fuerza y torque consistentes, para reducir la cantidad de productos rechazados. Para lograr esto, se utiliza un sensor multi axial utilizado para dar precisión, consistencia e integridad a este proceso."
+    },
+    {
+        "link":"torque-de-un-desarmador-en-miniatura",
+        "img": "imagenes/36/torque-de-un-desarmador-en-miniatura.png",
+        "titulo": "Torque de un desarmador en miniatura",
+        "descripcion":"Al utilizar un sensor de torque a reacción el operador puede monitorear el torque aplicado durante el ensamble."
+    },
+    {
+        "link":"fuerza-de-atornillador",
+        "img": "imagenes/36/diagramas/fuerza-de-atornillador-portada.png",
+        "titulo": "Fuerza de atornillador",
+        "descripcion":"Al utilizar un sensor de torque rotativo y una celda, podemos establecer relación entre la tensión del perno y el torque aplicado."
+    },
+    {
+        "link":"sensor-de-torque-para-direccion",
+        "img": "imagenes/36/diagramas/sensor-de-torque-para-direccion.png",
+        "titulo": "Sensor de torque para dirección",
+        "descripcion":"Tradicionalmente los vehículos todoterreno y para camino utilizan sistemas hidráulicos para la dirección. En los 80s y 90s se volvieron populares, ya que reducen la cantidad de fuerza necesaria para hacer un ajuste de dirección."
+    }                   
+    ]
+
+}

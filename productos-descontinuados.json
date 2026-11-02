@@ -1,0 +1,1081 @@
+{
+    "descontinuados": [
+        {
+        "link": "CIO-CTR05-H50.php",
+        "img": "imagenes/01/cio-ctr05_h50_des.jpg",
+        "modelo": "CIO-CTR05/H50",
+        "descripcion": "20 Canales de Contador/Temporizador, 9513. Cristal 50ppm Instalado"
+    },
+      {
+        "link": "CIO-CTR10.php",
+        "img": "imagenes/01/cio-ctr10_des.jpg",
+        "modelo": "CIO-CTR10",
+        "descripcion": "10 Canales, Contador/Temporizador de 16 Bits (9513), 32 Digitales"
+    },
+      {
+        "link": "CIO-CTR10-H50.php",
+        "img": "imagenes/01/cio-ctr10_h50_des.jpg",
+        "modelo": "CIO-CTR10/H50",
+        "descripcion": "10 Canales, Contador/Temporizador de 16 Bits (9513), 32 Digitales. Cristal Especial 50ppm Instalado"
+    },
+    {
+        "link": "CIO-CTR10HD.php",
+        "img": "imagenes/01/cio-ctr10hd_h50_des.jpg",
+        "modelo": "CIO-CTR10HD",
+        "descripcion": "10 Canales de Contador/Temporizador, 9513. Cristal 100ppm Instalado"
+    },
+    {
+        "link": "CIO-CTR10HD-H50.php",
+        "img": "imagenes/01/cio-ctr10hd_h50_des.jpg",
+        "modelo": "CIO-CTR10HD/H50",
+        "descripcion": "10 Canales, Contador/Temporizador de 16 Bits (9513), 32 Digitales. Cristal Especial 50ppm Instalado"
+    },
+    {
+        "link": "CIO-CTR20HD.php",
+        "img": "imagenes/01/cio-ctr10hd_h50_des.jpg",
+        "modelo": "CIO-CTR20HD",
+        "descripcion": "20 Canales de Contador/Temporizador, 9513. Cristal 100ppm Instalado"
+    },
+    {
+        "link": "CIO-CTR20HD-H50.php",
+        "img": "imagenes/01/cio-ctr20hd_h50_des.jpg",
+        "modelo": "CIO-CTR20HD/H50",
+        "descripcion": "20 Canales de Contador/Temporizador, 9513. Cristal 50ppm Instalado"
+    },
+    {
+        "link": "DS1xxxE.php",
+        "img": "imagenes/32/DS1xxxE.jpg",
+        "modelo": "DS1xxxE",
+        "descripcion": "OSCILOSCOPIOS MIXTOS SERIE DS1000E-DS1000D"
+    },
+    {
+        "link": "ebox_2300.php",
+        "img": "imagenes/icop/VESA_PC_front.jpg",
+        "modelo": "eBox-2300",
+        "descripcion": "PC super compacta para desarrollo en WinCE"
+    },
+    {
+        "link": "COOLMIR.php",
+        "img": "imagenes/78/coolmir-1.jpg",
+        "modelo": "COOLMIR",
+        "descripcion": "Teclado industrial para blackberry COOLMIR"
+    },
+    {
+        "link": "2-channel.php",
+        "img": "imagenes/07/Automotive/2channel-automotivekit.jpg",
+        "modelo": "Kit Automotriz PicoScope 3223",
+        "descripcion": "Osciloscopio para uso automotriz de 2 canales, permite monitorear cualquier autom&oacute;vil gracias a su librería de diagnostico para las diferentes partes de los autom&oacute;viles"
+    },
+    {
+        "link": "3542.php",
+        "img": "sealevel/serial-async/pc-104-serial-async/3542.jpg",
+        "modelo": "PC/104 3542",
+        "descripcion": "The 3542 PC/104 serial interface provides four RS-232 serial ports capable of data rates to 460.8K bps"
+    },
+    {
+        "link": "3543.php",
+        "img": "sealevel/serial-async/pc-104-serial-async/3543.jpg",
+        "modelo": "PC/104 3543",
+        "descripcion": "The 3543 PC/104 serial interface provides four serial ports, each individually configurable for RS-422 or RS-485"
+    },
+    {
+        "link": "3544.php",
+        "img": "sealevel/serial-async/pc-104-serial-async/3544.jpg",
+        "modelo": "PC/104 3544",
+        "descripcion": "The 3544 PC/104 serial interface provides four serial ports: Two RS-232 and two individually configurable for RS-422 or RS-485"
+    },
+    {
+        "link": "3550.php",
+        "img": "sealevel/serial-async/pc-104-serial-async/3550.jpg",
+        "modelo": "PC/104 3550",
+        "descripcion": "The 3550 PC/104 serial interface provides one serial port configurable for RS-422 or RS-485"
+    },
+    {
+        "link": "3551.php",
+        "img": "sealevel/serial-async/pc-104-serial-async/3551.jpg",
+        "modelo": "PC/104 3551",
+        "descripcion": "The 3551 PC/104 serial interface provides one RS-232 port capable of data rates to 460.8K bps"
+    },
+    {
+        "link": "3562.php",
+        "img": "sealevel/serial-async/pc-104-serial-async/3562.jpg",
+        "modelo": "PC/104 3562",
+        "descripcion": "The 3562 PC/104 serial interface provides 16 two-wire RS-485 serial ports"
+    },
+    {
+        "link": "3588.php",
+        "img": "sealevel/serial-async/pc-104-serial-async/3588.jpg",
+        "modelo": "PC/104 3588",
+        "descripcion": "The 3588 PC/104 serial interface provides eight two-wire RS-485 serial ports"
+    },
+    {
+        "link": "3623.php",
+        "img": "imagenes/03/3623_DESC.jpg",
+        "modelo": "PCMCIA 3623",
+        "descripcion": "La tarjeta PCMCIA de interfaz serial provee dos puertos seriales, cada uno configurable individualmente para RS-232, RS-422 o RS-485"
+    },
+    {
+        "link": "470S.php",
+        "img": "imagenes/03/470S.jpg",
+        "modelo": "470S",
+        "descripcion": "Diseñado usando el chip A/D Maxim MAX197 de aproximaciones sucesivas, el 470S es una interfaz RS-232 Modbus RTU que provee 8 entradas de 12 bits diferenciales o 16 en modo común y dos canales de salida D/A de 12 bits "
+    },
+    {
+        "link": "470U.php",
+        "img": "imagenes/03/470U.jpg",
+        "modelo": "470U",
+        "descripcion": "Diseñado usando el chip convertidor de analógico a digital de tipo aproximaciones sucesivas Maxim MAX197, el 470U provee 8 entradas diferenciales o 16 entradas en Modo Común de 12 bits y dos canales de salida D/A de 12 bits "
+    },
+    {
+        "link": "520U.php",
+        "img": "imagenes/03/520U.jpg",
+        "modelo": "520U",
+        "descripcion": "Controla y monitorea 8 entradas ópticamente aisladas y 8 Salidas de relay de Tipo C de alta corriente (SPDT) por medio de cualquier conexión USB con el 520U."
+    },
+    {
+        "link": "570U.php",
+        "img": "imagenes/03/570U.jpg",
+        "modelo": "570U",
+        "descripcion": "Control y monitoreo de interfaces analogas u}y digitales mediante coneccion USB. El 570U fue diseñado para utilizra el chip LTC1867 A/D que provee 8 entradas analogas de 16-bit, 8 entradas opticamente aisladas y 8 salida de Relevador tipo C."
+    },
+    {
+        "link": "7903.php",
+        "img": "sealevel/serial-async/compactpci-serial-async/7903.jpg",
+        "modelo": "7903",
+        "descripcion": "The 7903 is a 3U Compact PCI interface adapter with two isolated serial I/O ports. It provides two field selectable RS­-232, RS-422, or RS-485 serial ports."
+    },
+    {
+        "link": "CN4490-1000.php",
+        "img": "imagenes/10/lv-100_pic.jpg",
+        "modelo": "CN4490-1000",
+        "descripcion": " Estación de entrenamiento para manejo de entradas y salidas desde LabVIEW™. Diseñada para aprender y aplicar el lenguaje de programación gráfica muy usado LabVIEW, el LV-100 es la herramienta ideal para entrenar a usuarios de todos los niveles en el software LabVIEW"
+    },
+    {
+        "link": "contadores-eventos-estados_pulse110_desc.php",
+        "img": "imagenes/09/Contadores-eventos-estados/pulse110.gif",
+        "modelo": "Pulse 110",
+        "descripcion": "Monitorea eventos y señales analógicas a 100 pulsos por segundo (100Hz) y registra el total de cuentas con un tiempo y fecha en un intervalo de tiempo definido por el usuario"
+    },
+    {
+        "link": "contadores-eventos-estados_pulse101.php",
+        "img": "imagenes/09/pulse101_ds.jpg",
+        "modelo": "Pulse 101",
+        "descripcion": "El Pulse101 es un registrador para el monitoreo de eventos y señales análogas, cuenta con una velocidad de 100 pulsos/seg (100Hz), además de registrar el total de conteo y tiempo de cada uno en intervalos programados por el usuario"
+    },
+    {
+        "link": "LBCST-14321S.php",
+        "img": "imagenes/14/CST-321S.jpg",
+        "modelo": "LBCST 14321S",
+        "descripcion": "Adecuado para control On/Off, con dos salidas de relevador activados por los l&iacute;mites de temperatura establecidos a trav&eacute;s de los botones colocados en la parte delantera del controlador"
+    },
+    {
+        "link": "DP9030-Z.php",
+        "img": "imagenes/05/DP9030-Z.png",
+        "modelo": "LB-DP9030-Z",
+        "descripcion": "El Osciloscopio LB-DP9030-Z es un importante accesorio para cualquier laboratorio de electronicos"
+    },
+    {
+        "link": "PicoScope2202.php",
+        "img": "imagenes/07/Ocilloscopes/picoscope-2000_desc.jpg",
+        "modelo": "Osciloscopio compacto bajo&nbsp;costo 2 canales&nbsp;para PC",
+        "descripcion": "Canales=2; Ancho de Banda=2MHz; Tasa de Muestreo=20MS/s; Resoluci&oacute;n=8 bits; Memoria de B&uacute;ffer=32kS; Rango Din&aacute;mico=48dB;<br> Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope2203.php",
+        "img": "imagenes/07/Ocilloscopes/PicoScope_2203_2_desc.png",
+        "modelo": "PicoScope 2203 (PP418)",
+        "descripcion": " <strong>Osciloscopio compacto, bajo costo, 2 canales de osciloscopio y 1 canal generador de formas de onda para PC</strong><br>Canales=2; Ancho de Banda=5MHz; Tasa de Muestreo=40MS/s; Resoluci&oacute;n=8 bits; Memoria de B&uacute;ffer=8,000 muestras; Rango Din&aacute;mico=48dB;<br>Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo"
+    },
+    {
+        "link": "PicoScope3224.php",
+        "img": "imagenes/07/Ocilloscopes/pc-scope.jpg",
+        "modelo": "PicoScope 3224 (PP300)",
+        "descripcion": "<strong>Osciloscopio de 12 bits de resoluci&oacute;n manejado por USB </strong> <br>Canales=2; Ancho de Banda=10MHz; Tasa de Muestreo=20MS/s; Resoluci&oacute;n=12 bits; Memoria de Buffer=512kS; Rango Din&aacute;mico=72dB;<br>Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope3424.php",
+        "img": "imagenes/07/Ocilloscopes/ps3423.jpg",
+        "modelo": "PicoScope 3424 (PP298)",
+        "descripcion": "<strong>Osciloscopio de 4 canales de 12 bits de resoluci&oacute;n </strong><br>Canales=4; Ancho de Banda=10MHz; Tasa de Muestreo=20MS/s; Resoluci&oacute;n=12bits; Buffer de Memoria=512kS; Rango Din&aacute;mico=72dB;<br>Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento"
+    },
+    {
+        "link": "PicoScope-3204-3205-3206.php",
+        "img": "imagenes/07/picoscope3200[1].jpg",
+        "modelo": "PicoScope 3206 (PP263 y kit PP375)",
+        "descripcion": "<strong>Osciloscopio USB con 2 canales de osciloscopio de 200 Mhz de ancho de banda y 1 canal generador de señales </strong> <br>Canales= 2 + Trigger externo; Ancho de Banda=200MHz; Muestreo= 200 MS/s; Resoluci&oacute;n=8bits; Memoria de B&uacute;ffer= 1 MS;<br>Rango Din&aacute;mico=50dB; Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento.<br><em>Incluye software en PC para operarlo</em> "
+    },
+    {
+        "link": "kit-Pico-Scope-3204.php",
+        "img": "imagenes/07/PicoScope3203.png",
+        "modelo": "PicoScope 3204 (PP261 y kit PP373)",
+        "descripcion": "<strong>Osciloscopio compacto de 2 canales de osciloscopio de 50 MHz de ancho de banda y 1 canal generador de formas de onda </strong><br>Canales=2; Ancho de Banda=50MHz; Tasa de Muestreo=50MS/s; Resoluci&oacute;n=8 bits; Memoria de Buffer=256kS; Rango Din&aacute;mico=50dB;<br>Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><p><em>Incluye software en PC para operarlo</em></p>"
+    },
+    {
+        "link": "PicoScope-3000.php",
+        "img": "imagenes/07/pp3000.jpg",
+        "modelo": "PicoScope 3204A y PicoScope 3204B (PP708 y PP709)",
+        "descripcion": "<strong>Osciloscopio compacto con 2 canales de 60 MHz de ancho de banda y 1 Disparador externo </strong><br>Canales=2; Ancho de Banda=60MHz; Tasa de Muestreo=500MS/s; Resoluci&oacute;n=8 bits; Memoria de Buffer PicoScope 3204A=4 MS; Memoria de Buffer PicoScope 3204B=8 MS;Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope-3204-3205-3206.php",
+        "img": "imagenes/07/PicoScope3203.png",
+        "modelo": "PicoScope 3205 (PP262 y kit PP374)",
+        "descripcion": "<strong>Osciloscopio USB con 2 canales de osciloscopio de 100 Mhz de ancho de banda y 1 canal generador de señales</strong> <br>Canales= 2 + Disparador (Trigger) Externo; Ancho de Banda=100MHz; Tasa de Muestreo=100MS/s; Resoluci&oacute;n=8 bits; Memoria de Buffer=512kS;<br>Rango Din&aacute;mico=50dB; Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope-3000.php",
+        "img": "imagenes/07/pp3000.jpg",
+        "modelo": "PicoScope 3205A y PicoScope 3205B (PP710 y PP711)",
+        "descripcion": "<strong>Osciloscopio compacto con 2 canales  de 100 MHz de ancho de banda y 1 Disparador externo </strong><br>Canales=2; Ancho de Banda=100MHz; Tasa de Muestreo=500MS/s; Resoluci&oacute;n=8 bits; Memoria de Buffer PicoScope 3205A=16 MS; Memoria de Buffer PicoScope 3205B= 32 MS;Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope-3000.php",
+        "img": "imagenes/07/pp3000.jpg",
+        "modelo": "PicoScope 3206A y PicoScope 3206B (PP712 y PP713)",
+        "descripcion": "<strong>Osciloscopio compacto de 2 canales de 200 MHz de ancho de banda y 1 Disparador externo </strong><br>Canales=2; Ancho de Banda=200MHz; Tasa de Muestreo=500MS/s; Resoluci&oacute;n=8 bits; Memoria de Buffer PicoScope 3206A=64 MS; Memoria de Buffer PicoScope 3206B = 128 MS;Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "pdf/07/PicoScope3400.pdf",
+        "img": "imagenes/07/PicoScope3404A.jpg",
+        "modelo": "PicoScope 3404A (PP846)",
+        "descripcion": "<strong>Osciloscopio port&aacute;til con interfaz USB 2.0 de alta velocidad,  4 Canales y una entrada de disparo externo </strong><br>Canales = 4; Ancho de Banda = 60MHz; Tasa de Muestreo = 1 GS/s; Resoluci&oacute;n = 8 Bits Memoria de Buffer = 4 MS; "
+    },
+    {
+        "link": "PicoScope5203.php",
+        "img": "imagenes/07/PicoScope5203.jpg",
+        "modelo": "PicoScope 5203 (PP376)",
+        "descripcion": "<strong>Osciloscopio Port&aacute;til con 2 Entradas en Modo Com&uacute;n </strong><br>Canales=2; Ancho de Banda=250MHz; Muestreo=1GS/s; Resoluci&oacute;n=12 bits; Memoria de B&uacute;ffer=32MS"
+    },
+    {
+        "link": "PicoScope5204.php",
+        "img": "imagenes/07/PicoScope5203.jpg",
+        "modelo": "PicoScope 5204 (PP377)",
+        "descripcion": "<strong>Osciloscopio Port&aacute;til con 2 Entradas en Modo Com&uacute;n </strong><br>Canales=2; Ancho de Banda=250MHz; Muestreo=1GS/s; Resoluci&oacute;n=12 bits; Memoria de B&uacute;ffer=128MS"
+    },
+    {
+        "link": "PicoScope2202.php",
+        "img": "imagenes/07/Ocilloscopes/picoscope-2000_desc.jpg",
+        "modelo": "PicoScope 2202 (PP296)",
+        "descripcion": "<strong>Osciloscopio compacto bajo&nbsp;costo 2 canales&nbsp;para PC </strong><br>Canales=2; Ancho de Banda=2MHz; Tasa de Muestreo=20MS/s; Resoluci&oacute;n=8 bits; Memoria de B&uacute;ffer=32kS; Rango Din&aacute;mico=48dB;<br>Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope2203.php",
+        "img": "imagenes/07/Ocilloscopes/PicoScope_2203_2_desc.png",
+        "modelo": "PicoScope 2203 (PP418)",
+        "descripcion": "<strong>Osciloscopio compacto, bajo costo, 2 canales de osciloscopio y 1 canal generador de formas de onda para PC </strong><br>Canales=2; Ancho de Banda=5MHz; Tasa de Muestreo=40MS/s; Resoluci&oacute;n=8 bits; Memoria de B&uacute;ffer=8,000 muestras; Rango Din&aacute;mico=48dB;<br>Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope3224.php",
+        "img": "imagenes/07/Ocilloscopes/pc-scope.jpg",
+        "modelo": "PicoScope 3224 (PP300)",
+        "descripcion": "<strong>Osciloscopio de 12 bits de resoluci&oacute;n manejado por USB </strong> <br>Canales=2; Ancho de Banda=10MHz; Tasa de Muestreo=20MS/s; Resoluci&oacute;n=12 bits; Memoria de Buffer=512kS; Rango Din&aacute;mico=72dB;<br>Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope3424.php",
+        "img": "imagenes/07/Ocilloscopes/ps3423.jpg",
+        "modelo": "PicoScope 3424 (PP298)",
+        "descripcion": "<strong>Osciloscopio de 4 canales de 12 bits de resoluci&oacute;n </strong><br>Canales=4; Ancho de Banda=10MHz; Tasa de Muestreo=20MS/s; Resoluci&oacute;n=12bits; Buffer de Memoria=512kS; Rango Din&aacute;mico=72dB;<br>Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento"
+    },
+    {
+        "link": "PicoScope-3204-3205-3206.php",
+        "img": "imagenes/07/picoscope3200[1].jpg",
+        "modelo": "PicoScope 3206 (PP263 y kit PP375)",
+        "descripcion": "<strong>Osciloscopio USB con 2 canales de osciloscopio de 200 Mhz de ancho de banda y 1 canal generador de señales </strong> <br>Canales= 2 + Trigger externo; Ancho de Banda=200MHz; Muestreo= 200 MS/s; Resoluci&oacute;n=8bits; Memoria de B&uacute;ffer= 1 MS;<br>Rango Din&aacute;mico=50dB; Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento.<br><em>Incluye software en PC para operarlo</em> "
+    },
+    {
+        "link": "kit-Pico-Scope-3204.php",
+        "img": "imagenes/07/PicoScope3203.png",
+        "modelo": "PicoScope 3204 (PP261 y kit PP373)",
+        "descripcion": "<strong>Osciloscopio compacto de 2 canales de osciloscopio de 50 MHz de ancho de banda y 1 canal generador de formas de onda </strong><br>Canales=2; Ancho de Banda=50MHz; Tasa de Muestreo=50MS/s; Resoluci&oacute;n=8 bits; Memoria de Buffer=256kS; Rango Din&aacute;mico=50dB;<br>Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><p><em>Incluye software en PC para operarlo</em></p>"
+    },
+    {
+        "link": "PicoScope-3000.php",
+        "img": "imagenes/07/pp3000.jpg",
+        "modelo": "PicoScope 3204A y PicoScope 3204B (PP708 y PP709)",
+        "descripcion": "<strong>Osciloscopio compacto con 2 canales de 60 MHz de ancho de banda y 1 Disparador externo </strong><br>Canales=2; Ancho de Banda=60MHz; Tasa de Muestreo=500MS/s; Resoluci&oacute;n=8 bits; Memoria de Buffer PicoScope 3204A=4 MS; Memoria de Buffer PicoScope 3204B=8 MS;Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope-3204-3205-3206.php",
+        "img": "imagenes/07/PicoScope3203.png",
+        "modelo": "PicoScope 3205 (PP262 y kit PP374)",
+        "descripcion": "<strong>Osciloscopio USB con 2 canales de osciloscopio de 100 Mhz de ancho de banda y 1 canal generador de señales</strong> <br>Canales= 2 + Disparador (Trigger) Externo; Ancho de Banda=100MHz; Tasa de Muestreo=100MS/s; Resoluci&oacute;n=8 bits; Memoria de Buffer=512kS;<br>Rango Din&aacute;mico=50dB; Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope-3000.php",
+        "img": "imagenes/07/pp3000.jpg",
+        "modelo": "PicoScope 3205A y PicoScope 3205B (PP710 y PP711)",
+        "descripcion": "<strong>Osciloscopio compacto con 2 canales  de 100 MHz de ancho de banda y 1 Disparador externo </strong><br>Canales=2; Ancho de Banda=100MHz; Tasa de Muestreo=500MS/s; Resoluci&oacute;n=8 bits; Memoria de Buffer PicoScope 3205A=16 MS; Memoria de Buffer PicoScope 3205B= 32 MS;Conexi&oacute;n a la PC=USB; <br>Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "PicoScope-3000.php",
+        "img": "imagenes/07/pp3000.jpg",
+        "modelo": "PicoScope 3206A y PicoScope 3206B (PP712 y PP713)",
+        "descripcion": "<strong>Osciloscopio compacto de 2 canales de 200 MHz de ancho de banda y 1 Disparador externo </strong><br>Canales=2; Ancho de Banda=200MHz; Tasa de Muestreo=500MS/s; Resoluci&oacute;n=8 bits; Memoria de Buffer PicoScope 3206A=64 MS; Memoria de Buffer PicoScope 3206B = 128 MS;Conexi&oacute;n a la PC=USB; <br> Requiere estar conectado a la PC para su funcionamiento<br><em>Incluye software en PC para operarlo</em>"
+    },
+    {
+        "link": "pdf/07/PicoScope3400.pdf",
+        "img": "imagenes/07/PicoScope3404A.jpg",
+        "modelo": "PicoScope 3404A (PP846)",
+        "descripcion": "<strong>Osciloscopio port&aacute;til con interfaz USB 2.0 de alta velocidad,  4 Canales y una entrada de disparo externo </strong><br>Canales = 4; Ancho de Banda = 60MHz; Tasa de Muestreo = 1 GS/s; Resoluci&oacute;n = 8 Bits Memoria de Buffer = 4 MS; "
+    },
+    {
+        "link": "PicoScope5203.php",
+        "img": "imagenes/07/PicoScope5203.jpg",
+        "modelo": "PicoScope 5203 (PP376)",
+        "descripcion": "<strong>Osciloscopio Port&aacute;til con 2 Entradas en Modo Com&uacute;n </strong><br>Canales=2; Ancho de Banda=250MHz; Muestreo=1GS/s; Resoluci&oacute;n=12 bits; Memoria de B&uacute;ffer=32MS"
+    },
+    {
+        "link": "PicoScope5204.php",
+        "img": "imagenes/07/PicoScope5203.jpg",
+        "modelo": "PicoScope 5204 (PP377)",
+        "descripcion": "<strong>Osciloscopio Port&aacute;til con 2 Entradas en Modo Com&uacute;n </strong><br>Canales=2; Ancho de Banda=250MHz; Muestreo=1GS/s; Resoluci&oacute;n=12 bits; Memoria de B&uacute;ffer=128MS"
+    },
+    {
+        "link": "PCI-DAS1200-JR.php",
+        "img": "imagenes/01/pci-das1200-jr.gif",
+        "modelo": "PCI-DAS1200/JR",
+        "descripcion": "Tarjeta de Alta Velocidad compatible con el Bus PCI con 16 canales de Entradas Anal&oacute;gicas y 24 E/S Digitales<br><span>NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "PCI-DAS1200.php",
+        "img": "imagenes/01/PCI-DAS1200.gif",
+        "modelo": "PCI-DAS1200",
+        "descripcion": "Tarjeta de Alta Velocidad compatible con el Bus PCI con 16 canales de Entradas Anal&oacute;gicas, 2 Canales de Salidas  Anal&oacute;gicas y 24 E/S Digitales<br><span >NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "PCI-DAS1002.php",
+        "img": "imagenes/01/PCI-DAS1001.gif",
+        "modelo": "PCI-DAS1002",
+        "descripcion": "Tarjeta de Alta Velocidad compatible con el Bus PCI con 16 canales de Entradas Anal&oacute;gicas de 12 bits,   2 Salidas  Anal&oacute;gicas y 24 E/S Digitales<br><span>NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "PCI-DAS1001.php",
+        "img": "imagenes/01/PCI-DAS1001.gif",
+        "modelo": "PCI-DAS1001",
+        "descripcion": "</strong></a>Tarjeta de Alta Velocidad compatible con el Bus PCI con 16 canales de Entradas Anal&oacute;gicas de 12 bits, 2 Salidas Anal&oacute;gicas y 24 E/S Digitales<br><span >NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "DataPro.php",
+        "img": "imagenes/45/datapro_d.jpg",
+        "modelo": "DATApro",
+        "descripcion": "El registrador diseñado para an&aacute;lisis y registro de hasta 25,000 mediciones de corriente AC<span>NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "lbcr1706.php",
+        "img": "imagenes/17/LBCR1706.jpg",
+        "modelo": "LBCR1706",
+        "descripcion": "Graficador/registrador de m&uacute;ltiples variables en papel para temperatura, voltaje y mA<span >NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "ADC11-10-12.php",
+        "img": "imagenes/07/DataLoggers/adc11.jpg",
+        "modelo": "USB ADC-11/10 ",
+        "descripcion": "Canales=11; Resoluci&oacute;n=10; Rango de entrada= 0 a 2.5 V; PC conexi&oacute;n=USB.<span >NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "ADC11-10-12.php",
+        "img": "imagenes/07/DataLoggers/adc11.jpg",
+        "modelo": "USB ADC-11/12",
+        "descripcion": "Canales=11; Resoluci&oacute;n=12; Rango de entrada= 0 a 2.5 V; PC conexi&oacute;n=USB.<span >NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "USB210.php",
+        "img": "imagenes/36/usb210TL_ch.jpg",
+        "modelo": "USB210",
+        "descripcion": "<div >Kit&nbsp; para convertir sensores anal&oacute;gicos&nbsp;a USB </div><span >NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "temperatura_hitemp150.php",
+        "img": "imagenes/09/Temperatura/hitemp150.gif",
+        "modelo": "Autoclave HiTemp150",
+        "descripcion": "Registrador de altas temperaturas para autoclaves<br><strong>NOTA:</strong> producto descontinuado.  Se recomienda reemplazo <a href='HiTemp140.php'>HiTemp140</a>"
+    },
+    {
+        "link": "hitemp150fp.php",
+        "img": "imagenes/09/hitemp150fp.jpg",
+        "modelo": "HiTemp150FP",
+        "descripcion": "</strong></a>Registrador de temperatura, soporta hasta 150°C, incluye punta de acero inoxidable 316 de 10 cm de largo y cable de silicón flexible de 60 cm <br><strong>NOTA:</strong> producto descontinuado.  Se recomienda reemplazo <a >HiTemp140-FP</a>"
+    },
+    {
+        "link": "thermovault1000p.php",
+        "img": "imagenes/09/Temperatura/Thermovault1000-P.jpg",
+        "modelo": "ThermoVault1000-P Registrador Temp1000P con barrera térmica",
+        "descripcion": "<div>Registrador de Temperatura sumergible, Con sonda de 7” en acero inoxidable de grado alimenticio, incluye barrera térmica para soportar hasta 260°C <br><strong>NOTA:</strong>producto descontinuado.  Se recomienda reemplazo <a href='THERMOVAULT140.php'>ThermoVault140</a></div>"
+    },
+    {
+        "link": "temperatura_temp1000s.php",
+        "img": "imagenes/09/Temperatura/temp1000s.gif",
+        "modelo": "Temp1000S",
+        "descripcion": "Registrador de Temperatura sumergible con cubierta segura de acero inoxidable, 150&deg;C con sonda de 1pulg"
+    },
+    {
+        "link": "HiTemp140.php",
+        "img": "imagenes/09/HiTemp.jpg",
+        "modelo": "HiTemp140",
+        "descripcion": "Registrador de alta temperatura a presi&oacute;n"
+    },
+    {
+        "link": "wirelessloggers_rftemp101a.php",
+        "img": "imagenes/09/Loggersinalambricos/rftemp101a_desc.gif",
+        "modelo": "RFTemp101A",
+        "descripcion": "Registrador de temperatura y transmisor inal&aacute;mbrico "
+    },
+    {
+        "link": "wirelessloggers_rftc4000a.php",
+        "img": "imagenes/09/Loggersinalambricos/rftc4000a_desc.gif",
+        "modelo": "RFTC4000A",
+        "descripcion": "Registrador de termopares y transmisor inal&aacute;mbrico "
+    },
+    {
+        "link": "wirelessloggers_rfrtdtemp101a.php",
+        "img": "imagenes/09/Loggersinalambricos/rfrtdtemp101a.gif",
+        "modelo": "RFRTDTemp101A",
+        "descripcion": "Registrador de temperatura de RTDs y transmisor inal&aacute;mbrico "
+    },
+    {
+        "link": "wirelessloggers_temperaturerecorder.php",
+        "img": "imagenes/09/Loggersinalambricos/rfphtemp101a.png",
+        "modelo": "RFpHTemp101A",
+        "descripcion": "Registrador de temperatura / PH y transmisor inal&aacute;mbrico "
+    },
+    {
+        "link": "thermalertpxx.php",
+        "img": "imagenes/09/thermalertgb_3.jpg",
+        "modelo": "Therm-A-lert-P-xx",
+        "descripcion": "Registrador de  Temperatura  Inal&aacute;mbrico con botella de glicol<br><strong>NOTA:</strong> producto descontinuado.  Se recomienda reemplazo <a href='VTMS.php'>VTMS</a> "
+    },
+    {
+        "link": "wirelessloggers_rfrtdtemp101a.php",
+        "img": "imagenes/09/rfc1000d_web.jpg",
+        "modelo": "RFC1000-REPEATER",
+        "descripcion": "Receptor inal&aacute;mbrico RF y repetidor para los registradores RFOT y Therm-A-Lert. Aumenta la intensidad de la se&ntilde;al a largas distancias para los sistemas inal&aacute;mbricos. Incluye fuente de alimentaci&oacute;n AC y RFC1000. Soporta distancias de hasta 400' al aire libre y 150' en interiores. El RFC1000 tambien peude ser utilizado como repetidor, sustituyendo este equipo"
+    },
+    {
+        "link": "LBH-52400.php",
+        "img": "imagenes/52/LBH-52400_1.png",
+        "modelo": "LBH-52400",
+        "descripcion": "</span><br>Router inal&aacute;mbrico industrial con comunicaci&oacute;n 3G<br><span style='color:#F00'><strong>NOTA:</strong></span> se recomienda reemplazo <a href='LBWIFI-H52400.php'>LBWIFI-H52400</a></td>"
+    },
+    {
+        "link": "LBGSMModemRugged-LH57323A.php",
+        "img": "imagenes/57/LBGSMModemRugged-LHXX323A.jpg",
+        "modelo": "LBGSMModemRugged-LH57323A",
+        "descripcion": " M&oacute;dem para env&iacute;o y recepci&oacute;n de datos y mensajes de texto SMS a trav&eacute;s de redes de telefonia m&oacute;vil GSM/GPRS/EDGE, tambi&eacute;n es controlado por el firmware a trav&eacute;s de  comandos AT.<br> <span>NOTA:</span> producto descontinuado.  Se recomienda el m&oacute;dem <a href='LBGSMMODEMRUGGED-SCSWA.php'>LBGSMMODEMRUGGED-SCSWA</a>"
+    },
+    {
+        "link": "LBEPC557510F.php",
+        "img": "imagenes/55/LBEPC-557510F_ch02.jpg",
+        "modelo": "LBEPC557510F",
+        "descripcion": "Computadora compacta sin ventilador de uso industrial CON Procesador Celeron M a 1GHz, Disco duro de 160Gb y RAM de 1Gb"
+    },
+    {
+        "link": "LBIPC-S04635.php",
+        "img": "imagenes/lb-ipc/desc_LBIPC-S04635_ch.jpg",
+        "modelo": "LBIPC-S04635",
+        "descripcion": "Computadora industrial miniatura del tama&ntilde;o de un libro con procesador Core 2 Duo"
+    },
+    {
+        "link": "LBIPC-S04635F.php",
+        "img": "imagenes/lb-ipc/DESC_LBIPC-S04635F.jpg",
+        "modelo": "LBIPC-S04635F",
+        "descripcion": "Computadora industrial miniatura del tama&ntilde;o de un libro sin ventilador"
+    },
+    {
+        "link": "LBIPC-S04645.php",
+        "img": "imagenes/lb-ipc/LBIPC-S04645_ch.bmp",
+        "modelo": "LBIPC-S04645",
+        "descripcion": "Computadora industrial miniatura del tama&ntilde;o de un libro con procesador Core 2 Duo. Soporta Windows 7."
+    },
+    {
+        "link": "industrial_computing-prod.php",
+        "img": "imagenes/lb-ipc/lb-ipc.png",
+        "modelo": "Book Size",
+        "descripcion": " "
+    },
+    {
+        "link": "I-2520A.php",
+        "img": "imagenes/02/I-2520A.jpg",
+        "modelo": "I-2520A",
+        "descripcion": "Convertidor RS-232 a RS-422/RS-485<br><strong>NOTA:</strong> producto descontinuado.  Se recomienda el equipo <a href='pdf/02/I-7520A.pdf'>I-7520A</a>"
+    },
+    {
+        "link": "LBUSB164485.php",
+        "img": "imagenes/16/LBUSB164485.jpg",
+        "modelo": "LBUSB164485",
+        "descripcion": "Convertidor USB a 4 puertos seriales RS-485<br><span style='font-weight: bold; color: #F00;''>NOTA:</span> producto descontinuado.  Se recomienda el equipo <a href='2402.php'>2402</a>"
+    },
+    {
+        "link": "NC-10TF.php",
+        "img": "imagenes/02/NC-10TF_desc.jpg",
+        "modelo": "NC-10TF",
+        "descripcion": "Convertidor de Medios 10 Base-T a FX"
+    },
+    {
+        "link": "7101.php",
+        "img": "imagenes/03/7101.jpg",
+        "modelo": "7101",
+        "descripcion": "Tarjeta PCI. Provee un puerto serial configurable para RS-232, RS-422, RS-485, o RS-530"
+    },
+    {
+        "link": "LBF462000TSM-TH.php",
+        "img": "imagenes/46/LBF462000TSM-TH.jpg",
+        "modelo": "LBF462000TSM-TH",
+        "descripcion": "Termostato de Boiler de gas <br><span style='color: #F00; font-weight:bold'>NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "LBTKG-TH46.php",
+        "img": "imagenes/46/LBTKG-TH46.jpg",
+        "modelo": "LBTKG-TH46",
+        "descripcion": "Monitor/Controlador de Humedad y Temperatura de alta precisi&oacute;n<br><span style='color: #F00; font-weight:bold'>NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "LBF462000P-TH.php",
+        "img": "imagenes/46/LBF462000P-TH.jpg",
+        "modelo": "LBF462000P-TH",
+        "descripcion": "Monitor/Controlador de humedad y temperatura<br><span style='color: #F00; font-weight:bold'>NOTA:</span> Descontinuado por fabricante"
+    },
+    {
+        "link": "WattsOn.php",
+        "img": "imagenes/WattsOn_p.jpg",
+        "modelo": "WattsOn",
+        "descripcion": "Transductor de Potencia Universal<br><span style='font-weight: bold; color: #F00;''>NOTA:</span> producto descontinuado.  Se recomienda el equipo <a href='S203T.php'>S203TA</a>"
+    },
+    {
+        "link": "i-Snail-V.php",
+        "img": "imagenes/productos/i-Snail-V_desc.jpg",
+        "modelo": "i-Snail-V",
+        "descripcion": "Transductor de Corriente con Salida de 0-5VDC"
+    },
+    {
+        "link": "i-Snail-VC.php",
+        "img": "imagenes/06/i-Snail-VC-10_(5).JPG",
+        "modelo": "i-Snail-VC",
+        "descripcion": "Transductor de Corriente con Salida de 0-5VDC"
+    },
+    {
+        "link": "i-Snail-A.php",
+        "img": "imagenes/productos/i-Snail-A_desc.jpg",
+        "modelo": "i-Snail-A",
+        "descripcion": "Transductor de Corriente de Precisi&oacute;n de 4-20 mA con Bucle de Alimentaci&oacute;n <br><span class='Estilo1'>NOTA:</span> Producto descontinuado como reemplazo se recomienda el <a href='T201.php'><strong>T201 </strong></a>"
+    },
+    {
+        "link": "CT132M40.php",
+        "img": "imagenes/19/CT132M40_desc.jpg",
+        "modelo": "CT132M",
+        "descripcion": "Donas de corriente con montaje para Riel Din"
+    },
+    {
+        "link": "ZB-2550.php",
+        "img": "imagenes/02/ZB-2551.jpg",
+        "modelo": "ZB-2550-T",
+        "descripcion": "Convertidor Maestro de RS232/485 a ZigBee <br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2550.php'>ZT-2550</a>"
+    },
+    {
+        "link": "pdf/02/ZB-2550_ZB-2551.pdf",
+        "img": "imagenes/02/ZB-2551.jpg",
+        "modelo": "ZB-2551-T",
+        "descripcion": "Convertidor Esclavo de RS232/485 a ZigBee <br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2551.php'>ZT-2551</a>"
+    },
+    {
+        "link": "ZB-2570.php",
+        "img": "imagenes/02/ZB-2570.jpg",
+        "modelo": "ZB-2570",
+        "descripcion": "Convertidor Zigbee maestro a Ethernet/ RS-485/ RS-232 <br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2570.php'>ZT-2570</a>"
+    },
+    {
+        "link": "ZB-2570P.php",
+        "img": "imagenes/02/ZB-2570P.jpg",
+        "modelo": "ZB-2570P",
+        "descripcion": "Convertidor Zigbee maestro a Ethernet/ RS-485-RS232 (Soporta hasta 700m de rango de transmisi&oacute;n)<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2570.php'>ZT-2570</a>"
+    },
+    {
+        "link": "ZB-2570-PA.php",
+        "img": "imagenes/02/ZB-2570PA.jpg",
+        "modelo": "ZB-2570-PA",
+        "descripcion": "Amplificador de alta potencia maestro Zigbee a Ethernet/ RS-485/ RS-232 <br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2570.php'>ZT-2570</a>"
+    },
+    {
+        "link": "ZB-2570P.php",
+        "img": "imagenes/02/ZB-2570P.jpg",
+        "modelo": "ZB-2570P",
+        "descripcion": "Convertidor Zigbee maestro a Ethernet/ RS-485-RS232 (Soporta hasta 700m de rango de transmisi&oacute;n)<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2570.php'>ZT-2570</a> "
+    },
+    {
+        "link": "ZB-2570-T.php",
+        "img": "imagenes/02/ZB-2570T.jpg",
+        "modelo": "ZB-2570-T",
+        "descripcion": "Convertidor Zigbee maestro a Ethernet/ RS-485/ RS-232 <br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2570.php'>ZT-2570</a>"
+    },
+    {
+        "link": "ZB-2571.php",
+        "img": "imagenes/02/ZB-2571.jpg",
+        "modelo": "ZB-2571",
+        "descripcion": "Convertidor Zigbee Esclavo a Ethernet / RS-485/ RS-232<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2571.php'>ZT-2571</a>"
+    },
+    {
+        "link": "ZB-2571P.php",
+        "img": "imagenes/02/ZB-2571P.jpg",
+        "modelo": "ZB-2571P",
+        "descripcion": "Convertidor Zigbee Esclavo a Ethernet/ RS-485/ RS-232 (Rango de transmisi&oacute;n de hasta 700m)<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2571.php'>ZT-2571</a>"
+    },
+    {
+        "link": "ZB-2571-T.php",
+        "img": "imagenes/02/ZB-2571T.jpg",
+        "modelo": "ZB-2571-T",
+        "descripcion": "Convertidor Zigbee Esclavo a Ethernet / RS-485/RS-232<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2571.php'>ZT-2571</a>"
+    },
+    {
+        "link": "ZB-2550-PA.php",
+        "img": "imagenes/02/ZB-2551P.jpg",
+        "modelo": "ZB-2550-PA",
+        "descripcion": "Convertidor Maestro RS232/485 a Amplificador de alta potencia ZigBee<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2550.php'>ZT-2550</a>"
+    },
+    {
+        "link": "ZB-2571-PA.php",
+        "img": "imagenes/02/ZB-2571PA.jpg",
+        "modelo": "ZB-2571-PA",
+        "descripcion": "Amplificador de alta potencia esclavo Zigbee  a Ethernet/ RS-485/ RS-232 <br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2571.php'>ZT-2571</a>"
+    },
+    {
+        "link": "ZB-2551-PA.php",
+        "img": "imagenes/02/ZB-2551P.jpg",
+        "modelo": "ZB-2551-PA",
+        "descripcion": "Convertidor  Esclavo RS232/485 a Amplificador de alta potencia ZigBee<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2551.php'>ZT-2551</a>"
+    },
+    {
+        "link": "ADC11-10-12.php",
+        "img": "imagenes/07/DataLoggers/adc11.jpg",
+        "modelo": "USB ADC-11/10",
+        "descripcion": "Canales=11; Resoluci&oacute;n=10;Rango de entrada= 0 a 2.5 V; PC conexi&oacute;n=USB."
+    },
+    {
+        "link": "ADC11-10-12.php",
+        "img": "imagenes/07/DataLoggers/adc11.jpg",
+        "modelo": "USB ADC-11/12",
+        "descripcion": "Canales=11; Resoluci&oacute;n=12; Rango de entrada= 0 a 2.5 V; PC conexi&oacute;n=USB."
+    },
+    {
+        "link": "LCT-01.php",
+        "img": "imagenes/99/lct-01.jpg",
+        "modelo": "Load- cell",
+        "descripcion": " "
+    },
+    {
+        "link": "ZB-2510.php",
+        "img": "imagenes/02/ZB-2510PA.jpg",
+        "modelo": "ZB-2510-PA",
+        "descripcion": "Amplificador de alta potencia de se&ntilde;al Zigbee <br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2510.php'>ZT-2510</a>"
+    },
+    {
+        "link": "ZB-2510.php",
+        "img": "imagenes/02/ZB-2510.jpg",
+        "modelo": "Repetidor Zigbee",
+        "descripcion": "<span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2510.php'>ZT-2510</a>"
+    },
+    {
+        "link": "ZB-2510.php",
+        "img": "imagenes/02/ZB-2510P.jpg",
+        "modelo": "ZB-2510-P",
+        "descripcion": "Repetidor Zigbee (Soporta hasta 700m de transmisi&oacute;n)<br> <span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href=¿ZT-2510.php'>ZT-2510</a>"
+    },
+    {
+        "link": "pdf/02/ZB-2042-T.pdf",
+        "img": "imagenes/02/ZB-2042-T.png",
+        "modelo": "ZB-2042-T",
+        "descripcion": "M&oacute;dulo de comunicaci&oacute;n inal&aacute;mbrica ZigBee con 6 entradas digitales aisladas y 4 salidas de relevador <br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2042.php'>ZT-2042</a>"
+    },
+    {
+        "link": "ZB-2052.php",
+        "img": "imagenes/02/ZB-2052.jpg",
+        "modelo": "ZB-2052-T",
+        "descripcion": "M&oacute;dulo de comunicaci&oacute;n inal&aacute;mbrica ZigBee con 8 entradas digitales aisladas y contador de 16 bits (Soporta hasta 700m rango de transmisi&oacute;n) <br> <span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2060.php'>ZT-2060</a>"
+    },
+    {
+        "link": "pdf/02/ZB-2053-T.pdf",
+        "img": "imagenes/02/ZB-2053-T.png",
+        "modelo": "ZB-2053-T",
+        "descripcion": "M&oacute;dulo de comunicaci&oacute;n inal&aacute;mbrica ZigBee con 6 entradas digitales aisladas y 4 salidas de relevador<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2060.php'>ZT-2060</a>"
+    },
+    {
+        "link": "pdf/02/ZB-2060.pdf",
+        "img": "imagenes/02/ZB-2060.jpg",
+        "modelo": "ZB-2060-T",
+        "descripcion": "M&oacute;dulo de comunicaci&oacute;n inal&aacute;mbrica ZigBee con 6 entradas digitales aisladas y 4 salidas de relevador<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2060.php'>ZT-2060</a>"
+    },
+    {
+        "link": "ZB-2015-T.php",
+        "img": "imagenes/02/ZB-2015T.jpg",
+        "modelo": "ZB-2015-T",
+        "descripcion": "M&oacute;dulo de comunicaci&oacute;n inal&aacute;mbrica Zigbee con 6 entradas RTD de 3 hilos con eliminaci&oacute;n de resistencia introducida por el cableado<br> <span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomiendan los equipos <a href='ZT-2551.php'>ZT-2551</a> e <a href='I-7015_I-7015G.php'>I-7015</a>"
+    },
+    {
+        "link": "ZB-2017-T.php",
+        "img": "imagenes/02/ZB-2017-T.jpg",
+        "modelo": "ZB-2017-T",
+        "descripcion": "M&oacute;dulo de comunicaci&oacute;n inal&aacute;mbrica Zigbee con 8 entradas anal&oacute;gicas con protecci&oacute;n para alto voltaje<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2017.php'>ZT-2017</a>"
+    },
+    {
+        "link": "ZB-2017C-T.php",
+        "img": "imagenes/02/ZB-2017C-T.jpg",
+        "modelo": "ZB-2017C-T",
+        "descripcion": "M&oacute;dulo de comunicaci&oacute;n inal&aacute;mbrica Zigbee con 8 entradas de corriente con protecci&oacute;n para alto voltaje<br> <span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2017.php'>ZT-2017</a>"
+    },
+    {
+        "link": "ZB-2018-T.php",
+        "img": "imagenes/02/ZB-2018-T.jpg",
+        "modelo": "ZB-2018-T",
+        "descripcion": "M&oacute;dulo de comunicaci&oacute;n inal&aacute;mbrica Zigbee con 8 entradas an&aacute;logas con protecci&oacute;n para alto voltaje<br><span style='color:#F00'>NOTA:</span> producto descontinuado.  Se recomienda el reemplazo <a href='ZT-2017.php'>ZT-2017</a>"
+    },
+    {
+        "link": "PCI-EIC-325.php",
+        "img": "imagenes/01/eic325PCI1.jpg",
+        "modelo": "PCI-EIC-325",
+        "descripcion": "Tarjeta con Encoder de 4 ejes"
+    },
+    {
+        "link": "CIO-PDMA16.php",
+        "img": "imagenes/01/CIO_PDMA16.jpg",
+        "modelo": "CIO-PDMA16",
+        "descripcion": "16 Canales de E/S Digitales de Alta Velocidad<br><span style='color: #F00'><strong>NOTA:</strong></span> producto descontinuado.  Se recomienda el equipo <a href='PCI-DIO24.php'>PCI-DIO24</a> o <a href='prod_device_1024ls.php'>USB-1024LS</a>"
+    },
+    {
+        "link": "CIO-PDMA32.php",
+        "img": "imagenes/01/SM-PDMA16-32.jpg",
+        "modelo": "CIO-PDMA32",
+        "descripcion": "Tarjeta de E/S digitales de 16 bits, de alta velocidad (500 KHz) con bus AT DMA &amp; REp INSW <br> <span style='color: #F00'><strong>NOTA:</strong></span> producto descontinuado.  Se recomienda el equipo <a href='PCI-DIO24.php'>PCI-DIO24</a> o <a href='prod_device_1024ls.php'>USB-1024LS</a>"
+    }
+    ,
+    {
+        "link": "LBJetWave382610.php",
+        "img": "imagenes/JetWave2610.jpg",
+        "modelo": "LBJetWave382610",
+        "descripcion": "Puente IEEE802.11a Inal&aacute;mbrico  para uso en Exteriores"
+    },
+    {
+        "link": "LBJetWave382620.php",
+        "img": "imagenes/JetWave2610.jpg",
+        "modelo": "LBJetWave382620",
+        "descripcion": "Puente IEEE802.11a Inal&aacute;mbrico Dual para uso en Exteriore"
+    },
+    {
+        "link": "LBASU-8024005G.php",
+        "img": "imagenes/80/LBASU-8024005G.png",
+        "modelo": "LBASU-8024005G",
+        "descripcion": "Puente/Repetidor/Access Point Inal&aacute;mbrico para exteriores"
+    },
+    {
+        "link": "pdf/LBEW215302.pdf",
+        "img": "imagenes/16/lbew215302.jpg",
+        "modelo": "LBEW215302",
+        "descripcion": "Puente Ethernet Inal&aacute;mbrico + 2 puertos seriales RS-232/422/485"
+    },
+    {
+        "link": "pdf/LBSW215002.pdf",
+        "img": "imagenes/21/LBSW215002.jpg",
+        "modelo": "LBSW215002",
+        "descripcion": "Convertidor serial inal&aacute;mbrico: 2 puertos RS-232/485/422 a Wi-Fi IEEE802.11g/b"
+    },
+    {
+        "link": "",
+        "img": "imagenes/09/Loggersinalambricos/rfvolt101a.gif",
+        "modelo": "RFVolt101A",
+        "descripcion": "Registrador de Voltaje y Transmisor Inal&aacute;mbrico"
+    },
+    {
+        "link": "",
+        "img": "imagenes/LBCyclops.png",
+        "modelo": "LBCYCLOPS-G37171",
+        "descripcion": "Pantalla Industrial de 17 para montaje en Rack (1U), incluye teclado y touchpad. Conexión por puerto VGA, alimentación de 84 ~ 264 Vac."
+    },
+    {
+        "link": "",
+        "img": "imagenes/LBCyclops.png",
+        "modelo": "LBCYCLOPS-G37191U",
+        "descripcion": "Pantalla Industrial de 19 para montaje en Rack (1U), incluye teclado y touchpad. Conexión por puerto VGA, alimentación de 84 ~ 264 Va"
+    },
+    {
+        "link": "LBTH-73621_TH-622.php",
+        "img": "imagenes/73/LBTH-73621.gif",
+        "modelo": "LBTH-7362x",
+        "descripcion": "Term&oacute;metros digitales de doble entrada"
+    },
+    {
+        "link": "20-1Attenuator.php",
+        "img": "imagenes/07/Automotive/attenuator20.1.jpg",
+        "modelo": "Atenuador 20:1",
+        "descripcion": "Diseñado para permitir que las formas de onda del inyector de combustible y el encendido sean medidas con el osciloscopio"
+    },
+    {
+        "link": "LBSMSQ41.php",
+        "img": "imagenes/41/lbsmsq41.jpg",
+        "modelo": "LBSMS Basic-Q41",
+        "descripcion": "Dispositivo con m&oacute;dulo GSM integrado para notificaci&oacute;n y activaci&oacute;n de alarmas mediante mensajes SMS"
+    },
+    {
+        "link": "DCM220A.php",
+        "img": "imagenes/239/DCM220A.jpg",
+        "modelo": "DCM220A",
+        "descripcion": "El DCM220A es un medidor portátil, portátil pero profesional que cuenta con una pantalla LCD con retroiluminación, protección contra sobrecarga e indicador de batería baja."
+    },
+    {
+        "link": "BCOOL.php",
+        "img": "imagenes/78/bcool-1.jpg",
+        "modelo": "BCOOL",
+        "descripcion": "BCOOL es un Nuevo teclado lavable econ&oacute;mico con teclas con estilo chocolate o tipo isla. Esta belleza compacta incluye un Pad num&eacute;rico o y encaja muy bien en carritos de hospital o soportes de pared."
+    },
+    {
+        "link": "RCK.php",
+        "img": "imagenes/78/really-cool-1.jpg",
+        "modelo": "RCK",
+        "descripcion": "El RCK es un teclado de grado medico resistente al agua y desinfectable con teclas t&aacute;ctiles retroalimentadles."
+    },
+    {
+        "link": "RCKM.php",
+        "img": "imagenes/78/really-cool-m-1.jpg",
+        "modelo": "RCKM",
+        "descripcion": "El teclado RCKM es un teclado a prueba de agua con la &nbsp; plantilla integrada &nbsp; para aplicaciones &nbsp; de MEDITECH. La superficie rigida y sellada es ideal para uso medico, asi como para otras aplicaciones donde la humedad, limpieza y durabiliad son consideradas."
+    },
+    {
+        "link": "RCLP.php",
+        "img": "imagenes/78/rclp-2.jpg",
+        "modelo": "RCLP",
+        "descripcion": "El RCLP presenta teclas de bajo perfil para superficies planas que se limpian como en sue&ntilde;o."
+    },
+    {
+        "link": "RCT.php",
+        "img": "imagenes/78/rctouch-1.jpg",
+        "modelo": "RCT",
+        "descripcion": "Cuando el espacio es escaso, RCT es la respuesta. No se requiere un mouse con estos teclados durables, sellados y a prueba de agua, que le da una cosa menos &nbsp; para limpiar y desinfectar."
+    },
+    {
+        "link": "SLIMC+.php",
+        "img": "imagenes/78/slimcoolplus-1.jpg",
+        "modelo": "SLIMC+",
+        "descripcion": "El SLIMC+ es un teclado de grado medico resistente al agua con un Touchpad integrado. EL Touchpad est&aacute; centrado en el teclado permitiendo a zurdos y derechos escribir e introducir datos de una manera ergon&oacute;mica."
+    },
+    {
+        "link": "SLIMC.php",
+        "img": "imagenes/78/slimcool-1.jpg",
+        "modelo": "SLIMC",
+        "descripcion": "El SLIMC es un teclado de grado medico de 12 pulgadas de largo, resistente al agua y teclas de retroalimentaci&oacute;n t&aacute;ctil. La superficie r&iacute;gida y sellada es ideal para uso industrial, marino y medico, as&iacute; como aplicaciones donde la humedad, la limpieza y la durabilidad son consideradas."
+    },
+    {
+        "link": "UCOOL.php",
+        "img": "imagenes/78/u-cool-1.jpg",
+        "modelo": "UCOOL",
+        "descripcion": "El teclado UCool puede ser enjugado y hasta sumergido en agua. La capacidad del UCool. De ser lavado a fondo reduce la cantidad de g&eacute;rmenes en la superficie y por consiguiente mitiga el riesgo en los usuarios."
+    },
+    {
+        "link": "UCOOLM.php",
+        "img": "imagenes/78/u-cool-m-1.jpg",
+        "modelo": "UCOOLM",
+        "descripcion": "Personalizado con una platilla MEDITECH, UCOOLM ofrece protecci&oacute;n de tierra, g&eacute;rmenes y derrames espec&iacute;ficamente para hospitales y ambientes m&eacute;dicos."
+    },
+    {
+        "link": "LBRTU315010.php",
+        "img": "imagenes/31/LBRTU315010_ch.jpg",
+        "modelo": "LBRTU315010",
+        "descripcion": "El LBRTU315010 es un equipo GSM de control y alarma. Te permite monitorear y controlar una alarma o estaciones remotas via SMS"
+    },
+    {
+        "link": "5101.php",
+        "img": "imagenes/03/5101.jpg",
+        "modelo": "5101",
+        "descripcion": "Tarjeta PCI con interfaces seriales s&iacute;ncronas RS-232, RS-422, RS-485, RS-530, RS-530A, V.35 (utiliza Z16C32)"
+    },
+    {
+        "link": "3612.php",
+        "img": "imagenes/03/3612.jpg",
+        "modelo": "3612",
+        "descripcion": "Tarjeta PCMCIA con Interfaz Serial RS-232, RS-422, RS-485, RS-530, RS-530A, V.35 S (utiliza Z85233)"
+    },
+    {
+        "link": "3502.php",
+        "img": "sealevel/serial-async/pc-104-serial-async/3502.jpg",
+        "modelo": "3502",
+        "descripcion": "Tarjeta PC/104 con Interfaz Serial S&iacute;ncrona RS-232, RS-422, RS-485"
+    },
+    {
+        "link": "3512.php",
+        "img": "imagenes/03/3512.jpg",
+        "modelo": "3512",
+        "descripcion": "Tarjeta PC/104 con Interfaz Serial S&iacute;ncrona RS-232, RS-422, RS-485, RS-530, RS-530A, V.35 (utiliza Z85230)"
+    },
+    {
+        "link": "3514.php",
+        "img": "imagenes/03/3514.jpg",
+        "modelo": "3514",
+        "descripcion": "Tarjeta PC/104-Plus con Interfaz Serial S&iacute;ncrona RS-232, RS-422, RS-485, RS-530, RS-530A, V.35  (utiliza Z16C32)"
+    },
+    {
+        "link": "3540.php",
+        "img": "sealevel/serial-async/pc-104-serial-async/3540.gif",
+        "modelo": "3540",
+        "descripcion": "Tarjeta PC/104-Plus con Interfaz Serial S&iacute;ncrona RS-232, RS-422, RS-485"
+    },
+    {
+        "link": "pdf/16/LBMODEL167301.pdf",
+        "img": "imagenes/16/LBMODEL167301.JPG",
+        "modelo": "LBMODEL167301",
+        "descripcion": "Convertidor de E1 a Fibra &Oacute;ptica, interfaz para multi-modo o mono-modo"
+    },
+    {
+        "link": "LBMODEL161100.php",
+        "img": "imagenes/16/LBMODEL161100.jpg",
+        "modelo": "LBMODEL161100",
+        "descripcion": "UTP (par trenzado) 100Base-TX a se&ntilde;ales &oacute;pticas 100Base-TX y viceversa"
+    },
+    {
+        "link": "",
+        "img": "imagenes/02/NS-115F.jpg",
+        "modelo": "NS-115FC",
+        "descripcion": "Switch de 5 puertos 10/100 Switch con conexión de fibra"
+    },
+    {
+        "link": "",
+        "img": "imagenes/02/NS-115F.jpg",
+        "modelo": "NS-115FC-A C",
+        "descripcion": "Switch de 5 puertos 10/100 Switch con conexión de fibra"
+    },
+    {
+        "link": "Z107FO.php",
+        "img": "imagenes/44/z107fo.jpg",
+        "modelo": "Z107FO",
+        "descripcion": "Convertidor de Fibra óptica multimodo a serial RS232/485"
+    },
+    {
+        "link": "zc107fo.php",
+        "img": "imagenes/44/zc107fo.jpg",
+        "modelo": "ZC107FO",
+        "descripcion": "Convertidor de Fibra óptica multimodo a protocolo CAN"
+    },
+    {
+        "link": "pdf/38/LBJetNet383810G.pdf",
+        "img": "imagenes/38/LBJetNet383810G.jpg",
+        "modelo": "LBJetNet383810G",
+        "descripcion": "Switch Industrial con 8 puertos 10/100 TX Ethernet PoE y 2 puertos 10/100/1000 TX "
+    },
+    {
+        "link": "LBIES16326.php",
+        "img": "imagenes/02/LBIES16326_ch.jpg",
+        "modelo": "LBIES16326",
+        "descripcion": "Switch Industrial con 6 puertos Ethernet 10/100Base-T(X) y 2 puertos para fibra &oacute;ptica 100Base-FX"
+    },
+    {
+        "link": "pdf/LBJetNet385018G.pdf",
+        "img": "imagenes/38/JetNet5018G.gif",
+        "modelo": "LBJetNet385018G",
+        "descripcion": "Switch Ethernet industrial programable, soporta hasta 16 puertos Fast Ethernet y 2 puertos Gigabit. Alimentaci&oacute;n de 12-48 Vdc"
+    },
+    {
+        "link": "pdf/38/LBJetNet385628G.pdf",
+        "img": "imagenes/38/LBJetNet385628G.jpg",
+        "modelo": "LBJetNet385628G",
+        "descripcion": "Switch Ethernet industrial programable, soporta hasta 24 puertos Ethernet o 18 puertos Fibra &oacute;ptica. Alimentaci&oacute;n de 85-264 Vac"
+    },
+    {
+        "link": "pdf/38/LBJetNet385428G.pdf",
+        "img": "imagenes/38/LBJetNet385228G.jpg",
+        "modelo": "LBJetNet385428G",
+        "descripcion": "Switch Ethernet industrial  de 24 puertos Ethernet. Alimentaci&oacute;n de 90-264 Vac"
+    },
+    {
+        "link": "Z-KEY.php",
+        "img": "imagenes/21/Z-KEY-thumbnail.jpg",
+        "modelo": "Z-KEY",
+        "descripcion": "El Z-Key es un dispositivo de comunicación con funciones de Puente de Red"
+    },
+    {
+        "link": "pdf/21/LBGW2151C_MAXI.pdf",
+        "img": "imagenes/21/LBGW2151C_MAXI.jpg",
+        "modelo": "LBGW2151C_MAXI",
+        "descripcion": "Convertidor Ethernet 10/100 a serial RS-232/485/422"
+    },
+    {
+        "link": "LBGWY-77610-B.php",
+        "img": "imagenes/77/LBGWY-77610-B.jpg",
+        "modelo": "LBGWY-77610-B",
+        "descripcion": "Convertidor de protocolo Ethernet sobre Modbus TCP/IP (cliente/servidor) a protocolo serial RS232/485/422"
+    },
+    {
+        "link": "pdf/21/LBMB215302.pdf",
+        "img": "imagenes/21/LBMB215302_ch.jpg",
+        "modelo": "LBMB215302",
+        "descripcion": "Convertidor de protocolo Modbus RTU a Modbus TCP, con 2 puertos seriales RS-232/422/485 y 2 puertos Ethernet 10/100"
+    },
+    {
+        "link": "",
+        "img": "imagenes/02/PDS.jpg",
+        "modelo": "DS-712",
+        "descripcion": "Servidor / Convertidor Ethernet 10/100 a serial RS232"
+    },
+    {
+        "link": "pdf/LBSE215002.pdf",
+        "img": "imagenes/21/LBSE215002.jpg",
+        "modelo": "LBSE215002",
+        "descripcion": "Convertidor Ethernet 10/100 a 2 puertos seriales RS232/485/422"
+    },
+    {
+        "link": "LBNP16313A.php",
+        "img": "imagenes/16/LBNP16313A.jpg",
+        "modelo": "LBNP16313A",
+        "descripcion": "Convertidor Ethernet a 4 puertos RS232. Incluye fuente de alimentaci&oacute;n"
+    },
+    {
+        "link": "LBNP16314B.php",
+        "img": "imagenes/16/np314A.jpg",
+        "modelo": "LBNP16314B",
+        "descripcion": "Servidor serial de 8 puertos RS-485/422"
+    },
+    {
+        "link": "LBNP16315A.php",
+        "img": "imagenes/16/LBNP315A.jpg",
+        "modelo": "LBNP16315A",
+        "descripcion": "Servidor serial de 16 puertos RS-232"
+    },
+    {
+        "link": "lbusb16485b.php",
+        "img": "imagenes/16/LBUSB16485B.jpg",
+        "modelo": "LBUSB16485B",
+        "descripcion": "El LBUSB16485B es un convertidor industrial inteligente que permite tener un puerto RS-485 conectado a través de un puerto USB de una computadora"
+    },
+    {
+        "link": "lbusb16485c.php",
+        "img": "imagenes/16/usb485c.jpg",
+        "modelo": "LBUSB16485C",
+        "descripcion": "El LBUSB16485C es un convertidor industrial inteligente que permite tener un puerto RS-485/422 conectado a través de un puerto USB de una computadora"
+    },
+    {
+        "link": "",
+        "img": "imagenes/03/7103.jpg",
+        "modelo": "7103",
+        "descripcion": "Tarjeta PCI. Provee un puerto con aislamiento configurable para RS&shy;232, RS-422, o RS-485"
+    },
+    {
+        "link": "7105.php",
+        "img": "imagenes/03/7105.jpg",
+        "modelo": "7105",
+        "descripcion": "Tarjeta PCI. Provee un puerto configurable para RS-422, RS-485, o RS-530"
+    },
+    {
+        "link": "",
+        "img": "imagenes/03/7203.jpg",
+        "modelo": "7203",
+        "descripcion": "Tarjeta PCI. Provee 2 puertos &oacute;pticamente aislados configurables para RS&shy;232, RS-422, o RS-485"
+    },
+    {
+        "link": "",
+        "img": "imagenes/03/7402.jpg",
+        "modelo": "7402",
+        "descripcion": "Tarjeta PCI. Provee 4 puertos configurables para RS-422 or RS-485"
+    },
+    {
+        "link": "",
+        "img": "imagenes/03/7404.jpg",
+        "modelo": "7404",
+        "descripcion": "Tarjeta PCI. Provee 4 puertos  configurables para RS-232, RS-422, or RS-485"
+    }
+
+
+    ]
+}

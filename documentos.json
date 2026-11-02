@@ -1,0 +1,244 @@
+{
+    "activos": [
+        {
+            "link": "documentacion/pdf/Catalogo.pdf",
+            "img": "documentacion/Catalogo.jpg",
+            "titulo": "Catálogo Logicbus",
+            "descripcion": "Catálogo de productos de Logicbus - edición 2015"
+        },
+        {
+            "link": "pdf/catalogos/LINE-CARD-WEB.pdf",
+            "img": "pdf/catalogos/line-card2023.jpg",
+            "titulo": "LineCard",
+            "descripcion": "LineCard de nuestras marcas Top"
+        },
+        {
+            "link": "pdf/36/FUTEK-catalogo-completo.pdf",
+            "img": "pdf/Portada-Futek-Catalogo-completo.jpg",
+            "titulo": "Catálogo de Sensores de Fuerza marca Futek",
+            "descripcion": "Catálogo de equipos de la marca Futek:  Celdas de carga, sensores de torque, sensores multieje, sensores de presión, instrumentación, software y calibraciones."
+        },
+        {
+            "link": "pdf/36/FUTEK-APLICACIONES.pdf",
+            "img": "pdf/Portada-Futek-Aplicaciones.jpg",
+            "titulo": "Aplicaciones de celda de carga, sensores de torque y sensores de presión de Futek",
+            "descripcion": "Aplicaciones con productos de la marca Futek, conoce mas sobre como implementar proyectos con celdas de carga, sensores de torque, transmisores de peso y acondicionadores de señal."
+        },
+        {
+            "link": "pdf/catalogos/Catalogo-Laumas-ESP.pdf",
+            "img": "pdf/catalogos/Catalogo-Laumas-ES.jpg",
+            "titulo": "Catálogo de productos de Laumas sensores de fuerza e instrumentación de pesaje.",
+            "descripcion": "En este catalogo conoceras los productos que ofrece la marca Laumas como son Instrumentos de medición, Celdas de carga, accesorio de montaje y accesorios complementarios."
+        },
+        {
+            "link": "pdf/catalogos/Catalogo-MCC-Adquisicion-de-Datos-ESP.pdf",
+            "img": "pdf/catalogos/Catalogo-MCC-Adquisicion-de-Datos-ESP.JPG",
+            "titulo": "Adquisicion de datos - MCC",
+            "descripcion": "Adquisición de datos (DAQ) para una amplia gama de aplicaciones e interfaces, hardware, software y controladores de alta calidad para una solución rápida y personalizable para su aplicación única."
+        },
+        {
+            "link": "pdf/catalogos/Robots-colaborativos.pdf",
+            "img": "pdf/catalogos/Robots-colaborativos.jpg",
+            "titulo": "Robots colaborativos",
+            "descripcion": "Guía para Robots colaborativos"
+        },
+        {
+            "link": "pdf/catalogos/RTA-Convertidores-ESP.pdf",
+            "img": "pdf/catalogos/RTA-Convertidores-ESP.JPG",
+            "titulo": "Catálogo de convertidores protocolos - RTA",
+            "descripcion": "Guía de convertidores de protocolos, ASCII, USB, Ethernet TCP / IP, BACnet / IP, Modbus TCP / IP, Modbus RTU"
+        },
+        {
+            "link": "pdf/catalogos/Catalogo-sensores-Tri-tronics.pdf",
+            "img": "pdf/catalogos/GUIA.png",
+            "titulo": "Catálogo sensores Tri-tronics",
+            "descripcion": "Sensores fotoelectricos, sensor de etiquetas, sensor de contraste,  sensor reflectivo."
+        },
+        {
+            "link": "pdf/catalogos/SeaLevel-Catalogo-ESP.pdf",
+            "img": "pdf/catalogos/SeaLevel-Catalogo-ESP.JPG",
+            "titulo": "Catálogo SeaLevel - HUBs Industriales",
+            "descripcion": "Sealevel ofrece productos de hardware y software innovadores y fiables para permitir la conectividad y el control de la computadora. 300 productos de E/S estándar con registro ISO 9001: 2015 y garantía estándar de por vida."
+        },
+        {
+            "link": "pdf/catalogos/siglent-products-catalog-logicbus.pdf",
+            "img": "pdf/catalogos/Catalog-Siglent.JPG",
+            "titulo": "Siglent Technologies Product Catalog",
+            "descripcion": "Digital Oscilloscope, Waveform Generator,DC Power Supply, DC Electronic Load, Digital Multimeter, RF Signal Generator, Spectrum Analyzer,Real-Time Spectrum Analyzer, Spectrum & Vector Network Analyzer, Handheld Oscilloscope, Probes & Accessories "
+        },
+        {
+            "link": "pdf/catalogos/siglent-products-selection-guide-logicbus.pdf",
+            "img": "pdf/catalogos/Selection-Guide-Siglent.JPG",
+            "titulo": "Siglent Product Selection Guide",
+            "descripcion": "The Best Value in Electronic Test & Measurement - Digital Oscilloscope, Handheld Oscilloscope, Waveform Generator, RF Signal Generator, Spectrum Analyzer, Spectrum & Vector Network Analyzer, DC Products, Digital Multimeter, Probes & Accessories"
+        },
+        {
+            "link": "pdf/catalogos/Productos-MCC.pdf",
+            "img": "documentacion/Productos_MCC.jpg",
+            "titulo": "Measurement Computing Products",
+            "descripcion": "Measurement Computing Product Catalog"
+        },
+        {
+            "link": "pdf/catalogos/Applied-Motion.pdf",
+            "img": "pdf/catalogos/applied-motion.PNG",
+            "titulo": "Servo motors and stepper motors catalog",
+            "descripcion": "Servo Motors, Stepper Motors, Customized Drive and Motor Solutions"
+        },
+        {
+            "link": "pdf/catalogos/Catalog-Calex-ENG.pdf",
+            "img": "pdf/catalogos/catalog-calex-eng.JPG",
+            "titulo": "Calex sensors catalog",
+            "descripcion": "Infrared temperature sensors, Pyrometers for industrial applications, Infrared temperature sensor with analog output "
+        },
+        {
+            "link": "pdf/catalogos/Cincoze%20Catalog%20V2.1%2020180418(EN).pdf",
+            "img": "pdf/catalogos/Catalogo_Cincoze.jpg",
+            "titulo": "Industrial Computers - CINCOZE",
+            "descripcion": "Rugged fanless computer, convertible embedded system, industrial panel PC and industrial touch monitor with CDS technology"
+        },
+        {
+            "link": "pdf/catalogos/Cincoze_Product%20Selection%20Guide.pdf",
+            "img": "pdf/catalogos/Guide_Cincoze.jpg",
+            "titulo": "Industrial Computers Product Selection Guide",
+            "descripcion": "Rugged fanless computer, convertible embedded system, industrial panel PC and industrial touch monitor with CDS technology"
+        },
+        {
+            "link": "pdf/catalogos/Application-Note-datalogger-EN-12830-04B-EN.pdf",
+            "img": "pdf/catalogos/Application-Note-datalogger-EN-12830-04B-EN.JPG",
+            "titulo": "Ela innovation data loggers - wireless industrial sensors and beacons",
+            "descripcion": "Wireless industrial sensors and beacons to identify, locate and measure using bluetooth, RFID and other technologies"
+        },
+        {
+            "link": "pdf/catalogos/Catalogo-PLC-Fatek-ENG.pdf",
+            "img": "pdf/catalogos/catalogo-plc-fatek-eng.JPG",
+            "titulo": "PLC Fatek Catalog ",
+            "descripcion": "PLCs, HMIs, SCADA, IoT services"
+        },
+        {
+            "link": "pdf/catalogos/Full_Product_Catalog_ICPDAS.pdf",
+            "img": "pdf/catalogos/Full_Product_Catalog_ICPDAS.JPG",
+            "titulo": "Industrial Control and Communication PDF - ICPDAS",
+            "descripcion": "Advanced remote I/O controllers, distributed I/O modules and I/O data acquisition boards."
+        },
+        {
+            "link": "pdf/catalogos/Remote_IO-ICPDAS.pdf",
+            "img": "pdf/catalogos/Remote_IO-ICPDAS.JPG",
+            "titulo": "Remote I/O Modules and, I/O Expansion Units - ICPDAS",
+            "descripcion": "Remote I/O Modules and I/O expansion unitS, RS-485, FRnet, CAN Bus, HART, power monitor and managment solution, WISE I/O modules"
+        },
+        {
+            "link": "pdf/catalogos/IOC-ICPDAS.pdf",
+            "img": "pdf/catalogos/IOC-ICPDAS.JPG",
+            "titulo": "PC-based I/O Boards PDF - ICPDAS",
+            "descripcion": "PC-based I/O boards catalog, high-quality industrial data, acquisition and control products"
+        },
+        {
+            "link": "pdf/catalogos/Fieldbus-ICPDAS.pdf",
+            "img": "pdf/catalogos/Fieldbus-ICPDAS.JPG",
+            "titulo": "Industrial Fieldbus Product PDF -  ICPDAS",
+            "descripcion": "Insdustrial Fieldbus, industrial ethernet, CAN Bus, PROFIBUS, HART, M-Bus"
+        },
+        {
+            "link": "pdf/catalogos/PAC-ICPDAS.pdf",
+            "img": "pdf/catalogos/PAC-ICPDAS.JPG",
+            "titulo": "PAC Products PDF - ICPDAS",
+            "descripcion": "Compact PAC, ViewPAC, MotionPAC, I/O expansion units, redundant system"
+        },
+        {
+            "link": "pdf/catalogos/registradores-de-datos-logicbus.pdf",
+            "img": "pdf/catalogos/graficadores-de-datos.jpg",
+            "titulo": "Logicbus data loggers",
+            "descripcion": "Temperature controller, temperature profiling controller, temperature limit controller, board type temperature controller, analog temperature controller, piping controller, paperless recorder"
+        },
+        {
+            "link": "pdf/catalogos/swirtches-industriales-ethenert-logicbus.pdf",
+            "img": "pdf/catalogos/switches-ethernet-logicbus.jpg",
+            "titulo": "Swirtches industriales ethenert - Logicbus",
+            "descripcion": "Swirtches industriales ethenert - Logicbus"
+        },
+        {
+            "link": "pdf/catalogos/USA/Catalog-MCC-acquisition-of-Data-ENG.pdf",
+            "img": "pdf/catalogos/Catalog-MCC-acquisition-of-Data-ENG.JPG",
+            "titulo": "MCC - Data acquisition",
+            "descripcion": "Data acquisition for a wide range of applications and high-quality interfaces, hardware, software and drivers for a fast and customizable solution for your unique application."
+        },
+        {
+            "link": "pdf/catalogos/ODA-Product.pdf",
+            "img": "pdf/catalogos/ODA-Product.JPG",
+            "titulo": "Power electronic measuring instruments - ODA",
+            "descripcion": "Power electronic measuring instruments, switching type programmable DC power supply(4-Digit), linear type programmable DC power supply, linear type programmable DC electronic load."
+        },
+        {
+            "link": "pdf/catalogos/Catalogo-Encoders-ESP.pdf",
+            "img": "pdf/catalogos/catalogo-encoders-esp.JPG",
+            "titulo": "Catálogo Encoders",
+            "descripcion": "Encoders,  shaft encoders, hollow shaft, wheel, absolute, accesories."
+        },
+        {
+            "link": "pdf/catalogos/USA/Picotech-catalogo.pdf",
+            "img": "pdf/catalogos/Picotech-catalogo.JPG",
+            "titulo": "PC Oscilloscope and Data Loggers Productos - Pico Technology",
+            "descripcion": "PC Oscilloscopes, Radio Frequency Products and Accessories, PICO data Logger / Data Acquisition Range"
+        },
+        {
+            "link": "pdf/catalogos/RTA-Convertidores-ENG.pdf",
+            "img": "pdf/catalogos/RTA-Convertidores-ENG.JPG",
+            "titulo": "Protocol converters catalog - RTA",
+            "descripcion": "Guide to Protocol Converters, ASCII, USB, Ethernet TCP / IP, BACnet / IP, Modbus TCP / IP, Modbus RTU"
+        },
+        {
+            "link": "pdf/catalogos/SeaLevel-Catalogo-ENG.pdf",
+            "img": "pdf/catalogos/SeaLevel-Catalogo-ENG.JPG",
+            "titulo": "SeaLevel Catalog - Industrial HUBs",
+            "descripcion": "Sealevel provides innovative, reliable hardware and software products to enable computer connectivity and control. More than 300 standard I/O products with ISO 9001: 2015 registration and a standard lifetime warranty."
+        },
+        {
+            "link": "pdf/catalogos/seneca_en_1810en_r2.pdf",
+            "img": "pdf/catalogos/seneca_en_1810en_r2.jpg",
+            "titulo": "Automation interfaces general catalog - Seneca",
+            "descripcion": "Signal conditioning, acquisition data and automation, industrial communication and remote control, energy and electric measurements, panel and measurement instrumentation"
+        },
+        {
+            "link": "pdf/catalogos/catalog-of-references-remote-control-and-remote-assist-eng.pdf",
+            "img": "pdf/catalogos/catalog-of-references-remote-control-and-remote-assist-eng.jpg",
+            "titulo": "Industrial aplications catalog - Seneca",
+            "descripcion": "Remote assistance and remote control with vpn/iot technology, water treatment,  energy efficiency, infrastructures, automatic machines"
+        },
+        {
+            "link": "pdf/catalogos/Robots-Colaborativos-ENG.pdf",
+            "img": "pdf/catalogos/Robots-Colaborativos-ENG.jpg",
+            "titulo": "Colaborative robots ",
+            "descripcion": "Guide for colaborative robots "
+        },
+        {
+            "link": "pdf/catalogos/USA/Catalog-Smartray-ENG.pdf",
+            "img": "pdf/catalogos/USA/Catalog-Smartray-ENG.JPG",
+            "titulo": "Artificial vision camera",
+            "descripcion": "Artificial vision camera"
+        },
+        {
+            "link": "pdf/catalogos/USA/SmartRay-Applications.pdf",
+            "img": "pdf/catalogos/USA/SmartRay-Applications.JPG",
+            "titulo": "Artificial vision camera applications",
+            "descripcion": "Artificial vision camera applications"
+        },
+        {
+            "link": "pdf/Teracom/Catalog-TERACOM.pdf",
+            "img": "pdf/Teracom/Catalog-TERACOM.jpg",
+            "titulo": "Remote monitoring and control - Teracom",
+            "descripcion": "Controllers over Ethernet networks, controllers for remote monitoring through mobile networks, sensors, detectors and transmitters"
+        },
+        {
+            "link": "pdf/catalogos/Catalogo-encoders-Tri-tronics.pdf",
+            "img": "pdf/catalogos/Encoders.png",
+            "titulo": "Catálogo encoders Tri-tronics",
+            "descripcion": "Encoders, shaft encoders, hollow shaft encoders, wheel encoders, absolute encoders."
+        },
+        {
+            "link": "pdf/catalogos/WINSONIC%20ME%CC%81XICO-catalogo-de-equipos.pdf",
+            "img": "pdf/catalogos/winsonic-mexico.jpg",
+            "titulo": "Industrial Monitors and Panel PC",
+            "descripcion": "Industrial Monitors and Panels PCs with different IP protections (IP65, IP66, IP67) and different sizes."
+        }
+    ]
+}

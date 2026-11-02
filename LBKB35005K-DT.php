@@ -1,0 +1,238 @@
+<?
+include("libreria/libreria.php");
+?>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="es">
+
+<head>
+    <title>Teclado industrial LBKB35005K-DT &#9474; Logicbus</title>
+    <meta name="description"
+    content="Teclado en español metalico antivandalico de acero inoxidable de 106 teclas (incluye tecla ñ y teclas de funciones) con trackball. Proteccion: IP65; NEMA4X. Interfaz: USB. Tipo de Montaje: Montaje posterior. Carcasa de aleacion de aluminio">
+
+    <meta name="keywords"
+    content="LogicBus, M&eacute;xico, Mexico, Guadalajara, Argentina, Chile, Brasil, LabView, Automatizaci&oacute;n, Automatizacion, Seguridad,  Consultor&iacute;a, Consultoria, Integraci&oacute;n, Integracion, Proyecto, Radio Frecuencia, Cubos, An&aacute;lisis, Analisis, Datos, Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Distrito Federal, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Estado de M&eacute;xico, Estado de Mexico, Michoac&aacute;n, Michoacan, Morelos, Nayarit, Nuevo Le&oacute;n, Nuevo Leon, Oaxaca, Puebla, Quer&eacute;taro, Queretaro, Quintana Roo, San Luis Potos&iacute;, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucat&aacute;n, Yucatan, Zacatecas, Argentina, Chile, Brasil, Measurement, Adquisici&oacute;n, Adquisicion, Control, Modbus, RS-485, TM-AD8, TM Tiny, Datos, icpdas">
+    <meta name="revisit after" content="14 days">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Page-Enter" content="revealTrans(Duration=0.5,Transition=12)">
+    <meta http-equiv="Page-Exit" content="revealTrans(Duration=0.5,Transition=12)">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <!--- Estilos Necesarios-->
+    <link rel="stylesheet" type="text/css" href="libreria/estilos.css">
+    <link rel="stylesheet" type="text/css" href="libreria/subcategorias.css">
+    <link rel="stylesheet" type="text/css" href="libreria/menu-categorias.css">
+    <link rel="stylesheet" type="text/css" href="libreria/menu-movil.css">
+    <link rel="stylesheet" type="text/css" href="libreria/marcas.css">
+    
+
+    <link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="libreria/ie-emulation-modes-warning.js"></script>
+    <script language="javascript">
+
+        function menu_actual() {
+            document.getElementById("productos").className = "dropdown active";
+        };
+    </script>
+
+    <style>
+        * a {
+            cursor: pointer;
+        }
+    </style>
+
+</head>
+
+<body onLoad="menu_actual();">
+
+    <?
+    arriba();
+    ?>
+
+    <div id="main">
+        <div class="gridContArriba">
+            <div class="griditemContA">
+                <?
+                menucategorias();
+                ?>
+            </div>
+            <div class="griditemContA">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                    <a href="../productos">Productos</a>-&gt;<a href="../industrial_computing">Computadoras
+                    industriales</a>-&gt;<a href="teclados_indice">Teclados</a> -&gt;LBKB35005K-DT
+
+                    <h1>LBKB35005K-DT</h1>
+
+                    <div align="center">
+                        <img src="imagenes/35/LBKB35005K-DT.jpg" alt="LBKB35005K-DT" width="200" class="image_productos"
+                        alt="TochPad LBKB35005K-DT" title="TochPad LBKB35005K-DT"><br>
+                        <br><b style="color: red;">DESCONTINUADO</b><br>
+                        <b>Reemplazo para este teclado:<a style="color:#24537B;" href="https://tienda.logicbus.com.mx/LBD-2988605_p_31777.html">LBD-2988605</a></b>
+                        <nav class="navMenuSuper">
+                            <ul>
+                                <li>
+                                    <a href="https://tienda.logicbus.com.mx/LBKB35005K-DT_p_11916.html" target="_blank">Ver en Tienda</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+
+                    <center>Teclado en español metalico antivandalico de acero inoxidable de 106 teclas (incluye tecla ñ
+                        y teclas de funciones) con trackball. Proteccion: IP65; NEMA4X. Interfaz: USB. Tipo de Montaje:
+                    Montaje posterior. Carcasa de aleacion de aluminio</center>
+
+                    <strong>Panel de acero inoxidable</strong><br>
+
+                    <p>Los teclados est&aacute;n hechos de acero inoxidable de calidad "A", lo que garantiza que el
+                    teclado pueda usarse en condiciones muy dif&iacute;ciles.</p>
+
+                    <strong>Panel IP65</strong><br>
+                    <p>Todos los teclados pasan la prueba IP65 y son aprobados.</p>
+
+                    Aplicaciones:
+                    <ul>
+                        <li>Kiosco de autoservicio.</li>
+                        <li>Sistema de PC industrial.</li>
+                        <li>Industria m&eacute;dica y alimentaria.</li>
+                        <li>M&aacute;quina de juego y m&aacute;quina expendedora.</li>
+                        <li>Navegaci&oacute;n y aviaci&oacute;n.</li>
+                        <li>M&aacute;quina CNC y otros equipos de f&aacute;brica.</li>
+                    </ul>
+                    <br><br>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="divCentrado">
+        <div align="center">
+                <table width="80%" align="center" style="border: 1px solid black;" cellpadding="0" cellspacing="0">
+                <tr  bgcolor=" #FFAD33">
+                    <td colspan="2" align="center" style="border: 1px solid black;"><strong>INFORMACION
+                    GENERAL</strong></td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">Nivel
+                    de protecci&oacute;</td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">IP65;
+                    NEMA4X</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">Vida
+                    &uacute;til</td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">> 5
+                    a&ntilde;os.</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    Interfaz</td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">
+                    USB,PS2 disponible.</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    Voltaje de alimentaci&oacute;n </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF"> + 5V
+                    DC + /- 5% </td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    Temperatura de funcionamiento </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">-10C
+                    a + 60C</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    Temperatura de almacenamiento </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF"> -20C
+                    a + 70C. </td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    Dimensiones del panel: </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">502
+                    mm x 164 mm. </td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">A
+                    prueba de</td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">
+                    polvo, a prueba de agua, resistencia al vandalismo</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">N.0
+                    de llaves </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">106
+                    llaves, acero inoxidable de alta calidad.</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    Diámetro de la bola de la pista </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">38 mm
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    Tecnolog&iacute;a de interruptor de llave </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">
+                    elemento de conmutaci&oacute;n de silicona</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    Interruptor de vida &uacute;til</td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF"> > 5
+                    millones de operaciones.</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    Fuerza de accionamiento / viaje </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">1N /
+                    2.0mm </td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    recubrimiento </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">
+                    aleaci&oacute;n de aluminio</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">
+                    Letras </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">
+                    leyendas grabadas con l&aacute;ser para una excelente durabilidad</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">G.W .
+                    </td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">
+                    3.80kg.</td>
+                </tr>
+                <tr>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#CCCCCC">La
+                    versi&oacute;n y la interfaz de todos los idiomas</td>
+                    <td colspan="1" style="border: 1px solid black;" valign="middle" bgcolor="#FFFFFF">
+                    est&aacute;n disponibles a pedido.</td>
+                </tr>
+            </table>
+        </div>
+        <br><br>
+        <div align="center"><strong>Unboxing: Teclados Industriales LBSK35303 y LBKB35005K-DT</strong>
+            <div class="col-12 col-md-6 mt-5">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XMfQ-yWoXDw"
+                width="90%" height="200"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+                loading="lazy"></iframe>
+            </div>
+        </div>
+        <br><br>
+    </div>
+    <?
+    abajo();
+    ?>
+</body>
+
+</html>

@@ -1,0 +1,72 @@
+{
+    "activos": [
+     {
+        "link": "control-remoto-computarizado-para-gestion-de-flotas-comerciales-transporte-publico.php",
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/flotas-comerciales-y-transporte-publico-portada.jpg",
+        "titulo": "Control remoto computarizado para la gestión de flotas comerciales y transporte público",
+        "descripcion": "Las computadoras industriales son el centro de administración para la conexión y el monitoreo de información en el vehículo, lo que permite la transmisión de información, el análisis de fallas y el monitoreo de seguridad."
+    },
+    {
+        "link":"sistemas-inteligentes-de-gestion-de-energia.php", 
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/sistemas-inteligentes-de-gestion-de-la-energia-portada.jpg",
+        "titulo": "Sistemas inteligentes de gestión de energía",
+        "descripcion": "Los sistemas inteligentes de gestión de la energía están impulsando el desarrollo futuro del control de la seguridad energética. Ya sea energía eólica, nuclear o solar."
+    },
+    {
+        "link":"almacenes-inteligentes-y-computadoras-industriales.php",
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/almacenes-inteligentes-y-computadoras-industriales-portada.jpg",
+        "titulo": "Almacenes inteligentes y computadoras industriales",
+        "descripcion":"El almacén y la logística inteligentes son un desarrollo importante en los últimos años. El llamado almacén inteligente se refiere a varios sensores, identificación por radiofrecuencia RFID, comunicación de red, GPS y otros métodos combinados."
+    },
+    {
+        "link":"implementacion-de-sistema-de-rayos-x-de-cuerpo-completo-en-aeropuertos.php",
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/gm-1000-para-sistema-de-escaner-de-rayos-x-de-cuerpo-completo-portada.jpg",
+        "titulo": "Implementación de sistema de rayos x de cuerpo completo en aeropuertos",
+        "descripcion":"Los escáneres de cuerpo completo con radiación de rayos X están disponibles para complementar los detectores de metales existentes y las búsquedas manuales."
+    },
+    {
+        "link":"procesamiento-y-reconocimiento-de-imagenes-en-tiempo-real.php",
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/seguridad-y-vigilancia-portada.jpg",
+        "titulo": "Procesamiento y reconocimiento de imágenes en tiempo real",
+        "descripcion":"La seguridad y la vigilancia toman la entrada de video de las cámaras de vigilancia, devuelven esos datos al host de la computadora para el procesamiento y el reconocimiento de imágenes en tiempo real, y los muestran en un monitor."
+    },
+    {
+        "link":"computadoras-industriales-para-control-y-manejo-de-industria-ferroviaria.php",
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/computacion-ferroviaria-portada.jpg",
+        "titulo": "Computadoras Industriales para control y manejo de industria ferroviaria",
+        "descripcion":"El tránsito ferroviario abarca todos los modos de transporte ferroviario, incluido el tren de cercanías, el tránsito rápido, el metro y el tren ligero."
+    },
+    {
+        "link":"gestion-y-control-de-trafico-en-ciudades-inteligentes.php",
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/transporte-inteligente-portada.jpg",
+        "titulo": "Gestión y control de tráfico en ciudades inteligentes",
+        "descripcion":"El transporte inteligente utiliza tecnología avanzada para combinar sistemas con sensores, computación, control, GPS y transmisión inalámbrica en tiempo real para mejorar la seguridad, la eficiencia y el servicio del sistema de tráfico y mejorar la experiencia del usuario."
+    },
+    {
+        "link":"computadoras-industriales-para-kioskos-modernos.php",
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/kioskos-al-aire-libre-portada.jpg",
+        "titulo": "Computadoras Industriales para kioskos modernos",
+        "descripcion":"Los quioscos modernos utilizan computadoras para una mejor experiencia de autoservicio. Gracias a los desarrollos recientes en IoT, las aplicaciones de kiosco se dividen en dos categorías principales."
+    },
+    {
+        "link":"las-maquinas-inteligentes-y-su-ayuda-en-los-procesos-industriales.php",
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/maquinas-inteligentes-en-procesos-industriales-portada.jpg",
+        "titulo": "Las máquinas inteligentes y su ayuda en los procesos industriales",
+        "descripcion":"Las máquinas inteligentes se refieren a equipos mecánicos que integran tecnologías de autogestión como predicción de fallas, medición de precisión, entre otras."
+    }
+    ,
+    {
+        "link":"vision-artificial-y-la-captura-de-imagenes.php",
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/vision-artificial-captura-de-imagenes-portada.jpg",
+        "titulo": "Visión artificial y la captura de imágenes",
+        "descripcion":"La visión artificial se refiere a capturar imágenes a través de lentes y sensores y luego enviarlas a una computadora industrial para su procesamiento y análisis."
+    }
+    ,
+    {
+        "link":"las-fabricas-inteligentes-en-la-industria.php",
+        "img": "images/seccion-de-aplicaciones/computadoras-industriales/las-fabricas-inteligentes-en-la-industria-portada.jpg",
+        "titulo": "Las fábricas inteligentes en la industria",
+        "descripcion":"Las fábricas inteligentes son totalmente autosuficientes, autónomas, utilizan procesos de producción automatizados y admiten la comunicación entre máquinas."
+    }
+    ]
+}

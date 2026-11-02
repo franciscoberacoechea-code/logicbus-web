@@ -1,0 +1,229 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<?
+include("libreria/libreria.php");
+$actual_link = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
+?>
+
+
+<html lang="es">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <link rel = "alternate" href = "https://www.logicbus.com.mx/" hreflang = "es" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31533636-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-31533636-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 1007518778 -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1007518778"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'AW-1007518778');
+</script>
+<title>Logicbus/ Productos/ USB/ Tarjetas DAQ/ E/S Digitales/ Paralelas/ 462U
+</title>
+<meta name="description" content=" Módulo USB (Modbus RTU) 462U con 96 entradas y salidas TTL">
+<meta name="keywords" content="LogicBus, M&eacute;xico, Mexico, Guadalajara, Argentina, Chile, Brasil, Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Distrito Federal, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Estado de Mxico, Estado de Mexico, Michoacn, Michoacan, Morelos, Nayarit, Nuevo Len, Nuevo Leon, Oaxaca, Puebla, Quertaro, Queretaro, Quintana Roo, San Luis Potos, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatn, Yucatan, Zacatecas, electronica, digital, laboratorio, Adquisici&oacute;n, Adquisicion, Datos, 462U, USB">
+<meta name="revisit after" content="14 days">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Page-Enter" content="revealTrans(Duration=0.5,Transition=12)">
+<meta http-equiv="Page-Exit" content="revealTrans(Duration=0.5,Transition=12)">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="shortcut icon" href="images/favicon.ico">
+<link href="libreria/diagramas.css" rel="stylesheet" >
+<!--- Estilos Necesarios-->
+<link rel="stylesheet" type="text/css" href="libreria/estilos.css">
+<link rel="stylesheet" type="text/css" href="libreria/subcategorias.css">
+<link rel="stylesheet" type="text/css" href="libreria/menu-categorias.css">
+<link rel="stylesheet" type="text/css" href="libreria/menu-movil.css">
+<link rel="stylesheet" type="text/css" href="libreria/marcas.css">
+<!-- -->
+<link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="libreria/ie-emulation-modes-warning.js"></script>
+<script language="javascript">
+
+function menu_actual(){
+  document.getElementById("productos").className = "dropdown active";
+};
+</script>
+
+<style>
+* a{
+  cursor: pointer;
+}
+</style>
+</head>
+<body onLoad="menu_actual();">
+  <?
+    arriba();
+  ?>
+
+<div id="main">
+  <div class="gridContArriba">
+    <div class="griditemContA">
+      <?
+        menucategorias();
+      ?>
+    </div>
+    <div class="griditemContA" id="subir">
+
+
+<td><a href="productos">Productos</a>-&gt;<a href="usb_categorias">USB</a>-&gt;<a href="tarjetaDAQ">Tarjetas DAQ</a>-&gt;<a href="usb_ES_digital">E/S Digitales</a>-&gt;<a href="usb_daq5">Paralelas</a>-&gt;462U</td>
+<center>
+<h1 style="text-align:center;"><br>462U</h1>
+
+  <div class="cardSubA"> 
+        <center>
+          <a href="https://tienda.logicbus.com.mx/462U_p_5164.html" alt="Módulo USB 462U" title="Ir a Tienda Logicbus" target="_blank">
+            <img src="imagenes/03/463U.jpg"  alt="Módulo USB 462U" title="Módulo USB 462U" width="200px">
+          </a>
+        </center><br>
+        <a href="https://tienda.logicbus.com.mx/462U_p_5164.html" alt="Módulo USB 462U" title="Ir a Tienda Logicbus" target="_blank"><p class="subTitulo">462U</p></a>
+        <div class="">
+          <p align="justify"></p>
+          <a href="https://tienda.logicbus.com.mx/462U_p_5164.html" alt="Ir a tienda Logicbus" title="Ir a Tienda Logicbus" target="_blank"><img src="images/shopping_cart.png" alt="Ir a tienda Logicbus" title="Ir a Tienda Logicbus" width="20%"></a>
+        </div><br>
+      </div>
+</center>
+
+<div align="center">
+</div>
+<br>
+<center>
+<p align="justify">Controle y monitoree hasta 96 canales de E/S digital de unidad con búfer a través de cualquier conexión USB con el SeaI/O-462U. El módulo de interfaz direcciona los 96 canales de E/S como 12 puertos de ocho bits , cada uno programable como entrada o salida. Con los cables blindados incluidos (N.º de artículo CA237), conecte hasta cuatro bastidores de relés estándar de la industria para el control y la automatización basados ​​en PC de equipos, incluidos sensores, interruptores, sistemas de control de seguridad y otros sistemas de automatización industrial. El SeaI/O-462U recibe alimentación de su fuente de 9-30 V CC, o seleccione entre una variedad de opciones de fuente de alimentación Sealevel.</p>
+<br><p align="justify">Comuníquese con SeaI/O-462U utilizando el protocolo Modbus RTU estándar de la industria o use las bibliotecas de software Sealevel SeaMAX API de su programa de aplicación. Los controladores y las utilidades del <strong><a href="software-seamax" target="_blank">software SeaMAX </a></strong> de Sealevel facilitan la instalación y el funcionamiento con los sistemas operativos Microsoft Windows 10 y 8.</p>
+<br><p align="justify">Amplíe su red de E/S con los productos de la serie SeaI/O N. Las placas OEM SeaI/O están disponibles con relés Reed y Forma C, entradas ópticamente aisladas, interfaces TTL, funcionalidad A/D y D/A. Se pueden agregar hasta 246 módulos de expansión adicionales utilizando conectores de paso convenientes.</p>
+<br><p align="justify">El SeaI/O-462U-KT integra el puerto USB con bloqueo SeaLATCH de Sealevel , que es totalmente compatible con los cables USB estándar. Cuando se usa con el cable USB incluido con un conector SeaLATCH USB tipo B, el tornillo de mano de metal proporciona una conexión segura al dispositivo y evita la desconexión accidental del cable.</p>
+<br><br>
+<p align="left"><strong>Caracter&iacute;sticas:</strong></p>
+  <ul>
+    <li>
+      <div align="left">96 canales de E/S TTL con búfer</div>
+    </li>
+    <li>
+      <div align="left">Cada puerto de 8 bits configurable individualmente como entrada o salida</div>
+    </li>
+    <li>
+      <div align="left">Incluye dos cables de 6 pulgadas, número de pieza CA237, cada uno con un conector macho DB-78 a conectores de cinta duales de 50 pines</div>
+    </li>
+    <li>
+      <div align="left">Se conecta fácilmente a racks de relés de estado sólido estándar de la industria con conectores de 50 pines</div>
+    </li>
+    <li>
+      <div align="left">Indicadores LED de estado para comunicación, falla y alimentación</div>
+    </li>
+    <li>
+      <div align="left">Alimentación de entrada mediante bloque de terminales o conector modular</div>
+    </li>
+    <li>
+      <div align="left">El puerto USB con bloqueo SeaLATCH de Sealevel proporciona una conexión segura con los cables USB SeaLATCH a través de tornillos de mariposa de metal</div>
+    </li>
+    <li>
+      <div align="left">Montaje en riel DIN o en mesa</div>
+    </li>
+    <li>
+      <div align="left">Incluye cable de dispositivo USB tipo A a SeaLATCH USB tipo B de 6 pies (artículo n.° CA356)</div>
+    </li>
+  </ul>
+  <div align="center">
+    <table class="tabla_espec">
+      <tr>
+        <th colspan="2">
+         Especificaciones del Sistema</th>
+      </tr>
+      <tr>
+        <td> Peso </td>
+        <td> 2.3000 libras</td>
+      </tr>
+      <tr>
+        <td> Dimensiones </td>
+        <td> 7.5 x 5.1 x 1.3 pulgadas</td>
+      </tr>
+      <tr>
+        <td> Familia </td>
+        <td> Sea I/O </td>
+      </tr>
+      <tr>
+        <td> E/S digitales</td>
+        <td> E/S TTL</td>
+      </tr>
+      <tr>
+        <td> Temperatura extendida</td>
+        <td> Llamar para pedir opciones</td>
+      </tr>
+      <tr>
+        <td> Rango de humedad</td>
+        <td> 10 &ndash; 90% Humedad relativa, no condensante</td>
+      </tr>
+      <tr>
+        <td> Interfazde Host</td>
+        <td> USB</td>
+      </tr>
+      <tr>
+        <td> Número de entradas y salidas</td>
+        <td> 96 TTL</td>
+      </tr>
+      <tr>
+        <td> Temperatura de operación</td>
+        <td> 0 - +70&deg;C</td>
+      </tr>
+      <tr>
+        <td> Energía de salida</td>
+        <td> +5V a 1A (5W) máx.</td>
+      </tr>
+      <tr>
+        <td> Especificación de salida</td>
+        <td> sink up hasta 64mA, fuente hasta 32mA</td>
+      </tr>
+      <tr>
+        <td> Número de puertos</td>
+        <td> 96</td>
+      </tr>
+        <td> Requerimientos de energía</td>
+        <td> 9-30V DC a 2.0W </td>
+      </tr>
+      <tr>
+        <td> Cumple con la directiva RoHS </td>
+        <td> Sí</td>
+      </tr>
+      <tr>
+        <td> Temperatura de almacenamiento</td>
+        <td> -50 - +105&deg;C</td>
+      </tr>
+      <tr>
+        <td> Especificación USB </td>
+        <td> Compatible con 1.1, Compatible con 2.0</td>
+      </tr>
+    </table>
+  </div>
+     
+ <br><br>
+
+      </div>
+    </div>
+    <center>
+    <nav class="navMenuSuper">
+      <ul>
+        <li>
+          <a href="#subir">Ir al principio</a>
+        </li>
+      </ul>
+    </nav>
+  </center> 
+   </div>
+</div>
+
+<?
+ abajo();
+?>
+</body>
+</html>

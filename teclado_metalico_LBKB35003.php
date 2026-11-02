@@ -1,0 +1,220 @@
+<?
+include("libreria/libreria.php");
+?>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Teclado metálico industrial LBKB35003 - Logicbus</title>
+  <meta name="description" content="LBKB35003 - Teclado industrial metálico en español con 66 teclas, terminado en acero inoxidable 304 con TrackBall (diametro: 25mm), interfaz USB, protección NEMA 4X / IP65, resistente al agua, polvo y vandalismo. Dimensiones: 330mm x 100mm.">
+
+  <meta name="keywords" content="LogicBus, M&eacute;xico, Mexico, Guadalajara, Argentina, Chile, Brasil, LabView, Automatizaci&oacute;n, Automatizacion, Seguridad,  Consultor&iacute;a, Consultoria, Integraci&oacute;n, Integracion, Proyecto, Radio Frecuencia, Cubos, An&aacute;lisis, Analisis, Datos, Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Distrito Federal, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Estado de M&eacute;xico, Estado de Mexico, Michoac&aacute;n, Michoacan, Morelos, Nayarit, Nuevo Le&oacute;n, Nuevo Leon, Oaxaca, Puebla, Quer&eacute;taro, Queretaro, Quintana Roo, San Luis Potos&iacute;, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucat&aacute;n, Yucatan, Zacatecas, Argentina, Chile, Brasil, LBKB35003, teclado, industrial, metálico, español, 66 teclas, terminado, acero, inoxidable, 304, TrackBall, interfaz, USB, protección, NEMA 4X, IP65, resistente, agua, polvo, vandalismo">
+
+
+
+  <meta name="copyright" content="Logicbus S.A. de C.V.">
+  <meta name="revisit after" content="14 days">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="Page-Enter" content="revealTrans(Duration=0.5,Transition=12)">
+  <meta http-equiv="Page-Exit" content="revealTrans(Duration=0.5,Transition=12)">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" href="favicon.ico">
+
+
+  <!-- Bootstrap core CSS -->
+  <link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!--- Estilos Necesarios-->
+  <link rel="stylesheet" type="text/css" href="libreria/estilos.css">
+  <link rel="stylesheet" type="text/css" href="libreria/subcategorias.css">
+  <link rel="stylesheet" type="text/css" href="libreria/menu-categorias.css">
+  <link rel="stylesheet" type="text/css" href="libreria/menu-movil.css">
+  <link rel="stylesheet" type="text/css" href="libreria/marcas.css">
+  <link rel="stylesheet" type="text/css" href="libreria/menu-hexa.css">
+  <link rel="stylesheet" type="text/css" href="libreria/menu-acordeon.css">
+
+
+  <script language="javascript">
+
+    function menu_actual(){
+      document.getElementById("productos").className = "dropdown active";
+      document.getElementById("computadoras_industriales").className = "activo";
+    };
+  </script>
+
+
+
+</head>
+<body onLoad="menu_actual();">
+
+  <?
+  arriba();
+  ?>
+
+
+  <div id="main">
+    <div class="gridContArriba">
+      <div class="griditemContA">
+        <?
+        menucategorias();
+        ?>
+      </div>
+      <div class="griditemContA" id="subir">
+        <div class="container pagina_producto">
+          <div class="row">
+            <div class="col" >
+              <!-- RUTA DEL PRODUCTO ENTRE LAS CATEGORIAS -->
+              <div class="ruta_productos">
+                <a href="productos">Productos</a>-&gt;<a href="pc-y-comunicaciones-industriales">PC's y Comunicaciones Industriales</a>-&gt;<a href="teclados_industriales">Teclados Industriales Metálicos</a>-&gt;<a href="teclados_trackball">Teclados con Trackball o touchpad</a> -&gt;LBKB35003
+              </div>
+              <!-- NOMBRE DEL PRODUCTO YA SEA NUMERO DE PARTE -->
+              <h1 class="titulo_producto">Teclado metálico LBKB35003</h1>
+
+              <!-- LAS IMAGENES DEBEN DE ESTAR EN SU RESPECTIVA CARPETA, EL ANCHO SE AJUSTA EN PORCENTAJE Y SE PONE EL NOMBRE DEL PRODUCTO EN LAS ETIQUETAS ALT Y TITLE -->
+              <div class="row mb-3">
+                <div class="col" align="center">
+                  <img src="imagenes/35/LBKB35003.jpg"  alt="LBKB35003 - Teclado industrial en español con 66 teclas, terminado en acero inoxidable 304 con TrackBall" title="LBKB35003 - Teclado industrial en español con 66 teclas, terminado en acero inoxidable 304 con TrackBall" width="50%"><br>
+                  <br><b style="color: red;">DESCONTINUADO</b><br>
+                  <b>Reemplazo para este teclado:<a style="color:#24537B;" href="https://tienda.logicbus.com.mx/LBD-2988603_p_31799.html"> LBD-2988603</a></b>
+                </div>
+              </div>
+              <nav class="navMenuSuper">
+                <ul>
+                  <li>
+                    <a href="https://tienda.logicbus.com.mx/LBKB35003_p_3781.html" target="_blank">Ver en Tienda</a>
+                  </li>
+                </ul>
+              </nav>
+
+              <p>Teclado industrial en español con 66 teclas, terminado en acero inoxidable 304 con TrackBall (diametro: 25mm), interfaz USB, protección NEMA 4X / IP65, resistente al agua, polvo y vandalismo. Dimensiones: 330mm x 100mm.</p>
+
+              <strong>Panel de acero inoxidable</strong><br>
+
+              <p>Los teclados están hechos de acero inoxidable de calidad "A", lo que garantiza que el teclado pueda usarse en condiciones muy difíciles.</p>
+
+              <strong>Panel IP65</strong><br>
+              <p>Todos los teclados pasan la prueba IP65 y son aprobados.</p>
+
+              Características:
+              <ul>
+                <li>Resistente al agua.</li>
+                <li>Prueba de vandalismo.</li>
+                <li>Amplio rango de temperatura.</li>
+                <li>Conecta y reproduce.</li>
+                <li>Larga vida útil.</li>
+                <li>Diseño multi-idiomas.</li>
+              </ul>
+              Aplicaciones:
+              <ul>
+                <li>Kiosco de autoservicio.</li>
+                <li>Sistema de PC industrial.</li>
+                <li>Industria médica y alimentaria.</li>
+                <li>Máquina de juego y máquina expendedora.</li>
+                <li>Navegación y aviación.</li>
+                <li>Máquina CNC y otros equipos de fábrica.</li>
+              </ul>
+              <br><br>
+              Ver version del layout US <a href="https://tienda.logicbus.com.mx/LBKB35003-US_p_16461.html" target="_blank">aqui</a>
+
+
+              <div class="table-responsive">
+                <table class="table table-striped table-bordered table-hover table-sm tabla_especificaciones_producto">
+                  <thead >
+                    <tr>
+                      <td colspan="2" align="center">
+                        <strong>INFORMACION GENERAL</strong>
+                      </td>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td class="titulo_espec_lat">Nivel de protección</td>
+                      <td >IP65; NEMA4X</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Vida útil</td>
+                      <td >> 5 años.</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Interfaz</td>
+                      <td >USB,PS2 disponible.</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Voltaje de alimentación </td>
+                      <td >+ 5V DC +/- 5%</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Temperatura de funcionamiento </td>
+                      <td >-10C a + 60C</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Temperatura de almacenamiento </td>
+                      <td >-20C a + 70C.</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Dimensiones del panel:</td>
+                      <td >330 mm x 100 mm. </td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">A prueba de</td>
+                      <td >polvo, a prueba de agua, resistencia al vandalismo</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Nº de llaves </td>
+                      <td >66 llaves, acero inoxidable de alta calidad.</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Diámetro de trackball </td>
+                      <td >25 mm</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Tecnología de interruptor de llave </td>
+                      <td >elemento de conmutación de silicona</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Interruptor de vida útil</td>
+                      <td >> 5 millones de operaciones.</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Fuerza de accionamiento / viaje </td>
+                      <td >1N / 2.0mm</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">recubrimiento </td>
+                      <td >aleación de aluminio</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">Letras </td>
+                      <td >leyendas grabadas con láser para una excelente durabilidad</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">G.W . </td>
+                      <td >1.50kg.</td>
+                    </tr>
+                    <tr>
+                      <td class="titulo_espec_lat">La versión y la interfaz de todos los idiomas</td>
+                      <td >están disponibles a pedido.</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+
+
+              <br><br>
+              <div align="center"><strong>Unboxing: Teclados Industriales LBSK35303 y LBKB35005</strong>
+                <div>
+                  <br>
+                  <iframe style="width:100%; max-width:560px; aspect-ratio:16/9;"  loading="lazy" src="https://www.youtube.com/embed/XMfQ-yWoXDw?si=z3HJX33EFC5CMFcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+                </div>
+              </div>
+              <br><br>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <?
+      abajo();
+      ?>
+    </body>
+    </html>

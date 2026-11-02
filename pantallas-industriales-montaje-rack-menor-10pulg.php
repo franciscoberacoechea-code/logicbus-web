@@ -1,0 +1,201 @@
+<?
+include("libreria/libreria.php");
+?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<title>Pantallas industriales para montaje en rack de menos de 10"</title>
+<meta name="description" content="Pantallas industriales para montaje en rack de menos de 10 pulg LCD, LED-250NITS, VGA, ALIMENTACION 120VCA, CRISTAL ANTIVANDALICO DE 6MM">
+
+<meta name="keywords" content="Logicbus, M&eacute;xico, Mexico, Guadalajara, Argentina, Chile, Brasil, LabView, Automatizaci&oacute;n, Automatizacion, Seguridad,  Consultor&iacute;a, Consultoria, Integraci&oacute;n, Integracion, Proyecto, Radio Frecuencia, Cubos, An&aacute;lisis, Analisis, Datos, Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Distrito Federal, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Estado de M&eacute;xico, Estado de Mexico, Michoac&aacute;n, Michoacan, Morelos, Nayarit, Nuevo Le&oacute;n, Nuevo Leon, Oaxaca, Puebla, Quer&eacute;taro, Queretaro, Quintana Roo, San Luis Potos&iacute;, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucat&aacute;n, Yucatan, Zacatecas, Argentina, Chile, Brasil, PC's, PC, computadora, computadoras, pantallas, Industriales, comunicaciones industriales, HMI con touchscreen, monitor, interfaz hombre-máquina, interfaz hombre maquina, touchscreen, tactiles, tactil. pantalla tactil, pantalla industrial, pantallas industriales, para montaje en rack, rack, montaje rack, LCD, LED-250NITS, VGA, ALIMENTACION 120VCA, CRISTAL ANTIVANDALICO DE 6MM, menores a 10 pulgadas">
+
+
+
+<meta name="copyright" content="Logicbus S.A. de C.V.">
+<meta name="revisit after" content="14 days">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Page-Enter" content="revealTrans(Duration=0.5,Transition=12)">
+<meta http-equiv="Page-Exit" content="revealTrans(Duration=0.5,Transition=12)">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="shortcut icon" href="favicon.ico">
+
+
+<!-- Bootstrap core CSS -->
+<link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="libreria/estilos.css" rel="stylesheet" >
+
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+<script src="libreria/ie-emulation-modes-warning.js"></script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]color azul#184797-->
+
+
+
+<script language="javascript">
+
+function menu_actual(){
+document.getElementById("productos").className = "dropdown active";
+document.getElementById("pc-y-comunicaciones-industriales").className = "activo";
+      };
+</script>
+
+
+</head>
+<body onLoad="menu_actual();">
+
+<?
+ arriba();
+ lado1("no","");
+?>
+
+<div id="main">
+  <div class="container pagina_producto">
+    <div class="row">
+      <div class="col" >
+        <!-- RUTA DE NAVEGACION -->
+        <div class="ruta_productos">
+          <a href="productos">Productos</a>-> <a href="pc-y-comunicaciones-industriales">PC's y Comunicaciones Industriales</a> -> <a href="pantallas-industriales">Pantallas Industriales</a> -> <a href="pantallas-industriales-montaje-rack">Pantallas para montaje en rack</a> -> Pantallas para montaje en rack de menos de 10"
+        </div>
+        <!-- NOMBRE DE LA CATEGORIA -->
+        <h1 class="titulo_producto"> Pantallas industriales para montaje en rack de menos de 10" </h1>
+
+
+
+
+        <!-- LINK A TIENDA VIRTUAL --> 
+        <div class="row">
+          <div class="col" align="right">
+            <a href="https://tienda.logicbus.com.mx/Menos-de-10_c_3619.html" alt="Ir a tienda Logicbus" title="Ir a Tienda Logicbus" target="_blank"><img src="images/shopping_cart.png"  border=0></a>        
+          </div>
+        </div>
+
+
+
+        <div class="tabla_subcategorias_grid mt-3">
+
+          <div class="row row-striped tabla_subcategorias_row" >
+            <div class="col-7 col-md-2 col-lg-3 my-auto mx-auto img_categ" align="center">
+              <a href="https://tienda.logicbus.com.mx/RM0576-VN40L1-G_p_19627.html" title="Ir a Tienda Logicbus" target="_blank">
+                <img src="imagenes/productos/pc-y-comunicaciones-industriales/pantallas-industriales/pantallas-industriales-montaje-rack/RM0576-VN40L1-G.jpg"  alt="RM0576-VN40L1-G - Pantallas industriales para montaje en rack de menos de 10 pulg" title="RM0576-VN40L1-G - Pantallas industriales para montaje en rack de menos de 10 pulg" width="70%">
+              </a>
+            </div>
+            <div class="col-12 col-md-8 col-lg-8 my-auto" align="left">
+              <a href="https://tienda.logicbus.com.mx/RM0576-VN40L1-G_p_19627.html" title="Ir a Tienda Logicbus" target="_blank" ><h2>RM0576-VN40L1-G</h2></a>
+              <p>PANTALLA DE ACERO NEGRO, MONTAJE EN RACK DE 5.7", 4:3, LCD 640X480, LED-400NITS, VGA, 12VDC (INCLUYE FUENTE DE PODER), CRISTAL ANTIVANDALICO DE 6MM</p>
+            </div>
+            <div class="col-3 col-md-2 col-lg-1 my-auto ml-auto img_tienda">
+              <a href="https://tienda.logicbus.com.mx/RM0576-VN40L1-G_p_19627.html" title="Ir a Tienda Logicbus" target="_blank"><img src="images/shopping_cart.png" alt="Ir a Tienda Logicbus" width="100%"></a>
+            </div>
+          </div>
+
+
+          <div class="row row-striped tabla_subcategorias_row" >
+            <div class="col-7 col-md-2 col-lg-3 my-auto mx-auto img_categ" align="center">
+              <a href="https://tienda.logicbus.com.mx/RM06-SN35L1-G_p_19628.html" title="Ir a Tienda Logicbus" target="_blank">
+                <img src="imagenes/productos/pc-y-comunicaciones-industriales/pantallas-industriales/pantallas-industriales-montaje-rack/RM06-SN35L1-G.jpg"  alt="RM06-SN35L1-G - Pantallas industriales para montaje en rack de menos de 10 pulg" title="RM06-SN35L1-G - Pantallas industriales para montaje en rack de menos de 10 pulg" width="70%">
+              </a>
+            </div>
+            <div class="col-12 col-md-8 col-lg-8 my-auto" align="left">
+              <a href="https://tienda.logicbus.com.mx/RM06-SN35L1-G_p_19628.html" title="Ir a Tienda Logicbus" target="_blank" ><h2>RM06-SN35L1-G</h2></a>
+              <p>PANTALLA DE ACERO NEGRO, MONTAJE EN RACK DE 8.4", 4:3, LCD 800X600, LED-450NITS, VGA, 12VDC (INCLUYE FUENTE DE PODER), CRISTAL ANTIVANDALICO DE 6MM</p>
+            </div>
+            <div class="col-3 col-md-2 col-lg-1 my-auto ml-auto img_tienda">
+              <a href="https://tienda.logicbus.com.mx/RM06-SN35L1-G_p_19628.html" title="Ir a Tienda Logicbus" target="_blank"><img src="images/shopping_cart.png" alt="Ir a Tienda Logicbus" width="100%"></a>
+            </div>
+          </div>
+
+
+          <div class="row row-striped tabla_subcategorias_row" >
+            <div class="col-7 col-md-2 col-lg-3 my-auto mx-auto img_categ" align="center">
+              <a href="https://tienda.logicbus.com.mx/RM0706-WS20L0-G_p_19635.html" title="Ir a Tienda Logicbus" target="_blank">
+                <img src="imagenes/productos/pc-y-comunicaciones-industriales/pantallas-industriales/pantallas-industriales-montaje-rack/RM0706-WS20L0-G.jpg"  alt="RM0706-WS20L0-G - Pantallas industriales para montaje en rack de menos de 10 pulg" title="RM0706-WS20L0-G - Pantallas industriales para montaje en rack de menos de 10 pulg" width="70%">
+              </a>
+            </div>
+            <div class="col-12 col-md-8 col-lg-8 my-auto" align="left">
+              <a href="https://tienda.logicbus.com.mx/RM0706-WS20L0-G_p_19635.html" title="Ir a Tienda Logicbus" target="_blank" ><h2>RM0706-WS20L0-G</h2></a>
+              <p>PANTALLA DE ACERO NEGRO, MONTAJE EN RACK DE 7", 16:9, LCD 1024X600, LED-200NITS, VGA, 12VDC (INCLUYE FUENTE DE PODER), CRISTAL ANTIVANDALICO DE 6MM</p>
+            </div>
+            <div class="col-3 col-md-2 col-lg-1 my-auto ml-auto img_tienda">
+              <a href="https://tienda.logicbus.com.mx/RM0706-WS20L0-G_p_19635.html" title="Ir a Tienda Logicbus" target="_blank"><img src="images/shopping_cart.png" alt="Ir a Tienda Logicbus" width="100%"></a>
+            </div>
+          </div>
+
+
+          <div class="row row-striped tabla_subcategorias_row" >
+            <div class="col-7 col-md-2 col-lg-3 my-auto mx-auto img_categ" align="center">
+              <a href="https://tienda.logicbus.com.mx/RM0576-VN40L1-RT_p_19645.html" title="Ir a Tienda Logicbus" target="_blank">
+                <img src="imagenes/productos/pc-y-comunicaciones-industriales/pantallas-industriales/pantallas-industriales-montaje-rack/RM0576-VN40L1-RT.jpg"  alt="RM0576-VN40L1-RT - Pantallas industriales para montaje en rack de menos de 10 pulg" title="RM0576-VN40L1-RT - Pantallas industriales para montaje en rack de menos de 10 pulg" width="70%">
+              </a>
+            </div>
+            <div class="col-12 col-md-8 col-lg-8 my-auto" align="left">
+              <a href="https://tienda.logicbus.com.mx/RM0576-VN40L1-RT_p_19645.html" title="Ir a Tienda Logicbus" target="_blank" ><h2>RM0576-VN40L1-RT</h2></a>
+              <p>PANTALLA DE ACERO NEGRO, MONTAJE EN RACK DE 5.7", 4:3, LCD 640X480, LED-400NITS, VGA, 12VDC (INCLUYE FUENTE DE PODER), PANTALLA TACTIL</p>
+            </div>
+            <div class="col-3 col-md-2 col-lg-1 my-auto ml-auto img_tienda">
+              <a href="https://tienda.logicbus.com.mx/RM0576-VN40L1-RT_p_19645.html" title="Ir a Tienda Logicbus" target="_blank"><img src="images/shopping_cart.png" alt="Ir a Tienda Logicbus" width="100%"></a>
+            </div>
+          </div>
+
+
+          <div class="row row-striped tabla_subcategorias_row" >
+            <div class="col-7 col-md-2 col-lg-3 my-auto mx-auto img_categ" align="center">
+              <a href="https://tienda.logicbus.com.mx/RM06-SN35L1-RT_p_19646.html" title="Ir a Tienda Logicbus" target="_blank">
+                <img src="imagenes/productos/pc-y-comunicaciones-industriales/pantallas-industriales/pantallas-industriales-montaje-rack/RM06-SN35L1-RT.jpg"  alt="RM06-SN35L1-RT - Pantallas industriales para montaje en rack de menos de 10 pulg" title="RM06-SN35L1-RT - Pantallas industriales para montaje en rack de menos de 10 pulg" width="70%">
+              </a>
+            </div>
+            <div class="col-12 col-md-8 col-lg-8 my-auto" align="left">
+              <a href="https://tienda.logicbus.com.mx/RM06-SN35L1-RT_p_19646.html" title="Ir a Tienda Logicbus" target="_blank" ><h2>RM06-SN35L1-RT</h2></a>
+              <p>PANTALLA DE ACERO NEGRO, MONTAJE EN RACK DE 8.4", 4:3, LCD 800X600, LED-450NITS, VGA, 12VDC (INCLUYE FUENTE DE PODER), PANTALLA TACTIL</p>
+            </div>
+            <div class="col-3 col-md-2 col-lg-1 my-auto ml-auto img_tienda">
+              <a href="https://tienda.logicbus.com.mx/RM06-SN35L1-RT_p_19646.html" title="Ir a Tienda Logicbus" target="_blank"><img src="images/shopping_cart.png" alt="Ir a Tienda Logicbus" width="100%"></a>
+            </div>
+          </div>
+
+
+          <div class="row row-striped tabla_subcategorias_row" >
+            <div class="col-7 col-md-2 col-lg-3 my-auto mx-auto img_categ" align="center">
+              <a href="https://tienda.logicbus.com.mx/RM0706-WS20L0-RT_p_19653.html" title="Ir a Tienda Logicbus" target="_blank">
+                <img src="imagenes/productos/pc-y-comunicaciones-industriales/pantallas-industriales/pantallas-industriales-montaje-rack/RM0706-WS20L0-RT.jpg"  alt="RM0706-WS20L0-RT - Pantallas industriales para montaje en rack de menos de 10 pulg" title="RM0706-WS20L0-RT - Pantallas industriales para montaje en rack de menos de 10 pulg" width="70%">
+              </a>
+            </div>
+            <div class="col-12 col-md-8 col-lg-8 my-auto" align="left">
+              <a href="https://tienda.logicbus.com.mx/RM0706-WS20L0-RT_p_19653.html" title="Ir a Tienda Logicbus" target="_blank" ><h2>RM0706-WS20L0-RT</h2></a>
+              <p>PANTALLA DE ACERO NEGRO, MONTAJE EN RACK DE 7", 16:9, LCD 1024X600, LED-200NITS, VGA, 12VDC (INCLUYE FUENTE DE PODER), PANTALLA TACTIL</p>
+             
+            </div>
+            <div class="col-3 col-md-2 col-lg-1 my-auto ml-auto img_tienda">
+              <a href="https://tienda.logicbus.com.mx/RM0706-WS20L0-RT_p_19653.html" title="Ir a Tienda Logicbus" target="_blank"><img src="images/shopping_cart.png" alt="Ir a Tienda Logicbus" width="100%"></a>
+            </div>
+          </div>
+
+
+          
+
+
+         
+
+        </div>
+
+       
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<?php
+abajo();
+?>
+</body>
+</html>

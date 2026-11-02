@@ -1,0 +1,57 @@
+.vscode/
+_accesrevisar/
+_notes/
+_RESPALDO/
+aaa/
+blog/
+blog/old
+Blog_actual/
+catalogo-computacion-industrial/
+celda-de-carga - Copy/
+celda-de-carga-Cambios
+descargas/
+DESCONTINUADOS/
+documentacion/
+expopack_junio_2012/
+firmas/
+manejar-listas-precios-integradores/
+manejar-vacantes/
+New directory/
+New Folder/
+News_Mail/
+old-redireccionamientos/
+pdf/
+pizarraLB/
+ppt/
+pruebas/
+pruebas-www/
+respaldo de archivos borrados/
+respaldo-libreria/
+respaldo-seccion-documento/
+respaldos-blog/
+sealevel/
+securimage/
+solucion-aeroespacial/
+tablet-industrial-Erick/
+tema-usa/
+tema-usa-prueba/
+Template/
+video/
+wordpress/
+wordpress-blog/
+*.rar
+*.pdf
+*.cpmh*
+.htaccess.*
+*.log
+error_log
+
+blog/
+descargas/
+pdf/
+imagenes/
+images/
+News_Mail/
+documentacion/
+catalogo-computacion-industrial/
+firmas/

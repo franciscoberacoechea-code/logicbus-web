@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Logicbus - Google Analytics </title>
+
+
+<script>
+
+function get_browser(){
+    var N=navigator.appName, ua=navigator.userAgent, tem;
+    var M=ua.match(/(opera|chrome|safari|firefox|msie)\/?\s*(\.?\d+(\.\d+)*)/i);
+    if(M && (tem= ua.match(/version\/([\.\d]+)/i))!= null) M[2]= tem[1];
+    M=M? [M[1], M[2]]: [N, navigator.appVersion, '-?'];
+    return M[0];
+    }
+function get_browser_version(){
+    var N=navigator.appName, ua=navigator.userAgent, tem;
+    var M=ua.match(/(opera|chrome|safari|firefox|msie)\/?\s*(\.?\d+(\.\d+)*)/i);
+    if(M && (tem= ua.match(/version\/([\.\d]+)/i))!= null) M[2]= tem[1];
+    M=M? [M[1], M[2]]: [N, navigator.appVersion, '-?'];
+    return M[1];
+    }
+</script>
+
+</head>
+
+<body>
+<script>
+
+document.write("Página cargada desde navegador " + get_browser() + " v." + get_browser_version());
+
+</script>
+</body>
+</html>

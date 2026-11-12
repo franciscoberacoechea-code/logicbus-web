@@ -1,0 +1,181 @@
+.truck-container{
+position:relative;
+width:100%;
+max-width:1200px;
+margin:auto;
+}
+
+.truck-image{
+width:100%;
+display:block;
+z-index:1;
+position:relative;
+}
+
+/* PUNTOS */
+
+.sensor-point{
+position:absolute;
+transform:translate(-50%,-50%);
+text-align:center;
+cursor:pointer;
+
+z-index:2;
+}
+
+/* ICONO */
+
+.sensor-point img{
+width:50px;
+transition:0.3s;
+}
+
+/* HOVER */
+
+.sensor-point:hover img{
+transform:scale(1.3);
+}
+
+/* TEXTO */
+
+.sensor-label{
+position:absolute;
+bottom:50px;
+left:50%;
+transform:translateX(-50%);
+
+
+background:#ff5a1f;
+color:white;
+padding:6px 10px;
+font-size:13px;
+border-radius:4px;
+white-space:nowrap;
+
+opacity:0;
+transition:0.3s;
+}
+
+.sensor-point:hover .sensor-label{
+opacity:1;
+}
+
+/* -------------------- */
+/* TABLET */
+/* -------------------- */
+
+@media (max-width:900px){
+
+.sensor-point img{
+width:40px;
+}
+
+.sensor-label{
+font-size:12px;
+bottom:60px;
+}
+
+}
+
+/* -------------------- */
+/* CELULAR */
+/* -------------------- */
+
+@media (max-width:600px){
+
+.sensor-point img{
+width:32px;
+}
+
+.sensor-label{
+font-size:11px;
+padding:5px 8px;
+bottom:50px;
+}
+
+}
+
+
+/* overlay blanco */
+
+.cards-overlay{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+
+background:rgba(255,255,255,0.96);
+
+display:flex;
+justify-content:center;
+align-items:center;
+
+opacity:0;
+pointer-events:none;
+
+transition:0.4s;
+
+z-index:999; /* MUY IMPORTANTE */
+}
+
+/* activar overlay */
+
+.mostrar-cards .cards-overlay{
+opacity:1;
+pointer-events:auto;
+}
+
+/* contenedor de cards */
+
+.cards-container{
+display:flex;
+gap:40px;
+flex-wrap:wrap;
+justify-content:center;
+}
+
+/* card */
+
+.info-card{
+width:220px;
+background:white;
+border-radius:10px;
+
+box-shadow:0 20px 40px rgba(0,0,0,0.2);
+
+padding:25px;
+
+text-align:center;
+
+transition:0.3s;
+}
+
+/* hover card */
+
+.info-card:hover{
+transform:translateY(-10px) scale(1.05);
+}
+
+/* header */
+
+.info-card h3{
+color:white;
+padding:15px;
+margin:-25px -25px 15px -25px;
+border-radius:10px 10px 0 0;
+}
+
+/* colores */
+
+.card-blue h3{
+background:linear-gradient(45deg,#2b5dff,#6b8cff);
+}
+
+.card-orange h3{
+background:linear-gradient(45deg,#ff6a3d,#ff9b6a);
+}
+
+.card-green h3{
+background:linear-gradient(45deg,#2abf88,#69e3b2);
+} 

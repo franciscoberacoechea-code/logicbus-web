@@ -1,0 +1,104 @@
+.h1Producto:first-of-type,.h1Producto:last-of-type{color:var(--varyDarkBlue)}.attribution,.headerPR,.pTitulo{text-align:center}.row1contP{display:grid;grid-template-columns:auto auto auto auto;padding:5px}.griditemCardA,.griditemContA{padding:5px;width:95%}@media screen and (max-width:800px){.gridContArriba{display:grid;grid-template-columns:auto;padding:10px}}:root{--orangeM:#ff7e00;--blueM:#2D5680;--weight1:200;--weight2:400;--weight3:600}.attribution{font-size:14px}.attribution a{color:#3d51a2}.h1Producto:first-of-type{font-weight:var(--weight1)}@media (max-width:400px){.h1Producto{font-size:1.5rem}}.headerPR{line-height:.8;margin-bottom:50px;margin-top:100px}.boxProducto,.boxProductoVacio{padding:20px;margin:20px;height:550px;width:100%}.headerPR p{margin:0 auto;line-height:2}.boxProducto{border-radius:5px;box-shadow:rgba(0,0,0,.12) 0 1px 3px,rgba(0,0,0,.24) 0 1px 2px;background-color:#f2f2f2}@media (max-width:450px){.boxProducto,.boxProductoVacio{height:550px;width:330px}.imgresp{width:80%}.imgresp2{width:90%}}@media (max-width:950px) and (min-width:450px){.boxProducto,.boxProductoVacio{text-align:center;height:180px}}.blue{border-top:6px solid var(--blueM)}.orange{border-top:6px solid var(--orangeM)}.imgblue{border:solid;border-color:var(--blueM)}.imgorange{border:solid;border-color:var(--orangeM)}.bblue{background:linear-gradient(0deg,#edeff0 66%,#fff 66%);border-top:6px solid var(--blueM)}.borange{background:linear-gradient(0deg,#edeff0 67%,#fff 67%);border-top:6px solid var(--orangeM)}.boxMarcaP{border-radius:5px;box-shadow:rgba(60,64,67,.3) 0 1px 2px 0,rgba(60,64,67,.15) 0 1px 3px 1px;margin:8px;height:400px;color:#000;font-size:13px;padding-right:15px}.boxMarcaPVacio{padding:20px;margin:20px;height:600px;width:100%}.pTitulo{font-size:15px;font-weight:700;color:#2d5680;padding-left:12px;font-family:arial black}.imgbandera{z-index:2;position:absolute;padding-top:93px;margin-left:15px;width:42px}.imgfiltro{filter:grayscale(100%)}.imgfiltro:hover{filter:grayscale(0%)}@media (min-width:950px){.row1contP{display:grid;grid-template-columns:310px 310px 310px 310px;align-items:center}.row2contP{display:flex;justify-content:center;align-items:center}.box-down{position:relative;top:150px}}@media (max-width:450px){.bblue,.borange{background:#fff}.boxMarcaP{height:230px;margin:10px;width:330px}.boxMarcaPVacio{height:550px;width:330px}.bblue{border-top:6px solid var(--blueM)}.borange{border-top:6px solid var(--orangeM)}.row1contP{display:grid;grid-template-columns:auto;align-items:center}}.btnImagen{border-radius:5px;position:relative;overflow:hidden;cursor:pointer;outline:0;border:none;box-shadow:rgba(0,0,0,.25) 0 .0625em .0625em,rgba(0,0,0,.25) 0 .125em .5em,rgba(255,255,255,.1) 0 0 0 1px inset;background-repeat:no-repeat;background-position:center;margin:20px 6px 6px;align-items:center}.btnImagen:hover{box-shadow:#ff7e00 0 0 0 2px,#ff7e00 0 4px 6px -1px,rgba(255,255,255,.08) 0 1px 0 inset}.gridContArriba{display:grid;grid-template-columns:400px auto;padding:5px}.gridContAbajo,.gridContAuto,.gridContCuatro,.gridContMitad,.gridContTres{display:grid;padding:10px}.gridContAbajo{grid-template-columns:65% 35%}.gridContAuto{grid-template-columns:auto auto}.gridContMitad{grid-template-columns:50% 50%}.gridContCuatro{grid-template-columns:25% 25% 25% 25%}.gridContTres{grid-template-columns:33% 33% 33%}.griditemContB{padding:10px 20px 0;width:100%}.textoJus p{text-align:justify}@media screen and (max-width:800px){.gridContAbajo,.gridContArriba,.gridContAuto,.gridContMitad{display:grid;grid-template-columns:auto;padding:10px}.griditemContA{padding:5px;width:100%}.gridContCuatro,.gridContTres{grid-template-columns:auto}.divCentrado{width:100%}}.divCentrado{width:80%;margin-left:auto;margin-right:auto}
+/*------ Nueva Version ------*/
+.marcaMainM {
+	display: grid;
+	grid-template-columns: 0.7fr 1fr;
+	margin: auto;
+	padding: 2em 0;
+	/*min-width: 400px;*/
+	max-width: 450px;
+	height: 380px;
+	background-color: white;
+	border-radius: 5px;
+	border: solid;
+	border-color: #24537B;
+	box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+	box-sizing: border-box;
+	transition: all 0.5s ease;
+}
+.marcaMainM img{
+	max-width: 100%;
+}
+
+.marcaProductM {
+	position: relative;
+	top: 1.5em;
+	left: -2.5em;
+	transition: all 0.5s ease;
+	height: 350px;
+	max-width: 500px;
+}
+
+.marcaProductC {
+	position: absolute;
+	left: -1em;
+	display: grid;
+	grid-template-rows: 1fr;
+	width: 120%;
+	height: 90%;
+	border-radius: 6px;
+	transition: all 0.5s ease;
+}
+
+.productoMainM {
+	border-radius: 6px;
+	box-shadow: rgba(255, 255, 255, 0.4) 0px 2px 4px, rgba(255, 255, 255, 0.3) 0px 7px 13px -3px, rgba(255, 255, 255, 0.2) 0px -3px 0px inset;
+	background: radial-gradient(circle at 100%, #2D5680, #202F5B 60%, #202F5B 75%, #2D5680 75%);
+	opacity : 1; 
+	transition:opacity .5s;
+}
+
+.marcaMainM:hover {
+	border-color: #FF5100;
+}
+
+.marcaMainM:hover .productoMainM { 
+	background: radial-gradient(circle at 100%, #ff7e00, #ff7e00 60%, #FF5100 75%, #ff7e00 75%);
+	transition: opacity 5s;  
+	opacity: 3;
+}
+
+.imgMain {
+	position: absolute;
+	top: .5em;
+	/*left: 1em;*/
+	filter: drop-shadow(5px 5px 15px black);
+}
+
+.imgLogoM{
+	margin-top: -110px;
+	margin-left: -35%;
+	/*width: 100%;*/
+}
+.imgBanderaM{
+	position: absolute;
+	z-index: 1;
+	margin-top: -50px;
+	margin-left: 200px;
+}
+
+.marcaInfoM {
+	width: 100%;
+	left: -20px;
+}
+
+.tituloMarcaM b {
+	font-size:15px;
+	font-weight:700;
+	color:#24537B;
+	font-family:arial black;
+}
+
+.marcasCarac{
+	font-size:12px;
+}
+.marcaBottoM{
+	/*position: static;*/
+	margin-left: -10px;
+	margin-bottom: 0px;
+	border: solid;
+}
+.sectionMar{
+	margin-top: 30px;
+	margin-bottom: 70px;
+}

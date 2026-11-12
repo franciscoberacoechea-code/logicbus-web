@@ -1,0 +1,47 @@
+.dropdown-hover-all .dropdown-menu,
+.dropdown-hover>.dropdown-menu.dropend {
+    margin-left: -1px !important;
+}
+
+@media (max-width: 750px) {
+    .dropdown-menu .dropdown-toggle::after {
+        transform: rotate(90deg);
+    }
+}
+
+.nav-link {
+    color: #fff !important;
+    font-size: larger;
+}
+
+.dropdown-menu a:hover {
+    background-color: #f37122;
+}
+
+svg path,
+svg ellipse,
+svg rect,
+svg circle {
+    transition: fill 0.3s ease;
+    fill: #ffffff;
+    /* Color inicial */
+}
+
+svg:hover .fil0 {
+    transition: fill 0.3s ease;
+    fill: #235278;
+    stroke: white;
+    stroke-width: 15;
+}
+
+svg:hover .fil1 {
+    transition: fill 0.3s ease;
+    fill: #f37122;
+    /* Color al pasar el ratón sobre la imagen */
+    stroke: white;
+    stroke-width: 15;
+}
+
+.navbar {
+    background: #235278;
+}

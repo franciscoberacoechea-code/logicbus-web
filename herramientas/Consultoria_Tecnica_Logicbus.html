@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Consultoría Técnica — Logicbus</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,sans-serif;background:#f0f4f8;color:#111;min-height:100vh}
+.topbar{background:#0162a9;color:#fff;padding:12px 2rem;display:flex;align-items:center;gap:12px;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.topbar .logo{font-size:18px;font-weight:700;letter-spacing:-.3px}
+.topbar .sub{font-size:12px;opacity:.75;margin-left:auto}
+.layout{display:grid;grid-template-columns:380px 1fr;gap:0;min-height:calc(100vh - 48px)}
+@media(max-width:900px){.layout{grid-template-columns:1fr;grid-template-rows:auto 1fr}}
+
+/* LEFT PANEL — FORM */
+.panel-left{background:#fff;border-right:1px solid #e2e6ea;padding:1.5rem;overflow-y:auto;max-height:calc(100vh - 48px)}
+.panel-right{padding:1.5rem;overflow-y:auto;max-height:calc(100vh - 48px)}
+
+.sec{margin-bottom:1.25rem}
+.sec-title{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:#0162a9;margin-bottom:.75rem;display:flex;align-items:center;gap:6px}
+.sec-title::after{content:'';flex:1;height:1px;background:#e8edf2}
+.field{margin-bottom:.75rem}
+.field label{font-size:13px;font-weight:500;color:#444;display:block;margin-bottom:4px}
+.field label span{font-size:11px;font-weight:400;color:#999;margin-left:4px}
+input[type=text],textarea,select{width:100%;font-size:14px;padding:8px 11px;border:1px solid #d0d5dd;border-radius:8px;background:#fff;color:#111;outline:none;transition:.15s;font-family:inherit}
+input[type=text]:focus,textarea:focus,select:focus{border-color:#0162a9;box-shadow:0 0 0 3px rgba(1,98,169,.1)}
+textarea{resize:vertical;line-height:1.5}
+.hint{font-size:11px;color:#aaa;margin-top:3px}
+
+/* TAG BUTTONS */
+.tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:4px}
+.tag{font-size:12px;padding:4px 10px;border-radius:100px;border:1px solid #d0d5dd;background:#fff;cursor:pointer;transition:.12s;user-select:none;color:#555}
+.tag:hover{border-color:#0162a9;color:#0162a9;background:#f0f7ff}
+.tag.on{background:#0162a9;color:#fff;border-color:#0162a9}
+.tag-noinfo{border-style:dashed;color:#aaa;font-size:11px}
+.tag-noinfo.on{background:#f0f0f0;color:#888;border-color:#ccc}
+
+/* SLIDERS */
+.slider-row{display:flex;align-items:center;gap:8px}
+.slider-row input[type=range]{flex:1}
+.slider-val{font-size:13px;font-weight:500;color:#0162a9;min-width:40px;text-align:right}
+
+/* URGENCY */
+.urgency-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:4px}
+.urg-btn{border:1px solid #d0d5dd;border-radius:8px;padding:8px 4px;cursor:pointer;text-align:center;background:#fff;transition:.12s;user-select:none}
+.urg-btn:hover{border-color:#0162a9;background:#f0f7ff}
+.urg-btn.on{border-color:#0162a9;background:#e8f3ff}
+.urg-btn .ui{font-size:18px}
+.urg-btn .ul{font-size:11px;font-weight:500;color:#444;margin-top:2px}
+
+/* GENERATE BUTTON */
+.gen-btn{width:100%;height:46px;background:#0162a9;color:#fff;border:none;border-radius:10px;font-size:15px;font-weight:600;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;margin-top:1rem;transition:.15s}
+.gen-btn:hover{background:#014d88}
+.gen-btn:disabled{opacity:.4;cursor:not-allowed}
+.gen-btn.loading{background:#014d88}
+.spin{display:inline-block;width:16px;height:16px;border:2px solid rgba(255,255,255,.35);border-top-color:#fff;border-radius:50%;animation:spin .7s linear infinite;flex-shrink:0}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* CLEAR */
+.clear-btn{width:100%;height:36px;background:none;border:1px solid #d0d5dd;border-radius:8px;font-size:13px;color:#888;cursor:pointer;margin-top:6px}
+.clear-btn:hover{border-color:#c00;color:#c00}
+
+/* RIGHT PANEL — RESULTS */
+.empty-state{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;min-height:400px;color:#bbb;text-align:center;gap:12px}
+.empty-state .es-ico{font-size:52px}
+.empty-state p{font-size:14px;max-width:300px;line-height:1.6}
+
+/* RESULT CARDS */
+.result-header{margin-bottom:1.25rem}
+.result-header h2{font-size:17px;font-weight:700;color:#111}
+.result-header .meta{font-size:12px;color:#888;margin-top:3px}
+
+.section-block{margin-bottom:1.25rem}
+.section-block .sb-title{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.6px;color:#0162a9;margin-bottom:.75rem;padding-bottom:.5rem;border-bottom:2px solid #e8f0fb}
+
+/* SUMMARY BOX */
+.summary-box{background:#f0f7ff;border:1px solid #c8dff5;border-radius:10px;padding:1rem 1.1rem;font-size:14px;line-height:1.7;color:#222}
+.summary-box strong{color:#0162a9}
+
+/* PRODUCT CARDS */
+.prod-grid{display:grid;gap:.75rem}
+.prod-card{background:#fff;border:1px solid #e2e6ea;border-radius:12px;padding:1rem 1.1rem;transition:.15s;position:relative}
+.prod-card:hover{box-shadow:0 4px 16px rgba(1,98,169,.1);border-color:#0162a9}
+.prod-card .pc-head{display:flex;align-items:flex-start;gap:10px;margin-bottom:.6rem}
+.prod-card .rank{width:26px;height:26px;border-radius:50%;background:#0162a9;color:#fff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:1px}
+.prod-card .rank.r2{background:#5b8dee}
+.prod-card .rank.r3{background:#8fb4f5}
+.prod-card .pc-info{flex:1;min-width:0}
+.prod-card .pc-parte{font-size:13px;font-weight:700;color:#111;font-family:monospace}
+.prod-card .pc-name{font-size:14px;font-weight:600;color:#222;margin-top:1px;line-height:1.3}
+.prod-card .pc-fab{font-size:11px;color:#888;margin-top:1px}
+.prod-card .pc-why{font-size:13px;color:#444;line-height:1.6;margin-bottom:.75rem;padding:.6rem .75rem;background:#fafafa;border-radius:6px;border-left:3px solid #0162a9}
+.prod-card .pc-specs{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:.75rem}
+.prod-card .spec-pill{font-size:11px;padding:3px 9px;border-radius:100px;background:#f0f4f8;color:#555;border:1px solid #e2e6ea}
+.prod-card .spec-pill.match{background:#e8f3ff;color:#0162a9;border-color:#c8dff5}
+.prod-card .pc-foot{display:flex;align-items:center;gap:8px}
+.prod-card .pc-link{font-size:12px;padding:5px 12px;border-radius:6px;background:#0162a9;color:#fff;text-decoration:none;transition:.12s}
+.prod-card .pc-link:hover{background:#014d88}
+.prod-card .pc-copy{font-size:12px;padding:5px 12px;border-radius:6px;border:1px solid #d0d5dd;background:#fff;color:#555;cursor:pointer}
+.prod-card .pc-copy:hover{background:#f0f0f0}
+.prod-card .pc-copy.ok{background:#0F6E56;color:#fff;border-color:#0F6E56}
+.badge-top{position:absolute;top:10px;right:10px;font-size:10px;font-weight:700;padding:3px 8px;border-radius:100px;background:#fff3e0;color:#e65c00;border:1px solid #ffd0a0}
+
+/* COMPARISON TABLE */
+.comp-table{width:100%;border-collapse:collapse;font-size:13px}
+.comp-table th{background:#f0f4f8;padding:8px 10px;text-align:left;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.4px;color:#666;border-bottom:2px solid #e2e6ea}
+.comp-table td{padding:8px 10px;border-bottom:1px solid #f0f0f0;vertical-align:top;line-height:1.5}
+.comp-table tr:hover td{background:#fafcff}
+.comp-table td:first-child{font-family:monospace;font-size:12px;font-weight:600;color:#0162a9;white-space:nowrap}
+.chk{color:#0F6E56;font-weight:700}
+.ex{color:#c0392b}
+
+/* NEXT STEPS */
+.steps-list{display:flex;flex-direction:column;gap:.6rem}
+.step-item{display:flex;gap:10px;align-items:flex-start;padding:.7rem .875rem;background:#fff;border:1px solid #e2e6ea;border-radius:8px;font-size:13px;color:#333;line-height:1.5}
+.step-item .si{font-size:16px;flex-shrink:0}
+
+/* ACTIONS BAR */
+.actions-bar{display:flex;gap:8px;margin-bottom:1rem;flex-wrap:wrap}
+.act-btn{font-size:13px;padding:7px 14px;border-radius:8px;border:1px solid #d0d5dd;background:#fff;cursor:pointer;color:#444;display:flex;align-items:center;gap:5px;transition:.12s}
+.act-btn:hover{background:#f0f0f0}
+.act-btn.primary{background:#0162a9;color:#fff;border-color:#0162a9}
+.act-btn.primary:hover{background:#014d88}
+
+.err{font-size:13px;color:#c0392b;padding:8px 0;display:flex;align-items:center;gap:6px}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="logo">🔬 Consultoría Técnica</div>
+  <div style="font-size:13px;opacity:.9">Logicbus México</div>
+  <div class="sub" id="catalogStatus">Cargando catálogo...</div>
+</div>
+
+<div class="layout">
+<!-- ═══════════ LEFT PANEL ═══════════ -->
+<div class="panel-left">
+
+  <!-- CLIENTE -->
+  <div class="sec">
+    <div class="sec-title">🏭 Datos del cliente</div>
+    <div class="field">
+      <label>Industria / sector</label>
+      <div class="tags" id="industria-tags">
+        <div class="tag" onclick="tTag(this,'industria')">Farmacéutica</div>
+        <div class="tag" onclick="tTag(this,'industria')">Alimentos y bebidas</div>
+        <div class="tag" onclick="tTag(this,'industria')">Automotriz</div>
+        <div class="tag" onclick="tTag(this,'industria')">Manufactura</div>
+        <div class="tag" onclick="tTag(this,'industria')">Laboratorio</div>
+        <div class="tag" onclick="tTag(this,'industria')">Petroquímica</div>
+        <div class="tag" onclick="tTag(this,'industria')">Agua / utilities</div>
+        <div class="tag" onclick="tTag(this,'industria')">Educación / R&D</div>
+        <div class="tag" onclick="tTag(this,'industria')">Otra</div>
+      
+        <div class="tag tag-noinfo" onclick="tTag(this,'industria')">❔ No tengo esta info</div></div>
+      <input type="text" id="industria-custom" placeholder="O escribe la industria..." style="margin-top:6px">
+    </div>
+    <div class="field">
+      <label>Nombre del cliente / empresa <span>(opcional)</span></label>
+      <input type="text" id="cliente" placeholder="Ej: Laboratorios Pisa, AHMSA, CEMEX...">
+    </div>
+  </div>
+
+  <!-- APLICACIÓN -->
+  <div class="sec">
+    <div class="sec-title">⚙️ Aplicación</div>
+    <div class="field">
+      <label>¿Qué necesita medir, controlar o monitorear?</label>
+      <textarea id="aplicacion" rows="3" placeholder="Ej: Medir la fuerza de compresión en una prensa hidráulica de 50 toneladas para control de calidad en línea de producción..."></textarea>
+      <div class="hint">Mientras más detalle, mejor la recomendación</div>
+    </div>
+    <div class="field">
+      <label>Tipo de variable / aplicación</label>
+      <div class="tags" id="variable-tags">
+        <div class="tag" onclick="tTag(this,'variable')">Temperatura</div>
+        <div class="tag" onclick="tTag(this,'variable')">Fuerza / Torque</div>
+        <div class="tag" onclick="tTag(this,'variable')">Presión</div>
+        <div class="tag" onclick="tTag(this,'variable')">Humedad</div>
+        <div class="tag" onclick="tTag(this,'variable')">PLC / Control</div>
+        <div class="tag" onclick="tTag(this,'variable')">HMI / Pantalla</div>
+        <div class="tag" onclick="tTag(this,'variable')">Comunicación industrial</div>
+        <div class="tag" onclick="tTag(this,'variable')">Data logger</div>
+        <div class="tag" onclick="tTag(this,'variable')">Adquisición de datos</div>
+        <div class="tag" onclick="tTag(this,'variable')">Instrumentación de laboratorio</div>
+        <div class="tag" onclick="tTag(this,'variable')">Validación / Calidad</div>
+        <div class="tag" onclick="tTag(this,'variable')">IIoT / Monitoreo remoto</div>
+      
+        <div class="tag tag-noinfo" onclick="tTag(this,'variable')">❔ No tengo esta info</div></div>
+    </div>
+  </div>
+
+
+  <!-- PRODUCTO DE REFERENCIA -->
+  <div class="sec">
+    <div class="sec-title">🔍 Producto de referencia del cliente</div>
+    <div class="field">
+      <label>¿El cliente ya tiene un producto en mente? <span>(opcional)</span></label>
+      <input type="text" id="prod-referencia" placeholder="Ej: LCM300 FUTEK, Siemens S7-1200, HiTemp140-1...">
+      <div class="hint">Número de parte, modelo o descripción — buscaremos alternativas o complementos en el catálogo</div>
+    </div>
+    <div class="field">
+      <label>¿Qué quiere hacer con ese producto?</label>
+      <div class="tags" id="ref-tags">
+        <div class="tag" onclick="tTag(this,'ref')">Encontrar equivalente más económico</div>
+        <div class="tag" onclick="tTag(this,'ref')">Encontrar alternativa de otra marca</div>
+        <div class="tag" onclick="tTag(this,'ref')">Verificar si lo tenemos en catálogo</div>
+        <div class="tag" onclick="tTag(this,'ref')">Encontrar complemento / accesorio</div>
+        <div class="tag" onclick="tTag(this,'ref')">Comparar con otras opciones</div>
+        <div class="tag" onclick="tTag(this,'ref')">❔ No tengo esta info</div>
+      </div>
+    </div>
+    <div class="field">
+      <label>¿El cliente tiene preferencia por alguna marca de Logicbus? <span>(opcional)</span></label>
+      <div class="hint" style="margin-bottom:6px">Selecciona una o varias marcas de nuestro catálogo</div>
+      <input type="text" id="marca-search" placeholder="Buscar marca..." style="margin-bottom:6px" oninput="filterMarcas(this.value)">
+      <div class="tags" id="marca-interes-tags" style="max-height:180px;overflow-y:auto;padding:4px 0">
+        <div class="tag" onclick="tTag(this,'marca-interes')">3onedata Technology</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Aicsys</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Aplex Technology</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Applied Motion</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Arbor Technology Corp</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Arestech</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Atop</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Auk Industries</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Autoxing</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Blyott</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Brainchild</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Brooks Automation</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Calex</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Cervoz</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Chainway</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">CIMON</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Cincoze</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">DARVEEN</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Industrial Shields</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Daviteq Technologies Inc</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">DAVO Electronics</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Dekist</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Digilent</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Dixsen</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Dorna Robotics</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">ELA Innovation</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Emdoor</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Fatek</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">FORWARDX</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Futek</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Graphtec America Inc.</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">GW Instruments</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">ICP DAS</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">IPdisplays LLC</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">ISKRA d.o.o.</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Innophys</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Inputel</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Kemaro</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Kokobots</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Laumas</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">LG Electronics</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Litum Technologies</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">LoggerFlex</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">MADGETECH</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">MicroStrain by HBK</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Movfast</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Multiway</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">National Control Devices</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Neovero</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Peakboard America</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Nucmo</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Onrobot</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Picotech</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Qualcomm</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Quasi Robotics</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Rechner Sensors</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Reign Power</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Real Time Automation</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">RFID INC</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">SEALEVEL</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">SENECA S.R.L.</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">SIASUN Duco</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">SIGLENT</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">SmartRay GmbH</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">STI Vibration Monitoring</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Sunix</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Taicenn</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Teracom</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Trafag</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">TRI-TRONICS CO.</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Ubudu</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">United Electronic Industries</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Vitrek</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">WayCon</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Westermo</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Winmate</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Winsonic</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">Youibot</div>
+        <div class="tag" onclick="tTag(this,'marca-interes')">ZACO Robot</div>
+        <div class="tag tag-noinfo" onclick="tTag(this,'marca-interes')">❔ Sin preferencia de marca</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ESPECIFICACIONES TÉCNICAS -->
+  <div class="sec">
+    <div class="sec-title">📐 Especificaciones técnicas</div>
+    <div class="field">
+      <label>Rango requerido <span>(si aplica)</span></label>
+      <input type="text" id="rango" placeholder="Ej: -40°C a 150°C / 0 a 500 kg / 0 a 10 bar">
+    </div>
+    <div class="field">
+      <label>Ambiente de instalación</label>
+      <div class="tags" id="ambiente-tags">
+        <div class="tag" onclick="tTag(this,'ambiente')">Interior / oficina</div>
+        <div class="tag" onclick="tTag(this,'ambiente')">Piso de planta</div>
+        <div class="tag" onclick="tTag(this,'ambiente')">Exterior</div>
+        <div class="tag" onclick="tTag(this,'ambiente')">Alta temperatura</div>
+        <div class="tag" onclick="tTag(this,'ambiente')">Zona húmeda / lavados</div>
+        <div class="tag" onclick="tTag(this,'ambiente')">Área clasificada / ATEX</div>
+        <div class="tag" onclick="tTag(this,'ambiente')">Sala limpia</div>
+        <div class="tag" onclick="tTag(this,'ambiente')">Autoclave / esterilización</div>
+      
+        <div class="tag tag-noinfo" onclick="tTag(this,'ambiente')">❔ No tengo esta info</div></div>
+    </div>
+    <div class="field">
+      <label>Comunicación / integración requerida</label>
+      <div class="tags" id="comms-tags">
+        <div class="tag" onclick="tTag(this,'comms')">Modbus RTU</div>
+        <div class="tag" onclick="tTag(this,'comms')">Modbus TCP</div>
+        <div class="tag" onclick="tTag(this,'comms')">USB / PC</div>
+        <div class="tag" onclick="tTag(this,'comms')">Ethernet</div>
+        <div class="tag" onclick="tTag(this,'comms')">Inalámbrico / WiFi</div>
+        <div class="tag" onclick="tTag(this,'comms')">4-20mA</div>
+        <div class="tag" onclick="tTag(this,'comms')">RS-485</div>
+        <div class="tag" onclick="tTag(this,'comms')">Sin comunicación (standalone)</div>
+      
+        <div class="tag tag-noinfo" onclick="tTag(this,'comms')">❔ No tengo esta info</div></div>
+    </div>
+    <div class="field">
+      <label>Precisión requerida</label>
+      <div class="tags" id="precision-tags">
+        <div class="tag" onclick="tTag(this,'precision')">Alta precisión (laboratorio)</div>
+        <div class="tag" onclick="tTag(this,'precision')">Precisión media (proceso)</div>
+        <div class="tag" onclick="tTag(this,'precision')">Indicativa (monitoreo general)</div>
+      
+        <div class="tag tag-noinfo" onclick="tTag(this,'precision')">❔ No tengo esta info</div></div>
+    </div>
+    <div class="field">
+      <label>Normativa o certificación requerida <span>(si aplica)</span></label>
+      <div class="tags" id="norma-tags">
+        <div class="tag" onclick="tTag(this,'norma')">FDA 21 CFR Parte 11</div>
+        <div class="tag" onclick="tTag(this,'norma')">COFEPRIS / BPF</div>
+        <div class="tag" onclick="tTag(this,'norma')">ISO 9001</div>
+        <div class="tag" onclick="tTag(this,'norma')">IATF 16949</div>
+        <div class="tag" onclick="tTag(this,'norma')">ISO/IEC 17025</div>
+        <div class="tag" onclick="tTag(this,'norma')">Trazabilidad NIST/CENAM</div>
+        <div class="tag" onclick="tTag(this,'norma')">Sin requerimiento específico</div>
+      
+        <div class="tag tag-noinfo" onclick="tTag(this,'norma')">❔ No tengo esta info</div></div>
+    </div>
+  </div>
+
+  <!-- LOGÍSTICA -->
+  <div class="sec">
+    <div class="sec-title">💼 Logística y contexto</div>
+    <div class="field">
+      <label>Cantidad estimada</label>
+      <div class="tags" id="cantidad-tags">
+        <div class="tag" onclick="tTag(this,'cantidad')">1 pieza (prueba)</div>
+        <div class="tag" onclick="tTag(this,'cantidad')">2-5 piezas</div>
+        <div class="tag" onclick="tTag(this,'cantidad')">5-20 piezas</div>
+        <div class="tag" onclick="tTag(this,'cantidad')">20+ piezas</div>
+      
+        <div class="tag tag-noinfo" onclick="tTag(this,'cantidad')">❔ No tengo esta info</div></div>
+    </div>
+    <div class="field">
+      <label>Urgencia</label>
+      <div class="urgency-grid">
+        <div class="urg-btn" data-u="Inmediata (hoy/mañana)" onclick="tUrg(this)"><div class="ui">🔴</div><div class="ul">Inmediata</div></div>
+        <div class="urg-btn" data-u="Esta semana" onclick="tUrg(this)"><div class="ui">🟡</div><div class="ul">Esta semana</div></div>
+        <div class="urg-btn" data-u="Sin prisa" onclick="tUrg(this)"><div class="ui">🟢</div><div class="ul">Sin prisa</div></div>
+      </div>
+    </div>
+    <div class="field">
+      <label>Presupuesto aproximado <span>(MXN, opcional)</span></label>
+      <div class="tags" id="presup-tags">
+        <div class="tag" onclick="tTag(this,'presup')">Menos de $5,000</div>
+        <div class="tag" onclick="tTag(this,'presup')">$5,000 – $20,000</div>
+        <div class="tag" onclick="tTag(this,'presup')">$20,000 – $100,000</div>
+        <div class="tag" onclick="tTag(this,'presup')">Más de $100,000</div>
+        <div class="tag" onclick="tTag(this,'presup')">No definido</div>
+      
+        <div class="tag tag-noinfo" onclick="tTag(this,'presup')">❔ No tengo esta info</div></div>
+    </div>
+    <div class="field">
+      <label>Contexto adicional <span>(opcional)</span></label>
+      <textarea id="contexto" rows="2" placeholder="Ej: el cliente ya tiene un PLC Allen Bradley, necesita integración con su SCADA existente, tiene experiencia con Modbus..."></textarea>
+    </div>
+  </div>
+
+  <button class="gen-btn" id="genBtn" onclick="consultar()">
+    <span id="genTxt">🔬 Analizar y recomendar productos</span>
+  </button>
+  <button class="clear-btn" onclick="clearAll()">↺ Limpiar formulario</button>
+  <div id="errMsg"></div>
+</div>
+
+<!-- ═══════════ RIGHT PANEL ═══════════ -->
+<div class="panel-right" id="rightPanel">
+  <div class="empty-state" id="emptyState">
+    <div class="es-ico">🔬</div>
+    <p>Llena los datos del cliente y la aplicación, luego presiona <strong>Analizar y recomendar</strong></p>
+    <p style="font-size:12px;color:#ccc;margin-top:8px">El asistente consultará el catálogo real de Logicbus y te dará las mejores opciones con justificación técnica</p>
+  </div>
+  <div id="resultContent" style="display:none"></div>
+</div>
+</div>
+
+<script src="catalog.js"></script>
+<script>
+const CATALOG = window.LOGICBUS_CATALOG || {};
+const PARTS = Object.keys(CATALOG);
+
+// Tag state
+const tagState = {};
+let urgencia = '';
+
+document.getElementById('catalogStatus').textContent =
+  PARTS.length > 0 ? `${PARTS.length.toLocaleString()} productos cargados` : 'Error cargando catálogo';
+
+function tTag(el, group) {
+  if (!tagState[group]) tagState[group] = new Set();
+  el.classList.toggle('on');
+  const v = el.textContent.trim();
+  if (tagState[group].has(v)) tagState[group].delete(v);
+  else tagState[group].add(v);
+}
+function tUrg(el) {
+  document.querySelectorAll('.urg-btn').forEach(b => b.classList.remove('on'));
+  el.classList.add('on');
+  urgencia = el.dataset.u;
+}
+function getTagVals(group) {
+  return tagState[group] ? [...tagState[group]].join(', ') : '';
+}
+
+function clearAll() {
+  document.querySelectorAll('.tag.on').forEach(t => t.classList.remove('on'));
+  document.querySelectorAll('.urg-btn.on').forEach(b => b.classList.remove('on'));
+  for (const k in tagState) tagState[k] = new Set();
+  urgencia = '';
+  ['industria-custom','cliente','aplicacion','rango','contexto','prod-referencia','marca-search'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.value = '';
+  });
+  document.getElementById('errMsg').innerHTML = '';
+  filterMarcas('');
+  document.getElementById('resultContent').style.display = 'none';
+  document.getElementById('emptyState').style.display = 'flex';
+}
+
+async function consultar() {
+  const aplicacion = document.getElementById('aplicacion').value.trim();
+  if (!aplicacion && !getTagVals('variable')) {
+    document.getElementById('errMsg').innerHTML = '<div class="err">⚠️ Describe la aplicación o selecciona al menos una variable</div>';
+    return;
+  }
+
+  const btn = document.getElementById('genBtn');
+  btn.disabled = true;
+  document.getElementById('genTxt').innerHTML = '<span class="spin"></span> Analizando y buscando en catálogo...';
+  document.getElementById('errMsg').innerHTML = '';
+  document.getElementById('emptyState').style.display = 'none';
+  document.getElementById('resultContent').style.display = 'none';
+
+  // Build context
+  const ctx = {
+    cliente: document.getElementById('cliente').value.trim(),
+    industria: getTagVals('industria') || document.getElementById('industria-custom').value.trim(),
+    aplicacion: document.getElementById('aplicacion').value.trim(),
+    variable: getTagVals('variable'),
+    rango: document.getElementById('rango').value.trim(),
+    ambiente: getTagVals('ambiente'),
+    comms: getTagVals('comms'),
+    precision: getTagVals('precision'),
+    norma: getTagVals('norma'),
+    cantidad: getTagVals('cantidad'),
+    urgencia,
+    presupuesto: getTagVals('presup'),
+    contexto: document.getElementById('contexto').value.trim(),
+    prodReferencia: document.getElementById('prod-referencia').value.trim(),
+    refAccion: getTagVals('ref'),
+    marcaInteres: getTagVals('marca-interes'),
+  };
+
+  // Sample relevant catalog parts to help Claude search
+  const sampleParts = PARTS.slice(0, 30).join(', ');
+
+  const prompt = `CONSULTA:
+${ctx.cliente ? `Cliente: ${ctx.cliente}` : ''}
+${ctx.industria ? `Industria: ${ctx.industria}` : ''}
+Aplicación: ${ctx.aplicacion || 'No especificada'}
+${ctx.variable ? `Variable: ${ctx.variable}` : ''}
+${ctx.rango ? `Rango: ${ctx.rango}` : ''}
+${ctx.ambiente ? `Ambiente: ${ctx.ambiente}` : ''}
+${ctx.comms ? `Comunicación: ${ctx.comms}` : ''}
+${ctx.precision ? `Precisión: ${ctx.precision}` : ''}
+${ctx.norma ? `Normativa: ${ctx.norma}` : ''}
+${ctx.cantidad ? `Cantidad: ${ctx.cantidad}` : ''}
+${ctx.urgencia ? `Urgencia: ${ctx.urgencia}` : ''}
+${ctx.presupuesto ? `Presupuesto: ${ctx.presupuesto} MXN` : ''}
+${ctx.contexto ? `Contexto: ${ctx.contexto}` : ''}
+${ctx.prodReferencia ? `Producto de referencia del cliente: "${ctx.prodReferencia}" — ${ctx.refAccion || 'buscar equivalente en Logicbus'}` : ''}
+${ctx.marcaInteres ? `Marca preferida: ${ctx.marcaInteres}` : ''}
+
+Busca en tienda.logicbus.com.mx y responde con este JSON (sin backticks):
+{"resumen":"texto","advertencias":["si aplica"],"productos":[{"parte":"PARTE","nombre":"nombre","fabricante":"fab","url":"https://tienda.logicbus.com.mx/URL","posicion":1,"es_principal":true,"por_que":"justificación","ventajas":["v1","v2"],"limitaciones":["l1"],"especificaciones_clave":["s1","s2"]}],"tabla_comparativa":[{"criterio":"nombre","prod1":"val","prod2":"val"}],"pasos_siguientes":["paso1","paso2"],"preguntas_al_cliente":["pregunta1"]}`;
+
+  try {
+    const resp = await fetch('https://www.logicbus.com.mx/herramientas/proxy.php', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-6',
+        max_tokens: 4000,
+        system: 'Eres ingeniero experto en automatización industrial y asesor técnico de Logicbus México. Logicbus distribuye: FUTEK (fuerza/torque/presión), MadgeTech (data loggers), FATEK (PLCs/HMIs), Industrial Shields (PLCs Arduino), SIGLENT (instrumentación), ICP DAS (I/O DAQ), SENECA (gateways IIoT), DAVO (teclados industriales), NCD, RFID INC, Taicenn, Reign Power, TRI-TRONICS, Westermo, Winmate y 60+ marcas más. Busca siempre en tienda.logicbus.com.mx. Recomienda 2-4 productos reales que existan en el catálogo. Si el cliente trae producto de referencia, busca equivalentes Logicbus. Responde SOLO con JSON válido sin backticks.',
+        messages: [{ role: 'user', content: prompt }],
+        tools: [{ type: 'web_search_20250305', name: 'web_search' }]
+      })
+    });
+
+    if (!resp.ok) { const e = await resp.json(); throw new Error(e.error?.message || resp.statusText); }
+    const data = await resp.json();
+    const raw = data.content.map(b => b.type === 'text' ? b.text : '').filter(Boolean).join('');
+    const result = parseJSON(raw);
+    renderResult(result, ctx);
+  } catch(e) {
+    document.getElementById('errMsg').innerHTML = `<div class="err">⚠️ ${e.message}</div>`;
+    document.getElementById('emptyState').style.display = 'flex';
+  }
+
+  btn.disabled = false;
+  document.getElementById('genTxt').innerHTML = '🔬 Analizar y recomendar productos';
+}
+
+function parseJSON(raw) {
+  let s = raw.replace(/```json\s*/gi, '').replace(/```\s*/g, '').trim();
+  // Try direct parse
+  try { return JSON.parse(s); } catch(e) {}
+  // Find outermost { }
+  const a = s.indexOf('{'), b = s.lastIndexOf('}');
+  if (a > -1 && b > a) { try { return JSON.parse(s.slice(a, b+1)); } catch(e) {} }
+  // Try fixing truncated JSON by closing open structures
+  if (a > -1) {
+    let partial = s.slice(a);
+    // Count open brackets to close them
+    let openBraces = 0, openBrackets = 0, inStr = false, escaped = false;
+    for (let i = 0; i < partial.length; i++) {
+      const c = partial[i];
+      if (escaped) { escaped = false; continue; }
+      if (c === '\\') { escaped = true; continue; }
+      if (c === '"' && !inStr) inStr = true;
+      else if (c === '"' && inStr) inStr = false;
+      if (!inStr) {
+        if (c === '{') openBraces++;
+        else if (c === '}') openBraces--;
+        else if (c === '[') openBrackets++;
+        else if (c === ']') openBrackets--;
+      }
+    }
+    // Close any open structures
+    let fixed = partial;
+    if (inStr) fixed += '"';
+    while (openBrackets > 0) { fixed += ']'; openBrackets--; }
+    while (openBraces > 0) { fixed += '}'; openBraces--; }
+    try { return JSON.parse(fixed); } catch(e) {}
+  }
+  throw new Error('La respuesta fue demasiado larga o el formato es inválido. Intenta con menos campos seleccionados.');
+}
+
+function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+function renderResult(r, ctx) {
+  const prods = r.productos || [];
+  const nombres = prods.map(p => p.parte).join(', ');
+
+  let html = `
+    <div class="actions-bar">
+      <button class="act-btn primary" onclick="printResult()">🖨 Imprimir / PDF</button>
+      <button class="act-btn" onclick="copyResult()">📋 Copiar resumen</button>
+    </div>
+
+    <div class="result-header">
+      <h2>Recomendación técnica${ctx.cliente ? ` — ${esc(ctx.cliente)}` : ''}</h2>
+      <div class="meta">${new Date().toLocaleDateString('es-MX',{day:'numeric',month:'long',year:'numeric'})} · ${prods.length} producto(s) recomendado(s)</div>
+    </div>`;
+
+  // SUMMARY
+  if (r.resumen) {
+    html += `<div class="section-block">
+      <div class="sb-title">📋 Análisis de la consulta</div>
+      <div class="summary-box">${esc(r.resumen)}</div>`;
+    if (r.advertencias && r.advertencias.length) {
+      html += `<div style="margin-top:.6rem;padding:.7rem .875rem;background:#fff8e1;border:1px solid #ffe082;border-radius:8px;font-size:13px;color:#856404">
+        ⚠️ <strong>Consideraciones:</strong> ${r.advertencias.map(a=>esc(a)).join(' · ')}
+      </div>`;
+    }
+    html += `</div>`;
+  }
+
+  // PRODUCTS
+  if (prods.length) {
+    html += `<div class="section-block"><div class="sb-title">🎯 Productos recomendados</div><div class="prod-grid">`;
+    prods.forEach((p, i) => {
+      const rankClass = i===0?'':i===1?'r2':'r3';
+      const url = p.url || (CATALOG[p.parte] ? CATALOG[p.parte] : `https://tienda.logicbus.com.mx`);
+      html += `<div class="prod-card" id="pc${i}">
+        ${p.es_principal && i===0 ? '<div class="badge-top">⭐ Principal</div>' : ''}
+        <div class="pc-head">
+          <div class="rank ${rankClass}">${i+1}</div>
+          <div class="pc-info">
+            <div class="pc-parte">${esc(p.parte)}</div>
+            <div class="pc-name">${esc(p.nombre)}</div>
+            <div class="pc-fab">${esc(p.fabricante)}</div>
+          </div>
+        </div>
+        <div class="pc-why">${esc(p.por_que)}</div>
+        ${p.especificaciones_clave && p.especificaciones_clave.length ?
+          `<div class="pc-specs">${p.especificaciones_clave.map(s=>`<span class="spec-pill match">${esc(s)}</span>`).join('')}</div>` : ''}
+        ${p.ventajas && p.ventajas.length ?
+          `<div style="margin-bottom:.6rem;font-size:12px;color:#444;line-height:1.6">
+            ${p.ventajas.map(v=>`<span style="display:block">✓ ${esc(v)}</span>`).join('')}
+          </div>` : ''}
+        ${p.limitaciones && p.limitaciones.filter(l=>l).length ?
+          `<div style="margin-bottom:.6rem;font-size:12px;color:#888;line-height:1.6">
+            ${p.limitaciones.map(l=>`<span style="display:block">⚠ ${esc(l)}</span>`).join('')}
+          </div>` : ''}
+        <div class="pc-foot">
+          <a href="${url}" target="_blank" class="pc-link">Ver en tienda →</a>
+          <button class="pc-copy" onclick="copyProd(${i},this,'${esc(p.parte)}','${url}')">📋 Copiar datos</button>
+        </div>
+      </div>`;
+    });
+    html += `</div></div>`;
+  }
+
+  // COMPARISON TABLE
+  if (r.tabla_comparativa && r.tabla_comparativa.length && prods.length > 1) {
+    html += `<div class="section-block"><div class="sb-title">📊 Tabla comparativa</div>
+      <div style="overflow-x:auto"><table class="comp-table">
+        <thead><tr>
+          <th>Criterio</th>
+          ${prods.map((p,i)=>`<th>${esc(p.parte)}</th>`).join('')}
+        </tr></thead>
+        <tbody>
+          ${r.tabla_comparativa.map(row=>`<tr>
+            <td style="font-weight:500;color:#555">${esc(row.criterio)}</td>
+            ${prods.map((_,i)=>{
+              const val = row[`prod${i+1}`] || '—';
+              const cls = val==='✓'?'chk':val==='✗'?'ex':'';
+              return `<td class="${cls}">${esc(val)}</td>`;
+            }).join('')}
+          </tr>`).join('')}
+        </tbody>
+      </table></div></div>`;
+  }
+
+  // NEXT STEPS
+  if (r.pasos_siguientes && r.pasos_siguientes.length) {
+    html += `<div class="section-block"><div class="sb-title">✅ Próximos pasos</div>
+      <div class="steps-list">
+        ${r.pasos_siguientes.map((s,i)=>`<div class="step-item"><span class="si">${['1️⃣','2️⃣','3️⃣','4️⃣','5️⃣'][i]||'▸'}</span><span>${esc(s)}</span></div>`).join('')}
+      </div></div>`;
+  }
+
+  // QUESTIONS FOR CLIENT
+  if (r.preguntas_al_cliente && r.preguntas_al_cliente.length) {
+    html += `<div class="section-block"><div class="sb-title">❓ Preguntas de seguimiento al cliente</div>
+      <div style="background:#fff;border:1px solid #e2e6ea;border-radius:10px;padding:.875rem 1rem">
+        ${r.preguntas_al_cliente.map(q=>`<div style="font-size:13px;color:#444;padding:.4rem 0;border-bottom:.5px solid #f0f0f0">• ${esc(q)}</div>`).join('')}
+      </div></div>`;
+  }
+
+  document.getElementById('resultContent').innerHTML = html;
+  document.getElementById('resultContent').style.display = 'block';
+
+  // Store for copy/print
+  window._lastResult = { r, ctx, prods };
+}
+
+function copyProd(i, btn, parte, url) {
+  const p = window._lastResult?.prods[i];
+  if (!p) return;
+  const txt = `Producto recomendado: ${p.parte} — ${p.nombre}\nFabricante: ${p.fabricante}\nJustificación: ${p.por_que}\nURL: ${url}`;
+  navigator.clipboard.writeText(txt).then(() => {
+    btn.textContent = '✓ Copiado'; btn.classList.add('ok');
+    setTimeout(() => { btn.textContent = '📋 Copiar datos'; btn.classList.remove('ok'); }, 2000);
+  });
+}
+
+function copyResult() {
+  const { r, ctx, prods } = window._lastResult || {};
+  if (!r) return;
+  let txt = `CONSULTORÍA TÉCNICA — LOGICBUS MÉXICO\n`;
+  txt += `Fecha: ${new Date().toLocaleDateString('es-MX')}\n`;
+  if (ctx.cliente) txt += `Cliente: ${ctx.cliente}\n`;
+  if (ctx.industria) txt += `Industria: ${ctx.industria}\n`;
+  txt += `Aplicación: ${ctx.aplicacion}\n\n`;
+  txt += `ANÁLISIS: ${r.resumen}\n\n`;
+  txt += `PRODUCTOS RECOMENDADOS:\n`;
+  prods.forEach((p,i) => {
+    txt += `${i+1}. ${p.parte} — ${p.nombre} (${p.fabricante})\n`;
+    txt += `   Por qué: ${p.por_que}\n`;
+    txt += `   URL: ${p.url || CATALOG[p.parte] || ''}\n\n`;
+  });
+  if (r.pasos_siguientes) {
+    txt += `PRÓXIMOS PASOS:\n`;
+    r.pasos_siguientes.forEach((s,i) => txt += `${i+1}. ${s}\n`);
+  }
+  navigator.clipboard.writeText(txt).then(() => alert('¡Resumen copiado al portapapeles!'));
+}
+
+function printResult() {
+  window.print();
+}
+
+function filterMarcas(q) {
+  const tags = document.querySelectorAll('#marca-interes-tags .tag');
+  const ql = q.toLowerCase().trim();
+  tags.forEach(t => {
+    t.style.display = (!ql || t.textContent.toLowerCase().includes(ql)) ? '' : 'none';
+  });
+}
+</script>
+</body>
+</html>

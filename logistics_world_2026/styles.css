@@ -1,0 +1,502 @@
+/* =====================================================
+   1. CONFIGURACIÓN GLOBAL Y VARIABLES
+===================================================== */
+
+:root {
+    --primary: #1a73e8;
+    --dark: #0d2c44;
+    --blue: #1a73e8;
+    --orange: #ff6b00;
+    --dirty-white: #f8f9fa;
+    --shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+/* Scroll suave y compensación para navbar fija */
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 130px !important;
+}
+
+
+/* =====================================================
+   2. BASE MOBILE (ESTILO PRINCIPAL)
+===================================================== */
+
+/* 📱 Celular (base) */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+}
+
+/* 💻 PC */
+@media (min-width: 992px) {
+    body {
+        padding: 85px;
+    }
+}
+
+
+/* =====================================================
+   3. TIPOGRAFÍA
+===================================================== */
+
+h1 {
+    font-weight: 800;
+}
+
+h2, 
+h3 {
+    font-weight: 700;
+    margin-top: 0;
+}
+
+p {
+    font-weight: 400;
+}
+
+
+/* =====================================================
+   4. NAVEGACIÓN Y EFECTOS HOVER
+===================================================== */
+
+/* Links del menú */
+.nav-link {
+    font-weight: 500;
+    color: var(--blue) !important;
+    transition: font-weight 0.2s;
+}
+
+/* Hover y focus */
+.nav-link:hover,
+.nav-link:focus {
+    font-weight: 800;
+    color: var(--blue) !important;
+}
+
+/* Efecto filtro hover en imágenes */
+.hoverchangeT:hover img {
+    filter: invert(48%) sepia(52%) saturate(6185%) hue-rotate(358deg) brightness(98%) contrast(109%);
+}
+
+/* Imagen clickeable con filtro */
+.clk-Show img {
+    filter: invert(30%) sepia(10%) saturate(2912%) hue-rotate(166deg) brightness(95%) contrast(96%);
+    cursor: pointer;
+}
+
+
+/* =====================================================
+   5. GRID DE CARDS (FILA HORIZONTAL INTERACTIVA)
+===================================================== */
+
+.grid-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+    max-width: 1200px;
+    margin-bottom: 50px;
+    overflow-x: auto; /* Permite scroll horizontal */
+    padding: 10px;
+}
+
+/* Card individual */
+.card {
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 220px; /* Ancho fijo */
+    min-width: 200px;
+    transition: transform 0.3s ease;
+}
+
+/* Animación hover */
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* Contenedor imagen principal */
+.main-img-container {
+    position: relative;
+    height: 150px;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.main-img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: 0.3s;
+}
+
+/* Badge superior */
+.badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: var(--blue);
+    color: white;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.7rem;
+    z-index: 10;
+}
+
+
+/* =====================================================
+   6. CARRUSEL INTERNO DE CARDS
+===================================================== */
+
+.carousel-section {
+    display: none; /* Se activa vía JS */
+    background: #f8fafc;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.carousel-track {
+    display: flex;
+    gap: 5px;
+    overflow-x: auto;
+    padding-bottom: 5px;
+}
+
+/* Miniaturas */
+.thumb {
+    width: 45px;
+    height: 35px;
+    border-radius: 4px;
+    cursor: pointer;
+    object-fit: cover;
+    border: 2px solid transparent;
+}
+
+.thumb.active {
+    border-color: var(--primary);
+}
+
+/* Información dinámica */
+.info-display {
+    background: white;
+    padding: 6px;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    color: #555;
+    border-left: 3px solid var(--primary);
+    margin-top: 5px;
+}
+
+
+/* =====================================================
+   7. COMPONENTES DE TEXTO Y BOTONES
+===================================================== */
+
+.card-body {
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.card-body h2 {
+    color: var(--dark);
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+/* Contenedor botones */
+.btn-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: auto;
+}
+
+/* Botón agendar */
+.btn-agendar {
+    background: var(--blue);
+    color: white;
+    padding: 8px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.85rem;
+    text-align: center;
+}
+
+/* Botón ver más */
+.btn-ver-mas {
+    background: transparent;
+    color: var(--blue);
+    padding: 7px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.85rem;
+    border: 2px solid var(--blue);
+    cursor: pointer;
+}
+
+
+/* =====================================================
+   8. SECCIÓN CATÁLOGO (DISEÑO HORIZONTAL FORZADO)
+===================================================== */
+
+#catalogSection {
+    display: none;
+    width: 100%;
+    max-width: 1000px;
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    margin: 20px auto;
+}
+
+/* Grupo de productos */
+.product-item {
+    display: block !important;
+    padding: 0;
+    background: transparent;
+    border: none;
+    margin-bottom: 40px;
+}
+
+/* Fila imagen + tabla */
+.product-detail-row {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: flex-start;
+    gap: 30px;
+    padding: 20px;
+    background: #fafafa;
+    border: 1px solid #eee;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Imagen catálogo */
+.catalog-img {
+    width: 200px !important;
+    height: 150px !important;
+    object-fit: cover;
+    border-radius: 12px;
+    flex-shrink: 0 !important;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+/* Contenedor specs */
+.specs-info {
+    flex: 1 !important;
+    display: flex;
+    flex-direction: column;
+}
+
+.specs-info h3 {
+    margin: 0 0 10px 0;
+    color: var(--primary);
+    font-size: 1.2rem;
+}
+
+.specs-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.specs-table td {
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 0.9rem;
+}
+
+.spec-label {
+    font-weight: bold;
+    color: #555;
+    width: 140px;
+}
+
+
+/* Responsive catálogo */
+@media (max-width: 768px) {
+    .product-detail-row {
+        flex-direction: column !important;
+        align-items: center;
+        text-align: center;
+    }
+
+    .catalog-img {
+        width: 100% !important;
+        max-width: 280px;
+    }
+}
+
+
+/* =====================================================
+   9. FLICKITY (BOTONES)
+===================================================== */
+
+.flickity-prev-next-button.previous {
+    left: -60px;
+    top: 125px;
+    background-color: var(--orange);
+    color: var(--dirty-white);
+}
+
+.flickity-prev-next-button.next {
+    right: -60px;
+    top: 125px;
+    background-color: var(--orange);
+    color: var(--dirty-white);
+}
+
+
+/* =====================================================
+   10. SECCIÓN DATALOGGERS
+===================================================== */
+
+.dataloggers-section {
+    padding: 80px 20px;
+}
+
+.dataloggers-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.dataloggers-title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #0b1e36;
+}
+
+.dataloggers-subtitle {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 50px;
+}
+
+.dataloggers-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas */
+    grid-template-rows: repeat(2, auto);   /* 2 filas */
+    gap: 25px;
+    margin-bottom: 50px;
+}
+
+.datalogger-card {
+    background: #f7f9fc;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: left;
+    transition: 0.3s ease;
+}
+
+.datalogger-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.datalogger-card h4 {
+    margin-bottom: 10px;
+    color: #0b1e36;
+}
+
+.dataloggers-models {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.dataloggers-cta {
+    font-weight: 600;
+    font-size: 18px;
+    color: #0b1e36;
+}
+
+/* Mobile dataloggers */
+@media (max-width: 768px) {
+    .dataloggers-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .dataloggers-title {
+        font-size: 26px;
+    }
+}
+
+/* Segunda definición existente */
+.datalogger-card {
+    background: #f8fafc;
+    padding: 25px;
+    border-radius: 14px;
+    margin-bottom: 20px;
+    border-left: 4px solid #0b1e36;
+}
+
+
+/* =====================================================
+   11. OTROS COMPONENTES
+===================================================== */
+
+.img_ventajas:hover {
+    transform: scale(.8);
+    transition: .3s;
+}
+
+.container-fluid {
+    border-radius: 45px;
+}
+
+
+/* Contenedor encuesta */
+.contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    background: #0b1e36;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+/* Texto */
+.texto {
+    flex: 1;
+    color: #f0f2f5;
+    text-align: center;
+}
+
+/* Iframe */
+.encuesta {
+    flex: 1;
+}
+
+.encuesta iframe {
+    width: 100%;
+    height: 680px;
+    border-radius: 15px;
+}
+
+/* Responsive contenedor */
+@media (max-width:1300px) {
+    .contenedor {
+        flex-direction: column;
+    }
+}

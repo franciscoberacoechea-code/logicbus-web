@@ -1,0 +1,442 @@
+:root {
+    --lg-blue: #24537B;
+    --lg-dark: #16344f;
+    --lg-orange: #ef7b10;
+    --lg-light: #f4f7fa;
+    --lg-text: #4a5560;
+}
+
+/* ==========================================
+   CONFIGURACIÓN GLOBAL
+   ========================================== */
+#logisticbus-landing * {
+    -webkit-tap-highlight-color: transparent;
+}
+#logisticbus-landing ::selection {
+    background: rgba(239, 123, 16, 0.3);
+}
+
+/* ==========================================
+   ICONOS SVG
+   ========================================== */
+#logisticbus-landing svg.lg-i {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    vertical-align: middle;
+    flex-shrink: 0;
+    fill: none !important;
+    stroke: currentColor !important;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    overflow: visible;
+    position: static !important;
+    margin: 0;
+}
+
+/* ==========================================
+   ESTILOS GENERALES
+   ========================================== */
+#logisticbus-landing .lg-section { padding: 80px 0; }
+#logisticbus-landing .lg-section.alt { background: var(--lg-light); }
+#logisticbus-landing .lg-wrap { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
+#logisticbus-landing .lg-head { text-align: center; max-width: 760px; margin: 0 auto 44px; }
+#logisticbus-landing .lg-head h2 { color: var(--lg-blue); font-weight: 800; font-size: 2.1rem; margin-bottom: 12px; line-height: 1.2; }
+#logisticbus-landing .lg-head p { color: var(--lg-text); font-size: 1.05rem; margin: 0; }
+#logisticbus-landing .lg-eyebrow { color: var(--lg-orange); font-weight: 700; letter-spacing: 2px; font-size: 12px; text-transform: uppercase; margin-bottom: 8px; display: block; }
+
+/* Animación de entrada */
+.lg-js #logisticbus-landing .lg-rv { opacity: 0; transform: translateY(26px); transition: opacity .7s ease, transform .7s ease; }
+.lg-js #logisticbus-landing .lg-rv.in { opacity: 1; transform: none; }
+
+/* Botones */
+#logisticbus-landing .lg-btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 14px 28px; border-radius: 50px; font-weight: 700; text-decoration: none !important; transition: all .3s ease; border: 2px solid transparent; cursor: pointer; font-size: 1rem; text-align: center; }
+#logisticbus-landing .lg-btn.primary { background: var(--lg-orange); color: #fff; box-shadow: 0 8px 20px rgba(239, 123, 16, .35); }
+#logisticbus-landing .lg-btn.primary:hover { background: #d56a08; color: #fff; transform: translateY(-2px); }
+#logisticbus-landing .lg-btn.ghost { border-color: #fff; color: #fff; }
+#logisticbus-landing .lg-btn.ghost:hover { background: #fff; color: var(--lg-blue); }
+#logisticbus-landing .lg-btn.blue { background: var(--lg-blue); color: #fff; }
+#logisticbus-landing .lg-btn.blue:hover { background: var(--lg-dark); color: #fff; }
+#logisticbus-landing .lg-btn.outline { border-color: var(--lg-blue); color: var(--lg-blue); }
+#logisticbus-landing .lg-btn.outline:hover { background: var(--lg-blue); color: #fff; }
+
+/* ==========================================
+   01. HERO
+   ========================================== */
+#logisticbus-landing .lg-hero { position: relative; color: #fff; padding: 90px 0 80px; overflow: hidden; background: linear-gradient(100deg, rgba(22, 52, 79, .96) 0%, rgba(22, 52, 79, .82) 50%, rgba(22, 52, 79, .45) 100%), url("https://www.logicbus.com.mx/images/logistica/hero-logistica.webp") center/cover no-repeat; background-color: var(--lg-dark); }
+#logisticbus-landing .lg-hero .grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 50px; align-items: center; }
+#logisticbus-landing .lg-hero h1 { font-size: 3.2rem; font-weight: 800; line-height: 1.08; margin-bottom: 18px; color: #fff; }
+#logisticbus-landing .lg-hero h1 span { 
+    color: var(--lg-orange); 
+    font-size: inherit !important; 
+}
+#logisticbus-landing .lg-hero .sub { font-size: 1.2rem; max-width: 560px; margin-bottom: 24px; color: #e3ecf4; }
+#logisticbus-landing .lg-perks { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 18px; max-width: 520px; margin-bottom: 30px; }
+#logisticbus-landing .lg-perks div { display: flex; align-items: center; gap: 8px; font-weight: 600; font-size: .95rem; }
+#logisticbus-landing .lg-perks .lg-i { color: var(--lg-orange); width: 22px; height: 22px; }
+#logisticbus-landing .lg-hero .lg-btns { display: flex; gap: 14px; flex-wrap: wrap; }
+#logisticbus-landing .lg-hpanel { background: rgba(255, 255, 255, .09); border: 1px solid rgba(255, 255, 255, .22); border-radius: 18px; padding: 24px; box-shadow: 0 24px 60px rgba(0, 0, 0, .3); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); }
+#logisticbus-landing .lg-hpanel h3 { color: #fff; font-weight: 800; font-size: 1.2rem; margin: 0 0 14px; }
+#logisticbus-landing .lg-hpanel a { display: flex; align-items: center; gap: 14px; padding: 12px 14px; border-radius: 12px; color: #fff; text-decoration: none !important; transition: all .3s ease; margin-bottom: 6px; }
+#logisticbus-landing .lg-hpanel a > .lg-i:first-child { width: 28px; height: 28px; color: var(--lg-orange); }
+#logisticbus-landing .lg-hpanel a span { flex: 1; line-height: 1.25; }
+#logisticbus-landing .lg-hpanel a b { display: block; font-size: .98rem; }
+#logisticbus-landing .lg-hpanel a small { color: #cfdeeb; font-size: .8rem; }
+#logisticbus-landing .lg-hpanel a .go { width: 20px; height: 20px; color: #fff; opacity: .5; transition: all .3s ease; }
+#logisticbus-landing .lg-hpanel a:hover { background: rgba(255, 255, 255, .14); transform: translateX(4px); }
+#logisticbus-landing .lg-hpanel a:hover .go { opacity: 1; color: var(--lg-orange); }
+/* Bloquear la interacción en el texto del Hero para evitar el cuadro gris */
+#logisticbus-landing .lg-hero h1,
+#logisticbus-landing .lg-hero .sub {
+    pointer-events: none !important;
+    -webkit-user-select: none !important; 
+    user-select: none !important; 
+}
+
+/* ==========================================
+   02. ESTADÍSTICAS
+   ========================================== */
+#logisticbus-landing .lg-stats { background: var(--lg-blue); color: #fff; padding: 26px 0; }
+#logisticbus-landing .lg-stats .row2 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; text-align: center; }
+#logisticbus-landing .lg-stats b { display: block; font-size: 2rem; font-weight: 800; color: #fff; line-height: 1.1; }
+#logisticbus-landing .lg-stats b em { color: var(--lg-orange); font-style: normal; }
+#logisticbus-landing .lg-stats span { font-size: .9rem; color: #cfdeeb; }
+
+/* ==========================================
+   03. RETOS
+   ========================================== */
+#logisticbus-landing .lg-retos { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+#logisticbus-landing .lg-reto { background: #fff; border-radius: 14px; padding: 24px; display: flex; gap: 16px; align-items: center; box-shadow: 0 4px 14px rgba(0, 0, 0, .05); border-left: 4px solid transparent; transition: all .3s ease; }
+#logisticbus-landing .lg-reto:hover { border-left-color: var(--lg-orange); transform: translateY(-4px); box-shadow: 0 10px 24px rgba(0, 0, 0, .1); }
+#logisticbus-landing .lg-reto .ic { width: 52px; height: 52px; border-radius: 12px; background: #fdf0e2; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+#logisticbus-landing .lg-reto .ic .lg-i { width: 28px; height: 28px; color: var(--lg-orange); }
+#logisticbus-landing .lg-reto span.t { color: var(--lg-blue); font-weight: 700; line-height: 1.3; }
+#logisticbus-landing .lg-retos-cta { text-align: center !important; margin-top: 36px; color: var(--lg-blue); font-weight: 600; width: 100%; display: block; }
+#logisticbus-landing .lg-retos-cta a { color: var(--lg-orange); font-weight: 800; text-decoration: none; }
+
+/* ==========================================
+   04. CASO DE APLICACIÓN (MAPA INTERACTIVO)
+   ========================================== */
+#logisticbus-landing .lg-caso-sec { background: linear-gradient(135deg, var(--lg-dark), var(--lg-blue)); overflow: hidden; }
+#logisticbus-landing .lg-caso-sec .lg-head h2 { color: #fff; }
+#logisticbus-landing .lg-caso-sec .lg-head p { color: #dbe6f0; }
+#logisticbus-landing .lg-plano-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; color: #cfdeeb; font-weight: 700; font-size: .85rem; letter-spacing: 1px; text-transform: uppercase; }
+#logisticbus-landing .lg-play { appearance: none; -webkit-appearance: none; font-family: inherit; background: rgba(255, 255, 255, .1); border: 1px solid rgba(255, 255, 255, .3); color: #fff; border-radius: 50px; padding: 8px 18px; font-weight: 700; font-size: .85rem; cursor: pointer; transition: all .3s ease; }
+#logisticbus-landing .lg-play:hover { background: var(--lg-orange); border-color: var(--lg-orange); }
+#logisticbus-landing .lg-plano { background: rgba(8, 26, 42, .6); border: 1px solid rgba(255, 255, 255, .16); border-radius: 18px; padding: 12px; box-shadow: 0 24px 60px rgba(0, 0, 0, .35); }
+#logisticbus-landing .lg-plano svg.plano { width: 100%; height: auto; display: block; font-family: inherit; }
+#logisticbus-landing .lg-plano .zona { cursor: pointer; outline: none; }
+#logisticbus-landing .lg-plano .zona .z { fill: rgba(255, 255, 255, .04); stroke: rgba(255, 255, 255, .28); stroke-width: 1.5; stroke-dasharray: 6 6; transition: all .35s ease; }
+#logisticbus-landing .lg-plano .zona:hover .z { fill: rgba(255, 255, 255, .1); }
+#logisticbus-landing .lg-plano .zona.on .z { fill: rgba(239, 123, 16, .15); stroke: #ef7b10; stroke-dasharray: none; stroke-width: 2; }
+#logisticbus-landing .lg-plano .mk circle { fill: #16344f; stroke: rgba(255, 255, 255, .7); stroke-width: 2; transition: all .35s ease; }
+#logisticbus-landing .lg-plano .zona.on .mk circle { fill: #ef7b10; stroke: #ef7b10; }
+#logisticbus-landing .lg-plano .num, #logisticbus-landing .lg-plano .lbl { fill: #fff; font-weight: 800; }
+#logisticbus-landing .lg-plano .lbl { font-size: 12px; letter-spacing: 1.2px; }
+#logisticbus-landing .lg-plano .pill { fill: rgba(239, 123, 16, .16); stroke: #ef7b10; stroke-width: 1.2; }
+#logisticbus-landing .lg-plano .zona.on .pill { fill: #ef7b10; }
+#logisticbus-landing .lg-plano .pt { fill: #fff; font-size: 9px; font-weight: 800; }
+#logisticbus-landing .lg-plano .il * { fill: none; stroke: rgba(255, 255, 255, .88); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+#logisticbus-landing .lg-plano .il .or { stroke: #ef7b10; }
+#logisticbus-landing .lg-plano .il .fo { fill: #ef7b10; stroke: none; }
+#logisticbus-landing .lg-plano .il .pl { transform-box: fill-box; transform-origin: center; animation: lgPulseS 2s infinite ease-out; }
+@keyframes lgPulseS { 0% { transform: scale(1); opacity: 1; } 100% { transform: scale(3); opacity: 0; } }
+#logisticbus-landing .lg-plano .ruta { stroke: rgba(255, 255, 255, .4); stroke-width: 3; stroke-dasharray: 10 8; }
+#logisticbus-landing .lg-plano .pto { fill: #16344f; stroke: #fff; stroke-width: 2; }
+#logisticbus-landing #lgPallet { filter: drop-shadow(0 0 8px rgba(239, 123, 16, .9)); }
+#logisticbus-landing #lgPallet .pbox { fill: #ef7b10; stroke: #fff; stroke-width: 1.5; }
+#logisticbus-landing #lgPallet .pbase { fill: #c95f00; stroke: none; }
+#logisticbus-landing #lgPallet .pcruz { stroke: rgba(255, 255, 255, .7); stroke-width: 1.5; fill: none; }
+#logisticbus-landing .lg-tabs { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; margin-top: 18px; }
+#logisticbus-landing .lg-tab { background: rgba(255, 255, 255, .08); border: 1px solid rgba(255, 255, 255, .22); color: #fff; border-radius: 12px; padding: 12px 6px; font-weight: 700; font-size: .82rem; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; cursor: pointer; transition: all .3s ease; text-align: center; }
+#logisticbus-landing .lg-tab .lg-i { width: 24px; height: 24px; color: var(--lg-orange); }
+#logisticbus-landing .lg-tab:hover { background: rgba(255, 255, 255, .18); }
+#logisticbus-landing .lg-tab.on { background: var(--lg-orange); border-color: var(--lg-orange); transform: translateY(-3px); box-shadow: 0 10px 22px rgba(239, 123, 16, .4); }
+#logisticbus-landing .lg-tab.on .lg-i { color: #fff; }
+
+/* Panel de detalle */
+#logisticbus-landing .lg-detalle { background: #fff; border-radius: 16px; padding: 26px 30px; margin-top: 18px; display: grid; grid-template-columns: 1.1fr 1.7fr auto; gap: 30px; align-items: center; box-shadow: 0 16px 40px rgba(0, 0, 0, .25); }
+#logisticbus-landing .lg-detalle.cambia { animation: lgFade .5s ease; }
+@keyframes lgFade { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+#logisticbus-landing .lg-detalle .quien { display: flex; gap: 16px; align-items: center; }
+#logisticbus-landing .lg-detalle .ico { width: 66px; height: 66px; border-radius: 50%; background: #fdf0e2; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+#logisticbus-landing .lg-detalle .ico .lg-i { width: 32px; height: 32px; color: var(--lg-orange); }
+#logisticbus-landing .lg-detalle small { color: var(--lg-orange); font-weight: 800; letter-spacing: 2px; font-size: .72rem; }
+#logisticbus-landing .lg-detalle h3 { color: var(--lg-blue); font-weight: 800; font-size: 1.35rem; margin: 2px 0 8px; }
+#logisticbus-landing .lg-detalle .techs span { display: inline-block; background: var(--lg-light); color: var(--lg-blue); font-weight: 800; font-size: .74rem; padding: 4px 12px; border-radius: 20px; margin: 0 6px 6px 0; }
+#logisticbus-landing .lg-detalle p { color: var(--lg-text); margin: 0 0 12px; font-size: 1.02rem; }
+#logisticbus-landing .lg-detalle ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+#logisticbus-landing .lg-detalle li { display: flex; gap: 8px; align-items: center; color: var(--lg-blue); font-weight: 600; font-size: .93rem; }
+#logisticbus-landing .lg-detalle li .lg-i { width: 20px; height: 20px; color: var(--lg-orange); }
+#logisticbus-landing .lg-detalle .acc { display: grid; gap: 10px; }
+#logisticbus-landing .lg-detalle .acc .lg-btn { width: 100%; }
+
+/* ==========================================
+   05. SOLUCIONES
+   ========================================== */
+#logisticbus-landing .lg-soluciones { display: grid; grid-template-columns: repeat(3, 1fr); gap: 26px; }
+#logisticbus-landing .lg-card { background: #fff; border-radius: 16px; overflow: hidden; box-shadow: 0 6px 22px rgba(0, 0, 0, .08); display: flex; flex-direction: column; transition: transform .3s ease, box-shadow .3s ease; text-decoration: none !important; position: relative; }
+#logisticbus-landing .lg-card:hover { transform: translateY(-8px); box-shadow: 0 16px 34px rgba(0, 0, 0, .16); }
+#logisticbus-landing .lg-card .pic { height: 210px; overflow: hidden; position: relative; background: linear-gradient(135deg, #24537B, #3d86c0); }
+#logisticbus-landing .lg-card .pic i { position: absolute; inset: 0; background-size: cover; background-position: center; transition: transform .6s ease; }
+#logisticbus-landing .lg-card:hover .pic i { transform: scale(1.08); }
+#logisticbus-landing .lg-card .pic::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgba(22, 52, 79, .55), rgba(22, 52, 79, 0) 55%); }
+#logisticbus-landing .lg-card .num { position: absolute; left: 14px; bottom: 12px; z-index: 2; background: var(--lg-orange); color: #fff; font-weight: 800; font-size: .8rem; padding: 4px 10px; border-radius: 6px; }
+#logisticbus-landing .lg-card .badge { position: absolute; right: 14px; top: 14px; z-index: 2; width: 44px; height: 44px; border-radius: 50%; background: #fff; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 12px rgba(0, 0, 0, .2); }
+#logisticbus-landing .lg-card .badge .lg-i { color: var(--lg-orange); width: 24px; height: 24px; }
+#logisticbus-landing .lg-card .body { padding: 22px; display: flex; flex-direction: column; flex: 1; }
+#logisticbus-landing .lg-card h3 { color: var(--lg-blue); font-size: 1.2rem; font-weight: 800; margin-bottom: 8px; }
+#logisticbus-landing .lg-card p { color: var(--lg-text); font-size: .95rem; margin-bottom: 12px; }
+#logisticbus-landing .lg-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; flex: 1; align-content: flex-start; }
+#logisticbus-landing .lg-tags span { background: var(--lg-light); color: var(--lg-blue); font-size: .75rem; font-weight: 700; padding: 4px 10px; border-radius: 20px; }
+#logisticbus-landing .lg-card .go { color: var(--lg-orange); font-weight: 800; display: flex; align-items: center; gap: 6px; }
+#logisticbus-landing .lg-card .go .lg-i { transition: transform .3s ease; width: 20px; height: 20px; }
+#logisticbus-landing .lg-card:hover .go .lg-i { transform: translateX(6px); }
+#logisticbus-landing .lg-card.cta { background: linear-gradient(135deg, var(--lg-blue), var(--lg-dark)); }
+#logisticbus-landing .lg-card.cta .body { justify-content: center; text-align: center; padding: 40px 26px; align-items: center; }
+#logisticbus-landing .lg-card.cta h3 { color: #fff; font-size: 1.4rem; }
+#logisticbus-landing .lg-card.cta p { color: #dbe6f0; }
+#logisticbus-landing .lg-card.cta .big { width: 54px; height: 54px; color: var(--lg-orange); margin-bottom: 8px; }
+
+/* ==========================================
+   06. TECNOLOGÍAS
+   ========================================== */
+#logisticbus-landing .lg-tech { display: grid; grid-template-columns: repeat(7, 1fr); gap: 14px; }
+#logisticbus-landing .lg-chip { background: #fff; border: 1px solid #d8e1ea; border-radius: 14px; padding: 22px 10px; color: var(--lg-blue); font-weight: 700; display: flex; flex-direction: column; align-items: center; gap: 10px; text-align: center; text-decoration: none !important; transition: all .3s ease; font-size: .9rem; }
+#logisticbus-landing .lg-chip small { color: #7b8791; font-weight: 500; font-size: .75rem; }
+#logisticbus-landing .lg-chip .lg-i { width: 34px; height: 34px; color: var(--lg-orange); transition: color .3s ease; }
+#logisticbus-landing .lg-chip:hover { background: var(--lg-blue); border-color: var(--lg-blue); color: #fff; transform: translateY(-5px); }
+#logisticbus-landing .lg-chip:hover small { color: #cfdeeb; }
+#logisticbus-landing .lg-chip:hover .lg-i { color: #fff; }
+
+/* ==========================================
+   07. MARCAS
+   ========================================== */
+#logisticbus-landing .lg-marcas-wrap { overflow: hidden; margin-top: 10px; -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent); mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent); }
+#logisticbus-landing .lg-marcas-track { display: flex; gap: 22px; width: max-content; animation: lgScroll 38s linear infinite; }
+@media (hover: hover) and (pointer: fine) {
+    #logisticbus-landing .lg-marcas-wrap:hover .lg-marcas-track { animation-play-state: paused; }
+}
+#logisticbus-landing .lg-marca { width: 170px; height: 90px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; transition: all .3s ease; background: transparent; border: none; padding: 0; }
+#logisticbus-landing .lg-marca img { max-width: 100%; max-height: 100%; object-fit: contain; filter: grayscale(1); opacity: .75; transition: all .3s ease; transform: scale(1.1); }
+#logisticbus-landing .lg-marca:hover img { filter: none; opacity: 1; transform: scale(1.15); }
+@keyframes lgScroll { to { transform: translateX(-50%); } }
+#logisticbus-landing .lg-marcas-help { text-align: center; margin-top: 34px; color: var(--lg-text); width: 100%; display: flex; flex-direction: column; align-items: center; gap: 14px; }
+#logisticbus-landing .lg-marcas-help p { margin: 0; font-size: 1.05rem; color: var(--lg-blue); font-weight: 600; text-align: center; padding: 0 15px; max-width: 100%; }
+#logisticbus-landing .lg-marcas-help .lg-btns-wrap { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+
+/* ==========================================
+   08. PROCESO
+   ========================================== */
+#logisticbus-landing .lg-proceso { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; position: relative; }
+#logisticbus-landing .lg-proceso::before { content: ""; position: absolute; top: 34px; left: 10%; right: 10%; height: 3px; background: repeating-linear-gradient(90deg, var(--lg-orange) 0 10px, transparent 10px 18px); z-index: 0; }
+#logisticbus-landing .lg-paso { 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    padding: 6px; 
+    position: relative; 
+    z-index: 1; 
+}
+#logisticbus-landing .lg-paso .num { width: 68px; height: 68px; border-radius: 50%; background: #fff; border: 3px solid var(--lg-orange); color: var(--lg-orange); display: flex; align-items: center; justify-content: center; margin: 0 auto 14px; box-shadow: 0 6px 16px rgba(239, 123, 16, .25); }
+#logisticbus-landing .lg-paso .num .lg-i { width: 30px; height: 30px; }
+#logisticbus-landing .lg-paso b { 
+    display: block; 
+    color: var(--lg-orange); 
+    font-size: .8rem; 
+    letter-spacing: 1px; 
+    text-align: center !important; 
+    width: 100%;
+}
+#logisticbus-landing .lg-paso p { 
+    color: var(--lg-blue); 
+    font-weight: 700; 
+    margin: 4px 0 0; 
+    text-align: center !important; 
+    width: 100%;
+}
+
+/* ==========================================
+   09. FAQ
+   ========================================== */
+#logisticbus-landing .lg-faq { max-width: 860px; margin: 0 auto; display: grid; gap: 12px; }
+#logisticbus-landing .lg-faq details { background: #fff; border-radius: 12px; box-shadow: 0 3px 12px rgba(0, 0, 0, .06); overflow: hidden; }
+#logisticbus-landing .lg-faq summary { padding: 18px 22px; font-weight: 700; color: var(--lg-blue); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+#logisticbus-landing .lg-faq summary::-webkit-details-marker { display: none; }
+#logisticbus-landing .lg-faq summary::after { content: "+"; font-size: 1.6rem; color: var(--lg-orange); font-weight: 400; transition: transform .3s ease; }
+#logisticbus-landing .lg-faq details[open] summary::after { transform: rotate(45deg); }
+#logisticbus-landing .lg-faq details p { padding: 0 22px 20px; margin: 0; color: var(--lg-text); }
+
+/* ==========================================
+   10. CONVERSIÓN FINAL Y FORMULARIO
+   ========================================== */
+#logisticbus-landing .lg-final { background: linear-gradient(135deg, var(--lg-dark), var(--lg-blue)); }
+#logisticbus-landing .lg-final .grid { display: grid; grid-template-columns: .9fr 1.1fr; gap: 50px; align-items: start; }
+#logisticbus-landing .lg-final h2 { color: #fff; font-weight: 800; font-size: 2.1rem; line-height: 1.2; }
+#logisticbus-landing .lg-final h2 span { color: var(--lg-orange); }
+#logisticbus-landing .lg-final p { color: #dbe6f0; }
+#logisticbus-landing .lg-contact { display: grid; gap: 12px; margin-top: 26px; }
+#logisticbus-landing .lg-contact a { display: flex; align-items: center; gap: 14px; background: rgba(255, 255, 255, .1); border: 1px solid rgba(255, 255, 255, .2); border-radius: 12px; padding: 14px 18px; color: #fff; text-decoration: none !important; font-weight: 700; transition: all .3s ease; }
+#logisticbus-landing .lg-contact a:hover { background: rgba(255, 255, 255, .2); transform: translateX(6px); }
+#logisticbus-landing .lg-contact .lg-i { color: var(--lg-orange); width: 28px; height: 28px; }
+#logisticbus-landing .lg-contact small { display: block; font-weight: 400; color: #cfdeeb; }
+
+#logisticbus-landing .lg-form-box { background: #fff; border-radius: 18px; padding: 32px; box-shadow: 0 24px 60px rgba(0, 0, 0, .3); }
+#logisticbus-landing .lg-form-box h3 { color: var(--lg-blue); font-weight: 800; margin-bottom: 18px; }
+#logisticbus-landing .lg-form-box .fgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+#logisticbus-landing .lg-form-box .full { grid-column: span 2; }
+#logisticbus-landing .lg-input, #logisticbus-landing .lg-select, #logisticbus-landing .lg-textarea { width: 100%; padding: 12px 14px; border: 1px solid #d8e1ea; border-radius: 8px; background: #fff; font-size: .95rem; color: #333; }
+#logisticbus-landing .lg-input:focus, #logisticbus-landing .lg-select:focus, #logisticbus-landing .lg-textarea:focus { outline: none; border-color: var(--lg-orange); box-shadow: 0 0 0 3px rgba(239, 123, 16, .15); }
+#logisticbus-landing .lg-submit { width: 100%; margin-top: 4px; justify-content: center; }
+
+@media (max-width: 991px) {
+    #logisticbus-landing .lg-hero .grid, 
+    #logisticbus-landing .lg-final .grid { grid-template-columns: 1fr; }
+    #logisticbus-landing .lg-retos, 
+    #logisticbus-landing .lg-soluciones { grid-template-columns: repeat(2, 1fr); }
+    #logisticbus-landing .lg-tech { grid-template-columns: repeat(4, 1fr); }
+    #logisticbus-landing .lg-stats .row2 { grid-template-columns: repeat(2, 1fr); }
+    #logisticbus-landing .lg-hero h1 { font-size: 2.5rem; }
+    #logisticbus-landing .lg-detalle { grid-template-columns: 1fr; gap: 18px; padding: 22px; }
+    
+    #logisticbus-landing .lg-proceso { display: flex; overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch; gap: 20px; padding-bottom: 24px; scroll-snap-type: x mandatory; }
+    #logisticbus-landing .lg-proceso::before { display: none; }
+    #logisticbus-landing .lg-paso { flex: 0 0 180px; scroll-snap-align: center; }
+
+    #logisticbus-landing .lg-plano { overflow-x: auto; -webkit-overflow-scrolling: touch; padding: 16px; }
+    #logisticbus-landing .lg-plano svg.plano { min-width: 750px; }
+    #logisticbus-landing .lg-tabs { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+}
+
+@media (max-width: 767px) {
+    #logisticbus-landing { padding-bottom: 70px; }
+    #logisticbus-landing .lg-marcas-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; mask-image: none; -webkit-mask-image: none; }
+    #logisticbus-landing .lg-marca { width: 140px; height: 75px; }
+    #logisticbus-landing .lg-input, 
+    #logisticbus-landing .lg-select, 
+    #logisticbus-landing .lg-textarea { font-size: 16px !important; } /* Requerido para evitar auto-zoom en iOS */
+}
+
+@media (max-width: 575px) {
+    #logisticbus-landing .lg-hero { padding: 60px 0; }
+    #logisticbus-landing .lg-hero h1 { font-size: 2rem; }
+    #logisticbus-landing .lg-hero .lg-btns { flex-direction: column; width: 100%; }
+    #logisticbus-landing .lg-hero .lg-btns .lg-btn { width: 100%; }
+    
+    #logisticbus-landing .lg-perks { grid-template-columns: 1fr; }
+    #logisticbus-landing .lg-retos, 
+    #logisticbus-landing .lg-soluciones, 
+    #logisticbus-landing .lg-form-box .fgrid { grid-template-columns: 1fr; }
+    #logisticbus-landing .lg-form-box .full { grid-column: span 1; }
+    #logisticbus-landing .lg-tech { grid-template-columns: repeat(2, 1fr); }
+    
+    #logisticbus-landing .lg-paso { flex: 0 0 160px; }
+    
+    #logisticbus-landing .lg-section { padding: 54px 0; }
+    #logisticbus-landing .lg-head h2, 
+    #logisticbus-landing .lg-final h2 { font-size: 1.6rem; }
+    #logisticbus-landing .lg-plano-top { flex-direction: column; gap: 8px; align-items: flex-start; }
+    
+    #logisticbus-landing .lg-plano .pill { display: none; }
+    #logisticbus-landing .lg-plano .pt { font-size: 10px; letter-spacing: 0.5px; }
+    #logisticbus-landing .lg-plano .num { font-size: 15px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    #logisticbus-landing .lg-marcas-track, 
+    #logisticbus-landing .lg-plano .il .pl { animation: none; }
+}
+
+
+/* =========================================================
+   SECCIONES (Paletizado Automático)
+   ========================================================= */
+
+/* Hero Diagrama / Celda Animada */
+#logisticbus-landing .lg-hero-pal { background: linear-gradient(110deg, #16344f 0%, #1c4467 60%, #24537B 100%); }
+#logisticbus-landing .lg-kicker { display: inline-flex; align-items: center; gap: 10px; background: var(--lg-orange); color: #fff; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; font-size: 15px; padding: 10px 22px; border-radius: 50px; margin-bottom: 20px; box-shadow: 0 8px 22px rgba(239, 123, 16, .4); }
+#logisticbus-landing .lg-cellbox { position: relative; background: #0f2a42; border: 1px solid rgba(255, 255, 255, .18); border-radius: 18px; box-shadow: 0 24px 60px rgba(0, 0, 0, .35); overflow: hidden; }
+#logisticbus-landing .lg-cellbox-top { display: flex; align-items: center; gap: 8px; padding: 12px 16px; color: #cfdeeb; font-size: .78rem; font-weight: 700; letter-spacing: 1.2px; text-transform: uppercase; border-bottom: 1px solid rgba(255, 255, 255, .1); }
+#logisticbus-landing .lg-cellbox-top .dot { width: 9px; height: 9px; border-radius: 50%; background: #3ddc84; animation: lgLive 2s infinite; }
+@keyframes lgLive { 0% { box-shadow: 0 0 0 0 rgba(61, 220, 132, .6); } 100% { box-shadow: 0 0 0 10px rgba(61, 220, 132, 0); } }
+#logisticbus-landing .lg-cellbox svg#cellSvg { display: block; width: 100%; height: auto; }
+#logisticbus-landing .lg-cellbox-flash { position: absolute; left: 50%; bottom: 40px; transform: translate(-50%, 14px); background: #fff; color: var(--lg-blue); font-weight: 800; font-size: .82rem; padding: 8px 14px; border-radius: 30px; display: flex; align-items: center; gap: 6px; opacity: 0; transition: all .5s ease; box-shadow: 0 8px 20px rgba(0, 0, 0, .3); white-space: nowrap; }
+#logisticbus-landing .lg-cellbox-flash.on { opacity: 1; transform: translate(-50%, 0); }
+#logisticbus-landing .lg-cellbox-flash .lg-i { width: 18px; height: 18px; color: #1f9d55; }
+
+/* Lo que logras (Gráfica Conceptual y Beneficios) */
+#logisticbus-landing .lg-split { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; }
+#logisticbus-landing .lg-chart { background: #fff; border-radius: 18px; padding: 26px 26px 20px; box-shadow: 0 8px 28px rgba(0, 0, 0, .06); height: 100%; display: flex; flex-direction: column; justify-content: center; }
+#logisticbus-landing .lg-chart-t { color: var(--lg-blue); font-weight: 800; font-size: 1.1rem; margin-bottom: 12px; display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; align-items: baseline; }
+#logisticbus-landing .lg-chart-t small { color: #7b8791; font-weight: 600; font-size: .8rem; }
+#logisticbus-landing .lg-chart svg { width: 100%; height: auto; display: block; margin: 10px 0; }
+#logisticbus-landing .lg-legend { display: flex; flex-direction: column; gap: 10px; font-size: .85rem; color: var(--lg-text); margin-top: 14px; font-weight: 500; }
+#logisticbus-landing .lg-legend span { display: flex; align-items: center; }
+#logisticbus-landing .lg-legend i { display: inline-block; width: 26px; height: 5px; border-radius: 3px; margin-right: 10px; flex-shrink: 0; }
+.lg-js #logisticbus-landing .lg-draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; transition: stroke-dashoffset 2.5s ease .3s; }
+.lg-js #logisticbus-landing .lg-draw.d2 { transition-delay: 1s; }
+.lg-js #logisticbus-landing .lg-gap { opacity: 0; transition: opacity 1.2s ease 2s; }
+.lg-js #logisticbus-landing .lg-chart.in .lg-draw { stroke-dashoffset: 0; }
+.lg-js #logisticbus-landing .lg-chart.in .lg-gap { opacity: 1; }
+
+#logisticbus-landing .lg-bene-list { display: grid; gap: 16px; }
+#logisticbus-landing .lg-bi { display: flex; gap: 18px; align-items: flex-start; background: #fff; border-radius: 14px; padding: 22px 24px; box-shadow: 0 4px 16px rgba(0, 0, 0, .05); border-left: 4px solid var(--lg-orange); transition: transform .3s ease; }
+#logisticbus-landing .lg-bi:hover { transform: translateX(6px); }
+#logisticbus-landing .lg-bi .ic { width: 50px; height: 50px; border-radius: 14px; background: #fdf0e2; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+#logisticbus-landing .lg-bi .ic .lg-i { width: 28px; height: 28px; color: var(--lg-orange); }
+#logisticbus-landing .lg-bi b { display: block; color: var(--lg-blue); font-size: 1.05rem; margin-bottom: 6px; font-weight: 800; }
+#logisticbus-landing .lg-bi span { color: var(--lg-text); font-size: .95rem; line-height: 1.4; display: block; }
+
+/* Tipos de solución */
+.lg-tipos { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+.lg-tipo { background: #fff; border-radius: 16px; padding: 26px 22px; box-shadow: 0 6px 22px rgba(0, 0, 0, .07); border-top: 4px solid transparent; display: flex; flex-direction: column; transition: all .3s ease; }
+.lg-tipo:hover { transform: translateY(-6px); border-top-color: var(--lg-orange); box-shadow: 0 14px 30px rgba(0, 0, 0, .13); }
+.lg-tipo .pic { background: #eef3f8; border-radius: 12px; margin-bottom: 16px; padding: 8px 6px; }
+.lg-tipo .pic svg { display: block; width: 100%; height: 104px; }
+.lg-tipo h3 { color: var(--lg-blue); font-weight: 800; font-size: 1.05rem; margin: 0 0 8px; line-height: 1.25; }
+.lg-tipo p { color: var(--lg-text); font-size: .93rem; }
+.lg-tipo .meters { display: grid; gap: 8px; margin: 6px 0 14px; }
+.lg-tipo .meters div { display: flex; align-items: center; justify-content: space-between; gap: 10px; font-size: .8rem; font-weight: 700; color: var(--lg-blue); }
+.lg-tipo .meters i { display: block; width: 96px; height: 8px; border-radius: 6px; background: #e4ebf1; position: relative; overflow: hidden; }
+.lg-tipo .meters i::after { content: ""; position: absolute; left: 0; top: 0; bottom: 0; background: var(--lg-orange); border-radius: 6px; width: 0; transition: width 1s ease .3s; }
+.lg-tipo.in .meters i.m2::after { width: 40%; }
+.lg-tipo.in .meters i.m3::after { width: 60%; }
+.lg-tipo.in .meters i.m4::after { width: 80%; }
+.lg-tipo.in .meters i.m5::after { width: 100%; }
+
+/* Solución a la medida */
+#logisticbus-landing .lg-checks { list-style: none; padding: 0; margin: 18px 0 26px; display: grid; gap: 10px; }
+#logisticbus-landing .lg-checks li { display: flex; gap: 10px; align-items: flex-start; color: var(--lg-blue); font-weight: 600; font-size: 0.95rem; }
+#logisticbus-landing .lg-checks .lg-i { color: var(--lg-orange); width: 22px; height: 22px; flex-shrink: 0; }
+
+#logisticbus-landing .lg-duo { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+#logisticbus-landing .lg-box { background: #fff; border-radius: 18px; padding: 30px; box-shadow: 0 8px 28px rgba(0,0,0,.08); }
+#logisticbus-landing .lg-box h3 { color: var(--lg-blue); font-weight: 800; font-size: 1.3rem; display: flex; align-items: center; gap: 10px; margin-bottom: 4px; }
+#logisticbus-landing .lg-box h3 .lg-i { color: var(--lg-orange); }
+#logisticbus-landing .lg-box .lg-checks { margin: 16px 0 0; }
+#logisticbus-landing .lg-box .lg-checks li { font-weight: 600; }
+
+#logisticbus-landing .lg-box.dark { background: var(--lg-blue); }
+#logisticbus-landing .lg-box.dark h3, 
+#logisticbus-landing .lg-box.dark .lg-checks li { color: #fff; }
+#logisticbus-landing .lg-box.dark .lg-btn { margin-top: 24px; }
+
+/* Sigue explorando */
+#logisticbus-landing .lg-rel { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+#logisticbus-landing .lg-rel a { background: #fff; border: 1px solid #d8e1ea; border-radius: 50px; padding: 12px 22px; color: var(--lg-blue); font-weight: 700; text-decoration: none !important; display: flex; align-items: center; gap: 8px; transition: all .3s ease; }
+#logisticbus-landing .lg-rel a .lg-i { color: var(--lg-orange); width: 22px; height: 22px; }
+#logisticbus-landing .lg-rel a:hover { background: var(--lg-orange); border-color: var(--lg-orange); color: #fff; }
+#logisticbus-landing .lg-rel a:hover .lg-i { color: #fff; }
+
+/* Responsive para las secciones paletizado */
+@media (max-width: 991px) {
+    .lg-tipos { grid-template-columns: repeat(2, 1fr); }
+    #logisticbus-landing .lg-duo { grid-template-columns: 1fr; }
+    #logisticbus-landing .lg-split { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 575px) {
+    .lg-tipos { grid-template-columns: 1fr; }
+}

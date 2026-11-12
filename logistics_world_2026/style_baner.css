@@ -1,0 +1,339 @@
+/* =====================================================
+   ====== INI BANNER SECTION ======
+   Sección Hero principal del sitio
+   - Fondo con imagen + overlay degradado oscuro
+   - Layout dividido en texto (izquierda) e imagen (derecha)
+   - Incluye CTA y tarjeta flotante de estado
+===================================================== */
+
+.banner-hero {
+    position: relative; /* Permite posicionar pseudo-elementos y elementos absolutos */
+    min-height: 110vh;  /* Ocupa más que la altura total de la pantalla */
+    display: flex;
+    padding: top 100px; ; /* (Propiedad mal escrita pero no se modifica) */
+    align-items: center;  /* Centrado vertical del contenido */
+    padding: 60px 20%;    /* Espaciado interno general */
+    overflow: hidden;     /* Evita que elementos sobresalgan */
+
+    /* Fondo compuesto:
+       - Capa 1: degradado oscuro para mejorar contraste del texto
+       - Capa 2: imagen de fondo */
+    background: linear-gradient(
+                    rgba(8,23,43,0.95) 40%, 
+                    rgba(8,23,43,0.7) 70%, 
+                    rgba(8,23,43,0.3) 100%
+                ),
+                url('./images/Banner_expo.webp');
+
+    background-size: 110%;  /* Zoom ligero sobre la imagen */
+    background-position: center; /* Centrado */
+}
+
+/* Degradado inferior para transición suave hacia la siguiente sección */
+.banner-hero::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 180px;
+
+    /* Fade hacia el color de fondo general del sitio */
+    background: linear-gradient(
+        to bottom,
+        rgba(8,23,43,0) 0%,
+        #f0f2f5 100%
+    );
+}
+
+/* =====================================================
+   CONTENEDOR INTERNO DEL HERO
+   Distribuye contenido en dos columnas
+===================================================== */
+
+.banner-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    gap: 60px; /* Espacio entre columnas */
+}
+
+/* =====================================================
+   COLUMNA IZQUIERDA (TEXTO)
+===================================================== */
+
+.banner-left {
+    max-width: 600px; /* Limita ancho del bloque de texto */
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Badge superior (etiqueta decorativa) */
+.banner-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(30, 80, 160, 0.3);
+    padding: 10px 18px;
+    border-radius: 50px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    border: 1px solid rgba(80,150,255,0.3);
+}
+
+/* Título principal */
+.banner-title {
+    font-size: 70px;
+    line-height: 1.2;
+    font-weight: 800;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+/* Texto resaltado dentro del título */
+.banner-highlight {
+    color: #2f8cff;
+}
+
+/* Descripción secundaria */
+.banner-description {
+    font-size: 18px;
+    color: #cbd5e1;
+    margin-bottom: 35px;
+    line-height: 1.6;
+}
+
+/* Botón CTA principal */
+.banner-cta {
+    display: inline-block;
+    background: linear-gradient(90deg, #2f8cff, #1d6fe8);
+    padding: 16px 28px;
+    border-radius: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+    transition: 0.3s ease;
+    box-shadow: 0 10px 30px rgba(47,140,255,0.3);
+}
+
+/* Efecto hover del botón */
+.banner-cta:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 15px 40px rgba(47,140,255,0.4);
+}
+
+/* Texto inferior con métricas o estadísticas */
+.banner-stats {
+    margin-top: 25px;
+    font-size: 15px;
+    color: #94a3b8;
+}
+
+/* =====================================================
+   COLUMNA DERECHA (IMAGEN)
+===================================================== */
+
+.banner-right {
+    position: relative; /* Permite posicionar la tarjeta flotante */
+}
+
+/* Tarjeta con efecto glass (frosted glass) */
+.banner-image-card {
+    width: 420px;
+    border-radius: 25px;
+    padding: 15px;
+    background: rgba(255,255,255,0.05);
+    backdrop-filter: blur(15px); /* Efecto desenfoque */
+    border: 1px solid rgba(255,255,255,0.1);
+}
+
+/* Imagen interna */
+.banner-image-card img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+/* =====================================================
+   TARJETA FLOTANTE DE ESTADO (Overlay)
+===================================================== */
+
+.ini-status-card {
+    position: absolute;
+    bottom: -30px;
+    left: -40px;
+    background: #f1f5f9;
+    color: #0f172a;
+    padding: 18px 25px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+}
+
+/* Icono verde dentro de la tarjeta */
+.ini-status-icon {
+    width: 40px;
+    height: 40px;
+    background: #22c55e;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+}
+
+/* Texto pequeño dentro de la tarjeta */
+.ini-status-text small {
+    display: block;
+    font-size: 12px;
+    color: #64748b;
+}
+
+/* Texto principal destacado */
+.ini-status-text strong {
+    font-size: 16px;
+}
+
+/* =====================================================
+   RESPONSIVE – PANTALLAS MEDIANAS
+===================================================== */
+
+@media(max-width: 1200px) {
+
+    /* Cambia layout a columna */
+    .banner-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    /* Reduce tamaño del título */
+    .banner-title {
+        font-size: 42px;
+    }
+
+    /* Tarjeta deja de ser absoluta */
+    .ini-status-card {
+        position: static;
+        margin-top: 20px;
+    }
+}
+
+/* =====================================================
+   RESPONSIVE – MÓVIL
+===================================================== */
+
+@media (max-width: 800px) {
+
+    .banner-hero {
+        min-height: auto; /* Elimina altura forzada */
+        padding: 100px 20px 60px 20px; /* Más espacio superior (navbar) */
+        background-size: cover; /* Ajusta imagen al contenedor */
+        background-position: center;
+        text-align: center;
+    }
+
+    .banner-container {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .banner-left {
+        max-width: 100%;
+    }
+
+    .banner-title {
+        font-size: 32px;
+        line-height: 1.2;
+    }
+
+    .banner-description {
+        font-size: 16px;
+    }
+
+    /* Botón ocupa ancho completo */
+    .banner-cta {
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    /* Imagen responsive */
+    .banner-image-card {
+        width: 100%;
+        max-width: 340px;
+        margin: 0 auto;
+    }
+
+    /* Tarjeta de estado centrada */
+    .ini-status-card {
+        position: static;
+        margin-top: 20px;
+        justify-content: center;
+    }
+
+    /* Reduce tamaño del fade inferior */
+    .banner-hero::after {
+        height: 120px;
+    }
+}
+
+
+/* =====================================================
+   boton del banner – que manda a la pagina de la expo
+===================================================== */
+
+
+
+.boton_clickeable_banner{
+    position:relative;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    gap:12px;
+    padding:18px 32px;
+    border-radius:18px;
+    text-decoration:none;
+    color:#ffffff;
+    font-weight:600;
+    font-size:14px;
+    letter-spacing:1px;
+    text-transform:uppercase;
+
+    /* Glass style */
+    background:rgba(30, 64, 110, 0.75);
+    backdrop-filter:blur(10px);
+    -webkit-backdrop-filter:blur(10px);
+    border:1px solid rgba(255,255,255,0.15);
+    transition:all .3s ease;
+}
+
+/* Hover elegante */
+.boton_clickeable_banner:hover{
+    transform:translateY(-3px);
+    background:rgba(0, 0, 0, 0.85);
+    box-shadow:0 10px 25px rgba(0,0,0,.25);
+}
+
+/* Icono */
+.boton_clickeable_banner .icono{
+    font-size:16px;
+}
+
+/* Badge flotante */
+.badge-click{
+    position:absolute;
+    top:-12px;
+    right:-12px;
+    background:#f97316; /* naranja branding */
+    color:#fff;
+    font-size:10px;
+    font-weight:700;
+    padding:6px 10px;
+    border-radius:20px;
+    letter-spacing:.5px;
+    box-shadow:0 5px 12px rgba(0,0,0,.25);
+}

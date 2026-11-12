@@ -1,0 +1,248 @@
+/*nav bar pantalla web*/
+.ulNavbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f3f3f3;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  text-align: center;
+}
+.liNavbar {
+  display: inline-block; 
+}
+.liNavbar:hover > .mega-submenu{
+  display: block;
+}
+.liNavbar .accessurl:hover {
+  background-color: #24537B;
+  color:#24537B;
+}
+.accessurl {
+  background-color: transparent; 
+  color:#24537B; 
+  border: none; 
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block;
+  font-size: 16px;
+  padding: 1em 1.5em;
+  cursor: pointer; 
+  font-weight: 600;
+  transition: background-color 0.6s ease;
+}
+.specialNav{
+  color:#ff5100;
+  transition: background-color 0.6s ease;
+}
+
+.accessurl:active, .liNavbar .accessurl.clicked:hover{
+  background-color: #ff7e00;
+  transition:none;
+}
+
+.accessurl:focus{
+  outline: none;
+}
+
+/*
+contenedor navbar de tienda*/
+.circulo {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-color: black;
+  border-radius: 50%; /* Esto hace que el div sea circular */
+  transition: background-color 0.6s ease; /* Esto añade una transición suave al cambiar el color de fondo */
+}
+
+.circulo:hover {
+  background-color: #24537B; /* Esto cambia el color de fondo a azul cuando pones el cursor encima */
+}
+
+.contenedortienda {
+  width: 100%;
+  display: flex;
+  
+  justify-content: left; /* Esto separa los círculos uniformemente en el contenedor */
+}
+/* ------------- MENU MOVIL --------------*/
+/*--------------------- Menu Nav --------------------*/
+
+@media screen and (min-width: 850px) {
+  #menuTop{
+    display:none;
+  }
+  #menuPrin{
+    display:block;
+  }
+  #encabezadoMP{
+    display:block;
+  }
+}
+@media screen and (max-width: 850px) {
+  #menuPrin{
+    display:none;
+  }
+  #encabezadoMP{
+    display:none;
+  }
+}
+.aM{
+  font-weight: bold;
+  color: #24537B;
+}
+.aM:hover{
+  color: #24537B;
+}
+.aD{
+  font-weight: bold;
+  color: #ffffff;
+}
+.navbarMME a {
+  text-decoration: none;
+}
+.navbarMME li {
+  list-style: none;
+}
+.navbarMME {
+  display: flex;
+      /*align-items: center;
+      justify-content: space-between;*/
+      padding: 10px;
+      padding-left: 20px;
+      background-color: #ffffff;
+      box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+      position: sticky;
+      top: 0;
+      z-index: 9999;
+    }
+    .logo {
+      width: 50%;
+    }
+    .menuME {
+      display: flex;
+      font-size: 18px;
+    }
+    .menuME li:hover {
+      background-color: #FF5100;
+      border-radius: 5px;
+      transition: 0.3s ease;
+    }
+    .menuME li {
+      padding: 10px;
+    }
+    .services {
+      position: relative; 
+      z-index: 3;
+    }
+    .dropdown {
+      background-color: #24537B;
+      padding: 1em 0;
+      position: absolute; 
+      display: none;
+      border-radius: 8px;
+      top: 30px;
+    }
+    .dropdown li + li {
+      margin-top: 10px;
+    }
+    .dropdown li {
+      padding: 0.5em 1em;
+      width: 8em;
+      text-align: center;
+    }
+    .dropdown li:hover {
+      background-color: #ff7e00;
+    }
+    .services:hover .dropdown {
+      display: block;
+    }
+    input[type=checkbox]{
+      display: none;
+    } 
+    @media (max-width: 850px) {
+     .logo {
+      width: 80%;
+    }
+    .menuME { 
+      visibility: hidden;
+      opacity: 0;
+      position: absolute;
+      background-color:#ffffff;
+      right: 0;
+      left: 0;
+      text-align: center;
+      padding: 16px 0;
+      display: block;
+      transition: all 0.5s;
+      height: 100vh;
+    }
+    .menuME li:hover {
+      display: inline-block;
+      background-color:#ff7e00;
+      transition: 0.3s ease;
+    }
+    .menuME li + li {
+      margin-top: 12px;
+    }
+    /*--------- Icono MenuME ---------*/
+    .dropdown {
+      left: 50%;
+      top: 30px;
+      transform: translateX(35%);
+    }
+    .dropdown li:hover {
+      background-color: #4c9e9e;
+    }
+    /*------------------*/
+    .labelm{
+      display:flex;
+      flex-direction:column;
+      width:50px;
+      cursor:pointer;
+    }
+    .labelm span{
+      background: #24537B;
+      border-radius:10px;
+      height: 5px;
+      margin: 5px 0;
+      transition: .4s cubic-bezier(0.68, -0.6, 0.32, 1.6);
+    }
+    .labelm span:nth-of-type(1){
+      width:50%;
+    }
+    .labelm span:nth-of-type(2){
+      width:100%;
+    }
+    .labelm span:nth-of-type(3){
+      width:75%;
+    }
+    input[type="checkbox"]:checked ~ .menuME{
+      display: block;
+      visibility: visible;
+      opacity: 1;
+      width: 100%;
+      transition: all 0.5s, opacity 0.5s;
+      z-index: 3;
+    }
+    input[type="checkbox"]:checked ~ .labelm span:nth-of-type(1){
+      transform-origin:bottom;
+      transform:rotatez(45deg) translate(8px,0px)
+    }
+    input[type="checkbox"]:checked ~ .labelm span:nth-of-type(2){
+      transform-origin:top;
+      transform:rotatez(-45deg)
+    }
+    input[type="checkbox"]:checked ~ .labelm span:nth-of-type(3){
+      transform-origin:bottom;
+      width:50%;
+      transform: translate(22px,-9px) rotatez(45deg);
+    }
+  }

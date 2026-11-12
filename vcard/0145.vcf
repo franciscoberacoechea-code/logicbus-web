@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Dulce Gabriela Sanchez
+N;CHARSET=UTF-8:Sanchez;Dulce Gabriela;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:logistica@logicbus.com
+TEL;TYPE=HOME,VOICE:+523338234349\,1
+TEL;TYPE=WORK,VOICE:523338545975
+LABEL;CHARSET=UTF-8;TYPE=WORK:Oficinas Guadalajara
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Prol. Av Alcalde 1822. Col. Miraflores;Guadalajara;Jalisco;44270;Mexico
+TITLE;CHARSET=UTF-8:Logistics Assistant
+ORG;CHARSET=UTF-8:Logicbus
+URL;type=WORK;CHARSET=UTF-8:www.logicbus.com.mx
+REV:2021-09-24T18:38:59.218Z
+END:VCARD

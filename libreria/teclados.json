@@ -1,0 +1,959 @@
+{
+    "data": [
+        {
+            "material": "Silicon",
+            "img": "<a href=\"imagenes\/298\/LBD-29887PB-US.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887PB-US.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-29887PB-US_p_34198.html\" target=\"_blank\">D-87PB-US<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "US",
+            "proteccion": "IP68",
+            "conexion": "USB"
+        },
+        {
+            "material": "Silicon",
+            "img": "<a href=\"imagenes\/298\/LBD-29887QB-US.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887QB-US.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-29887QB-US_p_34200.html\" target=\"_blank\">D-87QB-US<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "US",
+            "proteccion": "IP68",
+            "conexion": "USB"
+        },
+        {
+            "material": "Silicon",
+            "img": "<a href=\"imagenes\/298\/LBD-29887-M036.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887-M036.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/lbd-29887-m036.html\" target=\"_blank\">D-87-M036<\/a>",
+            "dispositivo": "Mouse",
+            "idioma": "US",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Silicon",
+            "img": "<a href=\"imagenes\/298\/LBD-298SME20.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-298SME20.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/lbd-298sme20.html\" target=\"_blank\">D-SME20<\/a>",
+            "dispositivo": "Mouse",
+            "idioma": "US",
+            "proteccion": "IP68",
+            "conexion": "USB"
+        },
+        {
+            "material": "Silicon",
+            "img": "<a href=\"imagenes\/298\/LBD-29887Z-US.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887Z-US.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/lbd-29887z-us.html\" target=\"_blank\">D-87Z-US<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "US",
+            "proteccion": "IP68",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988656-US.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988656-US.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988656-US_p_34187.html\" target=\"_blank\">D-8656-US<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "US",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988656B-US.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988656B-US.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988656B-US_p_34188.html\" target=\"_blank\">D-8656B-US<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "US",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Silicon",
+            "img": "<a href=\"imagenes\/298\/LBD-29887W.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887W.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-29887W_p_31821.html\" target=\"_blank\">D-87W<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP68",
+            "conexion": "USB"
+        },
+        {
+            "material": "Silicon",
+            "img": "<a href=\"imagenes\/298\/LBD-29887PB-US.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887PB-US.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-29887PB_p_34197.html\" target=\"_blank\">D-87PB<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP68",
+            "conexion": "USB"
+        },
+        {
+            "material": "Silicon",
+            "img": "<a href=\"imagenes\/298\/LBD-29887QB-US.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887QB-US.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-29887QB_p_34199.html\" target=\"_blank\">D-87QB<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP68",
+            "conexion": "USB"
+        },
+        {
+            "material": "Silicon",
+            "img": "<a href=\"imagenes\/298\/LBD-29887W-White.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887W-White.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-29887W-White_p_36340.html\" target=\"_blank\">D-87W-White<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP68",
+            "conexion": "USB"
+        },
+        {
+            "material": "Membrana Metálica",
+            "img": "<a href=\"imagenes\/298\/lBD-2988688-QRS.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/lBD-2988688-QRS.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988688-QRS_p_31817.html\" target=\"_blank\">D-8688-QRS<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP67",
+            "conexion": "USB"
+        },
+        {
+            "material": "Cristal",
+            "img": "<a href=\"imagenes\/298\/LBD-298GKB-01.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-298GKB-01.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-298GKB-01_p_36126.html\" target=\"_blank\">D-GKB-01<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP67",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988607.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988607.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988607_p_31698.html\" target=\"_blank\">D-8607<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988607B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988607B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988607B_p_31699.html\" target=\"_blank\">D-8607B<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988608.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988608.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988608_p_31700.html\" target=\"_blank\">D-8608<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988601.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988601.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988601_p_31701.html\" target=\"_blank\">D-8601<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988601B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988601B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988601B_p_31703.html\" target=\"_blank\">D-8601B<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988630T-B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988630T-B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988630T-B_p_31750.html\" target=\"_blank\">D-8630T-B<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988635G.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988635G.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988635G_p_31771.html\" target=\"_blank\">D-8635G<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988656.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988656.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988656_p_31772.html\" target=\"_blank\">D-8656<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988635G.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988635G.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988635G-M_p_31773.html\" target=\"_blank\">D-8635G-M<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988635T.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988635T.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988635T_p_31774.html\" target=\"_blank\">D-8635T<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988606T.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988606T.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988606T_p_31775.html\" target=\"_blank\">D-8606T<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988606G.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988606G.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988606G_p_31776.html\" target=\"_blank\">D-8606G<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988605.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988605.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988605_p_31777.html\" target=\"_blank\">D-8605<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988608-DK.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988608-DK.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988608-DK_p_31779.html\" target=\"_blank\">D-8608-DK<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988606-DK.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988606-DK.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988606-DK_p_31783.html\" target=\"_blank\">D-8606-DK<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988625-DK.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988625-DK.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988625-DK_p_31784.html\" target=\"_blank\">D-8625-DK<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988656B-US.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988656B-US.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988656B_p_31786.html\" target=\"_blank\">D-8656B<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988605T.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988605T.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988605T_p_31787.html\" target=\"_blank\">D-8605T<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988608B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988608B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988608B_p_31791.html\" target=\"_blank\">D-8608B<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988603B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988603B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988603B_p_31792.html\" target=\"_blank\">D-8603B<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988669.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988669.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988669_p_31797.html\" target=\"_blank\">D-8669<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988316.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988316.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988316_p_31798.html\" target=\"_blank\">D-8316<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988603.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988603.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988603_p_31799.html\" target=\"_blank\">D-8603<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988630.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988630.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988630_p_31803.html\" target=\"_blank\">D-8630<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988641.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988641.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988641_p_31804.html\" target=\"_blank\">D-8641<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988635G-B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988635G-B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988635G-B_p_31805.html\" target=\"_blank\">D-8635G-B<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988635T-Backlight.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988635T-Backlight.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988635T-Backlight_p_31810.html\" target=\"_blank\">D-8635T Backlight<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988625.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988625.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988625_p_31811.html\" target=\"_blank\">D-8625<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988670.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988670.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988670_p_31814.html\" target=\"_blank\">D-8670<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988635T-M.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988635T-M.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988635T-M_p_31892.html\" target=\"_blank\">D-8635T-M<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988602.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988602.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988602_p_34152.html\" target=\"_blank\">D-8602<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988635G-S-01.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988635G-S-01.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988635G-S-01_p_35212.html\" target=\"_blank\">D-8635G-S-01<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988635G-S.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988635G-S.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988635G-S_p_35226.html\" target=\"_blank\">D-8635G-S<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988606-DK-02.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988606-DK-02.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988606-DK-02_p_35333.html\" target=\"_blank\">D-8606-DK-02<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "ES",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988988.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988988.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988988_p_31686.html\" target=\"_blank\">D-8988<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP68",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988208A-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988208A-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988208A-MTX_p_31866.html\" target=\"_blank\">D-8208A-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-29887150.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887150.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-29887150_p_31868.html\" target=\"_blank\">D-87150<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988203K-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988203K-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988203K-MTX_p_31869.html\" target=\"_blank\">D-8203K-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988281.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988281.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988281_p_31870.html\" target=\"_blank\">D-8281<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988203B-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988203B-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988203B-MTX_p_31871.html\" target=\"_blank\">D-8203B-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988208H-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988208H-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988208H-MTX_p_31872.html\" target=\"_blank\">D-8208H-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988201F-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988201F-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988201F-MTX_p_31874.html\" target=\"_blank\">D-8201F-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988296.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988296.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988296_p_31876.html\" target=\"_blank\">D-8296<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988204B-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988204B-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988204B-USB_p_31877.html\" target=\"_blank\">D-8204B-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988215.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988215.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988215_p_31878.html\" target=\"_blank\">D-8215-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-29887130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887130.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-29887130_p_31879.html\" target=\"_blank\">D-87130<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988210.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988210.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988210_p_31880.html\" target=\"_blank\">D-8210<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988208E-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988208E-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988208E-MTX_p_31881.html\" target=\"_blank\">D-8208E-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988201F-B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988201F-B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988201F-B_p_31882.html\" target=\"_blank\">D-8201F-B<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988935.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988935.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988935_p_31883.html\" target=\"_blank\">D-8935<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988281B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988281B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988281B_p_31884.html\" target=\"_blank\">D-8281B<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988909.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988909.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988909_p_31886.html\" target=\"_blank\">D-8909<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988223-1.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988223-1.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/lbd-2988223-1.html\" target=\"_blank\">D-8223-1<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988235.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988235.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988235_p_31889.html\" target=\"_blank\">D-8235<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988203B-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988203B-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988203B-USB_p_34074.html\" target=\"_blank\">D-8203B-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988203K-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988203K-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988203K-USB_p_34075.html\" target=\"_blank\">D-8203B-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988203-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988203-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988203-MTX_p_34076.html\" target=\"_blank\">D-8203-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988203-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988203-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988203-USB_p_34077.html\" target=\"_blank\">D-8203-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988204E-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988204E-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988204E-MTX_p_34082.html\" target=\"_blank\">D-8204E-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988204E-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988204E-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988204E-USB_p_34083.html\" target=\"_blank\">D-8204E-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988206-MTX.png\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988206-MTX.png\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988206-MTX_p_34084.html\" target=\"_blank\">D-8206-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988206-USB.png\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988206-USB.png\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988206-USB_p_34085.html\" target=\"_blank\">D-8206-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988208A-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988208A-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988208A-USB_p_34086.html\" target=\"_blank\">D-8208A-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988208E-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988208E-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988208E-USB_p_34087.html\" target=\"_blank\">D-8208E-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988208H-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988208H-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988208H-USB_p_34088.html\" target=\"_blank\">D-8208H-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988208J-L1-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988208J-L1-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988208J-L1-MTX_p_34122.html\" target=\"_blank\">D-8208J-L1-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988281C-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988281C-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988281C-MTX_p_34142.html\" target=\"_blank\">D-8281C-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988281C-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988281C-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988281C-USB_p_34143.html\" target=\"_blank\">D-8281C-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988281-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988281-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988281-MTX_p_34144.html\" target=\"_blank\">D-8281-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988281-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988281-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988281-USB_p_34145.html\" target=\"_blank\">D-8281-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988201F-USB.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988201F-USB.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988201F-USB_p_34203.html\" target=\"_blank\">D-8201F-USB<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988204B-MTX.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988204B-MTX.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988204B-MTX_p_36408.html\" target=\"_blank\">D-8204B-MTX<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Numérico",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988302-DK.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988302-DK.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988302-DK_p_31891.html\" target=\"_blank\">D-8302-DK<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988302.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988302.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988302_p_31828.html\" target=\"_blank\">D-8302<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988302-36A.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988302-36A.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988302-36A_p_31829.html\" target=\"_blank\">D-8302-36A<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988302B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988302B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988302B_p_31830.html\" target=\"_blank\">D-8302B<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBDS29836B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBDS29836B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBDS29836B_p_34441.html\" target=\"_blank\">DS36B<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988458.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988458.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988458_p_31850.html\" target=\"_blank\">D-8458<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988410.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988410.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988410_p_31852.html\" target=\"_blank\">D-8410<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988405A.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988405A.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988405A_p_31853.html\" target=\"_blank\">D-8405A<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988405T.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988405T.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988405T_p_31854.html\" target=\"_blank\">D-8405T<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988402.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988402.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988402_p_31855.html\" target=\"_blank\">D-8402<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988458B.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988458B.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988458B_p_34146.html\" target=\"_blank\">D-8458B<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "N/A",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-29887140.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-29887140.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-29887140_p_31790.html\" target=\"_blank\">D-87140<\/a>",
+            "dispositivo": "Trackball",
+            "idioma": "Personalizado",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988922.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988922.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988922_p_31818.html\" target=\"_blank\">D-8922<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Personalizado",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988512.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988512.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988512_p_31856.html\" target=\"_blank\">D-8512<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Función",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988516.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988516.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988516_p_31857.html\" target=\"_blank\">D-8516<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Función",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988513.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988513.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988513_p_31858.html\" target=\"_blank\">D-8513<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Función",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988511.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988511.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988511_p_31859.html\" target=\"_blank\">D-8511<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Función",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988518.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988518.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988518_p_31861.html\" target=\"_blank\">D-8518<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Función",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988635T-BL-DESK.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988635T-BL-DESK.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/lbd-2988635t-bl-desk.html\" target=\"_blank\">D-8635T-BL-DESK<\/a>",
+            "dispositivo": "Touchpad",
+            "idioma": "Personalizado",
+            "proteccion": "IP65",
+            "conexion": "USB"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988759.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988759.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988759_p_31824.html\" target=\"_blank\">D-8759<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Personalizado",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        },
+        {
+            "material": "Metálico",
+            "img": "<a href=\"imagenes\/298\/LBD-2988759-34Keys.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/298\/LBD-2988759-34Keys.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/LBD-2988759-34Keys_p_31825.html\" target=\"_blank\">D-8759-34Keys<\/a>",
+            "dispositivo": "N/A",
+            "idioma": "Personalizado",
+            "proteccion": "IP65",
+            "conexion": "Matrix"
+        }
+        
+    ]
+}

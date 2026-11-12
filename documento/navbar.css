@@ -1,0 +1,117 @@
+
+:root {
+   --blue:#2a5c84 !important;
+   --orange:#FD6F1D!important;
+  --transparent-gray:#eaeaea!important;
+}
+body{
+  padding-bottom: 1em;
+}
+
+.card{
+  background-color: #4d4747;
+}
+.search-box{
+  margin: 0;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+  .input-search{
+    height: 38px;
+    width: 38px;
+    border-style: none;
+    
+    outline: none;
+    border-radius: 50%;
+    transition: all .5s ease-in-out;
+    background-color:var(--blue);
+    padding-right: 40px;
+    color:#857676;
+  }
+
+  .btn-search{
+    width: 40px!important;
+    height: 40px;
+    border-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50%;
+    position: absolute;
+    right: 0px;
+    color: white;
+    background-color:transparent;
+    pointer-events: painted;  
+  }
+  .btn-search:focus ~ .input-search{
+    color:#857676 ;
+    width: 300px;
+    border-radius: 0px;
+    background-color: transparent;
+    border-bottom:1px solid rgba(255,255,255,.5);
+    transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
+  }
+  .btn-search:focus{
+    color: black;
+  }
+ 
+  .input-search:focus{
+    width: 300px;
+    border-radius: 0px;
+    background-color: transparent;
+    border-bottom:1px solid rgba(222,226,230,1);
+    transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
+  }
+
+
+
+.btn-secondary,
+.btn-secondary:focus,
+.btn-secondary:active
+{
+color: #FFFFFF;
+background-color: var(--blue) !important;
+border-color: var(--blue) !important;
+box-shadow: none;
+font-weight: bold;
+}
+.btn-secondary:focus span{
+ display: inline-block !important;
+}
+
+.advanced{
+color: var(--blue) !important;
+}
+
+.form-control:focus{
+box-shadow: none;
+border: 1px solid var(--blue);
+}
+
+.tag-item{
+  height: 1.6em;
+  width: fit-content;
+  padding: 0 3px; /* Añade un poco de espacio a los lados para el texto */
+  border-radius: .8em; /* La mitad de la altura para obtener bordes completamente redondeados */
+  background-color: var(--blue);
+  color: white;
+  align-items: center;
+  align-content: center;
+  margin-left: 4px;
+}
+.tag-item button{
+    width: 20px;
+    height: 20px;
+    border-style: none;
+    font-size: 12px;
+    font-weight:900;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50%;
+    right: 0px;
+    color: white;
+    background-color:black;
+    pointer-events: painted;  
+  }

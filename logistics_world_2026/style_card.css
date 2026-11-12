@@ -1,0 +1,314 @@
+/* =====================================================
+   1. CONFIGURACIÓN GLOBAL Y VARIABLES DEL SISTEMA
+   - Define colores reutilizables
+   - Permite mantener coherencia visual
+   - Facilita cambios futuros de branding
+===================================================== */
+
+:root {
+  --primary: #1a73e8;      /* Color principal (azul corporativo) */
+  --dark: #0d2c44;         /* Color oscuro para títulos o encabezados */
+  --bg-light: #f0f2f5;     /* Fondo general del sitio */
+  --white: #ffffff;       /* Blanco base */
+  --gray-light: #fafafa;  /* Gris muy claro para fondos secundarios */
+  --border: #eeeeee;      /* Color estándar para bordes */
+}
+
+/* =====================================================
+   CONFIGURACIÓN BASE DEL BODY
+   - Define tipografía global
+   - Centra el contenido
+   - Elimina márgenes por defecto
+===================================================== */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Fuente limpia y moderna */
+  background-color: var(--bg-light); /* Fondo general */
+  display: flex;                     /* Layout flexible */
+  flex-direction: column;            /* Elementos en columna */
+  align-items: center;               /* Centrado horizontal */
+  padding: 0px;                      /* Sin padding por defecto */
+  margin: 0;                         /* Elimina margen del navegador */
+}
+
+/* =====================================================
+   AJUSTE PARA PANTALLAS GRANDES (PC)
+   - Agrega espacio lateral en escritorio
+===================================================== */
+
+@media (min-width: 950px) {
+  body {
+    padding: 85px; /* Espaciado general en pantallas grandes */
+  }
+}
+
+/* =====================================================
+   2. GRID / FILA SUPERIOR DE CARDS
+   - Contenedor principal de tarjetas superiores
+   - Permite distribución automática responsive
+===================================================== */
+
+.grid-container {
+  display: flex;              /* Layout flexible (queda sobrescrito por grid abajo) */
+  flex-direction: row;        /* Dirección horizontal */
+  flex-wrap: nowrap;          /* No permite salto de línea */
+  justify-content: center;    /* Centrado horizontal */
+
+  display: grid;              /* Layout en grid */
+   grid-template-columns: repeat(3, 1fr); /* 🔥 3 columnas exactas */
+  /* Crea columnas automáticas mínimo 200px */
+
+  gap: 15px;                  /* Espacio entre tarjetas */
+  width: 100%;                /* Ancho completo */
+  max-width: 1200px;          /* Máximo ancho en escritorio */
+  margin-bottom: 50px;        /* Espacio inferior */
+  overflow-x: auto;           /* Scroll horizontal si hay muchas cards */
+  padding: 10px;              /* Espaciado interno */
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Celular */
+@media (max-width: 767px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* =====================================================
+   ESTILO INDIVIDUAL DE CADA CARD
+===================================================== */
+
+.card {
+  background: var(--white);   /* Fondo blanco */
+  border-radius: 25px;        /* Bordes redondeados */
+  overflow: hidden;           /* Oculta contenido que sobresalga */
+  box-shadow: 0 10px 20px rgba(0,0,0,0.05); /* Sombra suave */
+  display: flex;              /* Layout interno flexible */
+  flex-direction: column;     /* Contenido en columna */
+  flex: 0 0 240px;            /* Ancho fijo mínimo */
+  transition: transform 0.3s ease; /* Animación suave */
+  text-align: center;         /* Texto centrado */
+}
+
+/* Efecto hover (ligera elevación) */
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* =====================================================
+   3. CONTENEDOR PRINCIPAL DEL CATÁLOGO
+   - Se muestra dinámicamente con JavaScript
+===================================================== */
+
+#catalogSection {
+  display: none;      /* Oculto por defecto */
+  width: 100%;
+  max-width: 1100px;  /* Ancho máximo del catálogo */
+  margin: 40px auto;  /* Centrado y separación vertical */
+}
+
+.impacto-categorias {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas */
+    grid-template-rows: repeat(2, auto);   /* 2 filas */
+    gap: 25px;
+}
+
+@media (max-width: 768px) {
+
+    .impacto-categorias {
+        grid-template-columns: 1fr; /* 🔥 1 sola columna */
+        grid-template-rows: auto;   /* Que fluya automáticamente */
+    }
+
+}
+
+
+/* Encabezado de categoría */
+.category-header {
+  color: var(--dark);                       /* Texto oscuro */
+  border-left: 5px solid var(--primary);    /* Línea decorativa lateral */
+  padding-left: 15px;                       /* Separación del texto */
+  margin-bottom: 30px;                      /* Espacio inferior */
+  text-transform: uppercase;                /* Texto en mayúsculas */
+  letter-spacing: 1px;                      /* Espaciado entre letras */
+  font-size: 1.5rem;                        /* Tamaño destacado */
+}
+
+/* =====================================================
+   4. TARJETA DE DETALLE DE PRODUCTO (HORIZONTAL)
+   - Layout tipo ficha técnica
+   - Imagen a la izquierda, contenido a la derecha
+===================================================== */
+
+.product-detail-card {
+  display: flex !important;   /* Fuerza layout flexible */
+  flex-direction: row;        /* Distribución horizontal */
+  background: var(--white);
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  margin-bottom: 30px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  align-items: stretch; /* Igual altura imagen y contenido */
+}
+
+/* =====================================================
+   CONTENEDOR DE IMAGEN (IZQUIERDA)
+===================================================== */
+
+.detail-img-wrapper {
+  flex: 0 0 280px;                  /* Ancho fijo */
+  background: #fdfdfd;              /* Fondo ligeramente distinto */
+  display: flex;
+  align-items: center;              /* Centrado vertical */
+  justify-content: center;          /* Centrado horizontal */
+  border-right: 1px solid var(--border);
+}
+
+/* Imagen del producto */
+.detail-img-wrapper img {
+  width: 100%;
+  height: auto;
+  max-height: 220px;
+  object-fit: contain; /* Evita recorte */
+  padding: 20px;
+}
+
+/* =====================================================
+   CONTENEDOR DE TEXTO (DERECHA)
+===================================================== */
+
+.detail-content {
+  flex: 1;           /* Ocupa el resto del espacio */
+  padding: 30px;     /* Espaciado interno */
+}
+
+/* Título del producto */
+.detail-content h3 {
+  margin-top: 0;
+  color: var(--primary);
+  font-size: 1.4rem;
+  border-bottom: 2px solid var(--bg-light);
+  padding-bottom: 10px;
+}
+
+/* =====================================================
+   5. TABLA DE ESPECIFICACIONES TÉCNICAS
+===================================================== */
+
+.full-specs {
+  width: 100%;
+  border-collapse: collapse; /* Quita espacios entre celdas */
+  margin-top: 15px;
+}
+
+/* Celdas de la tabla */
+.full-specs td {
+  padding: 10px 5px;
+  border-bottom: 1px solid #f1f1f1;
+  font-size: 0.9rem;
+  color: #444;
+}
+
+/* Etiquetas técnicas (columna izquierda) */
+.label-tech {
+  font-weight: bold;
+  color: #888;
+  width: 180px; /* Ancho fijo */
+}
+
+/* =====================================================
+   6. RESPONSIVIDAD (PANTALLAS PEQUEÑAS)
+   - Ajusta diseño a formato vertical
+===================================================== */
+
+@media (max-width: 850px) {
+
+  /* La ficha se vuelve vertical */
+  .product-detail-card {
+    flex-direction: column;
+  }
+
+  /* Imagen ocupa todo el ancho */
+  .detail-img-wrapper {
+    flex: 0 0 200px;
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* Reduce ancho de etiquetas técnicas */
+  .label-tech {
+    width: 120px;
+  }
+}
+
+
+/* 🔶 BLOQUE 40x40 EXACTO */
+.cotizar-badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 60px;
+    background: #ff6a00a4;
+    border-top-right-radius: 20px; /* SOLO esta esquina */
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    font-size: 11px;
+    font-weight: 600;
+    transition: .3s ease;
+}
+
+/* Hover */
+.cotizar-badge:hover {
+    background: #6e350093;
+}
+
+
+/* ===========================
+   BOTÓN DEMO WHATSAPP
+=========================== */
+/* 🔥 Hacemos la columna izquierda vertical */
+.detail-img-wrapper {
+    flex: 0 0 280px;
+    display: flex;
+    flex-direction: column;  /* 👈 IMPORTANTE */
+    align-items: center;
+    justify-content: center;
+    background: #fdfdfd;
+    border-right: 1px solid var(--border);
+    padding: 20px;
+}
+
+/* Botón demo */
+.btn-demo {
+    margin-top: 15px;
+    width: 100%;
+    padding: 12px;
+    text-align: center;
+    background: #0d2c44;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.btn-demo:hover {
+    background: #1ebe5d;
+    transform: translateY(-2px);
+}

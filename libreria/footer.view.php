@@ -1,189 +1,648 @@
-@import url(https://use.fontawesome.com/releases/v5.7.2/css/all.css);.mnuPhone, body {font-size: 16px !important }#integradores, #line-card, #quienes_somos {background: #edeff0 }#documentacion, #footer {background: var(--white) }.bodyMP ul li a, .dropdownlink, .hvrbox, .tooltip-toggle {position: relative }#documentacion a, #documentacion a img, .buttonL, .centradoLCM, .colorTextC, .descripcionQS, .h3MP, .mnuPhone i, .nextCate, .numbertextCate, .prevCate, .timeline time {font-weight: 700 }.CardIScate, .btnCardIS, .mayusculas {text-transform: uppercase }.bodyMP ul li, .cardMP, .ocultar-div ul, .pestanaMenu {list-style: none }#documentacion a:hover, #footer a:hover, .bodyMP ul li a, .bodyMP ul li a::after, .btnFijoF, .cardMP, .dropdown-content-s a, .headerMPB a, .headerMPB a:hover, .linkN, .navMenuSuper ul li a, .ocultar-div a, .pestanaMenu>li:hover, .pestanaMenu>li>a, .tiendas_page a {text-decoration: none }body {font-family: monserrat-regular, Helvetica, Sans-Serif !important;color: rgba(0, 0, 0, .89);background-color: var(--dirty-white) }button:focus, button:focus-visible {outline: 0 }body .sub_text {color: #424242 !important;font-size: 18px !important }.boton_frm, .boton_mas {background: var(--blue);color: var(--white) !important }.grid-item1QS, .plc-fbs {background-position: center }.boton_frm:hover, .boton_mas:hover {background: #0f3862;color: var(--white) }.header, .sidebar_productos .card-header {background-color: #edeff0 }#header_logo {margin-top: 40px;margin-bottom: 40px }.imagelogo {max-width: 400px }.traductor_google {margin-top: 30px;width: 100% }.traductor_google .goog-te-gadget-simple {background: #edeff0 !important;color: var(--blue) !important;border: 1px solid var(--blue) }.bodyMP ul li a, .h3MP, .hoverchange:hover h3, .mnuPhone, .mnuPhone a, .nav_social_icons a, .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link, .navbar-custom .navbar-text, .productos_page h2, .tiendas_page h3 {color: var(--blue) }.cat-movil {margin-top: 8px;margin-bottom: 8px }.buscador_google {margin-top: 15px }.buscador_google .gsc-input {padding: 0 !important;margin: 0 !important;height: 23px }.buscador_google .gsc-search-button .gsc-search-button-v2 {padding: 6px 10px !important }#categorias_gral .card-header, #footer ul span, .buscador_movil, .div_mobile, .nav_social_icons {display: none }.buscador_movil .gsc-input {padding: 0 !important;margin: 0 !important;height: 30px }.gsc-control-cse {border-color: var(--dirty-white) !important;background-color: var(--dirty-white) !important }#btnPhone {margin: 10px;height: 38px }.mnuPhone {margin: 10px 20px;display: none !important }.mnuPhone i {padding: 10px 0 }.div_pc, .dropdown:hover .dropdown-content-s, .dropdown:hover>.dropdown-menu, .hvrbox .hvrbox-layer_bottom, .hvrbox.active .hvrbox-text_mobile {display: block }.navbar-custom {background-color: #edeff0;font-size: 20px !important;padding: 0 !important }.hoverchange:hover a, .navbar-custom .navbar-toggler-icon {color: var(--blue) !important }.navbar-custom .nav-item .nav-link {color: var(--blue) !important;margin: 0 15px !important }.navbar-custom .nav-item:hover .nav-link {border-bottom: 3px solid var(--blue);padding-bottom: 0 }.navbar-custom .active .nav-link {color: var(--blue) !important;border-bottom: 3px solid #ff8a0c;margin: 0 17px !important;padding-bottom: 0 !important }.nav_social_icons a {margin: 0 10px;font-size: 18px }#categorias_gral .col_categ, #tiendas_virtuales {padding: 50px }#documentacion, #integradores, #nuestros_clientes {padding: 50px 0 }#tiendas_virtuales .imagen_tienda {margin: 5px 30px }#quienes_somos {padding-top: 50px;padding-bottom: 50px }#quienes_somos p {font-size: 16px;color: #888 }#line-card .img-resp {width: 25% }.hvrbox {display: inline-block;overflow: hidden;width: 100%;height: auto }.cardSimple img, .hvrbox img, .imglinecard, .imglinecard2 {width: 100% }.hvrbox .hvrbox-layer_top {opacity: 0;position: absolute;top: 0;left: 0;right: 0;bottom: 0;width: 100%;height: 100%;background: rgba(0, 0, 0, .6);color: var(--white);padding: 0;-moz-transition: .4s ease-in-out;-webkit-transition: .4s ease-in-out;-ms-transition: .4s ease-in-out;transition: .4s ease-in-out }.bodyMP ul li a:hover::before, .grid-item1QS:hover .infoQS, .grid-item2QS:hover .infoQS, .grid-item3QS:hover .infoQS, .grid-item4QS:hover .infoQS, .grid-item5QS:hover .infoQS, .hvrbox.active .hvrbox-layer_top, .hvrbox:hover .hvrbox-layer_top {opacity: 1 }.hvrbox .hvrbox-text {text-align: center;font-size: 20px;display: inline-block;position: absolute;width: 80%;top: 50%;left: 50%;-moz-transform: translate(-50%, -50%);-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%) }.btnLine2:hover, .btnLine:hover, .btnTiendas:hover {transform: translateY(-6px) }.hvrbox .hvrbox-text_mobile {font-size: 15px;border-top: 1px solid rgba(179, 179, 179, .7);margin-top: 5px;padding-top: 2px;display: none }#categorias_gral .card {border: none }#categorias_gral .card-body {background-color: transparent }#categorias_gral .list-group-item, #categorias_gral .list-group-item-action {border: none;padding: 10px;color: #000;background-color: transparent }#categorias_gral .list-group-item-action:hover, #categorias_gral .list-group-item:hover {color: #000;background-color: #e3e5e6 }#categorias_gral .list-group-item-action:before, #categorias_gral .list-group-item:before {content: " - " }#nuestros_clientes img, .slider .slider_multiple>a>.marca>img, .slider .slider_multiple>a>img {transition: filter .3s ease-in-out;-webkit-filter: grayscale(100%);filter: grayscale(100%) }#nuestros_clientes img:hover, .slider .slider_multiple>a>.marca>img:hover, .slider .slider_multiple>a>img:hover {-webkit-filter: grayscale(0);filter: grayscale(0) }.hoverchange img, .hoverchange:hover img, .hoverchangeInv:hover img {filter: invert(48%) sepia(52%) saturate(6185%) hue-rotate(358deg) brightness(98%) contrast(109%) }#marcas_carrousel {border-top: 1px solid #edeff0;padding: 50px 0 }#integradores {border-top: 2px solid #e3e5e6 }#nuestros_clientes .img_cliente {padding-top: 0 !important }#noticias {padding: 40px 0 }#noticias .noticia {margin-top: 40px }#noticias .noticia p {margin: 25px 0 }#noticias .noticia .fecha {writing-mode: vertical-rl;text-orientation: mixed }#documentacion a {color: #000 }#footer, #footer a {color: #000 !important }#documentacion a img {color: #000;border: solid var(--blue) }#documentacion a img:hover {border: solid #ff5100 }#footer {border-top: 2px solid #eee;padding-top: 10px;font-size: 12px !important }#footer .social_icon {font-size: 25px;padding: 10px }#footer .aviso_privacidad {background: var(--blue) }#central .page-item.active .page-link, #footer .aviso_privacidad a, .contenedor .page-item.active .page-link, .page-item.active .page-link {color: var(--white) !important }#footer .seccion_links {padding-bottom: 0 !important;margin-bottom: 0 !important }#footer .estados_footer, #footer .keywords_footer {color: #6d6d6d;text-align: center;padding-bottom: 5px }#footer .contacto_footer span {margin: 0 10px }#footer .keywords_footer {font-size: 11px !important }#footer .keywords_footer a {color: #6d6d6d !important;font-size: 12px !important;padding-top: 5px }#footer .estados_footer {font-size: 9px }.sidebar_productos .card {margin-bottom: 20px }.sidebar_productos .collapse .card-body .list-group .list-group-item, .sidebar_productos .list-group-item-action {background-color: #f7f9fa;padding: 2px 5px }.productos_page .list-group-item-action:hover, .productos_page .list-group-item:hover, .sidebar_productos .collapse .card-body .list-group .list-group-item:hover, .sidebar_productos .list-group-item-action:hover {background-color: #e3e5e6 }.sidebar_productos .collapse .card-body .list-group .list-group-item .fas, .sidebar_productos .list-group-item-action .fas {position: relative;float: right;margin-top: 4px }.sidebar_productos .active {color: #000 !important;background-color: #d9dbdc !important;border: none }#central, .contenedor {min-height: 700px;margin-top: 10px !important }#central .row_producto_cat, .contenedor .row_producto_cat, .row_producto_cat {margin: 10px }#central .img-responsive, .contenedor .img-responsive, .img-responsive {width: 100px }.box-shad {box-shadow: 3px 3px 8px #222, 0 0 0 var(--white) inset, 0 0 0 var(--white) inset, 0 0 0 var(--white) inset }.tiendas_page .col {margin: 20px }.tiendas_page .img_mapa {border: 1px solid #000;padding: 40px;margin-bottom: 20px }.tiendas_page .text_2 {margin-top: 30px;font-style: italic }.tiendas_page h1 {font-size: 22px }.tiendas_page h3 {font-size: 18px }.tiendas_page h4 {color: #000;font-size: 18px }.productos_page .col {border: 1px solid var(--blue);border-bottom: 50px solid var(--blue);border-radius: 25px;margin: 10px;padding: 20px }.productos_page .list-group-item, .productos_page .list-group-item-action {color: #888;border: none;padding: 5px }.productos_page .list-group-item-action:before, .productos_page .list-group-item:before {content: "• " }.tabla_subcategorias_grid .img_categ {padding: 0 }.tabla_subcategorias_grid .tabla_subcategorias_row:nth-of-type(odd) {padding: 10px 0;background-color: #efefef }.tabla_subcategorias_grid .tabla_subcategorias_row:nth-of-type(2n) {padding: 10px 0;background-color: var(--white) }.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active, .nav-tabs>li>a:hover {color: var(--white) !important;background-color: #5f6164 !important }.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {padding: 5px 8px;margin-top: 10px;border: 1px solid var(--blue) !important;-webkit-border-radius: 10px 10px 0 0;-moz-border-radius: 10px 10px 0 0;border-radius: 10px 10px 0 0 }.nav-tabs>li>a {padding: 5px 8px;margin-top: 10px;border: 1px solid var(--blue) !important;-webkit-border-radius: 10px 10px 0 0;-moz-border-radius: 10px 10px 0 0;border-radius: 10px 10px 0 0;background-color: #edeff0 !important }.nav-tabs>li.active>a {color: var(--white);background-color: #ff8a0c !important;height: 42px;margin-top: 0 }.nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {color: #ff8a0c;background-color: #ff8a0c !important;outline: 0 }.tab-content {border-top: 4px solid var(--blue) }.tabla_subcateg .carrito, .tabla_subcateg img {max-width: 200px !important }.contacto_footer {display: block !important }.contacto_footer_movil {display: none !important }.pagina_producto p {text-align: justify }.pagina_producto .ruta_productos {text-align: left;font-size: 18px;margin-bottom: 15px }.infoLine h2, .infoTiendas h2, .infor h2, .pagina_producto .titulo_producto, .tabla_subcategorias a .celda_categoria p {text-align: center }.tabla_especificaciones_producto {font-size: 14px !important }.tabla_especificaciones_producto .titulo_espec {font-weight: 700 !important;background-color: #939393 !important }.tabla_especificaciones_producto .titulo_espec_lat {font-weight: 700 !important;background-color: #bbb !important }.tabla_especificaciones_producto thead {background-color: #bbb !important }.tabla_subcategorias .col {background: #aaa;margin: 0;padding: 5px }.tabla_subcategorias a .celda_categoria {background: #eee;padding: 5px;margin: 10px 0 }.bodyMP ul li a::after, .bodyMP ul li a::before {content: '';display: block;position: absolute;top: 0;height: 100%;width: 5px;background: #ff7e00;opacity: 0;transition: .5s;text-decoration: none }.cardMP {width: 100%;height: auto;border-radius: 10px;border: solid var(--blue);max-width: 300px }.headerMPB, .headerMPT {background-color: #edeff0;height: 60px;font-size: 15px }.navMenuSuper ul li a, .plc-fbs, .tdFondo {background-color: #fff }.headerMPT {border-radius: 10px 10px 0 0;padding-top: 5px }.headerMPB {padding: 5px;border-radius: 0 0 10px 10px }.bodyMP ul li:hover, .headerMPB:hover {background-color: #fff7ee }.h3MP {margin-left: 1rem;font-size: 1.5rem }.bodyMP ul li {transition: 1s;padding: 10px;margin-left: -40px;margin-top: 0 }.bodyMP ul li a {display: block;font-size: 16px }.bodyMP ul li a::after {left: 0 }.bodyMP ul li a::before {left: -10 }.plc-fbs {background-image: url("https://www.logicbus.com.mx/imagenes/diagramas/plc-serie-fbs/FBs-System-edit.png");width: 1300px;height: 900px;background-repeat: no-repeat;table-layout: fixed }.plc-fbs tr td {word-wrap: break-word }@media screen and (max-width:600px) {.ocultar-titulo {align-self: center }}@media screen and (min-width:800px) {.ocultar-div {display: none }}.dropdownlink, .navMenuSuper ul li a {color: var(--blue);display: block;cursor: pointer }.ocultar-div * {margin: 0;padding: 0 }.accordion-menu {width: 100%;max-width: 250px;background: #fff;border-radius: 4px;padding-top: 8%;padding-bottom: 8% }.buttonL, .divL, .h5L, .tabla_lb th {background-color: var(--blue) }.accordion-menu li.open .dropdownlink {color: #ff7e00 }.dropdownlink {padding: 0 5px 5px 0;font-size: 16px;border-bottom: 1px solid #ccc;transition: .4s ease-out;top: 17px;left: 16px }.buttonL, .tabla_lb th {color: #fff;text-align: left }.fa-chevron-down {right: 12px;left: auto }.tabla_lb tr:hover {background-color: #f2f4f6 }.tabla_lb th {padding-top: 10px;padding-bottom: 10px }.imgm {width: 40px }.imgm:hover {box-shadow: 0 0 2px 1px #5491cf;border-radius: 20px }.tooltip-toggle {cursor: pointer }.tooltip-toggle::before {position: absolute;left: -115px;background-color: #000;border-radius: 5px;border-width: 5px;border-color: var(--blue);content: attr(data-tooltip);padding: 1rem;text-transform: none;-webkit-transition: .5s;transition: .5s;width: 300px }.tooltip-toggle::after, .tooltip-toggle::before {color: #efefef;font-family: monospace;font-size: 14px;opacity: 0;pointer-events: none;text-align: center }.tooltip-toggle:hover::after, .tooltip-toggle:hover::before {opacity: 1;-webkit-transition: .75s;transition: .75s }.buttonL {border: none;padding: 15px 32px;display: inline-block;font-size: 16px;cursor: pointer }.gridCateC, .gridSepa {width: 830px;display: grid }.buttonL:focus {outline: 0;box-shadow: none }.navMenuSuper {max-width: 100%;mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 10%, #ffffff 90%, rgba(255, 255, 255, 0) 115%);margin: 0 auto }.gridCateC, .gridCateC-item, .gridSepa {padding: 4px }.navMenuSuper ul {text-align: center;background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0, rgba(255, 255, 255, .2) 25%, rgba(255, 255, 255, .2) 75%, rgba(255, 255, 255, 0) 100%);align-content: center;padding: 0 }.navMenuSuper ul li {display: inline-block;box-shadow: rgba(9, 30, 66, .25) 0 1px 1px, rgba(9, 30, 66, .13) 0 0 1px 1px;margin: 5px }.navMenuSuper ul li a {padding: 10px;font-size: 15px;font-weight: 700 }.navMenuSuper ul li a:hover {box-shadow: 0 0 10px rgba(0, 0, 0, .1), inset 0 0 1px rgba(255, 255, 255, .6);background: #edeff0;color: rgba(0, 35, 122, .7) }.divL {border-radius: 6px }.gridCateC {grid-template-columns: 180px 180px 180px 180px 180px }.gridSepa {grid-template-columns: auto auto }.gridSepa-item {border: 1px solid;padding: 4px }@media (max-width:1000px) {#header_logo {margin-top: 10px;margin-bottom: 10px }#btnPhoneMnu, .buscador_google, .traductor_google {display: none }.buscador_movil, .nav_social_icons {display: block }.mnuPhone {display: inherit !important }.navbar-custom {background-color: #d9dbdc;font-size: 14px !important }.navbar-custom .nav-item .nav-link {color: var(--blue) !important;margin: 0 20px !important;padding-bottom: 3px }.navbar-custom .nav-item:hover .nav-link {border-bottom: 3px solid var(--blue);margin: 0 20px !important }.navbar-custom .active .nav-link {color: var(--blue) !important;border-bottom: 3px solid #ff8a0c;margin: 0 20px !important }#categorias_gral .col_categ, #noticias, #nuestros_clientes {padding: 20px 0 }#documentacion, #marcas_carrousel {padding: 10px 0 }#integradores {padding: 10px 0 !important }#noticias .noticia {margin-top: 0 !important }#noticias .noticia p {margin: 10px 0 }#noticias .noticia .fecha {font-size: 12px;border-top: 2px solid #edeff0 }#documentacion a {font-size: 12px }.boton_mas {font-size: 10px !important;padding: 10px }}@media (max-width:700px) {.keywords_footer {display: none !important }}@media (max-width:550px) {#categorias_gral .card-header {display: block;background-color: #2a5c84 }#categorias_gral .card-header button {color: var(--white) !important;font-weight: 700 }}.dropdown-content-s {display: none;position: absolute;background-color: #f9f9f9;box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2);z-index: 1 }.dropdown-content-s a {color: #000;padding: 5px 10px;display: block }.dropdown-content-s a:hover {background-color: #f1f1f1 }@media all and (min-width:992px) {.nav-item {height: 40px }.dropdown-menu li {position: relative;padding: 2.5px }.dropdown-menu .dropdown-item:hover {background-color: #2d568033 }.dropdown-menu .submenu {display: none;position: absolute;left: 100%;top: -7px }.dropdown-menu .submenu-left {right: 100%;left: auto }.dropdown-menu>li:hover {background-color: #f1f1f1 }.dropdown-menu>li:hover>.submenu {display: block }}.contenidoCV {display: grid;grid-template-columns: 1fr 1fr;grid-gap: 0;width: 700px }.sectionTV {margin-top: 280px }.cardArti, .cardTiendas2 {transition: .2s;width: 90%;overflow: hidden;margin: 10px auto 0 }.cardArti:hover, .cardTiendas2:hover {box-shadow: #ff7e00 0 0 0 4px, rgba(6, 24, 44, .65) 0 4px 6px -1px, rgba(255, 255, 255, .08) 0 1px 0 inset;border-radius: 6px }.containerTiendas {box-shadow: 0 15px 30px 1px grey;background: rgba(255, 255, 255, .9);text-align: center;border-radius: 5px;overflow: hidden;margin: 10px auto 5em;height: 150px;width: 500px }.contPestana, .containerLine3 img, .containerTiendas img, .containerr img, .infoTiendas {height: 100%;width: 100% }.product-detailsTiendas {position: relative;overflow: hidden;height: 100%;float: left;width: 60% }.containerLine .product-detailsLine h1, .containerLine3 .product-detailsLine h1, .containerTiendas .product-detailsTiendas h1 {display: inline-block;position: relative;font-size: 30px;color: #344055;margin: 0 }.containerLine .product-detailsLine h1:before, .containerLine3 .product-detailsLine h1:before, .containerTiendas .product-detailsTiendas h1:before {position: absolute;content: '';right: 0;top: 0;transform: translate(25px, -15px);display: inline-block;background: #ffe6e6;border-radius: 5px;font-size: 14px;padding: 5px;color: #fff;margin: 0;animation: 6s infinite chan-sh }.containerLine .product-detailsLine>p, .containerLine3 .product-detailsLine>p, .containerTiendas .product-detailsTiendas>p {text-align: center;font-size: 18px;color: #000 }.controlLine, .controlTiendas {position: absolute;bottom: 20%;left: 22.8% }.infoLine, .infoTiendas {left: 0;top: 0;line-height: 1.8 }.btnTiendas {transform: translateY(0);transition: .3s linear;background: var(--blue);border-radius: 5px;position: relative;overflow: hidden;cursor: pointer;outline: 0;border: none;color: #eee;padding: 0;margin: 2px 0 5px }.btnTiendas:hover {background: #1a66ff }.btnLine span, .btnLine2 span, .btnTiendas span {transition: transform .3s;display: inline-block;padding: 5px 10px;font-size: 17px;margin: 0 }.btnLine .buyLine, .btnTiendas .buyTiendas {z-index: 3;font-weight: bolder }.btnLine:hover .priceLine, .btnTiendas:hover .priceTiendas {transform: translateX(-110%) }.btnLine:hover .shopping-cartLine, .btnTiendas:hover .shopping-cartTiendas, .product-imageLine:hover .infoLine, .product-imageTiendas:hover .infoTiendas {transform: translateX(0) }.imageArti, .product-imageLine, .product-imageTiendas, .product-imager {transition: .3s ease-out;position: relative;overflow: hidden;height: 100%;width: 100%;display: inline-block }.infoTiendas {background-color: #212529;transition: .3s ease-out;transform: translateX(-100%);position: absolute;color: var(--white) }.infoTiendas ul .pmx, .infoTiendas ul .pusa {font-size: 14px;margin-left: -15px }.product-imageLine:hover img, .product-imageTiendas:hover img {transition: .3s ease-out;transform: scale(1.2, 1.2) }.colorTextC {color: var(--blue);padding-top: 15px }.gridCategorias {display: grid;grid-template-columns: auto auto auto;background-color: var(--white);box-shadow: rgba(60, 64, 67, .3) 0 1px 2px 0, rgba(60, 64, 67, .15) 0 2px 6px 2px;width: 100%;height: 300px }.grid-itemCategorias {border: 1px solid #dedede;padding: 23px;font-size: 18px;text-align: center }.slideshow-containerCate {max-width: 1000px;position: relative;margin: auto }.nextCate, .prevCate {cursor: pointer;width: auto;padding: 10px;color: #fff;font-size: 15px;transition: .6s;border-radius: 0 3px 3px 0;user-select: none }.numbertextCate, .textCate {padding: 8px 12px;position: absolute }.nextCate {right: 0;border-radius: 3px 0 0 3px }.nextCate:hover, .prevCate:hover {background-color: rgba(255, 126, 0, .4);color: #ff7e00 }.textCate {color: #f2f2f2;font-size: 15px;bottom: 8px;width: 100%;text-align: center }.numbertextCate {color: #000;font-size: 18px;top: 0 }.dotCate {cursor: pointer;height: 15px;width: 15px;margin: 0 2px;background-color: #bbb;border-radius: 50%;display: inline-block;transition: background-color .6s }.activeCate, .dotCate:hover {background-color: #717171 }.fadeCate {-webkit-animation-name: fadeCate;-webkit-animation-duration: 1.5s;animation-name: fadeCate;animation-duration: 1.5s }@-webkit-keyframes fadeCate {from {opacity: .4 }to {opacity: 1 }}@keyframes fadeCate {from {opacity: .4 }to {opacity: 1 }}.contenidoLine {width: 90% }.containerLine {text-align: center;border-radius: 5px;overflow: hidden;margin: 0 auto 15px;height: 300px;width: 60% }.product-detailsLine {position: relative;overflow: hidden;height: 220px;float: left;width: 50%;margin-top: 10px }.btnLine, .btnLine2 {transition: .3s linear;border-radius: 5px;position: relative;outline: 0;color: #eee;padding: 0;margin: 0;overflow: hidden;transform: translateY(0);cursor: pointer }.btnLine {background: #ff7e00;border: none;box-shadow: rgba(0, 0, 0, .25) 0 .0625em .0625em, rgba(0, 0, 0, .25) 0 .125em .5em, rgba(255, 255, 255, .1) 0 0 0 1px inset }.btnLine:hover {background: #047df6 }.btnLine2 {background: var(--blue);border: none;box-shadow: rgba(0, 0, 0, .16) 0 3px 6px, rgba(0, 0, 0, .23) 0 3px 6px }.infoLine, .textoLC, .textoLC h1 {color: var(--white) }.btnLine2:hover {background: #ff7e00 }.containerLine img {width: 90%;height: 100% }.infoLine {background: rgba(27, 26, 26, .9);transition: .3s ease-out;transform: translateX(-100%);position: absolute;text-align: left;font-size: 105%;height: 100%;width: 100% }.infoLine ul li, .infor ul li {transition: .3s }.infoLine ul li:hover {transform: translateX(50px) scale(1.3) }.contenedorLCM {position: relative;display: inline-block;text-align: center }.centradoLCM {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);color: #ff7e00;font-size: 20px;display: none;text-shadow: 2px 2px 0 #292929, 2px -2px 0 #292929, -2px 2px 0 #292929, -2px -2px 0 #292929, 2px 0 0 #292929, 0 2px 0 #292929, -2px 0 0 #292929, 0 -2px 0 #292929 }.divProductC b, .infolc {font-size: 18px }.sectionLine {background-color: var(--blue);height: 240px }@media screen and (max-width:900px) {.contenidoLine {grid-template-columns: 1fr }.containerLine {width: 270px;height: 150px }.product-detailsLine {position: relative;overflow: hidden;height: 100%;float: left;width: 100% }.infolc, .textoLC {display: none }.centradoLCM {display: block }.sectionLine {background-color: var(--blue);height: 160px }}.containerLineC {box-shadow: rgba(6, 24, 44, .4) 0 0 0 2px, rgba(6, 24, 44, .65) 0 4px 6px -1px, rgba(255, 255, 255, .08) 0 1px 0 inset;background-color: var(--white);text-align: center;border-radius: 5px;overflow: hidden;margin: 10px 110px 15px auto;height: 180px;width: 25%;z-index: 2;float: right }.contenidoLine3 {width: 60% }.containerLine3, .sliderCli {width: 100%;overflow: hidden }.containerLine3 {background: rgba(255, 255, 255, .9);text-align: center;margin: 15px auto;height: 50% }@keyframes scroll {0% {transform: translateX(0) }100% {transform: translateX(calc(-250px * 7)) }}.sliderCli {margin: auto;position: relative;height: 100% }.sliderCli::after, .sliderCli::before {content: "";height: 100%;position: absolute;width: 200px;z-index: 2 }.sliderCli::after {right: 0;top: 0;transform: rotateZ(180deg) }.sliderCli::before {left: 0;top: 0 }.sliderCli .slide-trackCli {animation: 20s linear infinite scroll;display: flex;width: calc(250px * 14) }.sliderCli .slideCli {height: 100%;width: 100% }@media (max-width:768px) {.gridCateC, .gridSepa {width: 100%;display: grid }.gridCateC {grid-template-columns: 50% 50% }.gridSepa {grid-template-columns: auto }.gridSepa-item {border: 1px solid }.colorTextC {color: var(--blue);font-size: 12px }.numbertextCate {display: none }.grid-itemCategorias {padding: 10px }.nextCate:hover, .prevCate:hover {background-color: transparent }.sliderCli {height: 230px }.sliderCli::after, .sliderCli::before {background: linear-gradient(to right, #edeff0 0, rgba(237, 239, 240, 0) 100%);content: "";height: 100%;position: absolute;z-index: 2;width: 100px }}.containerr {box-shadow: 0 15px 30px 1px grey;box-shadow: rgba(60, 64, 67, .3) 0 1px 2px 0, rgba(60, 64, 67, .15) 0 1px 3px 1px;text-align: center;border-radius: 5px;overflow: hidden;margin: 10px auto 5em;width: 100%;height: 70% }.gridQS, .infoArti, .infoQS, .infor {height: 100% }.infor {background: rgba(27, 26, 26, .9);transition: .3s ease-in;transform: translateY(-100%);position: absolute;text-align: left;font-size: 105%;color: var(--white);width: 100%;left: 0;top: 0 }.product-imager:hover .infor {transform: translateY(0) }.infor ul li:hover {transform: translateY(50px) scale(1.3) }.product-imager:hover img {transition: .3s ease-in;transform: scale(1.2, 1.2) }.marginSEC {margin-top: -80px }@media (max-width:800px) {.sub_text {font-size: 18px !important }h3, h4 {font-size: 16px !important }#footer, .table {font-size: 12px !important }#tiendas_virtuales {padding: 20px 0 }#tiendas_virtuales .imagen_tienda {margin: 10px 0 }#quienes_somos {padding-top: 10px;padding-bottom: 10px }#central .tabla_subcateg p, #quienes_somos .hvrbox-text, .contenedor .tabla_subcateg p {font-size: 12px }.div_pc, .imagen_categorias, .sidebar_productos {display: none }.desc_categorias .categorias_title {display: block !important;text-align: center }#integradores {text-align: center;padding: 50px 0 }#noticias .noticia {margin-top: 30px;margin-bottom: 10px;text-align: center }#noticias .noticia img {width: 50% }#noticias .noticia .fecha {writing-mode: horizontal-tb }#footer .datos_contacto {text-align: center !important }#footer .seccion_links, #footer ul {margin: 10px;padding: 15px;text-align: center }#footer .seccion_links ul span, #footer ul ul span {display: inline }#footer .seccion_links li, #footer ul li {font-size: 16px !important;display: inline;padding: 28px 5px 10px;margin: 10px 0 }#footer .contacto_footer {display: none !important }#footer .contacto_footer_movil {margin-top: 15px;display: block !important }#footer .aviso_privacidad {margin-top: 10px }#central a, .contenedor a {font-size: 14px;padding: 8px }#central .tabla_subcateg .carrito, #central .tabla_subcateg img, .contenedor .tabla_subcateg .carrito, .contenedor .tabla_subcateg img {width: 30px !important }#central .img-responsive, .contenedor .img-responsive {min-width: 50px }#central .tabla_subcateg img, .contenedor .tabla_subcateg img {width: 50px }#central .row_producto_cat, .contenedor .row_producto_cat {border-bottom: 1px solid #bbb;margin: 10px }#central .row_producto_cat .col_producto_cat img, .contenedor .row_producto_cat .col_producto_cat img {min-width: 120px }#central .row_producto_cat img, .contenedor .row_producto_cat img {width: 40px }.tabla_subcategorias_grid .img_categ {max-width: 200px }.tabla_subcategorias_grid .img_tienda {max-width: 80px }.tabla_subcategorias_grid a, .tabla_subcategorias_grid p {text-align: center }.tabla_subcategorias_grid .tabla_subcategorias_row:nth-of-type(2n), .tabla_subcategorias_grid .tabla_subcategorias_row:nth-of-type(odd) {background-color: var(--white);border-bottom: 1px solid #d8d8d8 }.div_mobile {display: block }.dropdown-menu .dropdown-menu {margin-left: .7rem;margin-right: .7rem;margin-bottom: .5rem }.marginSEC {margin-top: -20px }}.gridQS {display: grid;grid-template-columns: repeat(7, 1fr);grid-template-rows: repeat(8, 1fr);width: 100%;grid-gap: 10px }.grid-item1QS, .grid-item2QS {display: inline-block;position: relative }.grid-item1QS {background-image: url("https://www.logicbus.com.mx/images/seccion-quienes-somos/cursos.webp");grid-column: 3/6;grid-row: 1/5 }.grid-item2QS, .grid-item3QS {background-size: cover;background-position: center;grid-row: 5/9 }.grid-item1QS:hover .descripcionQS, .grid-item2QS:hover .descripcionQS, .grid-item3QS:hover .descripcionQS, .grid-item4QS:hover .descripcionQS, .grid-item5QS:hover .descripcionQS {margin-top: 30px }.grid-item2QS {background-image: url("https://www.logicbus.com.mx/images/seccion-quienes-somos/integracion.webp");grid-column: 1/5 }.grid-item3QS {background-image: url("https://www.logicbus.com.mx/images/seccion-quienes-somos/soporte.webp");grid-column: 5/8;display: inline-block;position: relative }.grid-item4QS, .grid-item5QS {background-size: cover;background-position: center;grid-row: 1/5;display: inline-block;position: relative }.grid-item4QS {background-image: url("https://www.logicbus.com.mx/images/seccion-quienes-somos/equipos.webp");grid-column: 1/3 }.grid-item5QS {background-image: url("https://www.logicbus.com.mx/images/seccion-quienes-somos/consultoria.webp");grid-column: 6/8 }.infoQS {overflow: hidden;width: 100%;background-color: rgba(31, 31, 31, .6);opacity: 0;transition: opacity .9s }.descripcionQS {font-size: 1rem;text-align: center;margin-top: 200px;transition: margin-top .4s;color: #fff }.contenidoArti, .contenidoArticulo {grid-template-columns: 1fr 1fr 1fr 1fr }.contenidoArticulo {display: grid }.cardArticulo {overflow: hidden;margin-top: 10px;margin-bottom: 0;position: relative;box-shadow: rgba(0, 0, 0, .24) 0 3px 8px }.cardArticulo:hover {box-shadow: var(--blue) 0 0 0 4px, var(--blue) 0 4px 6px -1px, var(--blue) 0 1px 0 inset;border-radius: 6px;transition: .5s;background: var(--blue) }.imageArticulo {display: inline-block;position: relative;overflow: hidden }.contenidoArti {display: grid;grid-gap: 0;width: 100% }.infoArti {background: rgba(27, 26, 26, .8);transition: .3s ease-out;transform: translateX(-100%);position: absolute;line-height: 1.8;text-align: left;font-size: 105%;color: var(--white);width: 100%;left: 0;top: 0 }.sectionTimeLine {scroll-behavior: auto }.timeline {white-space: nowrap;overflow-x: hidden;overflow: auto;max-height: 500px }.timeline ol {font-size: 0;width: 100vw;padding: 200px 0;transition: 1s }.timeline ol li {position: relative;display: inline-block;list-style-type: none;width: 200px;height: 5px;background: #202f5b }.timeline ol li:last-child {width: 250px }.timeline ol li:not(:last-child)::after {content: url('https://www.logicbus.com.mx/images/seccion-empresa/logo-logic.png');position: absolute;left: calc(18% + 1px);bottom: 0;width: 12px;height: 12px;transform: translateY(-50%) }.timeline ol li div {position: absolute;left: calc(20% + 7px);width: 300px;font-size: 1rem;white-space: normal;color: #000;display: inline-block;border-style: solid;border-color: #e9531d;border-radius: 5px }.timeline ol li div::before {content: '';position: absolute;top: 30%;left: -3.5;width: 0;height: 0;border-style: solid }.timeline ol li:nth-child(odd) div {top: -30px;transform: translateY(-100%) }.timeline ol li:nth-child(odd) div::before {top: 99%;border-width: 12px 12px 0 0;border-color: #e9531d transparent transparent }.timeline ol li:nth-child(2n) div {top: calc(100% + 30px) }.timeline ol li:nth-child(2n) div::before {top: -12px;border-width: 12px 0 0 12px;border-color: transparent transparent transparent #e9531d }.timeline time {display: block;font-size: 1.2rem;margin-bottom: 8px }.numtm {position: absolute;top: 10px;left: 2px;color: #ff5100;font-size: 30px;font-weight: 700 }.fechatm, .titulotm {color: #202f5b;font-weight: 700;position: absolute }.titulotm {top: 35px;left: 40%;font-size: 15px;line-height: 100%;transform: translate(-50%, -50%) }.fechatm {top: 120px;left: 75%;font-size: 19px }.timeline .arrows {display: flex;justify-content: center;margin-bottom: 20px }.timeline .arrows .arrow__prev {margin-right: 20px }.timeline .disabled {opacity: .5 }.timeline .arrows img {width: 45px;height: 45px }@media screen and (max-width:599px) {.timeline ol, .timeline ol li {width: auto }.timeline ol {padding: 0;transform: none !important }.timeline ol li {display: block;height: auto;background: 0 0 }.timeline ol li:first-child {margin-top: 25px }.timeline ol li:not(:first-child) {margin-left: auto }.timeline ol li div {width: 94%;height: auto !important;margin: 0 auto 25px;position: static }.timeline ol li:nth-child(odd) div {transform: none }.timeline ol li:nth-child(2n) div::before, .timeline ol li:nth-child(odd) div::before {left: 50%;top: 100%;transform: translateX(-50%);border: none;border-left: 1px solid #fff;height: 25px }.timeline .arrows, .timeline ol li:last-child, .timeline ol li:not(:last-child)::after, .timeline ol li:nth-last-child(2) div::before {display: none }}.divider {display: flex;width: 90% }.BoGa, .hr-text:after {display: inline-block }.divider:after, .divider:before {content: "";flex: 1 }.gradient, .sepAzul {align-items: stretch;color: var(--white) }.gradient {margin: 1em 0;height: 2em;line-height: 2em;background: #ffdbb9 }.sepGrisA, .sepGrisN {background-color: #edeef0 }.gradient:before {background: linear-gradient(to right, #fff, #ffdbb9) }.gradient:after {background: linear-gradient(to left, #fff, #ffdbb9) }.sepAzul {background-image: linear-gradient(to right, #fff, #202f5b, #202f5b, #fff);font-weight: 700;height: 2em;line-height: 2em;font-size: 20px }.sepGrisA, .sepNaranja {font-weight: 700;align-items: stretch;height: 2em;line-height: 2em }.sepNaranja {background-image: linear-gradient(to right, #fff, #ff5100, #ff5100, #fff);color: var(--white);font-size: 20px }.sepGrisA {color: #24537b }.sepGrisN {color: #ff5100;font-weight: 700;align-items: stretch;height: 2em;line-height: 2em }.separadorAG, .separadorNG {color: var(--white);margin-bottom: 0;padding: 1%;font-style: italic;font-weight: 700 }.separadorAG {background-color: #005c94;width: 100% }.separadorNG {background-color: var(--orange) }.separadorGG {padding: 1%;margin: 0;font-style: italic;font-weight: 700 }.separator {position: relative;z-index: 1;font-size: 1.5rem }.BoGa, .cajaT {font-size: 16px }.separator span {background: #24537b;padding: 5px 15px;border-radius: 10px;color: #fff }.separator:before {border-top: 2px solid #24537b;content: "";margin: 0 auto;position: absolute;top: 50%;left: 0;right: 0;bottom: 0;width: 95%;z-index: -1 }.hr-text {position: relative;border: 0;height: 1.5em;text-align: center }.hr-text:before {content: '';background: linear-gradient(to right, transparent, #ff7e00, transparent);position: absolute;left: 0;top: 50%;width: 100%;height: 4px;z-index: -2 }.hr-text:after {content: attr(data-content);position: relative;color: #000;padding: 0 .5em;line-height: 1.5em;font-weight: 700;color: var(--blue);background-color: #fff;z-index: -2 }.BoGa:hover, .tabla_espec th {background-color: var(--blue) }.dividerPlano {background-color: #2a5c84;color: #fff;width: 50% }.linkN {color: var(--white);font-weight: 700 }.imgFadeI {box-shadow: rgba(255, 81, 0, .4) -5px 5px, rgba(255, 81, 0, .3) -10px 10px, rgba(255, 81, 0, .2) -15px 15px, rgba(255, 81, 0, .1) -20px 20px, rgba(255, 81, 0, .05) -25px 25px }.imgFadeI:hover {box-shadow: rgba(32, 47, 91, .4) -5px 5px, rgba(32, 47, 91, .3) -10px 10px, rgba(32, 47, 91, .2) -15px 15px, rgba(32, 47, 91, .1) -20px 20px, rgba(255, 81, 0, .05) -25px 25px }.imgFadeD {box-shadow: rgba(255, 81, 0, .4) 5px 5px, rgba(255, 81, 0, .3) 10px 10px, rgba(255, 81, 0, .2) 15px 15px, rgba(255, 81, 0, .1) 20px 20px, rgba(255, 81, 0, .05) 25px 25px }.imgFadeD:hover {box-shadow: rgba(32, 47, 91, .4) 5px 5px, rgba(32, 47, 91, .3) 10px 10px, rgba(32, 47, 91, .2) 15px 15px, rgba(32, 47, 91, .1) 20px 20px, rgba(255, 81, 0, .05) 25px 25px }.imgFadeA {box-shadow: rgba(255, 81, 0, .4) 0 5px, rgba(255, 81, 0, .3) 0 10px, rgba(255, 81, 0, .2) 0 15px, rgba(255, 81, 0, .1) 0 20px, rgba(255, 81, 0, .05) 0 25px }.imgFadeA:hover {box-shadow: rgba(32, 47, 91, .4) 0 5px, rgba(32, 47, 91, .3) 0 10px, rgba(32, 47, 91, .2) 0 15px, rgba(32, 47, 91, .1) 0 20px, rgba(255, 81, 0, .05) 0 25px }.seccion {background-color: #ff7e00;margin-top: 20px;margin-bottom: 20px;padding: 5px;width: 90%;border-radius: 6px }.col-center {float: none;margin: 0 auto }.seccion>.col-center>h2, h1 {margin: 0 }.seccion>.col-center>h2, h1>span {margin-top: 10px;margin-bottom: 10px;color: #fff;font-weight: 700;font-size: 25px }.inputP {width: 200px;height: 30px;border-style: none;box-shadow: rgba(60, 64, 67, .3) 0 1px 2px 0, rgba(60, 64, 67, .15) 0 1px 3px 1px }.inputP::placeholder {color: #6392c1;font-size: 1em;font-weight: 700;text-align: center }.responsivo-iframe, .responsivo-iframe2 {width: 100px;height: 50px }@media (min-width:320px) {.responsivo-iframe {width: 200px;height: 150px }.responsivo-iframe2 {width: 300px;height: 170px }}@media (min-width:768px) {.responsivo-iframe {width: 500px;height: 370px }}@media (min-width:800px) {.responsivo-iframe2 {width: 900px;height: 500px }}.tabla_espec {border-collapse: collapse;width: 80% }.elementoB1, .elementoB2 {width: 50%;float: left }.tabla_espec th {color: #fff;text-align: center }.tabla_espec td, .tabla_espec th {border: 1px solid #ddd;padding: 5px }.tabla_espec tr:nth-child(2n) {background-color: #f2f2f2 }.tabla_espec tr:hover {background-color: #ddd }.BoGa {border: 0;background-color: #2d568012;padding: 15px 32px;margin: 4px 2px;cursor: pointer;transition-duration: .4s;border-radius: 6px;color: var(--blue);text-align: right }.cajaT, .imgBordeA, .imgBordeA:hover, .imgBordeB, .imgBordeB:hover {border-radius: 6px }.imgBorde, .imgBordeA, .imgBordeB {box-shadow: rgba(60, 64, 67, .3) 0 1px 2px 0, rgba(60, 64, 67, .15) 0 1px 3px 1px;transition: .2s }.BoGa:hover, .btnCardIS, .btnFijoF, .btnFijoF:hover {color: var(--white) }.btn-wsp, .btnCardIS, .cajaT, .card-desc, .divProductC {text-align: center }.textBoGa {float: right }.iconBoGa {float: left }.BoGa:hover {box-shadow: rgba(50, 50, 93, .25) 0 6px 12px -2px, rgba(0, 0, 0, .3) 0 3px 7px -3px }.cajaT {font-weight: 400;background: #2d568012;margin: 0 0 25px;overflow: hidden;padding: 20px }.elementoB1 {padding-top: 8px }.imgBp {width: 70% }.imgBp2 {width: 35% }.imgBp3 {width: 63% }@media screen and (max-width:480px) {.contenidoCV {grid-template-columns: 1fr }.sectionTV {margin-top: 100px }.cardTiendas2 {max-width: 300px }.imglinecard {width: 140% }.gridQS {display: grid;grid-template-columns: repeat(7, 1fr);grid-template-rows: repeat(6, 1fr) }.grid-item1QS {grid-column: 1/8;grid-row: 3/5 }.grid-item2QS {grid-column: 1/5;grid-row: 5/7 }.grid-item3QS {grid-column: 5/8;grid-row: 5/7 }.grid-item4QS {grid-column: 1/5;grid-row: 1/3 }.grid-item5QS {grid-column: 5/8;grid-row: 1/3 }.contenidoArti {grid-template-columns: 1fr 1fr }.cardArti {width: 250px }.BoGa:hover, .spanBoGa:hover {color: var(--white) }.elementoB1, .elementoB2 {width: 100%;float: left }}.divProductC:hover, .imgBorde:hover {box-shadow: rgba(6, 24, 44, .4) 0 0 0 2px, rgba(6, 24, 44, .65) 0 4px 6px -1px, rgba(255, 255, 255, .08) 0 1px 0 inset }.imgBordeB:hover {box-shadow: var(--white) 0 0 0 4px, var(--white) 0 4px 6px -1px, var(--white) 0 1px 0 inset }.imgBordeA:hover {box-shadow: #202f5b 0 0 0 4px, #202f5b 0 4px 6px -1px, #202f5b 0 1px 0 inset }.img250 {max-width: 250px }.img300 {width: 300px;height: 150px }.imgS200 {width: 200px }.pCentroB {display: table-cell;width: 100%;height: 200px;padding: 10px;vertical-align: middle;font-size: 1rem }.btnFijoF {font-size: 16px;font-weight: 700;border-radius: 5px;letter-spacing: 2px;background-color: #ff5100;padding: 15px 27px;position: fixed;bottom: 25px;transition: .3s;box-shadow: 0 8px 15px rgba(0, 0, 0, .1);z-index: 99;right: 47% }.CuadroAzulT, .selectCM {padding: 10px;border-radius: 5px }.btnFijoF:hover {background-color: #24537b;box-shadow: 0 15px 20px rgba(0, 0, 0, .3);transform: translateY(-7px) }.selectCM {cursor: pointer;border-style: none;box-shadow: rgba(60, 64, 67, .3) 0 1px 2px 0, rgba(60, 64, 67, .15) 0 1px 3px 1px;font-size: 15px }.selectCM option {margin: 60px;font-size: 15px }@media (max-width:450px) {.selectCM {width: 100% }}.divReviews {width: 90%;height: 1150px;margin-left: auto;margin-right: auto;overflow: scroll }.CardISproduct, .CuadroAzulT, .cardSimple {width: 100%;box-shadow: rgba(6, 24, 44, .4) 0 0 0 2px, rgba(6, 24, 44, .65) 0 4px 6px -1px, rgba(255, 255, 255, .08) 0 1px 0 inset }@media screen and (max-width:800px) {.divReviews {width: 100%;height: 500px }}.cardSimple {background: var(--white);border-radius: 5px;max-width: 300px }.CuadroAzulT {background: #edeff0 }.CardIScate, .btnCardIS {font-size: .8em;letter-spacing: 1.4px;font-weight: 700 }.btnCardIS {display: inline-block;padding: 1.75em 3.5em;white-space: nowrap;border-radius: 5px }.CardISproduct {position: relative;max-width: 400px;max-height: 500px;padding: 40px;border-radius: 8px;background-color: var(--white);transition: box-shadow .3s cubic-bezier(.4, 0, .2, 1) }.CardISproduct__image {width: 120%;margin: -5px -40% 30px;max-width: none }.CaordISproduct__title {font-size: 30px;color: #000;margin: 0 0 .5em;line-height: 1.1 }.CardIScate {display: block;color: #cf092c;margin-bottom: 1em }.CardISproduct__btn {position: absolute;bottom: -30px;right: 30px;background-color: rgba(207, 9, 44, .95);transition: background-color .3s cubic-bezier(.4, 0, .2, 1), box-shadow .3s cubic-bezier(.4, 0, .2, 1);box-shadow: 0 30px 25px -20px rgba(0, 0, 0, .15) }.card img, .card-I>div, .contenidoPM {position: relative }.CardISproduct__btn:hover {box-shadow: 0 36px 28px -20px rgba(0, 0, 0, .2);background-color: #c5092a }.pestanaMenu {display: flex;margin: auto 0;padding: .6em 0 0 }.pestanaMenu>li {box-sizing: border-box;height: 50px;line-height: 50px;padding: 0 2em;margin: 1px;transition: .5s linear;background: #edeff0;color: #000;cursor: pointer;font-size: 16px;user-select: none;font-weight: 700 }.pestanaMenu>li>a {color: #000 }.pestanaMenu>li:hover {color: var(--white) }.pestanaMenu i {margin-right: 5px }.pestanaMenu>li:hover:not(.activePM) {background: linear-gradient(to right, #506ec4, #099c95);color: var(--white) }.pestanaMenu>li:hover i:not(li.activePM) {color: #175c58 }.pestanaMenu .activePM {color: var(--white);background: #ff5100;font-size: 18px }.contenidoPM {background: #ededed;padding: 1em;border-radius: 0 0 5px 5px;box-shadow: rgba(0, 0, 0, .12) 0 1px 3px, rgba(0, 0, 0, .24) 0 1px 2px }.contentPM {padding: 0 0 0 3em;font-size: 16px }.tabP {display: none;z-index: 100 }.divProductC {box-shadow: rgba(60, 64, 67, .3) 0 1px 2px 0, rgba(60, 64, 67, .15) 0 1px 3px 1px;transition: .2s;max-width: 300px;max-height: 700px }.divProductC img {width: 100%;align-self: center }.cards {display: flex;flex-wrap: wrap;justify-content: space-evenly }.card-service-tam {max-width: 300px;margin: 30px }.card img {height: auto;display: block }.card-desc {display: block;font-size: 1.2rem;position: absolute;height: 0;width: 100%;top: 0;opacity: 0;background-color: rgba(0, 0, 0, .6);overflow-y: hidden;transition: .5s;color: var(--white) }.card-button {margin: 45% auto }.card:hover .card-desc {padding: 8%;opacity: 1;height: 100% }button.btn.btn-outline-warning.openModal {margin-top: 40%;width: 50% }.btn-wsp {position: fixed;width: 60px;height: 60px;line-height: 63px;bottom: 25px;left: 25px;background: #25d366;color: var(--white) !important;border-radius: 50px;padding-top: 13px !important;font-size: 35px !important;box-shadow: 0 1px 10px rgba(0, 0, 0, .3);z-index: 100;transition: .3s }a.btn-wsp:hover {background: #fff;color: #25d366 !important }@media only screen and (min-width:320px) and (max-width:768px) {.btn-wsp {width: 63px;height: 63px;line-height: 66px }}.active-url {background-color: var(--orange);color: var(--white) }.hoverchange .button {padding: 5px 10px !important;text-align: center !important;text-decoration: none !important;display: inline-block !important;font-size: 1.3rem !important;margin: 4px 10px !important;transition-duration: .4s !important;cursor: pointer !important }.hoverchange .button-circle-white {overflow: hidden;border-radius: 40px !important;background-color: var(--white) !important;color: var(--orange) !important;border: 2px solid var(--orange) }.hoverchange:hover button {border-radius: 40px !important;color: var(--blue) !important;background: var(--white) !important;border: 2px solid var(--blue) }.hoverchange:hover img {transition: background .2s ease-in-out;filter: invert(30%) sepia(10%) saturate(2912%) hue-rotate(166deg) brightness(95%) contrast(96%) }.hoverchange h3 {color: var(--orange) }.hoverchangeInv img {filter: invert(30%) sepia(10%) saturate(2912%) hue-rotate(166deg) brightness(95%) contrast(96%) }.hoverchangeInv:hover h3 {color: var(--orange);transition: color .2s ease-in-out }.hoverchangeInv h3 {color: var(--blue);transition: color .2s ease-in-out }.biframe {width: 800px;height: 780px;border: none }@media screen and (max-width:1024px) {.biframe {width: 85%;height: 780px;border: none }}@media screen and (max-width:801px) {.biframe {width: 85%;height: 1000px;border: none }}@media screen and (max-width:400px) {.biframe {width: 100%;height: 1180px;border: none }}html {scroll-padding-top: 84px !important }.card-I {transition: transform .5s }.card-I img {border-radius: 25px;width: 90%;max-width: 500px }.card-I>div {border-radius: 3em;background-color: var(--white);border: 2px solid var(--orange);color: var(--blue);font-weight: 700;width: 90%;max-width: 300px;height: 3em;bottom: 1.5em }.card-I:hover {transform: scale(1.07) }.card-i:hover .align-middle {transform: scale(1.2);transition: transform .2s;border: 3px solid var(--orange) }.card-marcas {background-color: #fff;max-width: 234px !important;max-height: 144px !important;min-width: 234px !important;min-height: 144px !important;width: 234px !important;height: 144px !important;align-items: center;display: flex }.card-marcas img {width: 100%;margin: auto }.focuslider {filter: grayscale(1);display: block;transition-property: transform, filter;transition-duration: .5s;transition-delay: .1s;margin: auto }.slide-AyCP, .slide-AyRD, .slide-ByH, .slide-CyAE, .slide-IOT, .slide-OEE, .slide-PCyCI, .slide-PyM, .slide-RyVI, .slide-SyHD, .slide-SyT {display: flex }.focuslider:hover {transform: scale(1.2);filter: grayscale(0) }.slide-AyCP {animation: calc(2.5s * 10) linear infinite scrollB !important;width: calc(300px * 20) !important }@keyframes scrollB {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 10)) }}.slide-CyAE {animation: calc(2.5s * 4) linear infinite scrollC !important;width: calc(300px * 12) !important }@keyframes scrollC {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 4)) }}.slide-PCyCI {animation: calc(2.5s * 14) linear infinite scrollD !important;width: calc(300px * 28) !important }@keyframes scrollD {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 14)) }}.slide-SyT {animation: calc(2.5s * 18) linear infinite scrollE !important;width: calc(300px * 36) !important }@keyframes scrollE {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 18)) }}.slide-PyM {animation: calc(2.5s * 8) linear infinite scrollF !important;width: calc(300px * 16) !important }@keyframes scrollF {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 8)) }}.slide-RyVI {animation: calc(2.5s * 10) linear infinite scrollG !important;width: calc(300px * 20) !important }@keyframes scrollG {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 10)) }}.slide-SyHD {animation: calc(2.5s * 11) linear infinite scrollH !important;width: calc(300px * 22) !important }@keyframes scrollH {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 11)) }}.slide-AyRD {animation: calc(2.5s * 9) linear infinite scrollI !important;width: calc(300px * 18) !important }@keyframes scrollI {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 9)) }}.slide-IOT {animation: calc(2.5s * 18) linear infinite scrollJ !important;width: calc(300px * 36) !important }@keyframes scrollJ {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 18)) }}.slide-OEE {animation: calc(2.5s * 3) linear infinite scrollK !important;width: calc(300px * 9) !important }@keyframes scrollK {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 3)) }}.slide-ByH {animation: calc(2.5s * 5) linear infinite scrollL !important;width: calc(300px * 10) !important }@keyframes scrollL {0% {transform: translateX(0) }100% {transform: translateX(calc(-300px * 5)) }}.sliderCliB {height: auto !important }.sliderCliB::after, .sliderCliB::before {background: 0 0 }.video-container-youtube {position: relative;cursor: pointer;max-width: 800px;margin: 20px auto;overflow: hidden;padding-top: 56.25% }.video-container-youtube img {position: absolute;top: 0;left: 0;width: 100%;height: 100%;object-fit: cover;border: none }.video-container-youtube iframe {position: absolute;top: 0;left: 0;width: 100%;height: 100%;border: none }.video-container-youtube .play-button {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;background-color: rgba(0, 0, 0, .6);border-radius: 50%;transition: background-color .2s }.video-container-youtube:hover .play-button {background-color: rgba(255, 0, 0, .8) }.video-container-youtube .play-button::after {content: '';position: absolute;top: 50%;left: 54%;transform: translate(-50%, -50%);width: 0;height: 0;border-style: solid;border-width: 15px 0 15px 26px;border-color: transparent transparent transparent white }.icon-item {display: flex;align-items: center;justify-content: center }.icon-item.active {box-shadow: 0 4px 15px rgba(255, 126, 0, .4);transform: scale(1.1);background-color: #ff7e00 }.icon-item:hover:not(.active) {background-color: #fff0e0;transform: translateY(-3px) }.tabs-content {background: #fdfdfd;border-radius: 20px;padding: 40px 20px;border: 1px solid #eee }.panel {display: none;animation: .5s ease-out fadeInTab }.panel.active {display: block }.panel h3 {color: #ff7e00;font-weight: 700;margin-bottom: 20px }@keyframes fadeInTab {from {opacity: 0;transform: translateY(20px) }to {opacity: 1;transform: translateY(0) }}.features-section {padding: 60px 20px;background-color: #f9f9f9;text-align: center }.features-intro {font-weight: 700;color: #333;font-size: 1.2rem;margin-bottom: 40px;max-width: 850px;margin-left: auto;margin-right: auto }.features-grid {display: flex;flex-wrap: wrap;justify-content: center;gap: 20px;margin-bottom: 50px }.feature-item {flex: 1;min-width: 250px;max-width: 300px;padding: 15px }.feature-item h4 {color: #22527a;font-size: 18px;font-weight: 700;margin-bottom: 15px;min-height: 50px;display: flex;align-items: center;justify-content: center }.feature-item p {font-size: 14px;line-height: 1.6;color: #555 }.carousel-container {position: relative;overflow: hidden;width: 100%;max-width: 1100px;margin: 0 auto }.carousel-track {display: flex;transition: transform .5s ease-in-out }.carousel-track img {width: 25%;flex-shrink: 0;padding: 10px;border-radius: 20px }@media (max-width:768px) {.carousel-track img {width: 50% }}@media (max-width:480px) {.carousel-track img {width: 100% }}.tabs-component-orange {text-align: center;max-width: 1000px;margin: 30px auto }.tabs-navigation {display: flex;justify-content: center;gap: 15px;margin-bottom: 30px;flex-wrap: wrap }.icon-item {width: 70px;height: 70px;border: 2px solid #ff7e00;border-radius: 50%;display: flex;align-items: center;justify-content: center;cursor: pointer;transition: .3s;background: #fff }.icon-item i {font-size: 25px;color: #ff7e00 }.icon-item.active i {color: #fff }.products-grid-container {padding: 40px 0 }.product-item {text-align: center;padding: 15px;transition: transform .3s;display: flex;flex-direction: column;align-items: center }.product-item:hover {transform: translateY(-5px) }.product-item img {width: 100%;max-width: 220px;height: auto;border-radius: 15px;margin-bottom: 20px;box-shadow: 0 4px 15px rgba(0, 0, 0, .1) }.product-item h3 {font-size: 1.4rem;color: #333;font-weight: 800;margin-bottom: 15px;text-transform: none;line-height: 1.2 }.product-item p {color: #555;font-size: 1rem;line-height: 1.4;margin-bottom: 20px;min-height: 50px }.btn-ver-mas-grid {background-color: #f27424;color: #fff !important;padding: 8px 35px;border-radius: 25px;font-weight: 700;text-decoration: none;display: inline-block;transition: background .3s;border: none }.btn-ver-mas-grid:hover {background-color: #d15c10;text-decoration: none }.subtitle-products {text-align: center;color: #f27424;font-weight: 700;margin-bottom: 50px;text-transform: uppercase }.solution-section {padding: 80px 0;background-color: #f9f9f9;font-family: 'Arial', sans-serif;}.solution-header {margin-bottom: 60px;max-width: 800px;margin-left: auto;margin-right: auto;}.solution-wrapper {display: flex;align-items: center;justify-content: center;margin-bottom: 80px;max-width: 1200px;margin-left: auto;margin-right: auto;}.solution-image {flex: 0 0 45%;position: relative;z-index: 2;}.solution-image img {width: 100%;height: auto;display: block;box-shadow: 0 15px 40px rgba(0,0,0,0.15);border-radius: 2px;}.solution-card {flex: 0 0 55%;background: #fff;padding: 50px 40px;box-shadow: 0 5px 20px rgba(0,0,0,0.05);margin-top: 40px;margin-bottom: 40px;position: relative;z-index: 1;}.solution-card h3 {font-size: 28px;color: #000;margin-top: 0;margin-bottom: 10px;font-weight: 500;}.solution-card .subtitle {color: #666;font-size: 14px;display: block;margin-bottom: 30px;}.challenges-grid {display: flex;flex-wrap: wrap;justify-content: space-between;}.challenge-column {list-style: none;padding: 0;margin: 0;width: 48%;}.challenge-column li {display: flex;align-items: center;margin-bottom: 25px;font-size: 13px;color: #333;line-height: 1.4;}.icon {display: inline-flex;align-items: center;justify-content: center;min-width: 24px;margin-right: 12px;color: #555;}.icon svg {width: 24px;height: 24px;overflow: visible;}.read-more {display: inline-block;background-color: #333;color: #fff;padding: 12px 30px;text-decoration: none;font-size: 14px;margin-top: 20px;transition: background 0.3s;}.read-more:hover {background-color: #000;color: #fff;}@media (max-width: 768px) {.solution-wrapper {flex-direction: column;}.solution-image, .solution-card {flex: 0 0 100%;width: 100%;}.solution-image {margin-bottom: -30px;padding: 0 20px;}.challenges-grid {flex-direction: column;}.challenge-column {width: 100%;}}
+<style>
+    :root {
+        --primary: #ff7e00;
+        --dark-blue: #2D5680;
+        --bg-gradient: linear-gradient(135deg, #eef2f7, #cbd5e1);
+        --accent-red: #e63946;
+    }
 
-/* Scroll */
-html { scroll-behavior: smooth; }
+    /* ⚠️ NO romper layout */
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+    }
 
-/* Variables */
-:root {
-    --lb-primary: #22527A;
-    --lb-white: #ffffff;
-    --lb-bg-light: #eeeeee;
-    --lb-text: #333333;
-    --lb-accent: #FF7E00;
-}
+    /* MODAL */
+    .overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(4px);
+        z-index: 100;
+    }
 
-/* Banners */
-.banner-container { width: 100%; margin-bottom: 30px; }
-.banner-container video { width: 100%; height: auto; display: block; }
-.banner-container img { width: 100%; max-height: 450px; object-fit: cover; object-position: center; display: block; }
+    .modal {
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 90%;
+        max-width: 500px;
+        max-height: 85vh;
+        background: white;
+        border-radius: 24px;
+        overflow: hidden;
+        box-shadow: 0 25px 50px rgba(0, 0, 0, 0.4);
+        z-index: 101;
+    }
 
-/* Textos */
-.main-title { text-align: center; font-size: 3rem !important; margin: 50px auto 30px auto; padding: 0 15px; max-width: 1200px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; }
-@media (max-width: 768px) { .main-title { font-size: 2.2rem !important; } }
-.intro-text { font-size: 16px; text-align: justify; line-height: 1.7; color: var(--lb-text); max-width: 1200px; margin: 0 auto 20px auto; padding: 0 15px; }
+    .modal-header {
+        background-image: url("<?= RUTA ?>libreria/banner_whats.png");
+        background-size: cover;
+        background-position: center;
+        height: 120px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+    }
 
-/* Separadores */
-.section-title { display: flex; align-items: center; text-align: center; color: var(--lb-primary); font-size: 2rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; margin: 80px auto 40px auto; max-width: 1200px; padding: 0 15px; }
-.section-title::before, .section-title::after { content: ""; flex: 1; height: 1px; background-color: var(--lb-accent); }
-.section-title::before { margin-right: 20px; }
-.section-title::after { margin-left: 20px; }
+    .modal-content {
+        padding: 45px 30px 30px;
+        overflow-y: auto;
+        max-height: calc(85vh - 120px);
+    }
 
-/* Botones */
-.btn-navigation { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 40px 0; }
-.btn-circle { background-color: var(--lb-primary) !important; color: var(--lb-white) !important; padding: 12px 25px; border-radius: 25px; text-decoration: none !important; font-weight: bold; border: 2px solid var(--lb-primary) !important; outline: none !important; box-shadow: 0 4px 6px rgba(0,0,0,0.1) !important; display: inline-block; transition: box-shadow 0.3s ease, background-color 0.3s ease, color 0.3s ease !important; }
-@media (hover: hover) { .btn-circle:hover { background-color: var(--lb-white) !important; color: var(--lb-primary) !important; box-shadow: 0 6px 12px rgba(34, 82, 122, 0.2) !important; } }
+    .grid-inputs {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+    }
 
-/* Grid */
-.products-grid { display: flex; flex-wrap: wrap; justify-content: center; align-items: stretch; gap: 30px; width: 100%; max-width: 1400px; padding: 0 15px; margin: 0 auto 50px; }
+    .full-width {
+        grid-column: span 2;
+    }
 
-/* Tarjetas */
-.product-card { background-color: var(--lb-white); border: 1px solid #eaeaea; border-radius: 15px; padding: 25px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease, box-shadow 0.3s ease; width: 100%; flex: 1 1 280px; max-width: 300px; }
-.product-card img { width: 100%; max-width: 220px; height: auto; object-fit: cover; margin-bottom: 20px; border-radius: 8px; }
-.product-card h4 { font-size: 1.4rem; color: var(--lb-text); margin: 0 0 20px 0; font-weight: bold; }
-@media (hover: hover) { .product-card:hover { transform: translateY(-5px); box-shadow: 0 8px 20px rgba(0,0,0,0.1); } }
+    input,
+    select {
+        width: 100%;
+        padding: 10px 5px;
+        border: none;
+        border-bottom: 2px solid #e2e8f0;
+        background: transparent;
+    }
 
-/* Artículos */
-.articles-list { display: flex; flex-direction: column; gap: 30px; max-width: 1000px; margin: 0 auto 50px; padding: 0 15px; }
-.article-card-hor { background: var(--lb-white); border: 1px solid #eaeaea; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.05); display: flex; flex-direction: column; transition: transform 0.3s ease, box-shadow 0.3s ease; }
-@media (min-width: 768px) { .article-card-hor { flex-direction: row; } }
-.article-img-wrap { flex: 0 0 40%; min-height: 200px; }
-.article-img-wrap img { width: 100%; height: 100%; object-fit: cover; }
-.article-content { padding: 30px; display: flex; flex-direction: column; justify-content: center; flex: 1; text-align: left; }
-.article-content h3 { font-size: 1.3rem; color: var(--lb-primary); margin-bottom: 15px; font-weight: bold; line-height: 1.3; }
-.article-content p { font-size: 0.95rem; color: var(--lb-text); line-height: 1.6; text-align: justify; margin-bottom: 20px; }
-.article-content .btn-container { text-align: left; margin-top: auto; }
-@media (hover: hover) { .article-card-hor:hover { transform: translateY(-5px); box-shadow: 0 8px 20px rgba(0,0,0,0.1); } }
+    input:focus,
+    select:focus {
+        border-bottom-color: var(--primary);
+    }
 
-/* Manuales */
-.ghost-manual-box { display: inline-flex; flex-direction: column; align-items: center; padding: 35px 60px; background-color: #f8f9fa; border: 2px dashed #b0c4de; border-radius: 15px; text-decoration: none !important; transition: all 0.3s ease; }
-.ghost-manual-box img { width: 60px; margin-bottom: 15px; filter: invert(27%) sepia(35%) saturate(1512%) hue-rotate(174deg) brightness(96%) contrast(93%); transition: filter 0.3s ease; }
-.ghost-manual-box span { color: var(--lb-primary); font-weight: bold; font-size: 1.1rem; text-transform: uppercase; letter-spacing: 1px; transition: color 0.3s ease; }
-@media (hover: hover) {
-    .ghost-manual-box:hover { background-color: var(--lb-white); border-color: var(--lb-accent); border-style: solid; transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,0,0,0.08); }
-    .ghost-manual-box:hover img { filter: invert(53%) sepia(91%) saturate(2335%) hue-rotate(1deg) brightness(103%) contrast(105%); }
-    .ghost-manual-box:hover span { color: var(--lb-accent); }
-}
+    .dropdown {
+        position: relative;
+    }
 
-/* Catálogos */
-.catalog-wrap { display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; margin-bottom: 50px; }
-.catalog-item { position: relative; text-decoration: none !important; text-align: center; width: 220px; display: block; }
-.catalog-item img { width: 100%; border-radius: 4px; box-shadow: 0 6px 15px rgba(0,0,0,0.15); transition: transform 0.3s ease, box-shadow 0.3s ease; }
-.catalog-item h4 { margin-top: 15px; font-size: 1.1rem; color: var(--lb-primary); font-weight: bold; transition: color 0.3s ease;}
-.pdf-badge { position: absolute; top: -12px; right: -12px; background-color: var(--lb-accent); color: #fff; font-size: 0.75rem; font-weight: bold; padding: 5px 12px; border-radius: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.2); z-index: 2; }
-@media (hover: hover) {
-    .catalog-item:hover img { transform: translateY(-8px) scale(1.05); box-shadow: 0 15px 30px rgba(0,0,0,0.25); }
-    .catalog-item:hover h4 { color: var(--lb-accent); }
-}
+    .dropdown-list {
+        position: absolute;
+        width: 100%;
+        max-height: 150px;
+        overflow-y: auto;
+        background: white;
+        display: none;
+        z-index: 10;
+    }
 
-/* =========================================
-   FONDOS PARA SECCIONES
-   ========================================= */
-.bg-light-accent {
-    background-color: #f5f7fa; 
-    padding: 50px 0; 
-    margin: 60px 0; 
-    border-top: 1px solid #ebebeb;
-    border-bottom: 1px solid #ebebeb;
-    width: 100%;
-}
-.breadcrumb {
-    background-color: transparent !important;
-}
+    .dropdown-list div {
+        padding: 10px;
+        cursor: pointer;
+    }
 
-/* ===== Base acotada (prefijo lb-). Colores de marca: azul #24537B y naranja #e68413. Tipografia heredada del sitio ===== */
-.lb-footer {
-  --lb-blue: #24537b;
-  --lb-orange: #e68413;
-  --lb-ink: #333333;
-  --lb-muted: #666666;
-  --lb-line: #e2e8f0;
-  --lb-soft: #f8f9fa;
-  --lb-tint: #eaf0f5;
-  --lb-dark: #1b1b1b;
-  font-family: inherit;
-  line-height: 1.45;
-}
-.lb-footer * { box-sizing: border-box; }
-.lb-footer a { text-decoration: none; }
-:where(.lb-footer) :where(ul) { list-style: none; margin: 0; padding: 0; }
-:where(.lb-footer) :where(li) { margin: 0; padding: 0; }
-.lb-container { width: 100%; max-width: 1280px; margin: 0 auto; padding: 0 24px; }
-.lb-ico { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; flex: none; }
-.lb-footer a:focus-visible, .lb-footer summary:focus-visible { outline: 3px solid var(--lb-orange); outline-offset: 2px; border-radius: 8px; }
+    .dropdown-list div:hover {
+        background: var(--primary);
+        color: white;
+    }
 
-/* ===== ESTILOS DEL FOOTER ===== */
-.lb-footer { position: relative; margin-top: 90px; background: var(--lb-blue); color: #fff; font-size: 14px; border-top: 4px solid var(--lb-orange); }
-.lb-footer a { color: #fff; transition: color .15s; }
-.lb-footer a:hover { color: #ffc27d; }
-.lb-f-cta { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 18px 28px; margin-top: -52px; padding: 26px 30px; background: #fff; color: var(--lb-blue); border-radius: 22px; border-left: 8px solid var(--lb-orange); box-shadow: 0 20px 44px rgba(20,40,60,.25); }
-.lb-f-cta h2 { margin: 0; color: var(--lb-blue); font-size: 24px; font-weight: 800; line-height: 1.25; }
-.lb-f-cta-btns { display: flex; flex-wrap: wrap; gap: 10px; }
-.lb-btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 12px 22px; border-radius: 999px; border: 2px solid var(--lb-blue); background: transparent; color: var(--lb-blue) !important; font: inherit; font-weight: 800; cursor: pointer; transition: background .15s, color .15s, filter .15s; }
-.lb-btn:hover { background: var(--lb-blue); color: #fff !important; }
-.lb-btn--main { background: var(--lb-orange); border-color: var(--lb-orange); color: var(--lb-dark) !important; }
-.lb-btn--main:hover { background: var(--lb-orange); border-color: var(--lb-orange); color: var(--lb-dark) !important; filter: brightness(1.07); }
-.lb-btn .lb-ico { width: 18px; height: 18px; }
-.lb-f-main { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 44px; padding: 44px 0 30px; }
-.lb-offices { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; align-content: start; }
-.lb-office { background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.16); border-radius: 18px; padding: 20px; }
-.lb-office-head { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
-.lb-flag { width: 24px; height: 24px; border-radius: 50%; background: #fff; display: grid; place-items: center; overflow: hidden; }
-.lb-flag img { width: 90%; height: auto; display: block; }
-.lb-office-head .lb-flag { width: 30px; height: 30px; }
-.lb-office h3 { margin: 0; font-size: 16px; font-weight: 800; color: #fff; }
-.lb-office address { font-style: normal; margin: 0 0 12px; color: rgba(255,255,255,.88); }
-.lb-crow { display: flex; align-items: center; gap: 12px; padding: 9px 10px; margin: 0 -10px; border-radius: 12px; line-height: 1.25; }
-.lb-crow:hover { background: rgba(255,255,255,.1); }
-.lb-crow .lb-ico { width: 20px; height: 20px; color: var(--lb-orange); }
-.lb-crow small { display: block; font-size: 12px; color: rgba(255,255,255,.75); }
-.lb-links { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; align-content: start; }
-.lb-acc summary { list-style: none; display: flex; align-items: center; justify-content: space-between; position: relative; margin: 0 0 12px; padding-bottom: 10px; color: #fff; font-size: 15px; font-weight: 800; letter-spacing: .02em; pointer-events: none; cursor: default; }
-.lb-acc summary::-webkit-details-marker { display: none; }
-.lb-acc summary::after { content: ""; position: absolute; left: 0; bottom: 0; width: 32px; height: 3px; border-radius: 3px; background: var(--lb-orange); }
-.lb-acc summary .lb-ico { display: none; }
-.lb-f-links a { display: inline-block; padding: 4px 0; }
-.lb-f-strip { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 22px 36px; padding: 20px 24px; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.16); border-radius: 18px; }
-.lb-f-block { min-width: 0; }
-.lb-f-sub { margin: 0 0 8px; font-size: 13px; font-weight: 700; color: #fff; }
-.lb-badge { display: inline-block; background: #fff; border-radius: 10px; padding: 6px 10px; }
-.lb-badge img { display: block; width: auto; max-width: 100%; max-height: 30px; height: auto; }
-.lb-f-note { margin: 6px 0 0; font-size: 12.5px; color: rgba(255,255,255,.8); }
-.lb-market { display: flex; flex-wrap: wrap; gap: 8px; }
-.lb-market a { display: flex; align-items: center; justify-content: center; width: 84px; height: 42px; padding: 6px; background: #fff; border-radius: 10px; }
-.lb-market a:hover { transform: translateY(-2px); box-shadow: 0 8px 18px rgba(0,0,0,.25); }
-.lb-market img { max-width: 100%; max-height: 100%; width: auto; height: auto; display: block; }
-.lb-social { display: flex; flex-wrap: wrap; gap: 8px; }
-.lb-social a { display: inline-flex; align-items: center; justify-content: center; width: 38px; height: 38px; border-radius: 50%; background: #fff; transition: transform .2s, box-shadow .2s; }
-.lb-social a:hover { transform: translateY(-3px); box-shadow: 0 8px 18px rgba(0,0,0,.3); }
-.lb-social img { width: 20px; height: 20px; display: block; }
-.lb-f-social { display: flex; gap: 22px 28px; flex-wrap: wrap; align-items: flex-end; }
-.lb-f-legal { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px 24px; padding: 22px 0 28px; margin-top: 8px; font-size: 13px; color: rgba(255,255,255,.8); }
-.lb-f-legal nav { display: flex; gap: 8px 22px; flex-wrap: wrap; }
+    .btn-enviar {
+        width: 100%;
+        background: var(--accent-red);
+        color: white;
+        padding: 14px;
+        border-radius: 50px;
+        border: none;
+        margin-top: 20px;
+        cursor: pointer;
+    }
 
-@media (max-width: 1099px) {
-  .lb-f-main { grid-template-columns: 1fr; gap: 32px; }
-}
-@media (max-width: 767px) {
-  .lb-footer { margin-top: 70px; padding-bottom: 86px; }
-  .lb-f-cta { margin-top: -44px; padding: 22px 20px; gap: 16px; }
-  .lb-f-cta h2 { font-size: 20px; }
-  .lb-f-cta-btns { width: 100%; }
-  .lb-f-cta-btns .lb-btn { flex: 1 1 100%; padding: 14px 20px; }
-  .lb-f-main { padding-top: 32px; gap: 24px; }
-  .lb-offices { grid-template-columns: 1fr; }
-  .lb-links { grid-template-columns: 1fr; gap: 0; }
-  .lb-acc { border-bottom: 1px solid rgba(255,255,255,.18); }
-  .lb-acc summary { margin: 0; padding: 16px 0; pointer-events: auto; cursor: pointer; }
-  .lb-acc summary::after { display: none; }
-  .lb-acc summary .lb-ico { display: block; transition: transform .2s; }
-  .lb-acc[open] summary .lb-ico { transform: rotate(180deg); }
-  .lb-f-links { padding-bottom: 12px; }
-  .lb-f-links a { padding: 9px 0; }
-  .lb-f-strip { flex-direction: column; align-items: flex-start; padding: 20px; }
-  .lb-f-social { flex-direction: column; align-items: flex-start; }
-  .lb-f-legal { flex-direction: column; text-align: center; }
-  .lb-f-legal nav { justify-content: center; }
-}
-@media (prefers-reduced-motion: reduce) {
-  .lb-footer * { transition: none !important; animation: none !important; }
-}
+    .btn-cerrar {
+        width: 100%;
+        background: none;
+        border: none;
+        margin-top: 10px;
+        cursor: pointer;
+    }
+</style>
+
+<!-- Íconos SVG necesarios para el footer -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <symbol id="lb-i-cal" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></symbol>
+  <symbol id="lb-i-phone" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></symbol>
+  <symbol id="lb-i-wa" viewBox="0 0 24 24"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></symbol>
+  <symbol id="lb-i-chd" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></symbol>
+  <symbol id="lb-i-arrow" viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></symbol>
+</svg>
+
+<footer class="lb-footer">
+  <div class="lb-container">
+
+    <div class="lb-f-cta">
+      <h2>Equipos para automatización, control y pruebas</h2>
+      <div class="lb-f-cta-btns">
+        <a class="lb-btn lb-btn--main" href="<?= RUTA ?>contacto">Cotiza ahora <svg class="lb-ico" aria-hidden="true"><use href="#lb-i-arrow"/></svg></a>
+        <a href="https://api.whatsapp.com/send?phone=525554316718&text=Hola%20Logicbus,%20me%20gustar%C3%ADa%20agendar%20una%20cita" target="_blank" rel="noopener" class="lb-btn">
+  <svg class="lb-ico" aria-hidden="true"><use href="#lb-i-cal"/></svg> Agendar cita
+</a>
+      </div>
+    </div>
+
+    <div class="lb-f-main">
+
+      <div class="lb-offices">
+        <article class="lb-office">
+          <div class="lb-office-head"><span class="lb-flag"><img loading="lazy" src="https://www.logicbus.com.mx/images/icono-mx.webp" alt="MX"></span><h3>Oficina en México</h3></div>
+          <address>Logicbus S.A. De C.V. ©<br>Av. Miguel Hidalgo y Costilla 1443. Piso 6<br>Col. Americana (Torre Iclar)<br>C.P. 44160, Guadalajara Jal. México</address>
+          <a class="lb-crow" href="tel:+523338545975"><svg class="lb-ico" aria-hidden="true"><use href="#lb-i-phone"/></svg><span><small>Tel / Fax</small>+52 33 3854 5975</span></a>
+          <a class="lb-crow" href="tel:+523338234349"><svg class="lb-ico" aria-hidden="true"><use href="#lb-i-phone"/></svg><span><small>Tel</small>+52 (33)-3823-4349</span></a>
+          <a class="lb-crow" href="https://api.whatsapp.com/send?phone=525554316718&amp;text=Hola%20Logicbus,me%20gustar%C3%ADa%20solicitar%20informaci%C3%B3n" target="_blank" rel="noopener"><svg class="lb-ico" aria-hidden="true"><use href="#lb-i-wa"/></svg><span><small>WhatsApp Ventas</small>+52 55 5431 6718</span></a>
+          <a class="lb-crow" href="https://api.whatsapp.com/send?phone=523334438556&amp;text=Hola%20Logicbus,me%20gustar%C3%ADa%20solicitar%20informaci%C3%B3n" target="_blank" rel="noopener"><svg class="lb-ico" aria-hidden="true"><use href="#lb-i-wa"/></svg><span><small>WhatsApp Ventas</small>+52 33 3443 8556</span></a>
+        </article>
+        <article class="lb-office">
+          <div class="lb-office-head"><span class="lb-flag"><img loading="lazy" src="https://www.logicbus.com.mx/images/icono-usa.webp" alt="USA"></span><h3>Oficina en USA</h3></div>
+          <address>Logicbus INC ©<br>863 Bowsprit Road, Chula Vista,<br>CA 91914 Logicbus Inc.</address>
+          <a class="lb-crow" href="tel:+16196167350"><svg class="lb-ico" aria-hidden="true"><use href="#lb-i-phone"/></svg><span><small>Tel</small>+1 (619)-616-7350</span></a>
+          <a class="lb-crow" href="https://api.whatsapp.com/send?phone=16196001015&amp;text=Hello%20Logicbus,%20I%20would%20like%20to%20request%20information" target="_blank" rel="noopener"><svg class="lb-ico" aria-hidden="true"><use href="#lb-i-wa"/></svg><span><small>WhatsApp</small>+1 619 600 1015</span></a>
+        </article>
+      </div>
+
+      <div class="lb-links">
+        <details class="lb-acc" open>
+          <summary>Navegación<svg class="lb-ico" aria-hidden="true"><use href="#lb-i-chd"/></svg></summary>
+          <ul class="lb-f-links">
+            <li><a href="<?= RUTA ?>">Inicio</a></li>
+            <li><a href="<?= RUTA ?>productos">Productos</a></li>
+            <li><a href="<?= RUTA ?>empresa">Empresa</a></li>
+            <li><a href="<?= RUTA ?>servicios">Servicios</a></li>
+            <li><a href="<?= RUTA ?>eventos">Eventos</a></li>
+            <li><a href="<?= RUTA ?>contacto">Contacto</a></li>
+            <li><a href="https://www.logicbus.com.mx/blog/">Blog</a></li>
+          </ul>
+        </details>
+        <details class="lb-acc" open>
+          <summary>Enlaces<svg class="lb-ico" aria-hidden="true"><use href="#lb-i-chd"/></svg></summary>
+          <ul class="lb-f-links">
+            <li><a href="https://tienda.logicbus.com.mx/" target="_blank" rel="noopener">Tienda en México</a></li>
+            <li><a href="https://www.logicbus.com/" target="_blank" rel="noopener">Tienda en USA</a></li>
+            <li><a href="<?= RUTA ?>soporte#faqs">¿Cómo Comprar?</a></li>
+            <li><a href="<?= RUTA ?>bolsa-de-trabajo/">Bolsa de Trabajo</a></li>
+            <li><a href="<?= RUTA ?>distribuidores-integradores">Integradores</a></li>
+            <li><a href="<?= RUTA ?>marcas-logicbus">Marcas</a></li>
+            <li><a href="<?= RUTA ?>clientes-logicbus">Clientes</a></li>
+          </ul>
+        </details>
+        <details class="lb-acc" open>
+          <summary>Información<svg class="lb-ico" aria-hidden="true"><use href="#lb-i-chd"/></svg></summary>
+          <ul class="lb-f-links">
+            <li><a href="https://www.logicbus.com.mx/pdf/catalogos/LINE-CARD-WEB.pdf" target="_blank" rel="noopener">Line Card</a></li>
+            <li><a href="<?= RUTA ?>Glosario">Glosario</a></li>
+            <li><a href="<?= RUTA ?>documentos">Documentación</a></li>
+            <li><a href="<?= RUTA ?>boletines">Boletín</a></li>
+            <li><a href="<?= RUTA ?>videos">Videos</a></li>
+            <li><a href="<?= RUTA ?>seccion-informativa">Sección Informativa</a></li>
+            <li><a href="<?= RUTA ?>soporte">Soporte</a></li>
+            <li><a href="<?= RUTA ?>soporte#faqs">Preguntas Frecuentes</a></li>
+            <li><a href="<?= RUTA ?>catalogos">Catálogos</a></li>
+          </ul>
+        </details>
+      </div>
+
+    </div>
+
+    <div class="lb-f-strip">
+      <div class="lb-f-block">
+        <p class="lb-f-sub">Métodos de pago</p>
+        <span class="lb-badge"><img loading="lazy" src="<?= RUTA ?>assets/pay-methods-color.webp" alt="Métodos de pago"></span>
+        <p class="lb-f-note">Transferencias electrónicas</p>
+      </div>
+      <div class="lb-f-block">
+        <p class="lb-f-sub">Métodos de envío</p>
+        <span class="lb-badge"><img loading="lazy" src="<?= RUTA ?>assets/shipping-methods.webp" alt="Métodos de envío"></span>
+        <p class="lb-f-note">Envíos a todo el mundo</p>
+      </div>
+      <div class="lb-f-block">
+        <p class="lb-f-sub">Marketplaces</p>
+        <div class="lb-market">
+          <a href="https://listado.mercadolibre.com.mx/logicbus#D[A:logicbus]" title="Mercado Libre" target="_blank" rel="noopener"><img loading="lazy" src="<?= RUTA ?>assets/mercado-libre.webp" alt="Mercado Libre"></a>
+          <a href="https://www.amazon.com/sp?marketplaceID=ATVPDKIKX0DER&amp;seller=AMYXT1XUON8CJ&amp;ref_=dp_merchant_link&amp;asin=B01610IAHC" title="Amazon" target="_blank" rel="noopener"><img loading="lazy" src="<?= RUTA ?>assets/amazon.webp" alt="Amazon"></a>
+          <a href="https://www.ebay.com/usr/logicbus_inc" title="eBay" target="_blank" rel="noopener"><img loading="lazy" src="<?= RUTA ?>assets/ebay.webp" alt="eBay"></a>
+        </div>
+      </div>
+      <div class="lb-f-block lb-f-social">
+        <div>
+          <p class="lb-f-sub">Redes en español</p>
+          <div class="lb-social">
+            <a href="https://www.facebook.com/logicbus/" title="Síguenos en Facebook" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/facebook.svg" alt="Facebook"></a>
+            <a href="https://www.instagram.com/logicbus_sa/" title="Síguenos en Instagram" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/instagram.svg" alt="Instagram"></a>
+            <a href="https://www.youtube.com/channel/UCGYjB-qzlDGvtd9BCrGTOJQ?sub_confirmation=1" title="Suscríbete a nuestro canal" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/youtube.svg" alt="YouTube"></a>
+            <a href="https://www.tiktok.com/@logicbus" title="Síguenos en TikTok" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/tiktok.svg" alt="TikTok"></a>
+            <a href="https://www.pinterest.com.mx/logicbusMX/" title="Síguenos en Pinterest" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/pinterest.svg" alt="Pinterest"></a>
+            <a href="javascript:void(0);" onclick="abrir()" title="WhatsApp"><img src="https://www.logicbus.com.mx/assets/whatsapp.svg" alt="WhatsApp"></a>
+            <a href="https://www.linkedin.com/company/logicbus" title="Síguenos en LinkedIn" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/linkedin.svg" alt="LinkedIn"></a>
+            <a href="https://twitter.com/Logicbus" title="Síguenos en X" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/twitter.svg" alt="X"></a>
+            <a href="https://www.logicbus.com.mx/blog/" title="Visita nuestro blog" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/blog.svg" alt="Blog"></a>
+          </div>
+        </div>
+        <div>
+          <p class="lb-f-sub">Redes en inglés</p>
+          <div class="lb-social">
+            <a href="https://www.facebook.com/LogicbusINC" title="Follow us on Facebook" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/facebook.svg" alt="Facebook"></a>
+            <a href="https://www.instagram.com/logicbus_inc/" title="Follow us on Instagram" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/instagram.svg" alt="Instagram"></a>
+            <a href="https://www.youtube.com/@logicbusinc2138" title="Subscribe to our channel on YouTube" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/youtube.svg" alt="YouTube"></a>
+            <a href="https://www.linkedin.com/company/logicbus-inc/" title="Follow us on LinkedIn" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/linkedin.svg" alt="LinkedIn"></a>
+            <a href="https://blog.logicbus.com/" title="Visit our blog" target="_blank" rel="noopener"><img src="https://www.logicbus.com.mx/assets/blog.svg" alt="Blog"></a>
+          </div>
+        </div>
+        <a href="https://tienda.logicbus.mx/en/inscribete-a-nuestros-boletines-1" class="lb-btn lb-btn--main">Inscríbete a nuestro boletín</a>
+      </div>
+    </div>
+
+    <div class="lb-f-legal">
+      <nav aria-label="Legal">
+        <a href="<?= RUTA ?>aviso-privacidad">Aviso de Privacidad</a>
+        <a href="<?= RUTA ?>Terminos-y-Condiciones-ep-2-1">Términos y Condiciones</a>
+      </nav>
+      <span>Derechos de Autor <script>document.write(new Date().getFullYear())</script> Logicbus. Todos los Derechos Reservados.</span>
+    </div>
+
+  </div>
+</footer>
+
+<!-- ========================================================================= -->
+<!-- MODAL DE COTIZACIÓN                                                       -->
+<!-- ========================================================================= -->
+<div class="overlay" id="overlay" onclick="cerrar()"></div>
+
+<div class="modal" id="modal">
+    <div class="modal-header">
+        <div class="user-avatar"></div>
+    </div>
+
+    <div class="modal-content">
+        <h2>Nueva Cotización</h2>
+
+        <div class="grid-inputs">
+            <input id="nombre" placeholder="Nombre completo">
+            <input id="empresa" placeholder="Empresa">
+            <input id="telefono" placeholder="Teléfono" maxlength="10" oninput="soloNumeros(this)">
+
+            <input id="puesto" class="full-width" placeholder="¿Cuál es tu rol?">
+
+            <select id="tipo" class="full-width">
+                <option value="">Tipo de cliente</option>
+                <option>Primera compra</option>
+                <option>Cliente recurrente</option>
+            </select>
+
+            <input id="necesidad" class="full-width" placeholder="¿Qué solución buscas?">
+
+            <div class="dropdown full-width">
+                <input id="marca" placeholder="Marca..." onkeyup="filtrarMarca()">
+                <div class="dropdown-list" id="listaMarcas"></div>
+            </div>
+
+            <input id="parte" class="full-width" placeholder="Número de parte" style="display:none;">
+
+            <div class="dropdown full-width">
+                <input id="categoria" placeholder="Categoría..." onkeyup="filtrarCategoria()">
+                <div class="dropdown-list" id="listaCategorias"></div>
+            </div>
+
+            <input id="aplicacion" class="full-width" placeholder="Aplicación">
+
+            <select id="industria">
+                <option value="">Industria</option>
+                <option>Manufactura general</option>
+                <option>Automotriz</option>
+                <option>Alimentos y bebidas</option>
+                <option>Energía</option>
+                <option>Logística y almacenes</option>
+                <option>Farmacéutica</option>
+                <option>Hospitalaria / sector salud</option>
+                <option>Integrador / ingeniería</option>
+                <option>Otra</option>
+            </select>
+
+            <input id="ubicacion" placeholder="Ubicación">
+
+            <select id="urgencia" class="full-width">
+                <option value="">Plazo</option>
+                <option>Inmediato</option>
+                <option>1-3 meses</option>
+                <option>3 - 6 meses</option>
+                <option>6 meses - 1 año</option>
+                <option>Más de 1 año</option>
+            </select>
+
+            <select id="presupuesto">
+                <option value="">Nivel</option>
+                <option>Componente específico (ej: sensor, PLC, HMI)</option>
+                <option>Solución con varios equipos</option>
+                <option>Automatización de proceso</option>
+                <option>Proyecto integral / llave en mano</option>
+            </select>
+
+            <select id="asesoria">
+                <option value="">¿Requieres asesoría técnica?</option>
+                <option>Sí, necesito orientación</option>
+                <option>No, ya tengo definido lo que necesito</option>
+            </select>
+
+            <select id="fuente">
+                <option value="">¿Cómo nos encontraste?</option>
+                <option>Video (YouTube, TikTok, etc.)</option>
+                <option>Publicación en redes</option>
+                <option>Búsqueda en Google</option>
+                <option>Recomendación</option>
+                <option>Cliente actual</option>
+                <option>Otro</option>
+            </select>
+        </div>
+
+        <button class="btn-enviar" onclick="enviar()">Enviar</button>
+        <button class="btn-cerrar" onclick="cerrar()">Cancelar</button>
+    </div>
+</div>
+
+<!-- ========================================================================= -->
+<!-- TAWK.TO, BOTÓN DE WHATSAPP Y SCRIPTS                                      -->
+<!-- ========================================================================= -->
+
+<!-- btn Whatsapp -->
+<a href="https://api.whatsapp.com/send?phone=525554316718&text=Hola%20Logicbus,%20me%20gustar%C3%ADa%20solicitar%20informaci%C3%B3n"
+    class="btn-wsp" target="_blank">
+    <i class="fa fa-whatsapp icono"></i>
+</a>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function () {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = "https://embed.tawk.to/5ca674ff1de11b6e3b06f73d/default";
+        s1.charset = "UTF-8";
+        s1.setAttribute("crossorigin", "*");
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+</script>
+
+<script>
+    // JS DEL NUEVO FOOTER (Acordeón responsivo en móvil)
+    (function () {
+      var wide = window.matchMedia('(min-width: 768px)');
+      var accs = [].slice.call(document.querySelectorAll('.lb-footer .lb-acc'));
+      function footerAcc() { accs.forEach(function (a) { a.open = wide.matches; }); }
+      footerAcc();
+      if (wide.addEventListener) wide.addEventListener('change', footerAcc); else wide.addListener(footerAcc);
+    })();
+
+    // JS DE TU MODAL DE COTIZACIÓN
+    const categorias = [
+        "Automatización y control de procesos",
+        "Adquisición de datos (DAQ)",
+        "Consumo y análisis de energía",
+        "PCs y comunicaciones industriales",
+        "Prueba y medición",
+        "Sensores y transductores",
+        "Robótica industrial",
+        "Robots colaborativos (Cobots)",
+        "AMR (Robots móviles autónomos)",
+        "Visión artificial",
+        "IIoT / Industria 4.0",
+        "Instrumentación industrial",
+        "Software y herramientas de desarrollo",
+        "Biotecnología / Hospitales",
+        "OEE y productividad"
+    ];
+    const marcas = [
+        "3Onedata", "Aicsys", "Applied Motion", "Arbor", "Arestech", "Auk Industries", "Autoxing",
+        "Blyott", "Brainchild", "Brooks", "Calex", "Chainway", "Cimon", "Cincoze", "Controllino",
+        "Darveen", "Daviteq", "Davo Lin", "Digilent", "Dorna Robotics", "Emdoor", "Fatek", "Futek",
+        "Graphtec", "ICP DAS", "Industrial Shields", "IP Displays", "Kokobots", "Loggerflex",
+        "Logicbus Teclados", "Logicbus Graficadores", "Madgetech", "Measurement Computing",
+        "Multiway", "National Control Devices", "Neovero", "Photocraft", "Pico Technology",
+        "Qualcomm", "RFID Inc", "RTA", "Sealevel", "Seneca", "Siasun", "Siglent", "Taicenn",
+        "Teracom", "Tri-Tronics", "Vitrek", "Waycon", "Youibot"
+    ];
+    const relacionMarca = {
+        "3onedata": "PCs y comunicaciones industriales",
+        "aicsys": "PCs y comunicaciones industriales",
+        "applied motion": "Automatización y control de procesos",
+        "arbor": "PCs y comunicaciones industriales",
+        "arestech": "PCs y comunicaciones industriales",
+        "auk industries": "OEE y productividad",
+        "autoxing": "AMR (Robots móviles autónomos)",
+        "blyott": "Biotecnología / Hospitales",
+        "brainchild": "Adquisición de datos (DAQ)",
+        "brooks": "Robots colaborativos (Cobots)",
+        "calex": "Sensores y transductores",
+        "chainway": "PCs y comunicaciones industriales",
+        "cimon": "Automatización y control de procesos",
+        "cincoze": "PCs y comunicaciones industriales",
+        "controllino": "Automatización y control de procesos",
+        "darveen": "PCs y comunicaciones industriales",
+        "daviteq": "IIoT / Industria 4.0",
+        "davo lin": "PCs y comunicaciones industriales",
+        "digilent": "Prueba y medición",
+        "dorna robotics": "Robótica industrial",
+        "emdoor": "PCs y comunicaciones industriales",
+        "fatek": "Automatización y control de procesos",
+        "futek": "Sensores y transductores",
+        "graphtec": "Adquisición de datos (DAQ)",
+        "icp das": "Adquisición de datos (DAQ)",
+        "industrial shields": "Automatización y control de procesos",
+        "ip displays": "Automatización y control de procesos",
+        "kokobots": "AMR (Robots móviles autónomos)",
+        "loggerflex": "IIoT / Industria 4.0",
+        "logicbus teclados": "PCs y comunicaciones industriales",
+        "logicbus graficadores": "Adquisición de datos (DAQ)",
+        "madgetech": "Adquisición de datos (DAQ)",
+        "measurement computing": "Adquisición de datos (DAQ)",
+        "multiway": "AMR (Robots móviles autónomos)",
+        "national control devices": "IIoT / Industria 4.0",
+        "neovero": "Software y herramientas de desarrollo",
+        "photocraft": "Sensores y transductores",
+        "pico technology": "Prueba y medición",
+        "qualcomm": "IIoT / Industria 4.0",
+        "rfid inc": "IIoT / Industria 4.0",
+        "rta": "PCs y comunicaciones industriales",
+        "sealevel": "Adquisición de datos (DAQ)",
+        "seneca": "Instrumentación industrial",
+        "siasun": "Robótica industrial",
+        "siglent": "Prueba y medición",
+        "taicenn": "PCs y comunicaciones industriales",
+        "teracom": "IIoT / Industria 4.0",
+        "tri-tronics": "Sensores y transductores",
+        "vitrek": "Prueba y medición",
+        "waycon": "Sensores y transductores",
+        "youibot": "AMR (Robots móviles autónomos)"
+    };
+
+    function abrir() {
+        document.getElementById("modal").style.display = "block";
+        document.getElementById("overlay").style.display = "block";
+    }
+
+    function cerrar() {
+        document.getElementById("modal").style.display = "none";
+        document.getElementById("overlay").style.display = "none";
+    }
+
+    function soloNumeros(input) {
+        input.value = input.value.replace(/\D/g, ''); // elimina todo lo que no sea número
+    }
+
+    function filtrarMarca() {
+        let inputMarca = document.getElementById("marca");
+        let lista = document.getElementById("listaMarcas");
+        let inputCategoria = document.getElementById("categoria");
+        let inputParte = document.getElementById("parte");
+
+        let v = inputMarca.value.toLowerCase();
+
+        lista.innerHTML = "";
+        lista.style.display = v ? "block" : "none";
+
+        marcas
+            .filter(m => m.toLowerCase().includes(v))
+            .forEach(item => {
+                let d = document.createElement("div");
+                d.textContent = item;
+
+                d.onclick = () => {
+                    inputMarca.value = item;
+                    lista.style.display = "none";
+
+                    inputParte.style.display = "block";
+
+                    let cat = relacionMarca[item.toLowerCase()];
+                    if (cat) {
+                        inputCategoria.value = cat;
+                    }
+                };
+
+                lista.appendChild(d);
+            });
+    }
+    function filtrarCategoria() {
+        let inputCategoria = document.getElementById("categoria");
+        let lista = document.getElementById("listaCategorias");
+
+        let v = inputCategoria.value.toLowerCase();
+
+        lista.innerHTML = "";
+        lista.style.display = v ? "block" : "none";
+
+        categorias
+            .filter(c => c.toLowerCase().includes(v))
+            .forEach(item => {
+                let d = document.createElement("div");
+                d.textContent = item;
+
+                d.onclick = () => {
+                    inputCategoria.value = item;
+                    lista.style.display = "none";
+                };
+
+                lista.appendChild(d);
+            });
+    }
+
+    function enviar() {
+
+        // ===== OBTENER ELEMENTOS =====
+        let nombre = document.getElementById("nombre");
+        let empresa = document.getElementById("empresa");
+        let telefono = document.getElementById("telefono");
+        let puesto = document.getElementById("puesto");
+        let necesidad = document.getElementById("necesidad");
+        let aplicacion = document.getElementById("aplicacion");
+        let industria = document.getElementById("industria");
+        let ubicacion = document.getElementById("ubicacion");
+        let marca = document.getElementById("marca");
+        let parte = document.getElementById("parte");
+        let categoria = document.getElementById("categoria");
+        let tipo = document.getElementById("tipo");
+        let urgencia = document.getElementById("urgencia"); // plazo
+        let presupuesto = document.getElementById("presupuesto"); // nivel solución
+        let asesoria = document.getElementById("asesoria");
+        let fuente = document.getElementById("fuente");
+
+        // ===== VALIDACIÓN =====
+        let campos = [{
+            el: nombre,
+            nombre: "Nombre"
+        },
+        {
+            el: empresa,
+            nombre: "Empresa"
+        },
+        {
+            el: telefono,
+            nombre: "Teléfono"
+        },
+        {
+            el: categoria,
+            nombre: "Categoría"
+        }
+        ];
+
+        for (let campo of campos) {
+            if (!campo.el.value.trim()) {
+                alert("Por favor completa el campo: " + campo.nombre);
+                campo.el.focus();
+                return;
+            }
+        }
+
+        // validar teléfono
+        if (telefono.value.length < 10) {
+            alert("El teléfono debe tener 10 dígitos");
+            telefono.focus();
+            return;
+        }
+
+        // ===== FUNCIÓN PARA OMITIR VACÍOS =====
+        function campo(label, valor) {
+            return valor ? `${label}: ${valor}\n` : "";
+        }
+
+        // ===== MENSAJE =====
+
+        let m = `Hola, quiero una cotización:
+ DATOS DE CONTACTO:
+${campo("Nombre", nombre.value)}
+${campo("Empresa", empresa.value)}
+${campo("Teléfono", telefono.value)}
+${campo("Puesto", puesto.value)}
+
+ INFORMACIÓN DEL PROYECTO:
+${campo("Solución buscada", necesidad.value)}
+${campo("Aplicación", aplicacion.value)}
+${campo("Industria", industria.value)}
+${campo("Ubicación del proyecto", ubicacion.value)}
+
+ ESPECIFICACIONES TÉCNICAS:
+${campo("Marca", marca.value)}
+${campo("Número de parte", parte.value)}
+${campo("Categoría", categoria.value)}
+
+ DETALLES COMERCIALES:
+${campo("Tipo de cliente", tipo.value)}
+${campo("Plazo de implementación", urgencia.value)}
+${campo("Nivel de solución", presupuesto.value)}
+${campo("Requiere asesoría técnica", asesoria.value || "Por definir")}
+
+ ORIGEN DEL CONTACTO:
+${campo("Cómo nos encontraste", fuente.value)}`;
+
+        let url = "https://wa.me/525554316718?text=" + encodeURIComponent(m);
+        window.open(url);
+    }
+
+    document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape") {
+            cerrar();
+        }
+    });
+</script>

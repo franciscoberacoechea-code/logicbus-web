@@ -1,0 +1,44 @@
+:root {
+    --Primary-light:   #f5f5f5;
+    --Primary: #919396 ;
+    --Primary-dark: #9b9da0;
+    --ComplementaryA: #e8541e; 
+    --ComplementaryA-dark:#cb4615; 
+    --ComplementaryA-light:#e56638;
+    --ComplementaryB-dark: #142D3D;
+    --ComplementaryB: #21577B;
+    --complementaryB-light:#58819C;
+
+
+    --degradadoA: #22527A;
+    --degradadoB: #30597B;
+    --degradadoC: #487396;
+    --degradadoD: #608EB4;
+    --degradadoE: #B2D8F6;
+    
+    --icon-color:var(--ComplementaryA);
+    
+    --text:#717579;
+    --text-soft:var(--Primary);
+    --text-inverse:var(--Primary-light);
+    --text-bold:black;
+    --text-link:var(--ComplementaryB);
+    --marcked-text:var(--ComplementaryA);
+
+    --interactive:var(--ComplementaryB-dark);
+
+  }
+
+
+  h1 {
+    color:var(--Primary-light);
+   
+  }
+  h2 ,h3{
+    color:var(--marcked-text) ;
+    font-weight:600;
+  }
+  h4{
+    color:var(--ComplementaryA-dark);
+    font-weight: 600;
+  }

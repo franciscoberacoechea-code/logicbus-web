@@ -1,0 +1,410 @@
+@import url('colors.css');
+.table{
+	border-collapse:collapse!important
+}
+
+table{
+	border-collapse:collapse
+}
+.collapse{
+	display:none
+}
+.collapse.show{
+	display:block
+}
+tr.collapse.show{
+	display:table-row
+}
+tbody.collapse.show{
+	display:table-row-group
+}
+
+
+.libNavbar{
+    display:none
+}
+.libNavbar{
+	position:relative;
+	display:-ms-flexbox;
+	display:flex;
+	-ms-flex-wrap:wrap;
+	flex-wrap:wrap;
+	-ms-flex-align:center;
+	align-items:center;
+	-ms-flex-pack:justify;
+	justify-content:space-between;
+	padding:.5rem 1rem
+}
+.libNavbar>.container,.libNavbar>.container-fluid{
+	display:-ms-flexbox;
+	display:flex;
+	-ms-flex-wrap:wrap;
+	flex-wrap:wrap;
+	-ms-flex-align:center;
+	align-items:center;
+	-ms-flex-pack:justify;
+	justify-content:space-between
+}
+.libNavbar-brand{
+	display:inline-block;
+	padding-top:.3125rem;
+	padding-bottom:.3125rem;
+	margin-right:1rem;
+	font-size:1.25rem;
+	line-height:inherit;
+	white-space:nowrap
+}
+.libNavbar-brand:focus,.libNavbar-brand:hover{
+	text-decoration:none
+}
+.libNavbar-nav{
+	display:-ms-flexbox;
+	display:flex;
+	-ms-flex-direction:column;
+	flex-direction:column;
+	padding-left:0;
+	margin-bottom:0;
+	list-style:none
+}
+.libNavbar-nav .nav-link{
+	padding-right:0;
+	padding-left:0
+}
+.libNavbar-nav .dropdown-menu{
+	position:static;
+	float:none
+}
+.libNavbar-text{
+	display:inline-block;
+	padding-top:.5rem;
+	padding-bottom:.5rem
+}
+.libNavbar-collapse{
+	-ms-flex-preferred-size:100%;
+	flex-basis:100%;
+	-ms-flex-positive:1;
+	flex-grow:1;
+	-ms-flex-align:center;
+	align-items:center
+}
+.libNavbar-toggler{
+	padding:.25rem .75rem;
+	font-size:1.25rem;
+	line-height:1;
+	background:0 0;
+	border:0px solid transparent;
+	border-radius:.25rem
+}
+.libNavbar-toggler:focus,.libNavbar-toggler:hover{
+	text-decoration:none
+}
+.libNavbar-toggler-icon{
+	display:inline-block;
+	width:1.5em;
+	height:1.5em;
+	vertical-align:middle;
+	content:"";
+	background:no-repeat center center;
+	background-size:100% 100%
+}
+@media (max-width:575px){
+	.libNavbar-expand-sm>.container,.libNavbar-expand-sm>.container-fluid{
+		padding-right:0;
+		padding-left:0
+}
+}
+@media (min-width:576px){
+	.libNavbar-expand-sm{
+		-ms-flex-flow:row nowrap;
+		flex-flow:row nowrap;
+		-ms-flex-pack:start;
+		justify-content:flex-start
+}
+	.libNavbar-expand-sm .libNavbar-nav{
+		-ms-flex-direction:row;
+		flex-direction:row
+}
+	.libNavbar-expand-sm .libNavbar-nav .dropdown-menu{
+		position:absolute
+}
+	.libNavbar-expand-sm .libNavbar-nav .dropdown-menu-right{
+		right:0;
+		left:auto
+}
+	.libNavbar-expand-sm .libNavbar-nav .nav-link{
+		padding-right:.5rem;
+		padding-left:.5rem
+}
+	.libNavbar-expand-sm>.container,.libNavbar-expand-sm>.container-fluid{
+		-ms-flex-wrap:nowrap;
+		flex-wrap:nowrap
+}
+	.libNavbar-expand-sm .libNavbar-collapse{
+		display:-ms-flexbox!important;
+		display:flex!important;
+		-ms-flex-preferred-size:auto;
+		flex-basis:auto
+}
+	.libNavbar-expand-sm .libNavbar-toggler{
+		display:none
+}
+	.libNavbar-expand-sm .dropup .dropdown-menu{
+		top:auto;
+		bottom:100%
+}
+}
+@media (max-width:767px){
+	.libNavbar-expand-md>.container,.libNavbar-expand-md>.container-fluid{
+		padding-right:0;
+		padding-left:0
+}
+}
+@media (min-width:768px){
+	.libNavbar-expand-md{
+		-ms-flex-flow:row nowrap;
+		flex-flow:row nowrap;
+		-ms-flex-pack:start;
+		justify-content:flex-start
+}
+	.libNavbar-expand-md .libNavbar-nav{
+		-ms-flex-direction:row;
+		flex-direction:row
+}
+	.libNavbar-expand-md .libNavbar-nav .dropdown-menu{
+		position:absolute
+}
+	.libNavbar-expand-md .libNavbar-nav .dropdown-menu-right{
+		right:0;
+		left:auto
+}
+	.libNavbar-expand-md .libNavbar-nav .nav-link{
+		padding-right:.5rem;
+		padding-left:.5rem
+}
+	.libNavbar-expand-md>.container,.libNavbar-expand-md>.container-fluid{
+		-ms-flex-wrap:nowrap;
+		flex-wrap:nowrap
+}
+	.libNavbar-expand-md .libNavbar-collapse{
+		display:-ms-flexbox!important;
+		display:flex!important;
+		-ms-flex-preferred-size:auto;
+		flex-basis:auto
+}
+	.libNavbar-expand-md .libNavbar-toggler{
+		display:none
+}
+	.libNavbar-expand-md .dropup .dropdown-menu{
+		top:auto;
+		bottom:100%
+}
+}
+@media (max-width:991px){
+	.libNavbar-expand-lg>.container,.libNavbar-expand-lg>.container-fluid{
+		padding-right:0;
+		padding-left:0
+}
+}
+@media (min-width:992px){
+	.libNavbar-expand-lg{
+		-ms-flex-flow:row nowrap;
+		flex-flow:row nowrap;
+		-ms-flex-pack:start;
+		justify-content:flex-start
+}
+	.libNavbar-expand-lg .libNavbar-nav{
+		-ms-flex-direction:row;
+		flex-direction:row
+}
+	.libNavbar-expand-lg .libNavbar-nav .dropdown-menu{
+		position:absolute
+}
+	.libNavbar-expand-lg .libNavbar-nav .dropdown-menu-right{
+		right:0;
+		left:auto
+}
+	.libNavbar-expand-lg .libNavbar-nav .nav-link{
+		padding-right:.5rem;
+		padding-left:.5rem
+}
+	.libNavbar-expand-lg>.container,.libNavbar-expand-lg>.container-fluid{
+		-ms-flex-wrap:nowrap;
+		flex-wrap:nowrap
+}
+	.libNavbar-expand-lg .libNavbar-collapse{
+		display:-ms-flexbox!important;
+		display:flex!important;
+		-ms-flex-preferred-size:auto;
+		flex-basis:auto
+}
+	.libNavbar-expand-lg .libNavbar-toggler{
+		display:none
+}
+	.libNavbar-expand-lg .dropup .dropdown-menu{
+		top:auto;
+		bottom:100%
+}
+}
+@media (max-width:1199px){
+	.libNavbar-expand-xl>.container,.libNavbar-expand-xl>.container-fluid{
+		padding-right:0;
+		padding-left:0
+}
+}
+@media (min-width:1200px){
+	.libNavbar-expand-xl{
+		-ms-flex-flow:row nowrap;
+		flex-flow:row nowrap;
+		-ms-flex-pack:start;
+		justify-content:flex-start
+}
+	.libNavbar-expand-xl .libNavbar-nav{
+		-ms-flex-direction:row;
+		flex-direction:row
+}
+	.libNavbar-expand-xl .libNavbar-nav .dropdown-menu{
+		position:absolute
+}
+	.libNavbar-expand-xl .libNavbar-nav .dropdown-menu-right{
+		right:0;
+		left:auto
+}
+	.libNavbar-expand-xl .libNavbar-nav .nav-link{
+		padding-right:.5rem;
+		padding-left:.5rem
+}
+	.libNavbar-expand-xl>.container,.libNavbar-expand-xl>.container-fluid{
+		-ms-flex-wrap:nowrap;
+		flex-wrap:nowrap
+}
+	.libNavbar-expand-xl .libNavbar-collapse{
+		display:-ms-flexbox!important;
+		display:flex!important;
+		-ms-flex-preferred-size:auto;
+		flex-basis:auto
+}
+	.libNavbar-expand-xl .libNavbar-toggler{
+		display:none
+}
+	.libNavbar-expand-xl .dropup .dropdown-menu{
+		top:auto;
+		bottom:100%
+}
+}
+.libNavbar-expand{
+	-ms-flex-flow:row nowrap;
+	flex-flow:row nowrap;
+	-ms-flex-pack:start;
+	justify-content:flex-start
+}
+.libNavbar-expand>.container,.libNavbar-expand>.container-fluid{
+	padding-right:0;
+	padding-left:0
+}
+.libNavbar-expand .libNavbar-nav{
+	-ms-flex-direction:row;
+	flex-direction:row
+}
+.libNavbar-expand .libNavbar-nav .dropdown-menu{
+	position:absolute
+}
+.libNavbar-expand .libNavbar-nav .dropdown-menu-right{
+	right:0;
+	left:auto
+}
+.libNavbar-expand .libNavbar-nav .nav-link{
+	padding-right:.5rem;
+	padding-left:.5rem
+}
+.libNavbar-expand>.container,.libNavbar-expand>.container-fluid{
+	-ms-flex-wrap:nowrap;
+	flex-wrap:nowrap
+}
+.libNavbar-expand .libNavbar-collapse{
+	display:-ms-flexbox!important;
+	display:flex!important;
+	-ms-flex-preferred-size:auto;
+	flex-basis:auto
+}
+.libNavbar-expand .libNavbar-toggler{
+	display:none
+}
+.libNavbar-expand .dropup .dropdown-menu{
+	top:auto;
+	bottom:100%
+}
+.libNavbar-light .libNavbar-brand{
+	color:rgba(0,0,0,.9)
+}
+.libNavbar-light .libNavbar-brand:focus,.libNavbar-light .libNavbar-brand:hover{
+	color:rgba(0,0,0,.9)
+}
+.libNavbar-light .libNavbar-nav .nav-link{
+	color:rgba(0,0,0,.5)
+}
+.libNavbar-light .libNavbar-nav .nav-link:focus,.libNavbar-light .libNavbar-nav .nav-link:hover{
+	color:rgba(0,0,0,.7)
+}
+.libNavbar-light .libNavbar-nav .nav-link.disabled{
+	color:rgba(0,0,0,.3)
+}
+.libNavbar-light .libNavbar-nav .active>.nav-link,.libNavbar-light .libNavbar-nav .nav-link.active,.libNavbar-light .libNavbar-nav .nav-link.show,.libNavbar-light .libNavbar-nav .show>.nav-link{
+	color:rgba(0,0,0,.9)
+}
+.libNavbar-light .libNavbar-toggler{
+	color:rgba(0,0,0,.5);
+	border-color:rgba(0,0,0,.1)
+}
+
+.libNavbar-light .libNavbar-text{
+	color:rgba(0,0,0,.5)
+}
+.libNavbar-light .libNavbar-text a{
+	color:rgba(0,0,0,.9)
+}
+.libNavbar-light .libNavbar-text a:focus,.libNavbar-light .libNavbar-text a:hover{
+	color:rgba(0,0,0,.9)
+}
+.libNavbar-dark .libNavbar-brand{
+	color:#000
+}
+.libNavbar-dark .libNavbar-brand:focus,.libNavbar-dark .libNavbar-brand:hover{
+	color:#000
+}
+/*gobal line color*/
+.libNavbar-dark .libNavbar-nav .nav-link{
+	color:var(--Primary-light);
+}
+.libNavbar-dark .libNavbar-nav .nav-link:focus,.libNavbar-dark .libNavbar-nav .nav-link:hover{
+	color:var(--ComplementaryA);
+}
+.libNavbar-dark .libNavbar-nav .nav-link.disabled{
+	color:var(--text-soft);
+}
+.libNavbar-dark .libNavbar-nav .active>.nav-link,.libNavbar-dark .libNavbar-nav .nav-link.active,.libNavbar-dark .libNavbar-nav .nav-link.show,.libNavbar-dark .libNavbar-nav .show>.nav-link{
+	color: var(--ComplementaryA-light);
+	font-weight: 900;
+}
+.libNavbar-dark .libNavbar-toggler{
+	align-items: center;
+	text-align: center;
+	color:var(--text-bold);
+	border-color:var(--text-bold);
+}
+.libNavbar-dark .libNavbar-toggler-icon{
+	background-image:url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
+}
+.libNavbar-dark .libNavbar-text{
+	color:var(--text-bold);
+}
+.libNavbar-dark .libNavbar-text a{
+	color:var(--text-bold);
+}
+.libNavbar-dark .libNavbar-text a:focus,.libNavbar-dark .libNavbar-text a:hover{
+	color:var(--text-bold);
+}
+
+
+@media (min-width:992px){
+.nav-orientation{
+width:100%; height: 100%; display: flex; justify-content:right;}}

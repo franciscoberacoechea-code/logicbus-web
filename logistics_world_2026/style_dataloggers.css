@@ -1,0 +1,95 @@
+   /* ================================
+   SECCIÓN IMPACTO
+================================ */
+
+
+:root {
+    --primary: #1a73e8;
+    --dark: #0d2c44;
+    --blue: #1a73e8;
+    --orange: #ff6b00;
+    --dirty-white: #f8f9fa;
+    --shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+.impacto-section {
+    background: var(--dirty-white);
+    padding: 70px 20px;
+}
+
+.impacto-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.impacto-title {
+    color: var(--orange);
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.impacto-subtitle {
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+/* ================================
+   GRID
+================================ */
+
+.impacto-categorias {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
+
+/* ================================
+   CATEGORÍA
+================================ */
+
+.categoria-header {
+    background: linear-gradient(90deg, var(--orange), #e85c00);
+    color: white;
+    font-weight: 700;
+    padding: 14px;
+    border-radius: 12px; /* MÁS REDONDEADO */
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.categoria-body {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.item {
+    background: linear-gradient(180deg, var(--dark), #0a2236);
+    color: white;
+    padding: 14px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 12px; /* MÁS REDONDEADO */
+    transition: 0.25s ease;
+    box-shadow: var(--shadow);
+}
+
+/* Hover elegante */
+.item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.08);
+}
+
+/* ================================
+   RESPONSIVE
+================================ */
+
+@media (max-width: 900px) {
+    .impacto-categorias {
+        grid-template-columns: 1fr;
+    }
+}

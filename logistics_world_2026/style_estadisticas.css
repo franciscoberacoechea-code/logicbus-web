@@ -1,0 +1,101 @@
+/* =====================================================
+   1. VARIABLES GLOBALES
+   ===================================================== */
+
+:root {
+    --primary: #1a73e8;
+    --dark: #0d2c44;
+    --orange: #ff6b00;
+    --dirty-white: #f8f9fa;
+
+    --shadow-soft: 0 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+
+/* =====================================================
+   2. SECCIÓN DE ESTADÍSTICAS
+   ===================================================== */
+
+.stats-section {
+    background: var(--dark); /* Eliminado gradient redundante */
+    border-radius: 30px;
+    padding: 60px 40px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+
+    text-align: center;
+    color: #ffffff;
+}
+
+
+/* =====================================================
+   3. TARJETAS INDIVIDUALES
+   ===================================================== */
+
+.stat-card {
+    max-width: 250px;
+}
+
+
+/* =====================================================
+   4. ÍCONOS SVG
+   ===================================================== */
+
+.stat-icon {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 20px;
+}
+
+/* Animación controlada desde JS */
+.svg-path {
+    fill: none;
+    stroke: currentColor; /* Hereda el color del contenedor */
+    stroke-width: 4;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+
+/* =====================================================
+   5. NÚMERO PRINCIPAL
+   ===================================================== */
+
+.stat-number {
+    font-size: 48px;
+    font-weight: 800;
+    margin: 10px 0;
+    letter-spacing: 1px;
+}
+
+
+/* =====================================================
+   6. DESCRIPCIÓN
+   ===================================================== */
+
+.stat-card p {
+    font-size: 16px;
+    opacity: 0.9;
+    margin: 0;
+}
+
+
+/* =====================================================
+   7. RESPONSIVE
+   ===================================================== */
+
+@media (max-width: 768px) {
+
+    .stats-section {
+        flex-direction: column;
+        padding: 50px 20px;
+    }
+
+    .stat-number {
+        font-size: 38px;
+    }
+}

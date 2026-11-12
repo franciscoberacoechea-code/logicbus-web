@@ -1,0 +1,193 @@
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 130px !important; 
+}
+h1{
+  font-weight:800;
+}
+h2, h3{
+  font-weight:700;
+}
+
+p{
+  font-weight:400;
+}
+
+.nav-link{
+    font-weight:500;
+    color:var(--blue)!important;
+  }
+  .nav-link:hover{
+    font-weight:800;
+    color:var(--blue)!important;
+  }
+  .nav-link:focus{
+    font-weight:800;
+    color:var(--blue)!important;
+  }
+
+  @media (max-width: 1200px) {
+    .navbar-expand-lg .navbar-nav {
+      flex-direction:column;
+    }
+    html {
+
+    scroll-padding-top: 256px !important; 
+}
+}
+
+/* botones */
+.button-circle-orange{
+  align-self:center;
+}
+
+@media screen and (max-width: 782px) {
+  .cotbutton{
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  }
+
+  .hoverchangeT{min-width: 50px;}  
+
+  .cotimg{
+    display: flex !important;
+    justify-content: center !important;
+    padding-left:0px !important;
+}
+
+#cotiza p {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+#cotiza div{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+
+
+}
+
+
+.hoverchangeT:hover img{
+    filter: invert(48%) sepia(52%) saturate(6185%) hue-rotate(358deg) brightness(98%) contrast(109%);
+  }
+
+
+/*estilos carrusel*/
+.round-img{
+  border-radius: 25px;
+  overflow:hidden;
+  -webkit-box-shadow: 10px 4px 25px -19px rgba(0,0,0,0.4);
+  -moz-box-shadow: 10px 4px 25px -19px rgba(0,0,0,0.4);
+  box-shadow: 10px 4px 25px -19px rgba(0,0,0,0.4);
+}
+
+
+.carousel-cell{
+  color:var(--blue);
+  height:300px;
+}
+.carousel-cell img {
+  display: block;
+  max-height: 200px;
+}
+
+.flickity-prev-next-button.previous{
+  left: -60px;
+  top:125px;
+  bottom:50px;
+  color: var(--dirty-white);
+  background-color: var(--orange);
+}
+.flickity-prev-next-button.next{
+  right: -60px;
+  top:125px;
+  color: var(--dirty-white);
+  background-color: var(--orange);  
+}
+
+
+/*efecto de respiracion*/
+.breath img{
+  width:120px;
+  animation: breathe 3s infinite alternate;
+  animation-delay: calc(2s * var(--random-delay));
+}
+.breath p{
+  font-weight:550;
+}
+@keyframes breathe {
+            0% {
+                transform: scale(1);
+            }
+            100% {
+                transform: scale(1.1);
+            }
+        }
+
+
+
+        .clk-Show img{
+          filter: invert(30%) sepia(10%) saturate(2912%) hue-rotate(166deg) brightness(95%) contrast(96%);
+          cursor: pointer;
+        }
+        .clk-Show h3{
+          color:var(--blue);
+          transition: color 0.2s ease-in-out;
+          }
+       #content{
+        font-weight:600;
+       }
+
+
+.biframe{ width: 800px;
+  height: 780px; /* 100% del alto de la ventana */
+  border: none;
+}
+
+
+
+
+@media screen and (max-width: 1024px) {
+
+  .biframe{ 
+    width: 85%;
+    height: 780px; /* 100% del alto de la ventana */
+    border: none;
+  }
+}
+@media screen and (max-width: 801px) {
+
+  .biframe{ 
+    width: 85%;
+    height: 1000px; /* 100% del alto de la ventana */
+    border: none;
+  }
+}
+
+@media screen and (max-width: 400px) {
+.biframe{ 
+  width:100%; 
+  height:1180px;
+  border: none;
+  }
+
+}
+@media screen and (max-width: 650px) {
+.flickity-button{display: none;
+                  visibility: hidden;
+}
+}
+
+
+.carousel-cell:hover {
+  cursor: pointer;
+}

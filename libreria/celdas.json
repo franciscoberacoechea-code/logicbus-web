@@ -1,0 +1,3730 @@
+{
+    "data": [
+        {
+            "familia": "LSB400",
+            "img": "<a href=\"imagenes\/36\/LSB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB400.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH00930_p_6311.html\" target=\"_blank\">FSH00930<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB350",
+            "img": "<a href=\"imagenes\/36\/LSB350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB350.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH00966_p_6284.html\" target=\"_blank\">FSH00966<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB350",
+            "img": "<a href=\"imagenes\/36\/LSB350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB350.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH00967_p_6285.html\" target=\"_blank\">FSH00967<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB350",
+            "img": "<a href=\"imagenes\/36\/LSB350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB350.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH00971_p_6287.html\" target=\"_blank\">FSH00971<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB350",
+            "img": "<a href=\"imagenes\/36\/LSB350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB350.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH00972_p_6288.html\" target=\"_blank\">FSH00972<\/a>",
+            "capacidad": 2000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB350",
+            "img": "<a href=\"imagenes\/36\/LSB350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB350.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH00973_p_6289.html\" target=\"_blank\">FSH00973<\/a>",
+            "capacidad": 3000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB400",
+            "img": "<a href=\"imagenes\/36\/LSB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB400.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH00977_p_6315.html\" target=\"_blank\">FSH00977<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB400",
+            "img": "<a href=\"imagenes\/36\/LSB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB400.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH00978_p_6316.html\" target=\"_blank\">FSH00978<\/a>",
+            "capacidad": 10000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB400",
+            "img": "<a href=\"imagenes\/36\/LSB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB400.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH00979_p_6317.html\" target=\"_blank\">FSH00979<\/a>",
+            "capacidad": 10000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB352",
+            "img": "<a href=\"imagenes\/36\/LSB352.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB352.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH01843_p_6305.html\" target=\"_blank\">FSH01843<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM550",
+            "img": "<a href=\"imagenes\/36\/LCM550.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM550.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH01957_p_6682.html\" target=\"_blank\">FSH01957<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH02417_p_7678.html\" target=\"_blank\">FSH02417<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF556",
+            "img": "<a href=\"imagenes\/36\/LCF556.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF556.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH02838_p_7899.html\" target=\"_blank\">FSH02838<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque de alta capacidad para fatiga",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF556",
+            "img": "<a href=\"imagenes\/36\/LCF556.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF556.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH02839_p_7900.html\" target=\"_blank\">FSH02839<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque de alta capacidad para fatiga",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF500",
+            "img": "<a href=\"imagenes\/36\/LCF500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF500.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH03010_p_7710.html\" target=\"_blank\">FSH03010<\/a>",
+            "capacidad": 25000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB352",
+            "img": "<a href=\"imagenes\/36\/LSB352.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB352.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH03279_p_6310.html\" target=\"_blank\">FSH03279<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM300",
+            "img": "<a href=\"imagenes\/36\/LCM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM300.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH03887_p_13365.html \" target=\"_blank\">FSH03933<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable, Conector"
+        },
+        {
+            "familia": "LSB210",
+            "img": "<a href=\"imagenes\/36\/LSB210.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB210.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH03940_p_17432.html\" target=\"_blank\">FSH03940<\/a>",
+            "capacidad": 0.22,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura sumergible",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04085_p_16737.html\" target=\"_blank\">FSH04085<\/a>",
+            "capacidad": 1,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04097_p_16390.html\" target=\"_blank\">FSH04097<\/a>",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04099_p_16391.html\" target=\"_blank\">FSH04099<\/a>",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04100_p_16738.html\" target=\"_blank\">FSH04100<\/a>",
+            "capacidad": 5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04101_p_16392.html\" target=\"_blank\">FSH04101<\/a>",
+            "capacidad": 2,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF550",
+            "img": "<a href=\"imagenes\/36\/LCF550.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF550.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04148_p_14601.html\" target=\"_blank\">FSH04148<\/a>",
+            "capacidad": 100000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque de alta capacidad",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF400",
+            "img": "<a href=\"imagenes\/36\/LCF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF400.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04155_p_14566.html\" target=\"_blank\">FSH04155<\/a>",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF400",
+            "img": "<a href=\"imagenes\/36\/LCF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF400.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04156_p_14567.html\" target=\"_blank\">FSH04156<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF400",
+            "img": "<a href=\"imagenes\/36\/LCF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF400.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04157_p_16739.html\" target=\"_blank\">FSH04157<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF400",
+            "img": "<a href=\"imagenes\/36\/LCF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF400.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04158_p_16740.html\" target=\"_blank\">FSH04158<\/a>",
+            "capacidad": 2500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB500",
+            "img": "<a href=\"imagenes\/36\/LCB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB500.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04160_p_14556.html\" target=\"_blank\">FSH04160<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04178_p_16394.html\" target=\"_blank\">FSH04178<\/a>",
+            "capacidad": 300,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04185_p_16396.html\" target=\"_blank\">FSH04185<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB302",
+            "img": "<a href=\"imagenes\/36\/LSB302.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB302.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04206_p_16742.html\" target=\"_blank\">FSH04206<\/a>",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB302",
+            "img": "<a href=\"imagenes\/36\/LSB302.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB302.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04207_p_16401.html\" target=\"_blank\">FSH04207<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04224_p_16405.html\" target=\"_blank\">FSH04224<\/a>",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04242_p_16744.html\" target=\"_blank\">FSH04242<\/a>",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04247_p_16377.html\" target=\"_blank\">FSH04247<\/a>",
+            "capacidad": 2000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04255_p_16745.html\" target=\"_blank\">FSH04255<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF500",
+            "img": "<a href=\"imagenes\/36\/LCF500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF500.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04264_p_14568.html\" target=\"_blank\">FSH04264<\/a>",
+            "capacidad": 25000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF500",
+            "img": "<a href=\"imagenes\/36\/LCF500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF500.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04265_p_15993.html\" target=\"_blank\">FSH04265<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF500",
+            "img": "<a href=\"imagenes\/36\/LCF500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF500.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04267_p_14569.html\" target=\"_blank\">FSH04267<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF300",
+            "img": "<a href=\"imagenes\/36\/LCF300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF300.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04269_p_16746.html\" target=\"_blank\">FSH04269<\/a>",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF501",
+            "img": "<a href=\"imagenes\/36\/LCF501.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF501.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04279_p_14575.html\" target=\"_blank\">FSH04279<\/a>",
+            "capacidad": 12500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF501",
+            "img": "<a href=\"imagenes\/36\/LCF501.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF501.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04280_p_14576.html\" target=\"_blank\">FSH04280<\/a>",
+            "capacidad": 25000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF501",
+            "img": "<a href=\"imagenes\/36\/LCF501.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF501.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04282_p_14578.html\" target=\"_blank\">FSH04282<\/a>",
+            "capacidad": 25000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF505",
+            "img": "<a href=\"imagenes\/36\/LCF505.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF505.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04283_p_14588.html\" target=\"_blank\">FSH04283<\/a>",
+            "capacidad": 25000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque con base de tensión",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF505",
+            "img": "<a href=\"imagenes\/36\/LCF505.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF505.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04284_p_16409.html\" target=\"_blank\">FSH04284<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque con base de tensión",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF505",
+            "img": "<a href=\"imagenes\/36\/LCF505.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF505.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04285_p_16410.html\" target=\"_blank\">FSH04285<\/a>",
+            "capacidad": 25000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque con base de tensión",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF505",
+            "img": "<a href=\"imagenes\/36\/LCF505.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF505.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04286_p_14589.html\" target=\"_blank\">FSH04286<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque con base de tensión",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF506",
+            "img": "<a href=\"imagenes\/36\/LCF506.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF506.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04287_p_14595.html\" target=\"_blank\">FSH04287<\/a>",
+            "capacidad": 12500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque para fatiga",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF506",
+            "img": "<a href=\"imagenes\/36\/LCF506.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF506.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04288_p_14596.html\" target=\"_blank\">FSH04288<\/a>",
+            "capacidad": 25000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque para fatiga",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF506",
+            "img": "<a href=\"imagenes\/36\/LCF506.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF506.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04289_p_14597.html\" target=\"_blank\">FSH04289<\/a>",
+            "capacidad": 12500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque para fatiga",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF506",
+            "img": "<a href=\"imagenes\/36\/LCF506.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF506.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04290_p_14598.html\" target=\"_blank\">FSH04290<\/a>",
+            "capacidad": 25000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque para fatiga",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF451",
+            "img": "<a href=\"imagenes\/36\/LCF451.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF451.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04295_p_16411.html\" target=\"_blank\">FSH04295<\/a>",
+            "capacidad": 2500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF451",
+            "img": "<a href=\"imagenes\/36\/LCF451.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF451.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04298_p_16412.html\" target=\"_blank\">FSH04298<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF451",
+            "img": "<a href=\"imagenes\/36\/LCF451.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF451.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04299_p_16413.html\" target=\"_blank\">FSH04299<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04302_p_16414.html\" target=\"_blank\">FSH04302<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04314_p_16747.html\" target=\"_blank\">FSH04314<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04316_p_17439.html\" target=\"_blank\">FSH04316<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04317_p_17440.html\" target=\"_blank\">FSH04317<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04318_p_16418.html\" target=\"_blank\">FSH04318<\/a>",
+            "capacidad": 2000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04319_p_16419.html\" target=\"_blank\">FSH04319<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCA300",
+            "img": "<a href=\"imagenes\/36\/LCA300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCA300.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04321_p_16748.html\" target=\"_blank\">FSH04321<\/a>",
+            "capacidad": 2000,
+            "direccion": "Compresión",
+            "tipo": "Columna",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04326_p_14560.html\" target=\"_blank\">FSH04326<\/a>",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04327_p_14561.html\" target=\"_blank\">FSH04327<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04328_p_14562.html\" target=\"_blank\">FSH04328<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04329_p_14571.html\" target=\"_blank\">FSH04329<\/a>",
+            "capacidad": 2500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04330_p_14572.html\" target=\"_blank\">FSH04330<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04332_p_14564.html\" target=\"_blank\">FSH04332<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04333_p_14565.html\" target=\"_blank\">FSH04333<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04334_p_14573.html\" target=\"_blank\">FSH04334<\/a>",
+            "capacidad": 2500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04335_p_14574.html\" target=\"_blank\">FSH04335<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04338_p_14570.html\" target=\"_blank\">FSH04338<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04340_p_14579.html\" target=\"_blank\">FSH04340<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04345_p_14580.html\" target=\"_blank\">FSH04345<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04357_p_14585.html\" target=\"_blank\">FSH04357<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM100",
+            "img": "<a href=\"imagenes\/36\/LCM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM100.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04397_p_17338.html\" target=\"_blank\">FSH04397<\/a>",
+            "capacidad": 2.2,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM100",
+            "img": "<a href=\"imagenes\/36\/LCM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM100.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04398_p_17339.html\" target=\"_blank\">FSH04398<\/a>",
+            "capacidad": 5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM100",
+            "img": "<a href=\"imagenes\/36\/LCM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM100.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04399_p_16444.html\" target=\"_blank\">FSH04399<\/a>",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM100",
+            "img": "<a href=\"imagenes\/36\/LCM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM100.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/-FSH04400_p_16768.html\" target=\"_blank\">FSH04400<\/a>",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04401_p_16445.html\" target=\"_blank\">FSH04401<\/a>",
+            "capacidad": 0.55,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04403_p_16756.html\" target=\"_blank\">FSH04403<\/a>",
+            "capacidad": 300,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF555",
+            "img": "<a href=\"imagenes\/36\/LCF555.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF555.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04417_p_16757.html\" target=\"_blank\">FSH04417<\/a>",
+            "capacidad": 100000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque de alta capacidad con base de tensión",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF550",
+            "img": "<a href=\"imagenes\/36\/LCF550.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF550.jpg\"\/><\/a>",
+            "num": "<a href=\"http:\/\/tienda.logicbus.com.mx\/FSH04439_p_17447.html\" target=\"_blank\">FSH04439<\/a>",
+            "capacidad": 100000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque de alta capacidad",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LBB200",
+            "img": "<a href=\"imagenes\/36\/LBB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LBB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH00887_p_7535.html\" target=\"_blank\">FSH00887<\/a>",
+            "capacidad": 0.25,
+            "direccion": "Compresión",
+            "tipo": "Barra",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LBB200",
+            "img": "<a href=\"imagenes\/36\/LBB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LBB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH00889_p_7537.html\" target=\"_blank\">FSH00889<\/a>",
+            "capacidad": 1,
+            "direccion": "Compresión",
+            "tipo": "Barra",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LBB200",
+            "img": "<a href=\"imagenes\/36\/LBB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LBB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH00891_p_7539.html\" target=\"_blank\">FSH00891<\/a>",
+            "capacidad": 5,
+            "direccion": "Compresión",
+            "tipo": "Barra",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LBB200",
+            "img": "<a href=\"imagenes\/36\/LBB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LBB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH00892_p_7540.html\" target=\"_blank\">FSH00892<\/a>",
+            "capacidad": 10,
+            "direccion": "Compresión",
+            "tipo": "Barra",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LBB200",
+            "img": "<a href=\"imagenes\/36\/LBB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LBB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH00893_p_7541.html\" target=\"_blank\">FSH00893<\/a>",
+            "capacidad": 25,
+            "direccion": "Compresión",
+            "tipo": "Barra",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB350",
+            "img": "<a href=\"imagenes\/36\/LSB350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH00970_p_6286.html\" target=\"_blank\">FSH00970<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB400",
+            "img": "<a href=\"imagenes\/36\/LSB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH00976_p_6314.html\" target=\"_blank\">FSH00976<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB352",
+            "img": "<a href=\"imagenes\/36\/LSB352.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB352.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH02510_p_6308.html\" target=\"_blank\">FSH02510<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB215",
+            "img": "<a href=\"imagenes\/36\/LLB215.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB215.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH02622_p_6344.html\" target=\"_blank\">FSH02622<\/a>",
+            "capacidad": 10,
+            "direccion": "Compresión",
+            "tipo": "Botón roscado",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB215",
+            "img": "<a href=\"imagenes\/36\/LLB215.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB215.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH02624_p_6346.html\" target=\"_blank\">FSH02624<\/a>",
+            "capacidad": 50,
+            "direccion": "Compresión",
+            "tipo": "Botón roscado",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB210",
+            "img": "<a href=\"imagenes\/36\/LLB210.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB210.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH02708_p_6342.html\" target=\"_blank\">FSH02708<\/a>",
+            "capacidad": 10,
+            "direccion": "Compresión",
+            "tipo": "Botón roscado",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB210",
+            "img": "<a href=\"imagenes\/36\/LLB210.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB210.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH02710_p_15758.html\" target=\"_blank\">FSH02710<\/a>",
+            "capacidad": 50,
+            "direccion": "Compresión",
+            "tipo": "Botón roscado",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCF500",
+            "img": "<a href=\"imagenes\/36\/LCF500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH02999_p_7707.html\" target=\"_blank\">FSH02999<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF501",
+            "img": "<a href=\"imagenes\/36\/LCF501.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF501.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03307_p_35407.html\" target=\"_blank\">FSH03307<\/a>",
+            "capacidad": 25000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB130",
+            "img": "<a href=\"imagenes\/36\/LLB130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB130.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03769_p_12702.html\" target=\"_blank\">FSH03769<\/a>",
+            "capacidad": 5,
+            "direccion": "Compresión",
+            "tipo": "Botón subminiatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB130",
+            "img": "<a href=\"imagenes\/36\/LLB130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB130.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03770_p_10432.html\" target=\"_blank\">FSH03770<\/a>",
+            "capacidad": 10,
+            "direccion": "Compresión",
+            "tipo": "Botón subminiatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM550",
+            "img": "<a href=\"imagenes\/36\/LCM550.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM550.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03779_p_14216.html\" target=\"_blank\">FSH03779<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM100",
+            "img": "<a href=\"imagenes\/36\/LCM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM100.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03827_p_14220.html\" target=\"_blank\">FSH03827<\/a>",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM100",
+            "img": "<a href=\"imagenes\/36\/LCM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM100.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03828_p_14267.html\" target=\"_blank\">FSH03828<\/a>",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM100",
+            "img": "<a href=\"imagenes\/36\/LCM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM100.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03829_p_13330.html\" target=\"_blank\">FSH03829<\/a>",
+            "capacidad": 5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM100",
+            "img": "<a href=\"imagenes\/36\/LCM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM100.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03842_p_14222.html\" target=\"_blank\">FSH03842<\/a>",
+            "capacidad": 2.2,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03867_p_19141.html\" target=\"_blank\">FSH03867<\/a>",
+            "capacidad": 0.02,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03868_p_31276.html\" target=\"_blank\">FSH03868<\/a>",
+            "capacidad": 0.04,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03869_p_16734.html\" target=\"_blank\">FSH03869<\/a>",
+            "capacidad": 0.11,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03870_p_14335.html\" target=\"_blank\">FSH03870<\/a>",
+            "capacidad": 0.22,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03871_p_14469.html\" target=\"_blank\">FSH03871<\/a>",
+            "capacidad": 0.55,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB130",
+            "img": "<a href=\"imagenes\/36\/LLB130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB130.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03879_p_11923.html\" target=\"_blank\">FSH03879<\/a>",
+            "capacidad": 25,
+            "direccion": "Compresión",
+            "tipo": "Botón subminiatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB130",
+            "img": "<a href=\"imagenes\/36\/LLB130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB130.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03880_p_13364.html\" target=\"_blank\">FSH03880<\/a>",
+            "capacidad": 50,
+            "direccion": "Compresión",
+            "tipo": "Botón subminiatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB130",
+            "img": "<a href=\"imagenes\/36\/LLB130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB130.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03881_p_10173.html\" target=\"_blank\">FSH03881<\/a>",
+            "capacidad": 2.2,
+            "direccion": "Compresión",
+            "tipo": "Botón subminiatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM300",
+            "img": "<a href=\"imagenes\/36\/FSH03886.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03886_p_14202.html\" target=\"_blank\">FSH03886<\/a>",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM200",
+            "img": "<a href=\"imagenes\/36\/LCM200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03903_p_14229.html\" target=\"_blank\">FSH03903<\/a>",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM200",
+            "img": "<a href=\"imagenes\/36\/LCM200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03904_p_13367.html\" target=\"_blank\">FSH03904<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM200",
+            "img": "<a href=\"imagenes\/36\/LCM200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03905_p_14230.html\" target=\"_blank\">FSH03905<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSM250",
+            "img": "<a href=\"imagenes\/36\/LSM250.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM250.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03923_p_14436.html\" target=\"_blank\">FSH03923<\/a>",
+            "capacidad": 0.25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSM250",
+            "img": "<a href=\"imagenes\/36\/LSM250.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM250.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03924_p_14437.html\" target=\"_blank\">FSH03924<\/a>",
+            "capacidad": 0.5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSM250",
+            "img": "<a href=\"imagenes\/36\/LSM250.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM250.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03925_p_14299.html\" target=\"_blank\">FSH03925<\/a>",
+            "capacidad": 1,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB250",
+            "img": "<a href=\"imagenes\/36\/LLB250.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB250.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03928_p_31432.html\" target=\"_blank\">FSH03928<\/a>",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "MBA400",
+            "img": "<a href=\"imagenes\/36\/MBA400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/MBA400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03934_p_14330.html \" target=\"_blank\">FSH03934<\/a>",
+            "capacidad": 50,
+            "direccion": "Biaxial",
+            "tipo": "Sensor biaxial",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03937_p_13368.html\" target=\"_blank\">FSH03937<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03938_p_14269.html\" target=\"_blank\">FSH03938<\/a>",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03939_p_14334.html\" target=\"_blank\">FSH03939<\/a>",
+            "capacidad": 25,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB210",
+            "img": "<a href=\"imagenes\/36\/LSB210.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB210.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03941_p_14270.html\" target=\"_blank\">FSH03941<\/a>",
+            "capacidad": 2,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura sumergible",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB210",
+            "img": "<a href=\"imagenes\/36\/LSB210.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB210.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03942_p_14532.html\" target=\"_blank\">FSH03942<\/a>",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura sumergible",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB210",
+            "img": "<a href=\"imagenes\/36\/LSB210.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB210.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03943_p_14287.html\" target=\"_blank\">FSH03943<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura sumergible",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03953_p_13369.html\" target=\"_blank\">FSH03953<\/a>",
+            "capacidad": 500,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03954_p_14427.html\" target=\"_blank\">FSH03954<\/a>",
+            "capacidad": 50,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03955_p_14424.html\" target=\"_blank\">FSH03955<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03959_p_13370.html\" target=\"_blank\">FSH03959<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03961_p_14274.html\" target=\"_blank\">FSH03961<\/a>",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03962_p_14275.html\" target=\"_blank\">FSH03962<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03963_p_14276.html\" target=\"_blank\">FSH03963<\/a>",
+            "capacidad": 50,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03964_p_14277.html\" target=\"_blank\">FSH03964<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03966_p_14279.html\" target=\"_blank\">FSH03966<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03968_p_14281.html\" target=\"_blank\">FSH03968<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03969_p_14282.html\" target=\"_blank\">FSH03969<\/a>",
+            "capacidad": 50,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03970_p_14425.html\" target=\"_blank\">FSH03970<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB390",
+            "img": "<a href=\"imagenes\/36\/LLB390.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB390.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03973_p_14533.html\" target=\"_blank\">FSH03973<\/a>",
+            "capacidad": 1,
+            "direccion": "Compresión",
+            "tipo": "Plato",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSM300",
+            "img": "<a href=\"imagenes\/36\/LSM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03976_p_14317.html\" target=\"_blank\">FSH03976<\/a>",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSM300",
+            "img": "<a href=\"imagenes\/36\/LSM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03977_p_14318.html\" target=\"_blank\">FSH03977<\/a>",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSM300",
+            "img": "<a href=\"imagenes\/36\/LSM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03978_p_13372.html\" target=\"_blank\">FSH03978<\/a>",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSM300",
+            "img": "<a href=\"imagenes\/36\/LSM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03979_p_22908.html\" target=\"_blank\">FSH03979<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSM300",
+            "img": "<a href=\"imagenes\/36\/LSM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03980_p_14438.html\" target=\"_blank\">FSH03980<\/a>",
+            "capacidad": 200,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB350",
+            "img": "<a href=\"imagenes\/36\/LLB350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH03999_p_14288.html\" target=\"_blank\">FSH03999<\/a>",
+            "capacidad": 25,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB350",
+            "img": "<a href=\"imagenes\/36\/LLB350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04000_p_14289.html\" target=\"_blank\">FSH04000<\/a>",
+            "capacidad": 50,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCB450",
+            "img": "<a href=\"imagenes\/36\/LCB450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04002_p_14320.html\" target=\"_blank\">FSH04002<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB450",
+            "img": "<a href=\"imagenes\/36\/LCB450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04003_p_13377.html\" target=\"_blank\">FSH04003<\/a>",
+            "capacidad": 10000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB450",
+            "img": "<a href=\"imagenes\/36\/LCB450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04004_p_13378.html\" target=\"_blank\">FSH04004<\/a>",
+            "capacidad": 20000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM325",
+            "img": "<a href=\"imagenes\/36\/LCM325.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM325.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04006_p_14475.html\" target=\"_blank\">FSH04006<\/a>",
+            "capacidad": 3000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM325",
+            "img": "<a href=\"imagenes\/36\/LCM325.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM325.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04009_p_14291.html\" target=\"_blank\">FSH04009<\/a>",
+            "capacidad": 2000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCB200",
+            "img": "<a href=\"imagenes\/36\/LCB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04011_p_14301.html\" target=\"_blank\">FSH04011<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB210",
+            "img": "<a href=\"imagenes\/36\/LSB210.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB210.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04018_p_14292.html\" target=\"_blank\">FSH04018<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura sumergible",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCB400",
+            "img": "<a href=\"imagenes\/36\/LCB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04028_p_14324.html\" target=\"_blank\">FSH04028<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB400",
+            "img": "<a href=\"imagenes\/36\/LCB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04029_p_14541.html\" target=\"_blank\">FSH04029<\/a>",
+            "capacidad": 3000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB400",
+            "img": "<a href=\"imagenes\/36\/LCB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04030_p_14323.html\" target=\"_blank\">FSH04030<\/a>",
+            "capacidad": 10000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF400",
+            "img": "<a href=\"imagenes\/36\/LRF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04036_p_14467.html\" target=\"_blank\">FSH04036<\/a>",
+            "capacidad": 0.25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF400",
+            "img": "<a href=\"imagenes\/36\/LRF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04037_p_14468.html\" target=\"_blank\">FSH04037<\/a>",
+            "capacidad": 0.5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF400",
+            "img": "<a href=\"imagenes\/36\/LRF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04038_p_14319.html\" target=\"_blank\">FSH04038<\/a>",
+            "capacidad": 1,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF400",
+            "img": "<a href=\"imagenes\/36\/LRF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04039_p_14458.html\" target=\"_blank\">FSH04039<\/a>",
+            "capacidad": 2.2,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF400",
+            "img": "<a href=\"imagenes\/36\/LRF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04040_p_14304.html\" target=\"_blank\">FSH04040<\/a>",
+            "capacidad": 5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF400",
+            "img": "<a href=\"imagenes\/36\/LRF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04041_p_14305.html\" target=\"_blank\">FSH04041<\/a>",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF400",
+            "img": "<a href=\"imagenes\/36\/LRF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04042_p_14306.html\" target=\"_blank\">FSH04042<\/a>",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF400",
+            "img": "<a href=\"imagenes\/36\/LRF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04043_p_14459.html\" target=\"_blank\">FSH04043<\/a>",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF400",
+            "img": "<a href=\"imagenes\/36\/LRF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04044_p_23217.html\" target=\"_blank\">FSH04044<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04046_p_14460.html\" target=\"_blank\">FSH04046<\/a>",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04049_p_14461.html\" target=\"_blank\">FSH04049<\/a>",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04050_p_14462.html\" target=\"_blank\">FSH04050<\/a>",
+            "capacidad": 500,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "MBA400",
+            "img": "<a href=\"imagenes\/36\/MBA400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/MBA400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04054_p_14431.html\" target=\"_blank\">FSH04054<\/a>",
+            "capacidad": 200,
+            "direccion": "Biaxial",
+            "tipo": "Sensor biaxial",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM350",
+            "img": "<a href=\"imagenes\/36\/LCM350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04077_p_14483.html\" target=\"_blank\">FSH04077<\/a>",
+            "capacidad": 4000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM350",
+            "img": "<a href=\"imagenes\/36\/LCM350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04078_p_14484.html\" target=\"_blank\">FSH04078<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM375",
+            "img": "<a href=\"imagenes\/36\/LCM375.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM375.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04081_p_14488.html\" target=\"_blank\">FSH04081<\/a>",
+            "capacidad": 7500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM375",
+            "img": "<a href=\"imagenes\/36\/LCM375.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM375.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04082_p_14339.html\" target=\"_blank\">FSH04082<\/a>",
+            "capacidad": 10000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM375",
+            "img": "<a href=\"imagenes\/36\/LCM375.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM375.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04083_p_18514.html\" target=\"_blank\">FSH04083<\/a>",
+            "capacidad": 7500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM525",
+            "img": "<a href=\"imagenes\/36\/LCM525.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM525.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04088_p_14329.html\" target=\"_blank\">FSH04088<\/a>",
+            "capacidad": 20000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM550",
+            "img": "<a href=\"imagenes\/36\/LCM550.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM550.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04090_p_14327.html\" target=\"_blank\">FSH04090<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM550",
+            "img": "<a href=\"imagenes\/36\/LCM550.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM550.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04091_p_35438.html\" target=\"_blank\">FSH04091<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB500",
+            "img": "<a href=\"imagenes\/36\/LLB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04093_p_14341.html\" target=\"_blank\">FSH04093<\/a>",
+            "capacidad": 20000,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCF400",
+            "img": "<a href=\"imagenes\/36\/LCF400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04159_p_18509.html\" target=\"_blank\">FSH04159<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB500",
+            "img": "<a href=\"imagenes\/36\/LCB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04161_p_14557.html\" target=\"_blank\">FSH04161<\/a>",
+            "capacidad": 200,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB500",
+            "img": "<a href=\"imagenes\/36\/LCB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04162_p_14551.html\" target=\"_blank\">FSH04162<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB500",
+            "img": "<a href=\"imagenes\/36\/LCB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04163_p_16741.html\" target=\"_blank\">FSH04163<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB500",
+            "img": "<a href=\"imagenes\/36\/LCB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04164_p_14558.html\" target=\"_blank\">FSH04164<\/a>",
+            "capacidad": 2000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB500",
+            "img": "<a href=\"imagenes\/36\/LCB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04165_p_14559.html\" target=\"_blank\">FSH04165<\/a>",
+            "capacidad": 3000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB500",
+            "img": "<a href=\"imagenes\/36\/LCB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04166_p_34597.html\" target=\"_blank\">FSH04166<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04167_p_14535.html\" target=\"_blank\">FSH04167<\/a>",
+            "capacidad": 300,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04168_p_14527.html\" target=\"_blank\">FSH04168<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04169_p_14528.html\" target=\"_blank\">FSH04169<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04170_p_14529.html\" target=\"_blank\">FSH04170<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04171_p_14342.html\" target=\"_blank\">FSH04171<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04172_p_14530.html\" target=\"_blank\">FSH04172<\/a>",
+            "capacidad": 2000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04173_p_14531.html\" target=\"_blank\">FSH04173<\/a>",
+            "capacidad": 2000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04174_p_18310.html\" target=\"_blank\">FSH04174<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04175_p_14536.html\" target=\"_blank\">FSH04175<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04176_p_14332.html\" target=\"_blank\">FSH04176<\/a>",
+            "capacidad": 10000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04177_p_14537.html\" target=\"_blank\">FSH04177<\/a>",
+            "capacidad": 10000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH400",
+            "img": "<a href=\"imagenes\/36\/LTH400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04179_p_14476.html\" target=\"_blank\">FSH04179<\/a>",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04189_p_14478.html\" target=\"_blank\">FSH04189<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB302",
+            "img": "<a href=\"imagenes\/36\/LSB302.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB302.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04200_p_14338.html\" target=\"_blank\">FSH04200<\/a>",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB302",
+            "img": "<a href=\"imagenes\/36\/LSB302.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB302.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04201_p_26261.html\" target=\"_blank\">FSH04201<\/a>",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB302",
+            "img": "<a href=\"imagenes\/36\/LSB302.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB302.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04202_p_14442.html\" target=\"_blank\">FSH04202<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB302",
+            "img": "<a href=\"imagenes\/36\/LSB302.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB302.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04205_p_14337.html\" target=\"_blank\">FSH04205<\/a>",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04223_p_14508.html\" target=\"_blank\">FSH04223<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04227_p_14509.html\" target=\"_blank\">FSH04227<\/a>",
+            "capacidad": 30000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04231_p_14519.html\" target=\"_blank\">FSH04231<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04232_p_14489.html\" target=\"_blank\">FSH04232<\/a>",
+            "capacidad": 20000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04233_p_14490.html\" target=\"_blank\">FSH04233<\/a>",
+            "capacidad": 30000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04234_p_14434.html\" target=\"_blank\">FSH04234<\/a>",
+            "capacidad": 2000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04235_p_14491.html\" target=\"_blank\">FSH04235<\/a>",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04239_p_14494.html\" target=\"_blank\">FSH04239<\/a>",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04240_p_14520.html\" target=\"_blank\">FSH04240<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04243_p_14496.html\" target=\"_blank\">FSH04243<\/a>",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04246_p_14515.html\" target=\"_blank\">FSH04246<\/a>",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04248_p_14516.html\" target=\"_blank\">FSH04248<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04249_p_14348.html\" target=\"_blank\">FSH04249<\/a>",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04253_p_14500.html\" target=\"_blank\">FSH04253<\/a>",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04254_p_14517.html\" target=\"_blank\">FSH04254<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "MBA500",
+            "img": "<a href=\"imagenes\/36\/MBA500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/MBA500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04259_p_14592.html\" target=\"_blank\">FSH04259<\/a>",
+            "capacidad": 50,
+            "direccion": "Biaxial",
+            "tipo": "Torque y empuje",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "MBA500",
+            "img": "<a href=\"imagenes\/36\/MBA500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/MBA500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04260_p_14593.html\" target=\"_blank\">FSH04260<\/a>",
+            "capacidad": 100,
+            "direccion": "Biaxial",
+            "tipo": "Torque y empuje",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "MBA500",
+            "img": "<a href=\"imagenes\/36\/MBA500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/MBA500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04261_p_14594.html\" target=\"_blank\">FSH04261<\/a>",
+            "capacidad": 200,
+            "direccion": "Biaxial",
+            "tipo": "Torque y empuje",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "MBA500",
+            "img": "<a href=\"imagenes\/36\/MBA500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/MBA500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04262_p_16406.html\" target=\"_blank\">FSH04262<\/a>",
+            "capacidad": 500,
+            "direccion": "Biaxial",
+            "tipo": "Torque y empuje",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCF500",
+            "img": "<a href=\"imagenes\/36\/LCF500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04266_p_16407.html\" target=\"_blank\">FSH04266<\/a>",
+            "capacidad": 25000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF300",
+            "img": "<a href=\"imagenes\/36\/LCF300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04274_p_14539.html\" target=\"_blank\">FSH04274<\/a>",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF300",
+            "img": "<a href=\"imagenes\/36\/LCF300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04275_p_14540.html\" target=\"_blank\">FSH04275<\/a>",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF501",
+            "img": "<a href=\"imagenes\/36\/LCF501.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF501.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04281_p_14577.html\" target=\"_blank\">FSH04281<\/a>",
+            "capacidad": 12500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF451",
+            "img": "<a href=\"imagenes\/36\/LCF451.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF451.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04292_p_14544.html\" target=\"_blank\">FSH04292<\/a>",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF451",
+            "img": "<a href=\"imagenes\/36\/LCF451.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF451.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04293_p_14545.html\" target=\"_blank\">FSH04293<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF451",
+            "img": "<a href=\"imagenes\/36\/LCF451.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF451.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04294_p_14333.html\" target=\"_blank\">FSH04294<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF451",
+            "img": "<a href=\"imagenes\/36\/LCF451.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF451.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04296_p_14552.html\" target=\"_blank\">FSH04296<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF451",
+            "img": "<a href=\"imagenes\/36\/LCF451.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF451.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04297_p_14546.html\" target=\"_blank\">FSH04297<\/a>",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF451",
+            "img": "<a href=\"imagenes\/36\/LCF451.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF451.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04300_p_14553.html\" target=\"_blank\">FSH04300<\/a>",
+            "capacidad": 2500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF451",
+            "img": "<a href=\"imagenes\/36\/LCF451.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF451.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04301_p_14554.html\" target=\"_blank\">FSH04301<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04305_p_18522.html\" target=\"_blank\">FSH04305<\/a>",
+            "capacidad": 500,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04311_p_14542.html\" target=\"_blank\">FSH04311<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04312_p_14550.html\" target=\"_blank\">FSH04312<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04313_p_14543.html\" target=\"_blank\">FSH04313<\/a>",
+            "capacidad": 2000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04315_p_14432.html\" target=\"_blank\">FSH04315<\/a>",
+            "capacidad": 10000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04320_p_14433.html\" target=\"_blank\">FSH04320<\/a>",
+            "capacidad": 10000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04331_p_14563.html\" target=\"_blank\">FSH04331<\/a>",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04339_p_18510.html\" target=\"_blank\">FSH04339<\/a>",
+            "capacidad": 2500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04344_p_18511.html\" target=\"_blank\">FSH04344<\/a>",
+            "capacidad": 2500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LAU220",
+            "img": "<a href=\"imagenes\/36\/LAU220.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LAU220.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04395_p_16443.html\" target=\"_blank\">FSH04395<\/a>",
+            "capacidad": 300,
+            "direccion": "Compresión",
+            "tipo": "Tipo pedal",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LAU220",
+            "img": "<a href=\"imagenes\/36\/LAU220.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LAU220.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04396_p_14599.html\" target=\"_blank\">FSH04396<\/a>",
+            "capacidad": 500,
+            "direccion": "Compresión",
+            "tipo": "Tipo pedal",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LAU200",
+            "img": "<a href=\"imagenes\/36\/LAU200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LAU200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04404_p_18475.html\" target=\"_blank\">FSH04404<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Tipo pedal",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LAU200",
+            "img": "<a href=\"imagenes\/36\/LAU200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LAU200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04405_p_16446.html\" target=\"_blank\">FSH04405<\/a>",
+            "capacidad": 300,
+            "direccion": "Compresión",
+            "tipo": "Tipo pedal",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04416_p_18516.html\" target=\"_blank\">FSH04416<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04422_p_19886.html\" target=\"_blank\">FSH04422<\/a>",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB215",
+            "img": "<a href=\"imagenes\/36\/LLB215.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB215.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04426_p_18505.html\" target=\"_blank\">FSH04426<\/a>",
+            "capacidad": 25,
+            "direccion": "Compresión",
+            "tipo": "Botón roscado",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCF550",
+            "img": "<a href=\"imagenes\/36\/LCF550.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF550.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04429_p_31409.html\" target=\"_blank\">FSH04429<\/a>",
+            "capacidad": 100000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque de alta capacidad",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCA310",
+            "img": "<a href=\"imagenes\/36\/LCA310.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCA310.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04431_p_17446.html\" target=\"_blank\">FSH04431<\/a>",
+            "capacidad": 15000,
+            "direccion": "Compresión",
+            "tipo": "Columna",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCA310",
+            "img": "<a href=\"imagenes\/36\/LCA310.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCA310.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04432_p_35445.html\" target=\"_blank\">FSH04432<\/a>",
+            "capacidad": 30000,
+            "direccion": "Compresión",
+            "tipo": "Columna",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB210",
+            "img": "<a href=\"imagenes\/36\/LSB210.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB210.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04447_p_18518.html\" target=\"_blank\">FSH04447<\/a>",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura sumergible",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCF450",
+            "img": "<a href=\"imagenes\/36\/LCF450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04463_p_35446.html\" target=\"_blank\">FSH04463<\/a>",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB302",
+            "img": "<a href=\"imagenes\/36\/LSB302.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB302.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04469_p_31398.html\" target=\"_blank\">FSH04469<\/a>",
+            "capacidad": 300,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB302",
+            "img": "<a href=\"imagenes\/36\/LSB302.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB302.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04470_p_25484.html\" target=\"_blank\">FSH04470<\/a>",
+            "capacidad": 300,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF455",
+            "img": "<a href=\"imagenes\/36\/LCF455.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF455.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04518_p_35459.html\" target=\"_blank\">FSH04518<\/a>",
+            "capacidad": 3000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSM305",
+            "img": "<a href=\"imagenes\/36\/LSM305.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM305.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04519_p_35460.html\" target=\"_blank\">FSH04519<\/a>",
+            "capacidad": 2.2,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSM305",
+            "img": "<a href=\"imagenes\/36\/LSM305.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM305.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04520_p_35461.html\" target=\"_blank\">FSH04520<\/a>",
+            "capacidad": 5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSM305",
+            "img": "<a href=\"imagenes\/36\/LSM305.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM305.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04521_p_35079.html\" target=\"_blank\">FSH04521<\/a>",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSM305",
+            "img": "<a href=\"imagenes\/36\/LSM305.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM305.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04522_p_35462.html\" target=\"_blank\">FSH04522<\/a>",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSM305",
+            "img": "<a href=\"imagenes\/36\/LSM305.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM305.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04523_p_35463.html\" target=\"_blank\">FSH04523<\/a>",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSM305",
+            "img": "<a href=\"imagenes\/36\/LSM305.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM305.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04524_p_35464.html\" target=\"_blank\">FSH04524<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSM305",
+            "img": "<a href=\"imagenes\/36\/LSM305.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM305.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04525_p_35465.html\" target=\"_blank\">FSH04525<\/a>",
+            "capacidad": 200,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Paralelogramo OEM",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM300",
+            "img": "<a href=\"imagenes\/36\/LCM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04530_p_34595.html\" target=\"_blank\">FSH04530<\/a>",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM300",
+            "img": "<a href=\"imagenes\/36\/LCM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04531_p_34150.html\" target=\"_blank\">FSH04531<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM300",
+            "img": "<a href=\"imagenes\/36\/LCM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04532_p_34393.html\" target=\"_blank\">FSH04532<\/a>",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM300",
+            "img": "<a href=\"imagenes\/36\/LCM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04533_p_34413.html\" target=\"_blank\">FSH04533<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM300",
+            "img": "<a href=\"imagenes\/36\/LCM300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04534_p_34452.html\" target=\"_blank\">FSH04534<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB550",
+            "img": "<a href=\"imagenes\/36\/LLB550.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB550.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04536_p_34391.html\" target=\"_blank\">FSH04536<\/a>",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB500",
+            "img": "<a href=\"imagenes\/36\/LLB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04543_p_31899.html\" target=\"_blank\">FSH04543<\/a>",
+            "capacidad": 15000,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB500",
+            "img": "<a href=\"imagenes\/36\/LLB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04544_p_35468.html\" target=\"_blank\">FSH04544<\/a>",
+            "capacidad": 20000,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB500",
+            "img": "<a href=\"imagenes\/36\/LLB500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04545_p_34256.html\" target=\"_blank\">FSH04545<\/a>",
+            "capacidad": 30000,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB450",
+            "img": "<a href=\"imagenes\/36\/LLB450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04551_p_31677.html\" target=\"_blank\">FSH04551<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB450",
+            "img": "<a href=\"imagenes\/36\/LLB450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04552_p_31411.html\" target=\"_blank\">FSH04552<\/a>",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04576_p_35472.html\" target=\"_blank\">FSH04576<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04581_p_35207.html\" target=\"_blank\">FSH04581<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04582_p_35473.html\" target=\"_blank\">FSH04582<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04583_p_35474.html\" target=\"_blank\">FSH04583<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04584_p_34617.html\" target=\"_blank\">FSH04584<\/a>",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04585_p_34598.html\" target=\"_blank\">FSH04585<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04586_p_35475.html\" target=\"_blank\">FSH04586<\/a>",
+            "capacidad": 2000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04587_p_34599.html\" target=\"_blank\">FSH04587<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04588_p_35476.html\" target=\"_blank\">FSH04588<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04590_p_34596.html\" target=\"_blank\">FSH04590<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04591_p_35477.html\" target=\"_blank\">FSH04591<\/a>",
+            "capacidad": 2000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04592_p_35478.html\" target=\"_blank\">FSH04592<\/a>",
+            "capacidad": 3000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04593_p_35479.html\" target=\"_blank\">FSH04593<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04595_p_35480.html\" target=\"_blank\">FSH04595<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04597_p_34430.html\" target=\"_blank\">FSH04597<\/a>",
+            "capacidad": 500,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04598_p_35481.html\" target=\"_blank\">FSH04598<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04599_p_34158.html\" target=\"_blank\">FSH04599<\/a>",
+            "capacidad": 2000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04601_p_34454.html\" target=\"_blank\">FSH04601<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB400",
+            "img": "<a href=\"imagenes\/36\/LLB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04603_p_34399.html\" target=\"_blank\">FSH04603<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB400",
+            "img": "<a href=\"imagenes\/36\/LLB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04604_p_34555.html\" target=\"_blank\">FSH04604<\/a>",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB400",
+            "img": "<a href=\"imagenes\/36\/LLB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04605_p_34160.html\" target=\"_blank\">FSH04605<\/a>",
+            "capacidad": 500,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB400",
+            "img": "<a href=\"imagenes\/36\/LLB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04606_p_35156.html\" target=\"_blank\">FSH04606<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB400",
+            "img": "<a href=\"imagenes\/36\/LLB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04607_p_34410.html\" target=\"_blank\">FSH04607<\/a>",
+            "capacidad": 2000,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB400",
+            "img": "<a href=\"imagenes\/36\/LLB400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04608_p_35570.html\" target=\"_blank\">FSH04608<\/a>",
+            "capacidad": 2500,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF551",
+            "img": "<a href=\"imagenes\/36\/LCF551.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF551.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04609_p_35218.html\" target=\"_blank\">FSH04609<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque de alta capacidad para fatiga",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF551",
+            "img": "<a href=\"imagenes\/36\/LCF551.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF551.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04610_p_35217.html\" target=\"_blank\">FSH04610<\/a>",
+            "capacidad": 50000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque de alta capacidad para fatiga",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF300",
+            "img": "<a href=\"imagenes\/36\/LCF300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04621_p_35797.html\" target=\"_blank\">FSH04621<\/a>",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF300",
+            "img": "<a href=\"imagenes\/36\/LCF300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04622-_p_34253.html\" target=\"_blank\">FSH04622<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF300",
+            "img": "<a href=\"imagenes\/36\/LCF300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04623_p_31693.html\" target=\"_blank\">FSH04623<\/a>",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF300",
+            "img": "<a href=\"imagenes\/36\/LCF300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04624_p_31795.html\" target=\"_blank\">FSH04624<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM325",
+            "img": "<a href=\"imagenes\/36\/LCM325.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM325.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04627_p_35771.html\" target=\"_blank\">FSH04627<\/a>",
+            "capacidad": 3000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCA300",
+            "img": "<a href=\"imagenes\/36\/LCA300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCA300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04637_p_34618.html\" target=\"_blank\">FSH04637<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Columna",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCB200",
+            "img": "<a href=\"imagenes\/36\/LCB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04646_p_31768.html\" target=\"_blank\">FSH04646<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB200",
+            "img": "<a href=\"imagenes\/36\/LCB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04647_p_31769.html\" target=\"_blank\">FSH04647<\/a>",
+            "capacidad": 2000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCB200",
+            "img": "<a href=\"imagenes\/36\/LCB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04648_p_31770.html\" target=\"_blank\">FSH04648<\/a>",
+            "capacidad": 3000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea con barra roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04675_p_35692.html\" target=\"_blank\">FSH04675<\/a>",
+            "capacidad": 30000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04685_p_34234.html\" target=\"_blank\">FSH04685<\/a>",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04686_p_35359.html\" target=\"_blank\">FSH04686<\/a>",
+            "capacidad": 15000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04689_p_35088.html\" target=\"_blank\">FSH04689<\/a>",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF350",
+            "img": "<a href=\"imagenes\/36\/LRF350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04730_p_34437.html\" target=\"_blank\">FSH04730<\/a>",
+            "capacidad": 200,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF350",
+            "img": "<a href=\"imagenes\/36\/LRF350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04731_p_35358.html\" target=\"_blank\">FSH04731<\/a>",
+            "capacidad": 300,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF350",
+            "img": "<a href=\"imagenes\/36\/LRF350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04732_p_35769.html\" target=\"_blank\">FSH04732<\/a>",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LRF350",
+            "img": "<a href=\"imagenes\/36\/LRF350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LRF350.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04733_p_34353.html\" target=\"_blank\">FSH04733<\/a>",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Bajo perfil",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/FSH04810_p_35734.html\" target=\"_blank\">FSH04810<\/a>",
+            "capacidad": 50,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH01418_p_14197.html\" target=\"_blank\">QSH01418<\/a>",
+            "capacidad": 0.11,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH01586_p_14243.html\" target=\"_blank\">QSH01586<\/a>",
+            "capacidad": 0.04,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH01612_p_14246.html\" target=\"_blank\">QSH01612<\/a>",
+            "capacidad": 0.02,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "MBA400",
+            "img": "<a href=\"imagenes\/36\/MBA400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/MBA400.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH01752_p_14283.html\" target=\"_blank\">QSH01643<\/a>",
+            "capacidad": 50,
+            "direccion": "Biaxial",
+            "tipo": "Sensor biaxial",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB250",
+            "img": "<a href=\"imagenes\/36\/LLB250.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB250.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH01752_p_14283.html\" target=\"_blank\">QSH01752<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH01845_p_14429.html\" target=\"_blank\">QSH01845<\/a>",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH01867_p_14296.html\" target=\"_blank\">QSH01867<\/a>",
+            "capacidad": 0.55,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH01949_p_14505.html\" target=\"_blank\">QSH01949<\/a>",
+            "capacidad": 25,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH01950_p_14506.html\" target=\"_blank\">QSH01950<\/a>",
+            "capacidad": 50,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH01951_p_14507.html\" target=\"_blank\">QSH01951<\/a>",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH02029_p_25060.html\" target=\"_blank\">QSH02029<\/a>",
+            "capacidad": 1,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH02031_p_31650.html\" target=\"_blank\">QSH02031<\/a>",
+            "capacidad": 5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH02032_p_31653.html\" target=\"_blank\">QSH02032<\/a>",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH02034_p_25353.html\" target=\"_blank\">QSH02034<\/a>",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH02035_p_31658.html\" target=\"_blank\">QSH02035<\/a>",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB450",
+            "img": "<a href=\"imagenes\/36\/LLB450.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB450.jpg\"\/><\/a>",
+            "num": "<a href=\"https:\/\/tienda.logicbus.com.mx\/QSH02205_p_34408.html\" target=\"_blank\">QSH02205<\/a>",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Botón",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "FSH04336",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "FSH04337",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "FSH04341",
+            "capacidad": 250,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "FSH04342",
+            "capacidad": 500,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCF456",
+            "img": "<a href=\"imagenes\/36\/LCF456.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF456.jpg\"\/><\/a>",
+            "num": "FSH04343",
+            "capacidad": 1000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM100",
+            "img": "<a href=\"imagenes\/36\/LCM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM100.jpg\"\/><\/a>",
+            "num": "FSH04398",
+            "capacidad": 5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCF555",
+            "img": "<a href=\"imagenes\/36\/LCF555.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCF555.jpg\"\/><\/a>",
+            "num": "FSH04427",
+            "capacidad": 100000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Panqueque de alta capacidad con base de tensión",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB210",
+            "img": "<a href=\"imagenes\/36\/LSB210.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB210.jpg\"\/><\/a>",
+            "num": "FSH04447",
+            "capacidad": 2,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura sumergible",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "FSH04569",
+            "capacidad": 2000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "FSH04589",
+            "capacidad": 500,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "FSH04594",
+            "capacidad": 3000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "FSH04596",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "FSH04600",
+            "capacidad": 3000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH350",
+            "img": "<a href=\"imagenes\/36\/LTH350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH350.jpg\"\/><\/a>",
+            "num": "FSH04602",
+            "capacidad": 3000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCA305",
+            "img": "<a href=\"imagenes\/36\/LCA305.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCA305.jpg\"\/><\/a>",
+            "num": "FSH04625",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Columna",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LCM325",
+            "img": "<a href=\"imagenes\/36\/LCM325.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM325.jpg\"\/><\/a>",
+            "num": "FSH04626",
+            "capacidad": 2000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM350",
+            "img": "<a href=\"imagenes\/36\/LCM350.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM350.jpg\"\/><\/a>",
+            "num": "FSH04644",
+            "capacidad": 5000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM375",
+            "img": "<a href=\"imagenes\/36\/LCM375.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM375.jpg\"\/><\/a>",
+            "num": "FSH04645",
+            "capacidad": 10000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Miniatura en línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM525",
+            "img": "<a href=\"imagenes\/36\/LCM525.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM525.jpg\"\/><\/a>",
+            "num": "FSH04649",
+            "capacidad": 20000,
+            "direccion": "Tensión, Compresión",
+            "tipo": "En línea roscada",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LAU200",
+            "img": "<a href=\"imagenes\/36\/LAU200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LAU200.jpg\"\/><\/a>",
+            "num": "FSH04656",
+            "capacidad": 25,
+            "direccion": "Compresión",
+            "tipo": "Tipo pedal",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04662",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04665",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04667",
+            "capacidad": 20000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04670",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04671",
+            "capacidad": 20000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04672",
+            "capacidad": 30000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04673",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04674",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04676",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04677",
+            "capacidad": 3000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04678",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04679",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04680",
+            "capacidad": 15000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04681",
+            "capacidad": 30000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04682",
+            "capacidad": 50000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04684",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04687",
+            "capacidad": 20000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04688",
+            "capacidad": 30000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH500",
+            "img": "<a href=\"imagenes\/36\/LTH500.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH500.jpg\"\/><\/a>",
+            "num": "FSH04690",
+            "capacidad": 5000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH400",
+            "img": "<a href=\"imagenes\/36\/LTH400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH400.jpg\"\/><\/a>",
+            "num": "FSH04768",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH400",
+            "img": "<a href=\"imagenes\/36\/LTH400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH400.jpg\"\/><\/a>",
+            "num": "FSH04769",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LTH400",
+            "img": "<a href=\"imagenes\/36\/LTH400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH400.jpg\"\/><\/a>",
+            "num": "FSH04770",
+            "capacidad": 10000,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LCM100",
+            "img": "<a href=\"imagenes\/36\/LCM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LCM100.jpg\"\/><\/a>",
+            "num": "FSH04800",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro miniatura en línea roscada",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "FSH04821",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LTH300",
+            "img": "<a href=\"imagenes\/36\/LTH300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LTH300.jpg\"\/><\/a>",
+            "num": "FSH04828",
+            "capacidad": 500,
+            "direccion": "Compresión",
+            "tipo": "Dona",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "MBA400",
+            "img": "<a href=\"imagenes\/36\/MBA400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/MBA400.jpg\"\/><\/a>",
+            "num": "QSH00067",
+            "capacidad": 200,
+            "direccion": "Biaxial",
+            "tipo": "Sensor biaxial",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "MBA400",
+            "img": "<a href=\"imagenes\/36\/MBA400.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/MBA400.jpg\"\/><\/a>",
+            "num": "QSH01617",
+            "capacidad": 50,
+            "direccion": "Biaxial",
+            "tipo": "Sensor biaxial",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "QSH01845",
+            "capacidad": 1000,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "QSH01851",
+            "capacidad": 500,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "QSH01938",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "QSH01984",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "QSH01998",
+            "capacidad": 0.55,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "QSH01999",
+            "capacidad": 1,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "QSH02000",
+            "capacidad": 2,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "QSH02001",
+            "capacidad": 5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "QSH02002",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable, Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "QSH02003",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "QSH02004",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB205",
+            "img": "<a href=\"imagenes\/36\/LSB205.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB205.jpg\"\/><\/a>",
+            "num": "QSH02005",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "QSH02028",
+            "capacidad": 0.55,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "QSH02030",
+            "capacidad": 2,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "QSH02033",
+            "capacidad": 25,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "QSH02061",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable, Conector"
+        },
+        {
+            "familia": "LLB130",
+            "img": "<a href=\"imagenes\/36\/LLB130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB130.jpg\"\/><\/a>",
+            "num": "QSH02098",
+            "capacidad": 10,
+            "direccion": "Compresión",
+            "tipo": "Botón subminiatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB130",
+            "img": "<a href=\"imagenes\/36\/LLB130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB130.jpg\"\/><\/a>",
+            "num": "QSH02101",
+            "capacidad": 50,
+            "direccion": "Compresión",
+            "tipo": "Botón subminiatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB130",
+            "img": "<a href=\"imagenes\/36\/LLB130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB130.jpg\"\/><\/a>",
+            "num": "QSH02135",
+            "capacidad": 25,
+            "direccion": "Compresión",
+            "tipo": "Botón subminiatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSM100",
+            "img": "<a href=\"imagenes\/36\/LSM100.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSM100.jpg\"\/><\/a>",
+            "num": "QSH02138",
+            "capacidad": 1,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Micro paralelogramo",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "QSH02168",
+            "capacidad": 5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Conector"
+        },
+        {
+            "familia": "LLB250",
+            "img": "<a href=\"imagenes\/36\/LLB250.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB250.jpg\"\/><\/a>",
+            "num": "QSH02176",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB130",
+            "img": "<a href=\"imagenes\/36\/LLB130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB130.jpg\"\/><\/a>",
+            "num": "QSH02193",
+            "capacidad": 10,
+            "direccion": "Compresión",
+            "tipo": "Botón subminiatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB130",
+            "img": "<a href=\"imagenes\/36\/LLB130.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB130.jpg\"\/><\/a>",
+            "num": "QSH02199",
+            "capacidad": 25,
+            "direccion": "Compresión",
+            "tipo": "Botón subminiatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB300",
+            "img": "<a href=\"imagenes\/36\/LLB300.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB300.jpg\"\/><\/a>",
+            "num": "QSH02201",
+            "capacidad": 100,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "QSH02202",
+            "capacidad": 50,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable, Conector"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "QSH02203",
+            "capacidad": 10,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable, Conector"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "QSH02204",
+            "capacidad": 5,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LLB250",
+            "img": "<a href=\"imagenes\/36\/LLB250.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LLB250.jpg\"\/><\/a>",
+            "num": "QSH02221",
+            "capacidad": 250,
+            "direccion": "Compresión",
+            "tipo": "Botón miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB201",
+            "img": "<a href=\"imagenes\/36\/LSB201.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB201.jpg\"\/><\/a>",
+            "num": "QSH02270",
+            "capacidad": 100,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "QSH02340",
+            "capacidad": 0.55,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        },
+        {
+            "familia": "LSB200",
+            "img": "<a href=\"imagenes\/36\/LSB200.jpg\" target=\"_blank\">\n              <img class=\"celda-img\" src=\"imagenes\/36\/LSB200.jpg\"\/><\/a>",
+            "num": "QSH02341",
+            "capacidad": 0.11,
+            "direccion": "Tensión, Compresión",
+            "tipo": "Tipo S Miniatura",
+            "conexion": "Cable"
+        }
+    ]
+}

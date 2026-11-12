@@ -1,0 +1,7 @@
+RewriteEngine Off
+
+AuthType Basic
+AuthName "Herramientas Logicbus"
+AuthUserFile "/home3/logicbus/public_html/logicbus-com-mx/herramientas/.htpasswd"
+Require valid-user
+Options -Indexes

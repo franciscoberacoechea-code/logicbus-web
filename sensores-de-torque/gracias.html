@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Logicbus | Celdas de Carga</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  
+    <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="js/jquery.bxslider/jquery.bxslider.css" />
+  <link rel="stylesheet" href="js/jquery.owl-carousel/owl.carousel.css">
+  <link rel="stylesheet" href="js/jquery.owl-carousel/owl.theme.css">
+  <link rel="stylesheet" href="js/jquery.fancybox/jquery.fancybox.css" />
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/custom.css">
+  <link rel="stylesheet" href="css/easy-responsive-tabs.css" />
+  <link rel="stylesheet" type="text/css" href="css/flaticon.css">
+
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  
+  <!-- Scripts
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="js/jquery.bxslider/jquery.bxslider.min.js"></script>
+  <script src="js/jquery.owl-carousel/owl.carousel.js"></script>
+  <script src="js/jquery.fancybox/jquery.fancybox.pack.js"></script>
+  <script src="js/master.js"></script>
+  <script src="js/easyResponsiveTabs.js"></script>
+
+  
+ <script>
+	$(function() {
+	  $('.menu a[href*=#]:not([href=#])').click(function() {
+	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	      if (target.length) {
+	        $('html,body').animate({
+	          scrollTop: target.offset().top-60
+	        }, 1000);
+	        return false;
+	      }
+	    }
+	  });
+	});
+	</script>
+
+	<script>
+		(function ($) {
+    "use strict";
+
+    var menuPosition = function () {
+        var nav = $("#nav"),
+            height = nav.height(),
+            windowHeight = $(window).height();
+
+        if ($(window).scrollTop() > (windowHeight - height)) {
+            nav.addClass('sticky');
+        } else {
+            nav.removeClass('sticky');
+        }
+    };
+
+    menuPosition();
+    $(document).scroll(menuPosition);
+	}(jQuery));
+		</script>
+	
+	    <script>
+	function myFunction() {
+	    document.getElementById("phone").innerHTML = "<i class='fa fa-phone'></i> <a href='tel:+523338234349(Teléfono oculto)'>52(33)-3823-434</a>";
+	}
+		
+	</script>
+</head>
+<body>
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<!-- Logo y botones de telefono-->
+	<div class="section header blanco">
+		<div class="container">
+			<div class="row">
+				<div class="twelve columns">
+					<div class="logo">
+						<a href="#" target="_blank">
+							<img src="img/logo.png" class="u-max-full-width" /> 
+						</a>
+					</div>
+
+					<div class="info no-mobile">
+						<span id="phone" onclick="myFunction()"><i class="fa fa-phone"></i> Llámanos ›</span>
+						<a href='https://api.whatsapp.com/send?phone=+525554316718' target="_blank"><span><i class="fa fa-whatsapp"></i> Whatsapp ›</span></a>					
+ 					
+					</div>
+					
+					<!--<div class="info mobile">
+						<span id="phone"><i class="fa fa-phone"></i> <a href='tel:00000(Teléfono en móvil)'>00000(Teléfono en móvil)</a></span>
+						<a href='https://api.whatsapp.com/send?phone=521(número de whatsapp)' target="_blank"><span><i class="fa fa-whatsapp"></i> Whatsapp ›</span></a>					
+ 					
+					</div>-->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Fin Logo y botones de telefono-->
+	
+
+		<!-- Frase banner y forma de contacto -->
+	<div class="section banner remove-top remove-bottom" style="height: 429px;">
+		<div class="container">
+			<div class="row">
+				<div class="eight columns">
+					<h1>Gracias. Tu información ha sido enviada</h1>
+					<a class="button button2" style="margin: auto; display: block; width: 25%;" href="/">Regresar ></a></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Fin Frase banner y forma de contacto -->
+	<!-- 1 frase -->
+	<div class="section bg blue2 remove-top remove-bottom">
+		<div class="container">
+			<div class="row">
+				<div class="ten offset-by-one columns" align="center">
+					<h2>">¡Te conseguimos la pieza que necesites de Futek!<br/>
+					Te ayudamos a encontrar el equipo adecuado para tu aplicación o proyecto.</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Fin 1 frase -->	
+<!--porque--->
+<div class="section bg remove-top remove-bottom" id="porque">
+		<div class="container">
+			<div class="row add-bottom">
+				<div class="ten offset-by-one columns" align="center">
+					<h1 class="blue">¿Por qué Logicbus?</h1>
+					<hr class="style-one">
+				</div>
+			</div>
+			<div class="row">
+				<div class="two columns" align="center">
+					<img src="img/l-1.png" class="u-max-full-width add-bottom" style="height: 120px;">
+					<p>Garantía</p>
+				</div>
+				<div class="two columns" align="center">
+					<img src="img/l-2.png" class="u-max-full-width add-bottom" style="height: 120px;">
+					<p>Soporte</p>
+				</div>
+				<div class="two columns" align="center">
+					<img src="img/l-3.png" class="u-max-full-width add-bottom" style="height: 120px;">
+					<p>Atención</p>
+				</div>
+				<div class="two columns" align="center">
+					<img src="img/l-4.png" class="u-max-full-width add-bottom" style="height: 120px;">
+					<p>Calidad Industrial</p>
+				</div>
+				<div class="two columns" align="center">
+					<img src="img/l-5.png" class="u-max-full-width add-bottom" style="height: 120px;">
+					<p>Capacitación</p>
+				</div>
+				<div class="two columns" align="center">
+					<img src="img/l-6.png" class="u-max-full-width add-bottom" style="height: 120px;">
+					<p>Envíos a nivel mundial</p>
+				</div>
+			</div>
+			</div> 
+		</div>
+<!-- fin porque-->	
+		<div class="section footer bg gray remove-top" >
+		<div class="container">
+			<div class="row">
+				<div class="six columns" align="center">
+					<p>Logicubus | Celdas de carga</p>
+				</div>
+				<div class="six columns" align="center">
+					® Derechos Reservados<br /> 
+					<a href="#privacidad" class="fancybox" style="color:#fff;">Políticas de Privacidad</a>
+				</div>
+			</div>
+		</div>
+	</div> 
+	<!-- Fin Footer-->
+	
+<!-- Area de objetos escondidos para Ventanas Pop Ups-->	
+<div style="display: none;">
+	<div id="privacidad">
+		<h3>Aviso de Privacidad</h3>
+		<p>Su información personal será utilizada para proveer servicios y productos requeridos, informarle sobre nuevos productos, servicios o cambios en los mismos, mensajes promocionales y evaluar la calidad del servicio que le brindamos. Para las finalidades antes mencionadas, requerimos obtener los siguientes datos personales: Nombre, Apellidos, Teléfono, Correo electrónico; sin que ninguna de esta información sea considerada como Datos Sensibles en los términos señalados en la Fracción VI del Artículo 2do. De la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.</p>
+
+		<p>Usted tiene derecho de acceder, rectificar y cancelar sus datos personales, así como de oponerse al tratamiento de los mismos o revocar el consentimiento que para tal fin nos haya otorgado, a través de los procedimientos que hemos implementado.</p>
+
+		<p>Consiento y autorizo que mis datos personales sean tratados conforme a lo previsto en el presente aviso de privacidad.</p>
+	</div>

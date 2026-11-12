@@ -1,0 +1,95 @@
+/*
+estilos de la pagina de el multimetro  funcion hecha por Osvaldo Emmanuel Herrera Villa
+*/
+body{
+    overflow-x: hidden;
+  }
+  .sticky-top{
+    top: 20vh !important;
+    z-index: 9 !important;
+  }
+  .thead-dark th{
+    background-color: var(--blueS) !important;
+  }
+  html {
+    scroll-behavior: smooth;
+}
+.slideClicker-container {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    max-width: 100%;
+    z-index: 1;
+
+}
+.slideClicker {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+
+    transition: 0.3s ease, opacity 0.3s ease, translateX 0.3s ease;
+    opacity: 0;
+    z-index: -1;
+}
+.slideClicker.active {
+    position:relative;
+    opacity: 1;
+    z-index: 1;
+}
+.image-container {
+    position: relative;
+    width: 350px;
+    height: 350px;
+    right: 34px;
+    cursor: pointer;
+    overflow-x: hidden;
+}
+.image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.3s ease;
+}
+.rotating-image {
+    z-index: 2;
+}
+.static-image {
+    z-index: 1;
+}
+
+#nextcategoria{overflow-x: hidden !important;
+}
+
+
+.globe-message {
+    position:absolute;
+    background-color: #ff5100;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transform:  translatex(73.2%) translateY(50px);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    white-space: nowrap;
+    z-index: 100;
+    text-align: center;
+    font-size: 16px;
+}
+
+.globe-message::after {
+    content: '';
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white transparent transparent transparent;
+    
+}
+
+.globe-message.visible {
+    opacity: 1;
+}

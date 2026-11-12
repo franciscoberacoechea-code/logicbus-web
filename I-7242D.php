@@ -1,14 +1,12 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <?
 include("libreria/libreria.php");
 $actual_link = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
 ?>
-
-
-<html lang="es" >
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <link rel = "alternate" href = "https://www.logicbus.com.mx/" hreflang = "es" />
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-31533636-1"></script>
 <script>
 window.dataLayer = window.dataLayer || [];
@@ -42,12 +40,14 @@ gtag('config', 'AW-1007518778');
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link rel="shortcut icon" href="images/favicon.ico">
 <link href="libreria/diagramas.css" rel="stylesheet" >
+<link rel="canonical" href="https://www.logicbus.com.mx/I-7242d" />
 <!--- Estilos Necesarios-->
 <link rel="stylesheet" type="text/css" href="libreria/estilos.css">
 <link rel="stylesheet" type="text/css" href="libreria/subcategorias.css">
 <link rel="stylesheet" type="text/css" href="libreria/menu-categorias.css">
 <link rel="stylesheet" type="text/css" href="libreria/menu-movil.css">
 <link rel="stylesheet" type="text/css" href="libreria/marcas.css">
+
 <!--------------->
 <link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="libreria/ie-emulation-modes-warning.js"></script>
@@ -95,7 +95,7 @@ ul{
     <td><a href="productos">Productos</a> -&gt; <a href="convertidores_protocolos">Convertidores de protocolos</a> -&gt; <a href="din5">Convertidores CAN</a>-&gt;I-7242D</td>
   </tr>
     <tr align="center">
-      <td valign="top"><h1><br>I-7242D<br></h1></td>
+      <td valign="top"><h2>I-7242D<br></h2></td>
     </tr>
     <tr>
       <td align="left" valign="top"></tr>
@@ -103,7 +103,7 @@ ul{
       <td height="240" valign="top"><div align="center"><img src="https://www.logicbus.com.mx/imagenes/02/i-7242d.jpg" alt="I-7242D" border="0" align="top"></div></td>
     </tr>
   <tr>
-      <td valign="top"><div align="right"><a href="#"><img title="Ir a tienda"  src="images/shopping_cart.png" border=0 onClick="atienda()" alt="Comprar"></a></div></td>
+      <td valign="top"><div align="right"><a href="#"><img title="Ir a tienda"  src="images/shopping_cart.png" border=0 onClick="atienda()"></a></div></td>
     </tr> 
   <tr>
     <td>Equipo de enlace entre una red DeviceNet y una Modbus RTU. El I-7242D es uno de los m&aacute;s modernos dispositivos del bus CAN. El dispositivo permite que un maestro colocado en una red DeviceNet pueda dialogar con esclavos en una red Modbus RTU. Es un dispositivo solo esclavo Grupo 2 y soporte &quot;Set de conexiones predefinidas Maestro/Esclavo&quot;. Es un convertidor de protocolos operando de manera transparente para el usuario. Adem&aacute;s, Logicbus provee el software para que el usuario pueda configurar los par&aacute;metros del I-7242D y construir su archivo EDS. Los usuarios podr&aacute;n f&aacute;cilmente integrar dispositivos Modbus RTU en aplicaciones DeviceNet con el I-7242D.</td>
@@ -182,7 +182,7 @@ ul{
         <div align="justify">
         <strong>Uso:</strong><br><br>
       Los pasos sencillos para utilizar la utiler&iacute;a DNS_MRU est&aacute;n descritos a continuaci&oacute;n:
-      <br><br><img src="https://www.logicbus.com.mx/imagenes/02/i-7242d_uso.jpg" alt="i-7242d">
+      <br><br><img src="https://www.logicbus.com.mx/imagenes/02/i-7242d_uso.jpg">
 <!--      <ol type="1">
         <li>Seleccionar los dispositivos Modbus RTU</li>
         <li>Configurar los dispositivos Modbus RTU con la utiler&iacute;a DNS_MRU</li>

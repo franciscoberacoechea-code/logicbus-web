@@ -197,7 +197,7 @@ $actual_link = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'];
     <?php echo $flickity_css; ?>
 
     <link rel="stylesheet" href="libreria/css/style.css">
-    <link rel="stylesheet" href="libreria/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="libreria/font-awesome-4.0.3/css/font-awesome.min.css">
 
     <?php echo $google_analytics; ?>
     <?php echo $var_headers; ?>
@@ -1797,7 +1797,6 @@ $actual_link = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'];
     <!--End of Tawk.to Script-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript">
     </script>
-    <script type="text/javascript" src="libreria/marcas_carousel/scripts.js"></script>
 </body>
 <?php echo $var_footer; ?>
 

@@ -201,7 +201,7 @@ include("libreria/libreria.php");
     <!-- Aplicaciones -->
     <h2 class="section-title bg-transparent text-center mb-5 text-lb-primary" id="aplicaciones">Aplicaciones</h2>
     <div class="container mb-5 text-center">
-        <a href="https://tienda.logicbus.com.mx/MadgeTech_bymfg_15-0-1.html" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.logicbus.com.mx/blog/tag/madgetech/" target="_blank" rel="noopener noreferrer">
             <img loading="lazy" src="images/app/madgetech-Banner-aplicaciones.webp" class="img-fluid rounded shadow-sm border w-100" alt="Aplicaciones de MadgeTech" style="max-width: 900px;">
         </a>
     </div>

@@ -1,6 +1,8 @@
 <?php
 
-define('RUTA', 'https://www.logicbus.com.mx/');
+if (!defined('RUTA')) {
+    define('RUTA', 'https://www.logicbus.com.mx/');
+}
 
 
 $favicon = '<link rel="shortcut icon" href="' . RUTA . 'images/favicon.ico">';
@@ -62,12 +64,10 @@ $var_headers = "
 		})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 	</script>
 	
-		<!-- Rastrear clics en enlaces a archivos PDF con Google Analytics-->
-
-	</script>
+	<!-- Rastrear clics en enlaces a archivos PDF con Google Analytics-->
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-    document.querySelectorAll('a[href$='.pdf']').forEach(function (link) {
+    document.querySelectorAll(\"a[href$='.pdf']\").forEach(function (link) {
         link.addEventListener('click', function () {
             gtag('event', 'descarga_pdf', { 'file_name': link.href });
         });

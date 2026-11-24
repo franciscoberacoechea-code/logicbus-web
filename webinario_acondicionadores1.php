@@ -81,7 +81,7 @@ Si, no cotizacion se muestra el formulario con el campo de cotizacion.
 $formulario=false;
 
 
-$formulario=$_POST['formulario'];
+$formulario=$_POST['formulario'] ?? '';
 
 
 /*Esta seciion se ejecutara una vez que se haya enviado el formulario para poder enviar el correo*/
@@ -163,9 +163,9 @@ if(mail($correo_a_enviar,$asunto,$body,$cabeceras))
 }
 else
 {
-   $nombre=$_GET['name'];
+   $nombre=$_GET['name'] ?? '';
    $correo=$_GET['email'];
-   $password=$_GET['pass'];
+   $password=$_GET['pass'] ?? '';
    if($nombre!="" && $correo!="" && $password!="")
    {
        $body='Nombre : '.$nombre."\r\n".
@@ -212,21 +212,21 @@ else
 <br/>
 Favor de confirmar su nombre
 <br/>
-<input type="text" name="nombre" size="35" style="border-radius: 10px 10px 10px 10px;" editcheck="req=Y=Por favor ingresa tu Nombre.;type=ALPHANUM" value="<?php echo $_GET['name']; ?>"></input>
+<input type="text" name="nombre" size="35" style="border-radius: 10px 10px 10px 10px;" editcheck="req=Y=Por favor ingresa tu Nombre.;type=ALPHANUM" value="<?php echo $_GET['name'] ?? ''; ?>"></input>
 <br/>
 <br/>
 <b>Correo Eléctronico *</b>
 <br/>
 Favor de confirmar su direcion de correo
 <br/>
-<input type="text" name="correo" size="35" style="border-radius: 10px 10px 10px 10px;" editcheck="req=Y=Por favor ingresa tu correo.;type=EMAIL" value="<?php echo $_GET['email']; ?>"></input>
+<input type="text" name="correo" size="35" style="border-radius: 10px 10px 10px 10px;" editcheck="req=Y=Por favor ingresa tu correo.;type=EMAIL" value="<?php echo $_GET['email'] ?? ''; ?>"></input>
 <br/>
 <br/>
 <b>Password *</b>
 <br/>
 Digite el password que le fue proporcionado en la confirmación de su inscripción, en caso de no contar con el, favor de solicitarlo en nuestro chat en linea en la esquina inferior derecha.
 <br/>
-<input type="text" name="password" size="35" style="border-radius: 10px 10px 10px 10px;" editcheck="req=Y=Por favor ingresa el password.;type=ALPHANUM" value="<?php echo $_GET['pass']; ?>"></input>
+<input type="text" name="password" size="35" style="border-radius: 10px 10px 10px 10px;" editcheck="req=Y=Por favor ingresa el password.;type=ALPHANUM" value="<?php echo $_GET['pass'] ?? ''; ?>"></input>
 <br/>
 <br/>
 <br/>

@@ -56,7 +56,7 @@ Si, no cotizacion se muestra el formulario con el campo de cotizacion.
 $formulario=false;
 
 
-$formulario=$_POST['formulario'];
+$formulario=$_POST['formulario'] ?? '';
 
 
 /*Esta seciion se ejecutara una vez que se haya enviado el formulario para poder enviar el correo*/

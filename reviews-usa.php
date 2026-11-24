@@ -21,8 +21,8 @@ $language = ''; // Cambia 'es' al código de idioma que desees, por ejemplo, 'en
 
 $places =  obtenerTodasReseñasGoogle($place_id, $api_key, $language);
 
-$resenas = $places['result']['reviews'];
-$rating = $places['result']['rating'];
+$resenas = $places['result']['reviews'] ?? [];
+$rating = $places['result']['rating'] ?? 0;
 /**fin reseñas google */
 ?>
 <!DOCTYPE html>
@@ -53,13 +53,15 @@ $rating = $places['result']['rating'];
                     <h2 class="subtitle blue">Our Google reviews</h2>
                     <p class="paragraph gray">
                         <?php
-                        for ($i = 1; $i <= $rating; $i++) {
-                            echo "<i class='fas fa-star fa-sm text-warning'></i>";
+                        if ($rating > 0) {
+                            for ($i = 1; $i <= $rating; $i++) {
+                                echo "<i class='fas fa-star fa-sm text-warning'></i>";
+                            }
+                            if (!is_int($rating)) {
+                                echo "<i class='fas fa-star-half fa-sm text-warning'></i>";
+                            }
+                            echo " " . $rating;
                         }
-                        if (!is_int($rating)) {
-                            echo "<i class='fas fa-star-half fa-sm text-warning'></i>";
-                        }
-                        echo " " . $rating;
                         ?>
                     </p>
                 </div>
@@ -70,12 +72,12 @@ $rating = $places['result']['rating'];
             <div class="carousel text-center" data-flickity='{ "wrapAround": true, "prevNextButtons": false }'>
                 <?php
                 foreach ($resenas as $resena) {
-                    $autor = $resena['author_name'];
-                    $autor_url = $resena['author_url']; // URL del perfil de Google del autor
-                    $profile_photo_url = $resena['profile_photo_url'];
-                    $puntuacion = $resena['rating'];
-                    $time = $resena['relative_time_description'];
-                    $comentario = $resena['text'];
+                    $autor = $resena['author_name'] ?? '';
+                    $autor_url = $resena['author_url'] ?? ''; // URL del perfil de Google del autor
+                    $profile_photo_url = $resena['profile_photo_url'] ?? '';
+                    $puntuacion = $resena['rating'] ?? 0;
+                    $time = $resena['relative_time_description'] ?? '';
+                    $comentario = $resena['text'] ?? '';
 
                     if ($puntuacion > 3) {
                         echo "<div class='carousel-cell col-md-4 col-10 mb-5 mb-md-0'>

@@ -1,5 +1,6 @@
 <?php
 require("admin/config.php");
+include("libreria/libreria.php");
 ?>
 
 <!DOCTYPE html>
@@ -16,9 +17,14 @@ require("admin/config.php");
         content="Logicbus, Mexico, Guadalajara, Brainchild, Registradores sin papel, DAQ, Adquisicion de datos, Automatizacion industrial, Graficadores">
 
     <!--- Estilos Necesarios-->
-    <?php echo $favicon; ?>
-    <?php echo $css_bundle; ?>
-    <?php echo $estilos; ?> <!-- CSS General con las clases Shift4Shop -->
+    <?php echo isset($favicon) ? $favicon : ''; ?>
+    <?php echo isset($boostrap_css) ? $boostrap_css : '<link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">'; ?>
+    <?php echo isset($own_file_css) ? $own_file_css : '<link rel="stylesheet" type="text/css" href="libreria/estilos.css">'; ?>
+    <?php echo isset($subcategorias) ? $subcategorias : ''; ?>
+    <?php echo isset($menu) ? $menu : ''; ?>
+    <?php echo isset($estilos) ? $estilos : ''; ?>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <?php echo isset($footer_css) ? $footer_css : ''; ?>
 
     <!-- CSS ESPECÍFICO DE ESTA PÁGINA -->
     <style>
@@ -281,11 +287,11 @@ require("admin/config.php");
 
     <script>
         // JAVASCRIPT PARA CARGAR EL VIDEO DE YOUTUBE AL HACER CLIC
-        document.addEventListener('DOMContentLoaded', function () {
+        document.addEventListener('DOMContentLoaded', function() {
             var videoContainers = document.querySelectorAll('.video-container');
 
-            videoContainers.forEach(function (container) {
-                container.addEventListener('click', function () {
+            videoContainers.forEach(function(container) {
+                container.addEventListener('click', function() {
                     var videoId = this.dataset.videoId;
 
                     var iframe = document.createElement('iframe');

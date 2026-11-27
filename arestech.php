@@ -22,9 +22,14 @@ include("libreria/libreria.php");
         gtag('config', 'AW-1007518778'); 
     </script>
 
-    <?php echo $favicon; ?>
-    <?php echo $css_bundle; ?>
-    <?php echo $estilos; ?> <!-- Tu CSS General con el Sistema de Diseño -->
+<?php echo isset($favicon) ? $favicon : ''; ?>
+    <?php echo isset($boostrap_css) ? $boostrap_css : '<link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">'; ?>
+    <?php echo isset($own_file_css) ? $own_file_css : '<link rel="stylesheet" type="text/css" href="libreria/estilos.css">'; ?>
+    <?php echo isset($subcategorias) ? $subcategorias : ''; ?>
+    <?php echo isset($menu) ? $menu : ''; ?>
+    <?php echo isset($estilos) ? $estilos : ''; ?>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <?php echo isset($footer_css) ? $footer_css : ''; ?>
 
     <!-- CSS ESPECÍFICO DE ESTA PÁGINA -->
     <style>
@@ -151,7 +156,6 @@ include("libreria/libreria.php");
 
     <!-- PIE DE PAGINA -->
     <?php require("libreria/footer.view.php"); ?>
-    <!-- Orden correcto de scripts para evitar errores con Bootstrap y el icono de WhatsApp -->
     <?php echo $jquery_js; ?>
     <?php echo $popper_js; ?>
     <?php echo $bootstrap_js; ?>

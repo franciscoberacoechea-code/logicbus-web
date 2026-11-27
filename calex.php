@@ -15,10 +15,14 @@ include("libreria/libreria.php");
     <meta name="keywords" content="Logicbus, Mexico, Guadalajara, Sensor de Temperatura de tipo Infrarrojos, Calex, PYROBUS, PYROCOUPLE, PYROEPSILON, PYROUSB, PyroMini 2.2, PYROPEN, EXTEMP, Infrarrojos">
 
     <!--- Estilos Necesarios-->
-    <?php echo $css_bundle; ?>
-    <?php echo $google_analytics; ?>
-    <?php echo $var_headers; ?>
-    <?php echo $estilos; ?> <!-- CSS General con las clases Shift4Shop -->
+    <?php echo isset($favicon) ? $favicon : ''; ?>
+    <?php echo isset($boostrap_css) ? $boostrap_css : '<link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">'; ?>
+    <?php echo isset($own_file_css) ? $own_file_css : '<link rel="stylesheet" type="text/css" href="libreria/estilos.css">'; ?>
+    <?php echo isset($subcategorias) ? $subcategorias : ''; ?>
+    <?php echo isset($menu) ? $menu : ''; ?>
+    <?php echo isset($estilos) ? $estilos : ''; ?>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <?php echo isset($footer_css) ? $footer_css : ''; ?>
 
     <!-- CSS ESPECÍFICO DE ESTA PÁGINA -->
     <style>
@@ -34,32 +38,37 @@ include("libreria/libreria.php");
             gap: 20px;
             margin-top: 2rem;
         }
+
         .article-card {
             background: #fff;
             border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
             overflow: hidden;
             display: flex;
             flex-direction: column;
             border: 1px solid #eee;
             transition: transform 0.3s ease;
         }
+
         .article-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
         }
+
         .article-card img {
             width: 100%;
             height: 180px;
             object-fit: cover;
             border-bottom: 3px solid var(--lb-accent);
         }
+
         .article-card-body {
             padding: 20px;
             display: flex;
             flex-direction: column;
             flex-grow: 1;
         }
+
         .article-card h3 {
             font-size: 1.1rem;
             color: var(--lb-primary);
@@ -77,20 +86,58 @@ include("libreria/libreria.php");
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
             background-color: #000;
         }
+
         .video-container-youtube img {
-            position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.8; transition: opacity 0.3s ease;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0.8;
+            transition: opacity 0.3s ease;
         }
+
         .video-container-youtube iframe {
-            position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
         }
+
         .video-container-youtube .play-button {
-            position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 60px; height: 60px; background-color: rgba(0, 0, 0, 0.6); border-radius: 50%; transition: all 0.3s ease;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 60px;
+            height: 60px;
+            background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 50%;
+            transition: all 0.3s ease;
         }
+
         .video-container-youtube .play-button::after {
-            content: ''; position: absolute; top: 50%; left: 54%; transform: translate(-50%, -50%); border-style: solid; border-width: 12px 0 12px 20px; border-color: transparent transparent transparent white;
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 54%;
+            transform: translate(-50%, -50%);
+            border-style: solid;
+            border-width: 12px 0 12px 20px;
+            border-color: transparent transparent transparent white;
         }
-        .video-container-youtube:hover img { opacity: 1; }
-        .video-container-youtube:hover .play-button { background-color: var(--lb-accent); transform: translate(-50%, -50%) scale(1.1); }
+
+        .video-container-youtube:hover img {
+            opacity: 1;
+        }
+
+        .video-container-youtube:hover .play-button {
+            background-color: var(--lb-accent);
+            transform: translate(-50%, -50%) scale(1.1);
+        }
     </style>
 </head>
 
@@ -107,8 +154,8 @@ include("libreria/libreria.php");
             </ol>
         </nav>
     </div>
-    
-        <!-- Banner Imagen 100% -->
+
+    <!-- Banner Imagen 100% -->
     <div class="banner-container mb-5">
         <img loading="lazy" src="images/banner/www/PorMarca/BANNER-CALEX-MZ23.webp"
             alt="CALEX" title="CALEX">
@@ -145,7 +192,7 @@ include("libreria/libreria.php");
                 <p class="small text-muted">Sensor infrarrojo intrínsecamente seguro, certificado ATEX e IECEx.</p>
                 <a class="btn-circle mt-auto" href="https://tienda.logicbus.com.mx/ExTemp_c_3054.html" target="_blank">Comprar</a>
             </div>
-            
+
             <div class="product-card">
                 <a href="sensores-temperatura-infrarrojos-fibremini"><img loading="lazy" src="imagenes/productos/transductores-sensores/temperatura/infrarojos/fibremini/fibremini.webp" alt="FIBREMINI"></a>
                 <h4>FIBREMINI</h4>
@@ -386,14 +433,14 @@ include("libreria/libreria.php");
 
     <!-- PIE DE PAGINA -->
     <?php require("libreria/footer.view.php"); ?>
-    
+
     <script>
         // Carga diferida e incrustación de Videos de YouTube
-        document.addEventListener('DOMContentLoaded', function () {
+        document.addEventListener('DOMContentLoaded', function() {
             var videoContainers = document.querySelectorAll('.video-container-youtube');
 
-            videoContainers.forEach(function (container) {
-                container.addEventListener('click', function () {
+            videoContainers.forEach(function(container) {
+                container.addEventListener('click', function() {
                     var videoId = this.dataset.videoId;
                     var iframe = document.createElement('iframe');
                     iframe.setAttribute('src', 'https://www.youtube.com/embed/' + videoId + '?autoplay=1&rel=0');
@@ -407,7 +454,7 @@ include("libreria/libreria.php");
             });
         });
     </script>
-    
+
     <?php echo $jquery_js; ?>
     <?php echo $bootstrap_js; ?>
     <?php echo $popper_js; ?>
@@ -415,4 +462,5 @@ include("libreria/libreria.php");
 </body>
 
 <?php echo $var_footer; ?>
+
 </html>

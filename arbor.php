@@ -1,4 +1,7 @@
-<?php require("admin/config.php"); ?>
+<?php
+require("admin/config.php");
+include("libreria/libreria.php");
+?>
 <!DOCTYPE html>
 <html lang="es">
 
@@ -10,9 +13,14 @@
     <meta name="description"
         content="Arbor Technology es una empresa líder en el desarrollo de soluciones de computación industrial avanzadas. Con una amplia gama de productos innovadores.">
 
-    <?php echo $favicon; ?>
-    <?php echo $css_bundle; ?>
-    <?php echo $estilos; ?> <!-- Tu CSS General con el Sistema de Diseño -->
+    <?php echo isset($favicon) ? $favicon : ''; ?>
+    <?php echo isset($boostrap_css) ? $boostrap_css : '<link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">'; ?>
+    <?php echo isset($own_file_css) ? $own_file_css : '<link rel="stylesheet" type="text/css" href="libreria/estilos.css">'; ?>
+    <?php echo isset($subcategorias) ? $subcategorias : ''; ?>
+    <?php echo isset($menu) ? $menu : ''; ?>
+    <?php echo isset($estilos) ? $estilos : ''; ?>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <?php echo isset($footer_css) ? $footer_css : ''; ?>
 
     <!-- CSS ESPECÍFICO DE ESTA PÁGINA -->
     <style>
@@ -324,39 +332,39 @@
         </a>
     </div>
 
-<div class="container my-5">
-    <h2 class="section-title bg-transparent" id="articulos">Artículos</h2>
+    <div class="container my-5">
+        <h2 class="section-title bg-transparent" id="articulos">Artículos</h2>
 
-    <div class="row justify-content-center">
-        
-        <div class="col-12 col-md-6 col-lg-5 mb-4">
-            <div class="card h-100 shadow-sm border-0">
-                <a href="https://www.logicbus.com.mx/blog/el-poder-de-la-liga-de-ia-de-edge-en-arbor/" target="_blank">
-                    <img loading="lazy" class="card-img-top" src="https://www.logicbus.com.mx/blog/wp-content/uploads/2024/06/El-Poder-de-la-Liga-de-IA-de-Edge-en-ARBOR.webp" alt="El Poder de la Liga de IA de Edge en ARBOR" style="border-bottom: 3px solid var(--lb-accent, #FF7E00); height: 250px; object-fit: cover;">
-                </a>
-                <div class="card-body d-flex flex-column text-center">
-                    <h5 class="card-title font-weight-bold" style="color: var(--lb-primary, #22527A);">El Poder de la Liga de IA de Edge en ARBOR</h5>
-                    <p class="card-text text-muted flex-grow-1">La computadora de IA de borde FPC-521X está disponible para procesadores Intel® Core™ i9, i7, i5 e i3 de 12ª generación, brindando una potencia de procesamiento sin igual.</p>
-                    <a href="https://www.logicbus.com.mx/blog/el-poder-de-la-liga-de-ia-de-edge-en-arbor/" target="_blank" class="btn text-white rounded-pill mt-3" style="background-color: var(--lb-primary, #22527A); align-self: center; padding: 8px 25px;">Leer artículo</a>
+        <div class="row justify-content-center">
+
+            <div class="col-12 col-md-6 col-lg-5 mb-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <a href="https://www.logicbus.com.mx/blog/el-poder-de-la-liga-de-ia-de-edge-en-arbor/" target="_blank">
+                        <img loading="lazy" class="card-img-top" src="https://www.logicbus.com.mx/blog/wp-content/uploads/2024/06/El-Poder-de-la-Liga-de-IA-de-Edge-en-ARBOR.webp" alt="El Poder de la Liga de IA de Edge en ARBOR" style="border-bottom: 3px solid var(--lb-accent, #FF7E00); height: 250px; object-fit: cover;">
+                    </a>
+                    <div class="card-body d-flex flex-column text-center">
+                        <h5 class="card-title font-weight-bold" style="color: var(--lb-primary, #22527A);">El Poder de la Liga de IA de Edge en ARBOR</h5>
+                        <p class="card-text text-muted flex-grow-1">La computadora de IA de borde FPC-521X está disponible para procesadores Intel® Core™ i9, i7, i5 e i3 de 12ª generación, brindando una potencia de procesamiento sin igual.</p>
+                        <a href="https://www.logicbus.com.mx/blog/el-poder-de-la-liga-de-ia-de-edge-en-arbor/" target="_blank" class="btn text-white rounded-pill mt-3" style="background-color: var(--lb-primary, #22527A); align-self: center; padding: 8px 25px;">Leer artículo</a>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <div class="col-12 col-md-6 col-lg-5 mb-4">
-            <div class="card h-100 shadow-sm border-0">
-                <a href="https://www.logicbus.com.mx/blog/revolucionando-la-computacion-en-el-borde-para-aplicaciones-industriales-de-proximo-nivel/" target="_blank">
-                    <img loading="lazy" class="card-img-top" src="https://www.logicbus.com.mx/blog/wp-content/uploads/2024/06/Revolucionando-la-Computacion-en-el-Borde-para-Aplicaciones-Industriales-de-Proximo-Nivel.webp" alt="Revolucionando la Computación en el Borde" style="border-bottom: 3px solid var(--lb-accent, #FF7E00); height: 250px; object-fit: cover;">
-                </a>
-                <div class="card-body d-flex flex-column text-center">
-                    <h5 class="card-title font-weight-bold" style="color: var(--lb-primary, #22527A);">Revolucionando la Computación en el Borde</h5>
-                    <p class="card-text text-muted flex-grow-1">El proveedor global de IoT embebido y socio excepcional en IA, ARBOR Technology, lanza los controladores industriales ARES-1980-AI y ELIT-1060-AI para aplicaciones avanzadas.</p>
-                    <a href="https://www.logicbus.com.mx/blog/revolucionando-la-computacion-en-el-borde-para-aplicaciones-industriales-de-proximo-nivel/" target="_blank" class="btn text-white rounded-pill mt-3" style="background-color: var(--lb-primary, #22527A); align-self: center; padding: 8px 25px;">Leer artículo</a>
+            <div class="col-12 col-md-6 col-lg-5 mb-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <a href="https://www.logicbus.com.mx/blog/revolucionando-la-computacion-en-el-borde-para-aplicaciones-industriales-de-proximo-nivel/" target="_blank">
+                        <img loading="lazy" class="card-img-top" src="https://www.logicbus.com.mx/blog/wp-content/uploads/2024/06/Revolucionando-la-Computacion-en-el-Borde-para-Aplicaciones-Industriales-de-Proximo-Nivel.webp" alt="Revolucionando la Computación en el Borde" style="border-bottom: 3px solid var(--lb-accent, #FF7E00); height: 250px; object-fit: cover;">
+                    </a>
+                    <div class="card-body d-flex flex-column text-center">
+                        <h5 class="card-title font-weight-bold" style="color: var(--lb-primary, #22527A);">Revolucionando la Computación en el Borde</h5>
+                        <p class="card-text text-muted flex-grow-1">El proveedor global de IoT embebido y socio excepcional en IA, ARBOR Technology, lanza los controladores industriales ARES-1980-AI y ELIT-1060-AI para aplicaciones avanzadas.</p>
+                        <a href="https://www.logicbus.com.mx/blog/revolucionando-la-computacion-en-el-borde-para-aplicaciones-industriales-de-proximo-nivel/" target="_blank" class="btn text-white rounded-pill mt-3" style="background-color: var(--lb-primary, #22527A); align-self: center; padding: 8px 25px;">Leer artículo</a>
+                    </div>
                 </div>
             </div>
-        </div>
 
+        </div>
     </div>
-</div>
 
     <h2 class="section-title" id="videos">Videos Destacados</h2>
     <div class="container mb-5 pb-4">
@@ -392,11 +400,11 @@
 
     <script>
         // Carga ligera de Videos de YouTube
-        document.addEventListener('DOMContentLoaded', function () {
+        document.addEventListener('DOMContentLoaded', function() {
             var videoContainers = document.querySelectorAll('.video-container');
 
-            videoContainers.forEach(function (container) {
-                container.addEventListener('click', function () {
+            videoContainers.forEach(function(container) {
+                container.addEventListener('click', function() {
                     var videoId = this.dataset.videoId;
                     var iframe = document.createElement('iframe');
                     iframe.setAttribute('src', 'https://www.youtube.com/embed/' + videoId + '?autoplay=1&rel=0');

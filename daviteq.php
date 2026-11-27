@@ -17,10 +17,16 @@ include("libreria/libreria.php");
     <link rel="preload" as="image" href="https://www.logicbus.com.mx/images/banner/www/PorMarca/DAVITEQ-banner.webp" type="image/webp">
 
     <!--- Estilos Necesarios-->
-    <?php echo $css_bundle; ?>
-    <?php echo $estilos; ?> <!-- CSS General con las clases de la plantilla madre -->
-    <?php echo $google_analytics; ?>
-    <?php echo $var_headers; ?>
+    <?php echo isset($favicon) ? $favicon : ''; ?>
+    <?php echo isset($boostrap_css) ? $boostrap_css : '<link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">'; ?>
+    <?php echo isset($own_file_css) ? $own_file_css : '<link rel="stylesheet" type="text/css" href="libreria/estilos.css">'; ?>
+    <?php echo isset($subcategorias) ? $subcategorias : ''; ?>
+    <?php echo isset($menu) ? $menu : ''; ?>
+    <?php echo isset($estilos) ? $estilos : ''; ?>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <?php echo isset($footer_css) ? $footer_css : ''; ?>
+    <?php echo isset($google_analytics) ? $google_analytics : ''; ?>
+    <?php echo isset($var_headers) ? $var_headers : ''; ?>
 
     <!-- CSS ESPECÍFICO DE ESTA PÁGINA -->
     <style>
@@ -144,8 +150,8 @@ include("libreria/libreria.php");
     <?php require("libreria/footer.view.php"); ?>
     
     <!-- Scripts -->
-    <?php echo $bootstrap_js; ?>
     <?php echo $jquery_js; ?>
+    <?php echo $bootstrap_js; ?>
     <?php echo $own_file_js; ?>
 
 </body>

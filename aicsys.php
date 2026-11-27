@@ -1,9 +1,9 @@
-<?php require("admin/config.php"); ?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <?php
+require("admin/config.php");
 include("libreria/libreria.php");
 ?>
-<html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
@@ -13,17 +13,26 @@ include("libreria/libreria.php");
     <meta name="description" content="Computadoras Industriales Para Montaje en Rack. Fabricación de chasis industriales para computadoras de montaje en Rack y SBC (Single Board Computers)">
     <meta name="keywords" content="IPC para montaje en rack 1U, 2U, 3U y 4U IPC para montaje en pared Chasis industrial con ranuras 5.25”, 3.5” y 2.5” Soporte para tarjetas Mini-ITX y Micro-ATX SBC full-length PICMG o de medio tamaño bus ISA Backplane con slots ISA, PCI y PCIe Line Card Ingles Rack mount and SBC industrial Computers Manufacturing of Industrial Chassis and Specialized Single Board Computers 1U, 2U, 3U & 4U rack mount IPC Wall mount chasis for mini-ITX and Micro-ATX IPC Industrial chasis industrial with 5.25”, 3.5” y 2.5” slots IPC with SBC full-length PICMG or half-length ISA-bus form factor Backplane with ISA, PCI and PCIe slots">
 
-    <?php echo $favicon; ?>
-    <?php echo $css_bundle; ?>
-    <?php echo $google_analytics; ?>
-    <?php echo $var_headers; ?>
-    <?php echo $estilos; ?> 
-    <?php echo $flickity_css; ?> 
+    <?php echo isset($favicon) ? $favicon : ''; ?>
+    <?php echo isset($boostrap_css) ? $boostrap_css : '<link href="libreria/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">'; ?>
+    <?php echo isset($own_file_css) ? $own_file_css : '<link rel="stylesheet" type="text/css" href="libreria/estilos.css">'; ?>
+    <?php echo isset($subcategorias) ? $subcategorias : ''; ?>
+    <?php echo isset($menu) ? $menu : ''; ?>
+    <?php echo isset($estilos) ? $estilos : ''; ?>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <?php echo isset($footer_css) ? $footer_css : ''; ?>
+    <?php echo isset($flickity_css) ? $flickity_css : ''; ?>
 
     <style>
         /* Ocultar barra lateral */
         #leftBar {
             display: none;
+        }
+
+        html {
+            scroll-behavior: smooth;
         }
 
         .simple-carousel {
@@ -39,7 +48,7 @@ include("libreria/libreria.php");
         }
         @media (min-width: 992px) {
             .carousel-cell { width: 33.33%; } 
-        } /* <-- Llave corregida aquí */
+        }
         @media (min-width: 1200px) {
             .carousel-cell { width: 25%; } 
         }
@@ -50,9 +59,9 @@ include("libreria/libreria.php");
     </style>
 </head>
 
-<body>
-    <?php echo $var_body; ?>
-    <?php require("libreria/header.view.php"); ?>
+<body onLoad="if(typeof menu_actual === 'function') menu_actual();">
+    <?php echo isset($var_body) ? $var_body : ''; ?>
+    <?php if (file_exists("libreria/header.view.php")) require("libreria/header.view.php"); ?>
 
     <div class="container mt-4 mb-3">
         <nav aria-label="breadcrumb">
@@ -267,15 +276,25 @@ include("libreria/libreria.php");
                 </iframe>
             </div>
         </div>
-        </div>
+    </div>
 
-    <?php require("libreria/footer.view.php"); ?>
-    <?php echo $jquery_js; ?>
-    <?php echo $bootstrap_js; ?>
-    <?php echo $popper_js; ?>
-    <?php echo $own_file_js; ?>
-    <?php echo $flickity_js; ?> 
+    <!-- Archivos JS y Footer -->
+    <?php echo isset($google_analytics) ? $google_analytics : ''; ?>
+    <?php echo isset($var_headers) ? $var_headers : ''; ?>
+    <?php if (file_exists("libreria/footer.view.php")) require("libreria/footer.view.php"); ?>
 
+    <!-- 1. jQuery -->
+    <?php echo isset($jquery_js) ? $jquery_js : '<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>'; ?>
+
+    <!-- 2. Popper y Bootstrap -->
+    <?php echo isset($popper_js) ? $popper_js : ''; ?>
+    <?php echo isset($bootstrap_js) ? $bootstrap_js : '<script src="libreria/bootstrap/dist/js/bootstrap.bundle.min.js"></script>'; ?>
+
+    <!-- 3. Propios y Flickity -->
+    <?php echo isset($own_file_js) ? $own_file_js : ''; ?>
+    <?php echo isset($flickity_js) ? $flickity_js : ''; ?>
+
+    <?php echo isset($var_footer) ? $var_footer : ''; ?>
 </body>
-<?php echo $var_footer; ?>
+
 </html>
